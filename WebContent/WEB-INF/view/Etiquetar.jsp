@@ -1,16 +1,23 @@
 <%@page import="br.ufpe.logic.analyzers.*"%>
-<%@page import="java.util.List"%>  
+<%@page import="java.util.List"%>
+<%@page import="java.util.ArrayList"%> 
+<%@page import="java.text.DecimalFormat"%>
+<%@page import="java.math.RoundingMode"%>
+<%@page import="org.apache.commons.math3.util.Precision" %>
 <%@page import="javax.servlet.http.HttpServletResponse"%>
+<%@page import="com.entopix.maui.core.*" %>
+<%@page import="com.entopix.maui.utils.*" %>
+<%@page import="com.entopix.maui.util.*" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1"%>
 
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>ESN</title>
-  </head>
-  <body>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<title>ESN</title>
+</head>
+<body>
     <h1>Marca palavras e sintagmas nominais de um texto</h1>
     <form action="Etiquetar" method="POST" >
       <p> Digite ou cole o texto na área abaixo:<br/>
@@ -85,9 +92,41 @@
       <b>Sintagmas nominais relevantes: </b> <%=sns%><br/><br/>
     <%
     }
+    if (texto != null) {
+    	String modelPath = caminho + "\\data\\models\\standard_model";
+        String vocabPath = caminho + "\\data\\vocabulary\\TBCI-SKOS_pt.rdf";
+        Object obj = MauiFileUtils.deserializeObject(modelPath);
+        ModelWrapper model = null;
+        if (obj instanceof ModelWrapper) model = (ModelWrapper) obj;
+        MauiCore.setModel(model);
+        MauiCore.setVocabPath(vocabPath);
+        ArrayList<Topic> topics = MauiCore.runMauiWrapperOnString(texto);
+        Topic t = null;
+        for (int i = 0; i < topics.size(); i++) {
+        	t = topics.get(i);
+        	topics.set(i, new Topic(t.getTitle(),t.getId(), Precision.round(t.getProbability(), 2)));
+        }
+        pageContext.setAttribute("topicsList", topics);
+     	%>
+        <table border="1">
+    	<thead>
+    		<tr>
+    			<th>Palavra-Chave</th>
+    			<th>Probabilidade</th>
+    		</tr>
+    	</thead>
+    	<tbody>
+    		<c:forEach items="${topicsList}" var="t">
+    			<tr>
+    				<td>${t.title}</td>
+    				<td>${t.probability}</td>
+    			</tr>
+    		</c:forEach>
+    	</tbody>
+    	</table>
+        <%
+    }
     %>
-    
-    
     <a href="../esn">Tentar novamente?</a>
-  </body>
+</body>
 </html>
