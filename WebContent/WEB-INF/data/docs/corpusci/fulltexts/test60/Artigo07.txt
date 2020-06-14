@@ -1,0 +1,398 @@
+Inteligência Competitiva em Organizações: dado, informação e conhecimento
+
+
+
+Resumo: O conjunto 'dados, informações e conhecimento' tem sido importante fator de competitividade em diferentes tipos de organizações. Prospectar, filtrar e transferir esse conjunto é essencial para a consolidação do processo de inteligência competitiva organizacional. Através do gerenciamento desses recursos informacionais pode-se subsidiar várias atividades para a melhoria contínua do negócio da organização. O papel do conjunto 'dados, informações e conhecimento' no processo de inteligência competitiva é fundamental para o aumento da produtividade e da qualidade da organização. Estabelecer fluxos formais e informais, bem como mapear e reconhecer os dados, informações e conhecimento estruturados, estruturáveis e não-estruturados para o negócio também são ações que contribuem para o desenvolvimento da inteligência competitiva organizacional.
+
+Palavras chave: Inteligência Competitiva; Gestão do Conhecimento; Gestão da Informação; Fluxos Informacionais; Transferência da Informação
+
+
+
+A sociedade da informação traz paradigmas da economia, como produtividade e qualidade, cria novos caminhos para o desenvolvimento e exige uma nova postura diante das mudanças sociais. Gerar, obter e aplicar conhecimento passa a ser item básico para enfrentar essas mudanças.
+
+O que caracteriza uma sociedade como 'sociedade da informação' basicamente é a economia alicerçada na informação e na telemática, ou seja, informação, comunicação, telecomunicação e tecnologias da informação. A informação, aqui entendida como matéria-prima, como insumo básico do processo, a comunicação/telecomunicação entendida como meio/veículo de disseminação/distribuição e as tecnologias da informação entendidas como infra-estrutura de armazenagem, processamento e acesso.
+
+A sociedade da informação e sua relação com a economia de um país se dão através de uma superestrutura de comunicação, apoiada em tecnologias da informação e, o mais importante, o conhecimento, sua geração, armazenamento e disseminação, ou seja, o que se denomina atualmente de 'nova economia', é a associação da informação ao conhecimento, sua conectividade e apropriação econômica e social. Além disso, exige dos diferentes segmentos econômicos uma mudança significativa no processo produtivo e inovativo.
+
+Os termos 'dado', 'informação' e 'conhecimento', serão conceituados neste momento, uma vez que se confundem pela proximidade do seu significado.
+
+O termo 'dado' aparece muito na literatura da área de Ciência da Informação e de Informática. É definido por Miranda como um conjunto de registros qualitativos ou quantitativos conhecido que organizado, agrupado, categorizado e padronizado adequadamente transforma-se em informação" (1999, p.285).
+
+O termo 'informação' é conceituado por vários autores, entre eles: Wurman entende que esse termo só pode ser aplicado à "aquilo que leva à compreensão (...) O que constitui informação para uma pessoa pode não passar de dados para outra" (1995, p.43). Páez Urdaneta também descreve o conceito de informação como dados ou matéria informacional relacionada ou estruturada de maneira potencialmente significativa (apud Ponjuán Dante, 1998, p.3). Da mesma maneira, Miranda conceitua informação como sendo "dados organizados de modo significativo, sendo subsídio útil à tomada de decisão" (1999, p.285).
+
+McGarry considera que o termo 'informação' possui os seguintes atributos:
+
+* "considerada como um quase sinônimo do termo fato;
+
+* um reforço do que já se conhece;
+
+* a liberdade de escolha ao selecionar uma mensagem;
+
+* a matéria-prima da qual se extrai o conhecimento;
+
+* aquilo que é permutado com o mundo exterior e não apenas recebido passivamente;
+
+* definida em termos de seus efeitos no receptor;
+
+* algo que reduz a incerteza em determinada situação" (1999, p.4).
+
+
+
+Explicam as autoras Lastres e Albagli que
+
+"Informação e conhecimento estão correlacionados mas não são sinônimos. Também é necessário distinguir dois tipos de conhecimentos: os conhecimentos codificáveis - que, transformados em informações, podem ser reproduzidos, estocados, transferidos, adquiridos, comercializados etc. - e os conhecimentos tácitos. Para estes a transformação em sinais ou códigos é extremamente difícil já que sua natureza está associada a processos de aprendizado, totalmente dependentes de contextos e formas de interação sociais específicas" (1999, p.30).
+
+
+
+Miranda também distingue três diferentes tipos de conhecimentos:
+
+* "conhecimento explícito é o conjunto de informações já elicitadas em algum suporte (livros, documento etc.) e que caracteriza o saber disponível sobre tema específico;
+
+* conhecimento tácito é o acúmulo de saber prático sobre um determinado assunto, que agrega convicções, crenças, sentimentos, emoções e outros fatores ligados à experiência e à personalidade de quem detém;
+
+* conhecimento estratégico é a combinação de conhecimento explícito e tácito formado a partir das informações de acompanhamento, agregando-se o conhecimento de especialistas" (1999, p.287).
+
+Davenport e Prusak conceituam dado, informação e conhecimento (Figura 1). Contudo, dão maior ênfase ao termo 'informação': "informação, além do mais, é um termo que envolve todos os três, além de servir como conexão entre os dados brutos e o conhecimento que se pode eventualmente obter" (1998, p.18).
+
+Dados, Informação e Conhecimento
+
+
+
+Dados
+
+Informação
+
+Conhecimento
+
+
+
+Simples observações sobre o estado do mundo
+
+Dados dotados de relevância e propósito
+
+Informação valiosa da mente humana
+
+Inclui reflexão, síntese, contexto
+
+
+
+Facilmente estruturado
+
+Facilmente obtido por máquinas
+
+Freqüentemente quantificado
+
+Facilmente transferível
+
+Requer unidade de análise
+
+Exige consenso em relação ao significado
+
+Exige necessariamente a mediação humana
+
+De difícil estruturação
+
+De difícil captura em máquinas
+
+Freqüentemente tácito
+
+De difícil transferência
+
+
+
+FONTE: Davenport, Prusak - 1998 - p.18
+
+Figura 1
+
+
+
+Os conceitos sobre dados, informação e conhecimento apresentados anteriormente por Davenport e Prusak, serão os adotados neste texto, isto é, para que um dado seja considerado informação, necessariamente requer algum tipo de análise, exige um consenso da área quanto aos termos adotados em relação ao seu significado e, finalizando, deve estar em sintonia com o público a que se destina.
+
+
+
+Informação com Fator de Competitividade Organizacional
+
+As organizações são formadas por três diferentes ambientes: o primeiro está ligado ao próprio organograma, isto é, as inter-relações entre as diferentes unidades de trabalho como diretorias, gerências, divisões, departamentos, setores, seções etc.; o segundo está relacionado a estrutura de recursos humanos, isto é, as relações entre pessoas das diferentes unidades de trabalho e, o terceiro e último, é composto pela estrutura informacional, ou seja, geração de dados, informação e conhecimento pelos dois ambientes anteriores.
+
+A partir do reconhecimento desses três ambientes (Figura 2), pode-se mapear os fluxos informais de informação existentes na organização, assim como pode-se estabelecer fluxos formais de informação para consumo da própria organização.
+
+
+
+
+
+Figura 2
+
+
+
+As pessoas das diferentes unidades de trabalho que compõem uma organização têm necessidade de dados, informação e conhecimento para desenvolverem suas tarefas cotidianas, bem como para traçarem estratégias de atuação. Portanto, dados, informação e conhecimento são insumos básicos para que essas atividades obtenham resultados satisfatórios ou excelentes.
+
+Para gerenciar esses fluxos informacionais, quer formais ou informais, é necessário realizar algumas ações integradas objetivando prospectar, selecionar, filtrar, tratar e disseminar todo o ativo informacional e intelectual da organização, incluindo desde documentos, bancos e bases de dados etc., produzidos interna e externamente à organização até o conhecimento individual dos diferentes atores existentes na organização.
+
+É importante salientar que os fluxos informacionais formais e informais ocorrem tanto no ambiente interno quanto no ambiente externo à organização e as ações integradas mencionadas no parágrafo anterior devem ser realizadas nos dois ambientes. Desta maneira, argumenta-se a importância da organização definir em seu organograma uma unidade de trabalho especificamente voltada a desenvolver ações e atividades à gestão da informação, gestão do conhecimento ou inteligência competitiva na organização.
+
+Os termos 'gestão da informação', 'gestão do conhecimento' e 'inteligência competitiva', serão conceituados neste momento, uma vez que também se confundem pela proximidade do seu significado.
+
+Gestão da informação pode ser definida como todas as ações relacionadas à "obtenção da informação adequada, na forma correta, para a pessoa indicada, a um custo adequado, no tempo oportuno, em lugar apropriado, para tomar a decisão correta" (Woodman apud Ponjuan Dante, 1998, p.135).
+
+Para explicar melhor o conceito de gestão da informação, a autora traz a definição de 'gestão de recursos de informação' como "o processo dentro do segmento da gestão da informação que serve ao interesse corporativo". A GRI persegue associar a informação para benefício da organização em sua totalidade, mediante a exploração, desenvolvimento e otimização dos recursos de informação (Burk e Horton apud Ponjuán Dante, 1998, p.136).
+
+Gestão do conhecimento é um "conjunto de estratégias para criar, adquirir, compartilhar e utilizar ativos de conhecimento, bem como estabelecer fluxos que garantam a informação necessária no tempo e formato adequados, a fim de auxiliar na geração de idéias, solução de problemas e tomada de decisão" (Machado Neto, 1998).
+
+Barroso define gestão do conhecimento como "a arte de criar valor alavancando os ativos intangíveis; para conseguir isso, é preciso ser capaz de visualizar a empresa apenas em termos de conhecimento e fluxos de conhecimento" (1999, p.156).
+
+A gestão do conhecimento "está, dessa maneira, intrinsecamente ligada à capacidade das empresas em utilizarem e combinarem as várias fontes e tipos de conhecimento organizacional para desenvolverem competências específicas e capacidade inovadora..." (Terra, 2000, p.70).
+
+A definição de inteligência competitiva está muito ligada a noção de processo, conforme segue: "objetiva agregar valor à informação, fortalecendo seu caráter estratégico, catalisando, assim, o processo de crescimento organizacional. Nesse sentido, a coleta, tratamento, análise e contextualização de informação permitem a geração de produtos de inteligência, que facilitam e otimizam a tomada de decisão no âmbito tático e estratégico" (Canongia, 1998, p.2-3).
+
+Tyson afirma que inteligência competitiva é "um processo sistemático que transforma bits e partes de informações competitivas em conhecimento estratégico para a tomada de decisão" (apud Costa & Silva, 1999, p.2).
+
+Inteligência competitiva é um "conjunto de capacidades próprias mobilizadas por uma entidade lucrativa, destinadas a assegurar o acesso, capturar, interpretar e preparar conhecimento e informação com alto valor agregado para apoiar a tomada de decisão requerida pelo desenho e execução de sua estratégia competitiva" (Cubillo, 1997, p.261).
+
+Os três termos são muito próximos e relacionados, porquanto a ação de um incide na ação do outro. Existe claramente uma hierarquização entre esses termos, além disso as tecnologias de informação fazem parte desse contexto. "Um sistema de informações pode ser caracterizado como uma tecnologia intelectual porque afeta a organização das funções cognitivas do homem: a coleta, o armazenamento e a análise de informações assim como atividades de previsão, concepção, escolha, decisão" (Petrini, 1998, p.14). Isso pode ser aplicado à gestão da informação, na gestão do conhecimento e à inteligência competitiva.
+
+Desta forma, pretende-se através dos conceitos anteriormente apresentados, estabelecer as relações entre eles e propor uma definição mais integrada dos conceitos (Figura 3):
+
+
+
+Gestão da Informação, Gestão do Conhecimento, Inteligência Competitiva
+
+
+
+Gestão da Informação
+
+Gestão do Conhecimento
+
+Inteligência Competitiva
+
+
+
+Foco: Negócio da Organização
+
+
+
+Foco: Capital Intelectual da Organização
+
+
+
+Foco: Estratégias da Organização
+
+
+
+
+
+Prospecção, seleção e obtenção da informação
+
+Mapeamento e reconhecimento dos fluxos formais de informação
+
+Tratamento, análise e armazenamento da informação utilizando tecnologias de informação
+
+Disseminação e mediação da informação ao público interessado
+
+Criação e disponibilização de produtos e serviços de informação
+
+
+
+Desenvolvimento da cultura organizacional voltada ao conhecimento
+
+Mapeamento e reconhecimento dos fluxos informais de informação
+
+Tratamento, análise e agregação de valor às informações utilizando tecnologias de informação
+
+Transferência do conhecimento ou socialização do conhecimento no ambiente organizacional
+
+Criação e disponibilização de sistemas de informação empresariais de diferentes naturezas
+
+Desenvolvimento da capacidade criativa do capital intelectual da organização
+
+Prospecção, seleção e filtragem de informações estratégicas nos dois fluxos informacionais: formais e informais
+
+Agregação de valor às informações prospectadas, selecionadas e filtradas
+
+Utilização de sistema de informação estratégico voltado à tomada de decisão
+
+Criação e disponibilização de produtos e serviços específicos à tomada de decisão
+
+
+
+
+
+Trabalha essencialmente com os fluxos formais de informação
+
+Trabalha essencialmente com os fluxos informais de informação
+
+Trabalha com os dois fluxos de informação: formais e informais
+
+
+
+
+
+Figura 3
+
+
+
+
+
+A relação entre os três conceitos existe e é natural, uma vez que dados, informação e conhecimento são insumos básicos para os três modelos. O que muda é a complexidade das ações despendidas. A gestão da informação trabalha no âmbito do conhecimento explícito, ou seja, são dados e informações que já estão consolidados em algum tipo de veículo de comunicação, como exemplo pode-se citar desde o livro impresso até a rede Internet.
+
+No caso da gestão do conhecimento, a complexidade está na inserção do conhecimento tácito nesse universo, ou seja, um ou mais indivíduos da organização fornecem suas experiências, crenças, sentimentos, vivências, valores etc.
+
+Finalizando, a inteligência competitiva está ligada ao conceito de processo contínuo, sua maior complexidade está no fato de estabelecer relações e conexões de forma a gerar inteligência para a organização, na medida em que cria estratégias para cenários futuros e possibilita tomadas de decisão de maneira mais segura e assertiva.
+
+
+
+Informação como Insumo Básico para as Atividades da Organização
+
+As organizações produzem e utilizam dados, informações e conhecimento de diferentes naturezas e, utilizam também, dados, informações e conhecimento produzidos externamente à organização que possibilitam um melhor desempenho no mercado em que atuam. Dentre eles pode-se citar:
+
+a) Estratégicos: subsidiam a tomada de decisão da alta administração e possibilitam aos analistas estratégicos definirem para a organização, as diretrizes, as políticas, os programas, as linhas de atuação, as prioridades, os indicadores de desempenho, os planos e planejamentos, ou seja, os cenários futuros, a missão e as metas, a atuação na sociedade e a imagem institucional;
+
+b) Mercado: possibilitam à alta administração, bem como à área comercial perceber oportunidades de negócios tanto no mercado nacional quanto no mercado internacional;
+
+c) Financeiros: viabilizam aos profissionais da área financeira processarem estudos de custos, lucros, riscos e controles;
+
+d) Comerciais: subsidiam a área comercial na exportação e/ou importação de materiais, produtos e serviços, bem como subsidiam a área jurídica em relação à legislação do país no qual estabelece-se a transação comercial;
+
+e) Estatísticos: subsidiam as áreas estratégica, financeira, comercial e de P&D, identificando em termos percentuais e/ou numéricos questões ligadas ao negócio da organização como: índices de exportação, importação, demandas e restrições de mercado, índices econômicos, poder aquisitivo, PIB, índice de desemprego, balança comercial, índices de investimentos etc.;
+
+f) De Gestão: atendem as necessidades dos gerentes e executivos da organização no planejamento e gerenciamento de projetos, no gerenciamento de pessoas e situações diversas;
+
+g) Tecnológicos: subsidiam a área de P&D no desenvolvimento de produtos, materiais e processos tecnológicos, bem como monitoram a concorrência quanto as inovações de produtos, materiais e processos;
+
+h) Gerais: disseminados a todas as áreas da organização, possibilitando aos profissionais uma atualização constante, como por exemplo: notícias, fatos e acontecimentos etc.;
+
+i) Cinzentas: de qualquer natureza, para qualquer área e com qualquer finalidade de uso, que não são detectados em buscas formais de informação, como por exemplo: colégio invisível, memória de pessoas, documentos confidenciais de difícil acesso, corredores informais eletrônicos (Internet), etc.
+
+
+
+As unidades de trabalho que atuam diretamente com a gestão da informação, gestão do conhecimento ou inteligência competitiva, trabalham com essas diferentes naturezas informacionais e as encontram de três formas diferentes (Figura 4):
+
+
+
+Figura 4
+
+
+
+Os dados, informações e conhecimento estruturados são aqueles acessados dentro ou fora da organização e podem ser entendidos como aqueles que compõem bancos e bases de dados internos e externos, redes de comunicação como Internet, intranet's, publicações impressas etc.
+
+Dados, informações e conhecimento estruturáveis basicamente são aqueles produzidos pelos diversos setores da organização, porém sem seleção, tratamento e acesso. Como exemplo pode-se citar: cartões de visita, colégio invisível, nota fiscal, atendimento ao consumidor, entre outros.
+
+Dados, informações e conhecimento não-estruturados são aqueles produzidos externamente à organização, porém sem filtragem e tratamento. Alguns exemplos: informações veiculadas na mídia, mais especificamente TV e rádio, boatos, acontecimentos sociais e políticos.
+
+A inteligência competitiva necessita ter o mapeamento e a prospecção de dados, informações e conhecimento produzidos internamente e externamente à organização, conhecer profundamente as pessoas chave da organização independentemente de cargos, assim como as pessoas estratégicas fora da organização, saber quais setores/instituições participam dos fluxos informacionais, formais e informais, tanto no ambiente interno quanto externo à organização, estar sensíveis as necessidades informacionais dos clientes internos e externos, visando elaborar produtos e serviços informacionais de qualidade e direcioná-los de forma adequada e, finalmente diminuir o stress informacional da organização. Todas essas ações visam, portanto, criar uma cultura informacional/intelectual na organização.
+
+Os dados, informações e conhecimento prospectados sobre empresas, produtos, mercados, materiais, processos, meio ambiente, tecnologia, pessoas, política, economia, finanças, comércio etc., têm a finalidade de dar maior segurança às direções perseguidas pela organização. Agregar valor é fundamental para que o processo de inteligência competitiva da organização, seja efetivo. Por isso, os serviços e produtos devem ser personalizados ao público usuário. Uma outra questão importante para a inteligência competitiva é a validade dos dados, informações e conhecimento, isto é, realmente eles respondem as perguntas críticas do negócio da organização quanto a consistência e confiabilidade, utilidade e obsolescência e, finalmente a confidencialidade exigida.
+
+O processo de inteligência competitiva organizacional deve seguir sete passos para seu funcionamento contínuo. São eles:
+
+1. Identificar os "nichos" de inteligência internos e externos à organização;
+
+2. Prospectar, Acessar e Coletar os dados, informações e conhecimento produzidos internamente e externamente à organização;
+
+3. Selecionar e Filtrar os dados, informações e conhecimento relevantes para as pessoas e para a organização;
+
+4. Tratar e Agregar Valor aos dados, informações e conhecimento mapeados e filtrados, buscando linguagens de interação usuário / sistema;
+
+5. Armazenar através de Tecnologias de Informação os dados, informações e conhecimento tratados, buscando qualidade e segurança;
+
+6. Disseminar e transferir os dados, informações e conhecimento através de serviços e produtos de alto valor agregado para o desenvolvimento competitivo e inteligente das pessoas e da organização;
+
+7. Criar mecanismos de feed-back da geração de novos dados, informações e conhecimento para a retroalimentação do sistema.
+
+
+
+O modelo proposto (Figura 5) mostra de forma geral o processo da inteligência competitiva que a organização deve gerenciar para obter competitividade empresarial. A inteligência competitiva possibilita o desenvolvimento da organização de forma contínua num mercado cada vez mais agressivo.
+
+
+
+Figura 5
+
+Dados, informação e conhecimento, conforme já mencionado anteriormente, são matérias-primas para o processo de inteligência competitiva. Através dela é possível estabelecer uma cultura organizacional baseada em informação e conhecimento, visando maior flexibilidade de atuação no mercado, assim como maior capacidade de criação e geração de tecnologia, ou seja, maior competitividade. Inteligência competitiva será o grande diferencial das organizações para esse novo milênio.
+
+
+
+
+
+Referências Bibliográficas
+
+ALMEIDA, F. C. de. Do saber intelectual ao conhecimento ação. Disponível em: <http://www.hottopos.com/convenit4/fernalme.htm>. Acesso em: 22 de mar. 2001.
+
+BARROSO, A. C. de O., GOMES, E. B. P. "Tentando entender a gestão do conhecimento". Revista de Administração Pública, Rio de Janeiro, v.22, n.2, p.147-70, mar./abr. 1999.
+
+BEUREN, I. M. Gerenciamento da informação: um recurso estratégico no processo de gestão empresarial. São Paulo: Editora Atlas, 1998.
+
+BIO, S. R. Sistemas de informação: um enfoque gerencial. São Paulo: Atlas, 1996. 183p.
+
+BORGES, M. E. N. "A informação como recurso gerencial das organizações na sociedade do conhecimento". Ciência da Informação, Brasília, v.24, n.2, p.181-188, maio/ago. 1995.
+
+________, CARVALHO, N. G. de M. "Produtos e serviços de informação para negócios no Brasil: características". Ciência da Informação, Brasília, v.27, n.1, p.76-81, jan./abr. 1998.
+
+BRAGA, A. "A gestão da informação". Millenium Internet, Viseu, n.19, jun. 2000. Disponível em: <http://www.ipv.pt/millenium/19_arq1.htm>. Acesso em: 15 de mar. 2001.
+
+CANONGIA, C. "Sistema de inteligência: uso da informação para dinamização, inovação e competitividade". In: SIMPÓSIO INTERNACIONAL DE PROPRIEDADE INTELECTUAL, INFORMAÇÃO E ÉTICA, 1, 1998, Florianópolis, Anais eletrônicos... Florianópolis: UFSC, 1998. Disponível em: <http://www.ciberetica.iaccess.com.br/anais/doc/claudiacanongia.doc>. Acesso em: 08 de mar. 2001.
+
+COSTA, M. D., SILVA, I. A. da. "Inteligência competitiva: uma abordagem sobre a coleta de informações publicadas". Informação&Sociedade, João Pessoa, v.9, n.1, 1999. Disponível em: <http://www.informaçãoesociedade.ufpb/919901.html>. Acesso em: 08 de mar. 2001.
+
+COUTINHO, L., FERRAZ, J. C. (Coord.). Estudo da competitividade da indústria brasileira. 3.ed. Campinas: Papirus ; Editora da UNICAMP, 1995. 510p.
+
+CUBILLO, J. "La inteligencia empresarial en las pequeñas y medianas empresas competitivas de América Latina: algunas reflexiones". Ciência da Informação, Brasília, v.26, n.3, p.235-242, set./dez. 1997.
+
+DAVENPORT, T., PRUSAK, L. Conhecimento empresarial. Rio de Janeiro: Campus, 1999. 237p.
+
+________, ________. Ecologia da informação: por que só a tecnologia não basta para o sucesso na era da informação. São Paulo: Futura, 1998. 316p.
+
+DRUCKER, P. "As informações de que os executivos necessitam hoje". In: Administrando tempos de grandes mudanças. São Paulo: Pioneira, 1995. p.75-89
+
+FROTA, M. N., FROTA, M. H. A. Acesso à informação: estratégia para a competitividade. Brasília: CNPq/IBICT, FBB, 1994. 188p.
+
+JANUZZI, C. A. S. C., MONTALLI, K. M. L. "Informação tecnológica e para negócios no Brasil: introdução a uma discussão conceitual". Ciência da Informação, Brasília, v.28, n.1, p.28-36, jan./abr. 1999.
+
+KRUGLIANSKAS, I. Tornando a pequena e média empresa competitiva. São Paulo: IEG, 1996. 152p.
+
+LASTRES, H. M. M., ALBAGLI, S. (Org.). Informação e globalização na era do conhecimento. Rio de Janeiro: Campus, 1999. 318p.
+
+LESCA, H., ALMEIDA, F. C. "Administração estratégica da informação". Revista de Administração, São Paulo, b.29, n.3, p.66-75, jul./set. 1994.
+
+LESCA, H., FREITAS, H. CUNHA JR., M. V. M. da. "Como dar senso útil às informações dispersas e ações dos dirigentes: o problema crucial da inteligência competitiva através da construção de um "PUZZLE" ('quebra-cabeça')(r)". Revista Eletrônica de Administração, Porto Alegre, v.2, n.2, edição n.3. Disponível em: <http://read.adm.ufrgs.br/read03/artigo/freitas.htm>. Acesso em: 14 de mar. 2001.
+
+MACHADO NETO, N. R. "Gestão de conhecimento como diferencial competitivo". SEMINÁRIO GERENCIAMENTO DA INFORMAÇÃO NO SETOR PÚBLICO E PRIVADO, 4, 1998, Brasília. Anais... Brasília: Linker, 1998.
+
+MCGARRY, K. O contexto dinâmico da informação. Brasília: Briquet de Lemos, 1999. 206p.
+
+MIRANDA, R. C. da R. "O uso da informação na formulação de ações estratégicas pelas empresas". Ciência da Informação, Brasília, v.28, n.3, p.284-290, set./dez. 1999.
+
+MONTALLI, K. M. L., CAMPELLO, B. dos S. "Fontes de informação sobre companhias e produtos industriais: uma revisão de literatura". Ciência da Informação, Brasília, v.26, n.3, p.321-326, set./dez. 1997.
+
+NONAKA, I., TAKEUCHI, H. Criação de conhecimento na empresa. Rio de Janeiro: Campus, 1997.
+
+PETRINI, M. "Sistemas de informações, inteligência e criatividade". READ - Revista Eletrônica de Administração, Porto Alegre, v.4, n.1, jul. 1998. Disponível em: <http://read.adm.ufrgs.br/read08/artigo/maira.htm.>. Acesso em: 14 de mar. 2001.
+
+PONJUÁN DANTE, G. Gestión de información en las organizaciones: principios, conceptos y aplicaciones. Santiago: CECAPI, 1998. 222p.
+
+PORTER, M. E. A vantagem competitiva das nações. Rio de Janeiro : Campus, 1993. 897p.
+
+POZZEBON, M., FREITAS, H. M. R. de, PETRINI, M. "Pela integração da inteligência competitiva nos Enterprise Information System (EIS)". Ciência da Informação, Brasília, v.26, n.3, p.243-254, set./dez. 1997.
+
+SANTOS, R. N. M. dos. "Sistemas de informações estratégicas para a vitalidade da empresa". Ciência da Informação, Brasília, v.25, n.1, p.12-14, jan./abr. 1996.
+
+SETZER, V. W. "Dado, informação, conhecimento e competência". DataGramaZero - Revista de Ciência da Informação, Rio de Janeiro, n.0, dez. 1999. Disponível em: <http://www.dgz.org.br/dez99/Art_01.htm>. Acesso em: 15 de mar. 2001.
+
+SILVA, E. O. "Enfoque conceptual de la inteligencia organizacional en algunas fuentes de información. Aplicación en la industria biofarmacéutica". Ciencias de la Información, Habana, Cuba, v.29, n.4, p.35-46, dic. 1998.
+
+________. "La inteligencia organizacional en la industria biofarmacéutica". Ciência da Informação, Brasília, v.28, n.1, p.59-66, jan./abr. 1999.
+
+STEWART, T. A. Capital Intelectual: a nova vantagem competitiva das empresas. Rio de Janeiro: Editora Campus, 1998.
+
+TARAPANOFF, K. et al. "Sociedade da informação e inteligência em unidades de informação". Ciência da Informação, Brasília, v.29, n.3, p.91-100, set./dez. 2000.
+
+TERRA, J. C. C. Gestão do conhecimento: o grande desafio empresarial. São Paulo: Negócio Editora, 2000. 283p.
+
+VALENTIM, M. L. P. O custo da informação tecnológica. São Paulo: Polis; APB, 1997. 91p. Coleção Palavra-Chave, 8)
+
+________. "O mercado de informação brasileiro". Informação&Informação, Londrina, v.5, n.1, p.35-42, jan./jun. 2000.
+
+XAVIER, R. de A. P. Capital intelectual: administração do conhecimento como recurso estratégico para profissionais e empresas. São Paulo: STS, 1998. 126p.
+
+WHITELEY, R. A empresa totalmente voltada para o cliente. Rio de Janeiro: Campus, 1999. 263p.
+
+WURMAN, R. S. Ansiedade de informação: como transformar informação em compreensão. 5.ed. São Paulo: Cultura Editores, 1995. 380p.
+

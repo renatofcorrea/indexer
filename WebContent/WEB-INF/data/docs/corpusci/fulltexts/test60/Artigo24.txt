@@ -1,0 +1,432 @@
+O Contrato Social da Pesquisa: em busca de uma nova equação entre a autonomia epistêmica e autonomia política
+
+
+
+Resumo: Consideramos próprio das modernas formações ocidentais o desenvolvimento dos conhecimentos científicos por procedimentos complementares a) de diferenciação e autonomização da atividade de pesquisa e b) de conversão da validade científica em valores econômicos ou sociais. Pergunta-se, nesse contexto, pela possibilidade de reformulação do contrato social da ciência, revisando as definições dos sujeitos e dos princípios que organizam os programas de pesquisa, em seu escopo e abrangência, tal que essa nova versão do contrato seja capaz de orientar uma ecologia política dos conhecimentos.
+
+Palavras-chave: Contrato Social, Ciência, Pesquisa, Pesquisadores, Autonomia, Ecologia dos Conhecimentos
+
+
+
+
+
+1. Introdução
+
+As novas figuras do conhecimento nas sociedades expostas aos processos de "informacionalização" (CASTELL, 1997), nos levaram a perguntar pelas vinculações entre as diferentes formas de produção de conhecimentos e, a seguir, a questionar-nos se o perguntar não deveria ser conjuntamente pelas formas de divisão, reunião e vinculação de saberes, sujeitos, ações, textos, práticas. Começamos a pensar que o importante seriam os movimentos dos conhecimentos, entre perguntas e rspostas, entre sujeitos, entre espaços sociais e entre diversas formas de inscrição e transmissão.
+
+
+
+Na leitura e análise das diferentes abordagens acerca das formas contemporâneas de organização social da produção de conhecimentos científicos, foi configurando-se, para nós, o desenho de uma ecologia dos conhecimentos, exigindo maior cuidado com as relações entre setores e sub-sistemas de ciência e tecnologia. Relações estas às vezes não visíveis, mas igualmente vigentes. Quiçá o que deveria ser priorizado é justamente os elos e os modos de vinculação que desenham as configurações e os movimentos dos conhecimentos na sociedade: relações entre o sistema de pós-graduação e o sistema de ciência e tecnologia; relações conjuntas dessas esferas de produção de conhecimentos especializados com a produção e demanda de conhecimentos da educação, do trabalho, da produção e do Estado e da Administração Pública. (GONZÁLEZ DE GOMEZ, 2002)[2]
+
+
+
+
+
+Consideramos, assim, que os grupos e comunidades de pesquisa teriam um papel importante nesse processo, seja por suas demandas de autonomia, seja por suas manifestações de competência para produzir ou avaliar as premissas gnoseológicas das políticas públicas.
+
+Trabalhamos assim com algumas poucas linhas de organização da argumentação: a) a análise de alguns dos mais notáveis processos de divisão dos conhecimentos que gerariam problemas de reunião; b) a reflexão sobre o papel dos grupos de pesquisa e os processos de identificação cultural secundária que lhe são atribuíveis, como peça significativa nos processos de socialização regulada dos conhecimentos; c) a recolocação da metáfora do "contrato social" para dar visibilidade a um princípio de equivalência, implícito e por vezes sobredeterminado na historia da ciência e da pesquisa em ocidente, e para buscar sua reformulação - aspirando a uma maior reciprocidade e a uma pluralização em redes daquela operação equivalência, despregada e singularizada nos contextos paradigmático, setorial e territorial.
+
+
+
+2. Os movimentos modernos de diferenciação e de divisão dos conhecimentos
+
+Num decurso histórico que teve seu epicentro nas modernas sociedades ocidentais, investimentos na geração de excedentes de conhecimentos levariam à formação de uma atividade diferenciada, convencional e reflexiva de produção de conhecimentos científico-tecnológicos.
+
+Movimento análogo daquele que separa o trabalho manual do trabalho intelectual, dissociava os saberes da vida privada (saber-viver, saber-falar, saber-amar; saberes das mulheres, das crianças, dos anciãos) e os saberes do fazer (como o saber prático dos artesãos) dos saberes institucionais, discursivos, transmissíveis, ensináveis e pelo tanto, codificados, potencialmente públicos , publicáveis e, finalmente, publicados.
+
+Socializava-se assim o pesquisador no paradigma de uma especialidade ou disciplina, ao mesmo tempo em que se dissociavam entre si os novos coletivos de conhecedores: os físicos dos humanistas, os sociólogos dos matemáticos, os matemáticos dos engenheiros e, com muita ênfase, dissociavam-se os cientistas, pesquisadores e especialistas, das pessoas comuns e os saberes habitualizados da vida cotidiana.
+
+De fato, a objetivação e socialização intencional e sistemática dos conhecimentos tem sido um dos critérios para marcar a passagem das sociedades tradicionais e narrativas às modernas sociedades literárias, orientadas ao desenvolvimento científico e tecnológico.
+
+Algumas grandes linhas de divisão e de distribuição da geração social de conhecimentos pareceriam compor, assim, como por definição, o modelo de Ciência instituído na modernidade européia, tal como a divisão entre ciência e sociedade, entre ciência e pesquisa, entre ciências sociais e ciências naturais, entre a ciência e a tecnologia e entre a ciência e a tecnologia como domínio diferenciado e por vezes em confronto com a natureza e a vida.
+
+Essa primeira grande divisão entre ciência e sociedade estaria pressuposta, de algum modo, quando se fala da autonomia do campo científico - ou, em outros termos, do desenvolvimento da atividade científica como "campo"[3], mas também quando se fala ou se questiona a utilidade da ciência para a sociedade ou da "responsabilidade social" do cientista, como se fossem usos ou propriedades a serem estabelecidos a posteriore[4] de uma ciência já realizada, tal como ocorreria entre domínios independentes entre si no ponto de partida. A sociedade permaneceria alheia aos processos e metodologias de produção dos conhecimentos, para depois aceitar ou rejeitar seus resultados.
+
+A figura da divisão nos coloca de fato num terreno movediço, já que não fica claro se devemos indagar quais os modos de relação entre ciência e sociedade, ou se devemos questionar as premissas da argumentação corrente acerca dessa relação, que não inclúi na pergunta a própria divisão.
+
+Conforme Latour[5], a "separação de poderes" entre ciência e sociedade, seria parte de uma mesma "Constituição", de tal forma que a divisão e a relação do dividido compõem um único regime político onde o modo de produzir conhecimentos está incluido no ordenamento das relações sociais.
+
+Outra dissociação, entre ciência e pesquisa, claramente formulada no aparelho institucional da atividade científica ocidental, começa também a ser objeto de reflexão nos estudos da ciência.
+
+O Manual Frascatti (OECD, 2002) mantém a definição da UNESCO conforme a qual, o conceito mais abrangente de "Atividades científico-tecnológicas" - (ACT) inclui, alem de "Pesquisa e Desenvolvimento" -(P&D), "Educação e o treinamento em Ciência e Tecnologia" (EDCT) e "Serviços científico-tecnológicos" (SICT)[6].
+
+Diferenciam-se também de P&D as atividades de Administração, que incluem atividades de financiamento da pesquisa e de Ciência e Tecnologia e as atividades de apoio indiretas como as referentes a manutenção, armazenamento, transporte, segurança, entre outras.
+
+O critério principal para estabelecer quando se trata de P&D, seria a presença de um importante componente de novidade e a redução de incertezas científicas e/ou tecnológicas, na medida em que se oferece, para um problema pertinente a uma área de conhecimento, uma solução não disponível no estoque de conhecimento comum[7].
+
+No mesmo Manual FRASCATTI, são estabelecidos alguns critérios adicionais para estabelecer o que é ou não P&D, ou forma parte de outros setores da atividade científica, tecnológica ou industrial (Tabela 2.1, FRASACATTI MANUAL, 2002, p.34).
+
+
+
+Tabela 2.1. Critérios suplementares para a separação das atividades de Pesquisa e Desenvolvimento de atividades científicas, tecnológicas e industriais correlatas.
+
+A. Quais são os objetivos do projeto?
+
+B. O que é novo ou inovador no projeto? i. Estão-se buscando fenômenos, estruturas e relações previamente não descobertos?
+
+ii. A aplicação de conhecimentos ou técnicas de um novo modo?
+
+iii.Existe alguma chance significativa de que o projeto resulte num entendimento novo, mais extenso ou aprofundado de um fenômeno, relações ou princípios procedimentais que sejam de interesse a mais de uma organização?
+
+iv.Os resultados serão patenteáveis?
+
+
+
+C. Qual é a equipe trabalhando no projeto?
+
+D. Que métodos estão sendo usados?
+
+E. Em que programa está fundamentado o projeto?
+
+F. Qual é a generalidade dos achados ou resultados aos que o projeto aspira?
+
+G. O projeto se encaixaria mais naturalmente em outra atividade científica, tecnológica ou industrial?
+
+
+
+Fonte: FRASCATI MANUAL, OECD, 2002, p.34
+
+
+
+No estado atual de desenvolvimento, "ciência" e "pesquisa" remitiriam a redes de significação e programas de ação diferentes. A pesquisa possui um caráter dinâmico e transformador: nela existiria lugar para a manifestação de paixões, ideologias e controvérsias, as quais seriam formalmente controladas no contexto sistematizador das atividades científicas, estas voltadas em seu conjunto à produção de objetividade e reconhecimento. Tais marcas diferenciais mereceriam serem estudadas por uma Filosofia da Pesquisa, já que não seriam tematizadas pela Filosofia da Ciência - e, acreditamos, deveria requerer uma abordagem de escopo e abrangência mais amplios que aquele próprio das "Metodologias da Pesquisa" (ver LATOUR, 1998).
+
+Um dos modelos mais freqüentes de descrição da pesquisa, utilizado na construção de indicadores, por instituições de gestão e fomento em Ciência e Tecnologia, a distribui ao menos em duas grandes categorias: a) a pesquisa com finalidades teóricas, orientada a responder as "famílias de questões" dentro de uma área do conhecimento, o que geralmente se denomina "Pesquisa Básica" (FRASCATTI MANUAL, 2002, cap. 4)[8], e corresponde a algum modo ao nível demonstrativo da metáfora Bungeana dos três contextos[9] (contexto de descoberta, contexto de demonstração, contexto de aplicação); b) a pesquisa orientada a oferecer conhecimentos com finalidades práticas específicas, denominada assim "Pesquisa Aplicada" (FRASCATTI MANUAL, 2002, cap. 4).
+
+STOKES (1997), utiliza o nome de pesquisadores paradigmáticos para inscrever "tipos" de pesquisa numa matriz de dupla entrada na que cruza duas principais orientações da pesquisa, 1) conforme a sua "finalidade", 2) conforme seu ponto de partida- a busca de resposta a questões fundamentais-. A preocupação da pesquisa com o entendimento de questões fundamentais, num horizonte teórico de problematização, sem preocupação com o uso dos resultados, teria como exponente a BOHR; a preocupação com a aplicação de uma descoberta, sem preocupação maior com as questões e o quadro teórico-conceitual em que se inscreve, seria exemplificada por EDISON, e sua descoberta da energia elétrica.
+
+Caberia perguntar-se, novamente, qual é o sentido e o efeito dessas e outras categorizações, formalizadas nos manuais de estatísticas, construção de indicadores e análise comparativas -como os da OECD[10]-, e utilizadas para mapear e aferir o desempenho da pesquisa em esferas governamentais e agências de fomento. Surgem neste ponto duas principais questões: Primeiro, se tais categorizações e classificações facilitariam a formalização institucional de divisões, favorecendo o zoneamento, encapsulamento e dissociação entre atividades que seriam de fato complementares. Segundo, se tais divisões inscritas nas estruturas de gestão da pesquisa, se sustentam ou não na prática, ou se pelo contrário obscurecem e opacificam as relações de troca informacional e epistêmica que acontecem de fato entre os diferentes conhecedores e modos de conhecimentos.
+
+Podemos considerar por hipóteses que os movimentos de diferenciação, as segmentações, as especializações, terão gerado alguns procedimentos compensatórios de integração, levando a combinação dos conhecimentos antes diferenciados em novas e mais complexas unidades, ainda quando esses movimentos de reunião não tivessem sido suficientemente registrados nas estruturas administrativas, nas idealizações epistemológicas ou nos manuais de metodologia.
+
+A tendência do pensamento contemporâneo, desde os filósofos pós-empiricistas aos defensores do sistema de inovação, seria considerar que a pesquisa obtêm seu melhor desempenho quando se constitui em redes onde se realizam ao mesmo tempo mais de uma finalidade. Tal seria, no modelo de Stokes, o chamado "quadrante Pasteur"[11], que indica a presença de uma dupla intencionalidade: buscar o "entendimento fundamental" de determinadas questões e "promover o uso eficiente dos resultados" para obtenção de benefícios econômicos e sociais. Na mesma direção, na concepção de Gibbons, Nowotny, entre outros, o mapa de relações que constituem a pesquisa científica deve ser reformulado em direção a um conceito aberto de transdisciplinaridade[12].
+
+As divisões entre ciência-sociedade e entre ciência-pesquisa, aliás, estariam fortemente asociadas a divisão entre ciências naturais e ciências sociais.
+
+De fato, uma primeira disputa entre ciências sociais e as outras ciências  as "ciências duras" e as formais- estaria na definição do alcance e extensão do objeto, ou melhor, da zona de relvância dentro da qual são construídos os objetos de estudo dos programas de pesquisa das ciências ditas humanas ou sociais. Quando e onde começa o domínio de pertinência de uma ciência social? Ao tematizar, por exemplo, os ciclistas, as ciências sociais incluiriam em seu estudo a bicicleta, além dos guardas de trânsito ou os círculos de ciclistas ecologistas? (ver LATOUR, 1999).
+
+Com diferentes abordagens, todos concordariam, nos Estudos Sociais da Ciência que é necessário estender os programas de pesquisa das ciências sociais alem do que até agora se convencionou em chamar "o social".Se uma primeira dificuldade é como construir teórica e metodologicamente essa extensão do domínio de relevância aos objetos técnicos, naturais e materiais[13], não é menos difícil estabelecer a especificidade do ser social. Qual é a "leitura sociológica" de objetos tais como os micróbios ou as bicicletas   se aceitamos que não se trata de objetividades alheias aos contextos históricos e culturais de sua visibilidade e nomeação.
+
+Para Latour[14], se o social identifica uma rede de relações  especificamente, um modo de manter juntas coisas heterogêneas- o "mundo objetivo" não possui, de maneira análoga, entidades fixas e fechadas. "Coisa" (thing), em latin "res" e "causa", significa também uma "montagem" ("assembly") de caráter judicial reunida em torno de um tópico, "reus" , que cria ao mesmo tempo conflito e assentimento. No momento atual, quase-objetos como "organismos modificados geneticamente" ou "o comércio na Internet" estariam modificando a zona fronteiriça que separa as ciências físico-naturais das sociais[15].
+
+Poderia ser conveniente repensar as premissas argumentativas  aquelas que dão por aceita a divisão, para depois buscar os enlaces, instrumentais, funcionais, estratégicos - e substituí-las por novas premissas relacionais e mediadoras. No ponto de partida de reflexão acerca da pesquisa, teria-se sempre um emaranhado denso de relações entre práticas, técnicas e conhecimentos, de modo que o perguntar focalizaria o regime de separação e de reunião que estabelece as categorizações, segmentações e encapsulamentos que unem ou dissociam pessoas, saberes e coisas.
+
+Poderia ser conveniente repensar as premissas argumentativas  aquelas que dão por aceita a divisão, para depois buscar os enlaces, instrumentais, funcionais, estratégicos - e substituí-las por novas premissas relacionais e mediadoras. No ponto de partida de reflexão acerca da pesquisa, teria-se sempre um emaranhado denso de relações entre práticas, técnicas e conhecimentos, de modo que o perguntar focalizaria o regime de separação e de reunião que estabelece as categorizações, segmentações e encapsulamentos que unem ou dissociam pessoas, saberes e coisas.
+
+No mundo contemporâneo, a segmentação e dispersão das atividades científicas e de pesquisa é incrementada pela distribuição institucional dessas atividades. Contribui para isso a crescente estrutura corporativa ou funcional do Estado[16], cujos programas de ação estão enquadrados em domínios ou sub-sistemas funcionais, formalizados em ministérios, secretarias e agências reguladoras especializadas.
+
+A distribuição institucional da pesquisa, no contexto do Estado, teria assim sua jurisdição específica, dentro de um Ministério ou Secretária de Ciência e a Tecnologia e, ao mesmo tempo, as ações de pesquisa  formais ou não - perpassariam todos os outros setores da Administração pública e do Governo: saúde, educação, transporte, industria e comércio, agricultura, energia. As políticas setorizadas, ao mesmo tempo, se desdobram em todos os "estratos espaciais" do Estado: Federação, Estados, Municípios. Se estes desdobramentos fortalecem a rede de pesquisa pública, ao mesmo tempo, surgem outros problemas decorrentes da abordagem corporativa e da pluralização dos espaços administrativos, requerendo outras ações intersetorias e transversais que permitam o mapeamento articulado das redes e os estratos.
+
+Seriam necessárias, assim, "estruturas de gestão" articuladoras, capazes de trabalhar essas relações, e que o façam de maneira transparente, bem integrada com outras instâncias deliberativas e consultivas, como as legislaturas, num horizonte público e político de definição de agendas, avaliação de programas e prestação de contas.
+
+Se a tendência corporativa do Estado contemporâneo tem gerado diversos problemas de governança, os efeitos serão de fato mais significativos quando se trata de atividades e objetivos decididamente transversais, como os encontramos nos domínios da Ciência e a Tecnologia, da comunicação e da informaçãocientífico-tecnológica.
+
+
+
+3. O papel das comunidades de pesquisa no processo de construção dos conhecimentos científicos
+
+Em nossa concepção, a geração e uso dos conhecimentos científico-tecnológicos, conforme a "herança moderna" teriam seguido desde sempre dois movimentos complementares: um orientado à autonomia das atividades de ciência e de pesquisa já diferenciadas, que logo teriam uma autoridade relativa para estabelecer valores e regras de jogo em seus domínios específicos de atuação; outro, organizado por procedimentos formais de conversão, que estabeleceriam medidas de equivalência entre os valores e bens produzidos pela atividade científica, e os valores e recursos econômicos, simbólicos ou políticos a serem disponibilizados para a sustentação da produção científica e para aquisição/uso de seus resultados pelos diversos atores sociais -econômicos, governamentais ou comunitários.
+
+Formariam parte dos dispositivos de conversão as agências, os critérios e os tipos de financiamento, a concessão de bolsas; o sistema de patenteamento; as diversas formas de assessoramento e consultoria; os procedimentos de aferimento, avaliação e fiscalização exercidos pelas agências especializadas do Estado- tais como as agências reguladoras e a responsável pela metrológia, o meio ambiente, a saúde, a qualidade dos alimentos e do ar, a viabilidade de projetos urbanos-, entre outros.
+
+É a partir de um olhar relacional e à luz desse duplo mecanismo de autonomia/conversão que encontraríamos um horizonte amplo de reflexão acerca do "contrato social" da ciência e da pesquisa.
+
+Nesse contexto, nos limitaremos, neste trabalho, a algumas considerações sobre os pesquisadores e seus grupos/comunidades de pesquisa.
+
+Consideramos que, qualquer que seja a origem da "separação de poderes" entre ciência-sociedade, algumas das principais características da construção da ciência e da tecnologia, como atividades relativamente autônomas, deverá manifestar-se no desenvolvimento das comunidades de pesquisa e suas manifestações empíricas: grupos e programas de pesquisa.
+
+Em estudos anteriores, abordamos algumas das condições que se apresentariam como justificativa da autonomização das atividades de produção de conhecimentos científicos e cuja realização implica os pesquisadores e suas formações coletivas: a) as atividades de pesquisa requerem processos de formação continuada ou permanente; b) os pesquisadores, incluídos numa área do conhecimento e num programa de pesquisa, formam grupos e comunidades que compartilham práticas, discursos e experiências, incorporando modos de olhar, de descrever, de interpretar, que equivalem a uma espécie de "segunda identidade" cultural; c) em decorrência do anterior, tais grupos e comunidades vão gerando critérios de excelência que requerem alguns procedimentos, regras e critérios de avaliação, a serem exercidos pelos pares; d) o caráter não espontâneo, sistemático e inovador da pesquisa, requer o desenvolvimento de formas de monitoramento e de controle dos conhecimentos socialmente disponíveis num domínio de intervenção, incentivando a utilização dos mecanismos psicológicos de metacognição e dos sociais do metaconhecimento; e) os pesquisadores desenvolvem, do mesmo modo, habilidades específicas para utilizar as tecnologias literárias disponíveis e para usá-las na construção da credibilidade e na tradução de saberes inter-campos (científicos e não científicos); f) os pesquisadores, apoiando-se na diferenciação crescente do modo de produção científica demandam o controle de seus processos de trabalho, o que teria levado a constituição de estruturas de autogestão e co-gestão nas instituições que desenvolvem programas de pesquisa[17].
+
+Destacaremos três aspetos que contribuiriam a formação dessas intersubjetividades diferenciais que ao mesmo tempo são resultado e condição da autonomia da pesquisa científico-tecnológica: o papel da variável temporal na formação de comunidades científicas; o papel da identidade cultural do grupo e comunidade de pesquisa como geradora de zonas de relevância e instancias preferenciais de arbitragem em assuntos de sua pertinência; o papel das comunidades científicas na instrumentalização, avaliação e monitoramento das políticas públicas.
+
+a) A variável temporal
+
+Em primeiro lugar, se nos concentramos na figura do pesquisador, encontraríamos uma prolongação indefinida do tempo de formação, que seria quiçá um traço do trabalho intelectual. A produção simbólica, aliás, não acontece num espaço único e específico.Se a  máquina de pensar  ou de  sentir  não se desliga como o computador ou o torno, e se trabalha-se olhando, emocionando-se, lendo, caminhando, a produção semiótica perpassa as categorias do trabalho e inclui clientes e usuários de tecnologias- em geral, e da comunicação e da informação, de maneira muito especial.
+
+A produção de excedentes de conhecimento não requer assim um único espaço físico, como a fábrica, ainda quando requer diversos espaços sociais diferenciados: o laboratório, o fórum dos pares, os espaço dos signos e das coleções, os  centros de cálculo  e as redes distribuídas.
+
+Existe, porém, um tempo da pesquisa retirado do tempo da produção industrial e dos negócios, e de outros cronogramas administrativos. A diferencia do tempo do trabalho direto, que se converte em abstrato enquanto é medido e logo, controlável, o tempo da pesquisa é um tempo de investimento a médio e longo prazo, um tempo para a  experimentação  , que se lança fora do presente em movimentos de prospeção e retrospecção, alargando a experiência singular e imediata através de formas simbólicas e concretas da ação a distância, da cooperação epistêmica, da comunicação intensiva.
+
+O tempo próprio da pesquisa é, porém, um tempo convencional, que tem um custo social e econômico, e cuja dimensão e domínio de aplicação depende de uma decisão acerca de onde e como gerar e aplicar os excedentes econômicos e sociais. É essa definição, de caráter político, acerca do tempo e do espaço do conhecimento científico-tecnológico que irá a estimar a velocidade ou morosidade da pesquisa, o mínimum máximo capital temporal a investir-se na  formação  obrigatória dos  recursos humanos  e o tempo-investimento a aplicar-se na construção de espaços sígnicos, hipermídicos e presenciais para sua realização: laboratórios, bibliotecas, portais, acervos museológicos, arquivos científicos.
+
+Não se trata, porém, de duas temporalidades totalmente dissociadas, já que o tempo da pesquisa existe porque em outros domínios econômicos, administrativos e políticos se faz cessão de excedentes sociais transformáveis em tempos e espaços de pesquisa.
+
+Daí que se faz necessário redefinir constantemente a equação temporal dos que realizam pesquisa e dos que investem nela.
+
+Um dos focos de intervenção social sobre a produção de excedentes de conhecimento, seria justamente, mas de modo paradoxico, essa variável temporal. Por um lado, a produção do conhecimento científico teria como condição a geração de um tempo e espaço diferenciado de práticas e experiências, formas de socialização diferencial e própria a determinadas áreas de conhecimento; e essa diversificação e manipulação da variável temporal estaria associada ao potencial heurístico e inovador da ciência, a constituição do seu ciclo de credibilidade e de procedimentos de aferimento do valor e pertinência dos conhecimentos, assentados sobre a avaliação por pares.
+
+Por outro lado, esse tempo e espaço diferenciado se constitui pelo investimento e desejo de um projeto social e político que coloca sobre a ciência demandas e cronogramas específicos. Teríamos assim constituído o seguinte paradoxo. O  inter-esse , isso que pareceria explicar o que coloca juntos pesquisadores e instituições de financiamento, empresas e Estado, só se estabeleceria quando os pesquisadores, caracterizados por suas atividades gnoseológicas e informacionais, tem algo a oferecer algo que  exceda  o que já é possuído e desenvolvido pelo Estado ou a industria ou os negócios, seja uma competência ou uma inovação. Observa-se assim que a geração de excedentes de conhecimento, que demandaria a autonomia do tempo da pesquisa dos tempos produtivos, requer investimentos que geram a dependência do tempo da pesquisa do tempo produtivo. Paradoxo dos tempos?
+
+b) A variável cultural
+
+O modo como são definidas as condições temporais e organizacionais de seu desempenho, outorgaria aos grupos de pesquisa a condição de quase  sub-culturas  ou comunidades biográficas; cada uma delas equivalente ao que Heidegger denomina  formas de vida  ou  modos de estar no mundo  ou, na abordagem de Wittgenstein e Kuhn, constituem  jogos de linguagem .
+
+Nos interessa reter essa abordagem de  forma de vida  como uma esfera primária de produção de sentido. Trata-se da constituição de esferas intersubjetivas de comunicação onde seriam forjados os julgamentos de excelência e os critérios de valor que singularizam os parâmetros de experiência de um ator coletivo. Nelas poderiam dirimir-se as diferenças nos julgamentos de valor e nos procedimentos de validação. A  forma de vida  e as  ações formativas  são as que vinculam de um modo social e epistêmico saberes, informações, práticas e experiências.
+
+A  forma de vida  seria um espaço de arbitragem de desacordos discursivos e trans-discursivos.
+
+
+
+Como instância de arbitragem, a "forma de vida" seria um espaço quase transcendental onde falante e ouvinte se encontram e colocam suas demandas de validade (subjetivas, objetivas, estéticas, éticas), onde criticam ou confirmam essas demandas, colocam seus desacordos e chegam a novos acordos. Essa "arbitragem" vai além da solução argumentativa ou discursiva de conflitos. Serve também de orientação para a concepção de sistemas particulares de ação (como design de "matrizes acionais").O poder da "sanção coletiva" (communal warrant) de uma interpretação, distribuída entre o grupo social e as organizações, não só remete a acordos e desacordos sobre os critérios de definição de testemunhos de informação, a serem dirimidos por meio de procedimentos argumentativos, persuasivos ou simbólicos, mas também indica possíveis formas de controle organizacional da interpretação e comunicação da informação. (GONZALEZ DE GÓMEZ, 2000)
+
+
+
+
+
+Numa comunidade de pesquisa, entendida como "forma de vida", regras intersubjetivas de um "contrato local" serviriam de mediação entre a autonomia semântica do pesquisador individual e o poder simbólico do quadro institucional em que se insere sua atividade de pesquisa.
+
+Para indicar essa mediação do papel social do pesquisador por pertencer a uma comunidade de pesquisa, denominamos ator gnoseológico[18]ao ator social (cientista, pesquisador, tecnólogo) cuja ação formativa é a ação de gerar conhecimento e informação.
+
+
+
+Existe assim uma nova assimetria. Sendo que para todos os atores sociais, é a ação social formativa que vincula e tematiza as ações de informação, para o ator gnosiológico, cuja ação formativa é a ação de informação, a vinculação gnosiológica é a que tematiza e organiza suas ações sociais. (GONZALEZ DE GÓMEZ, 2000)
+
+
+
+
+
+Nos interessa destacar, como uma das características culturais das comunidades de pesquisa, a definição de critérios de excelência e de validade singulares e modalizados conforme as disciplinas, áreas do conhecimento e comunidades de pesquisa, conforme o que Harry Collins (1998ª e 1998b) denomina diferentes culturas de evidência. Conforme os estudos de Collins, as definições de excelência são modificadas pela escala, metas e organização dos Programas de pesquisa. Um grupo de pesquisa mais isolado em suas atividades e confinado a fontes de informação locais, pode definir de maneira diferente o "teto" do que seja um bom e aceitável resultado de pesquisa, enquanto uma equipe inter-institucional de pesquisadores, ainda com o mesmo escopo e abrangência disciplinar, tratando-se de um programa de grande visibilidade, com maiores investimentos, poderia demandar um patamar mais alto de casos positivos, maior volume de dados coletados ou a obtenção de boa receptividade por um maior número de instituições de pesquisa, que aderiram a suas hipóteses e métodos e aprovem seus resultados.
+
+Recentemente, num caso relatado por Donald Kennedy ,editor-chefe da revista 'Science', um comitê (Comitê Beasley ) teria avaliado o trabalho apresentado em 25 estudos por um pesquisador, Schön, realizados com diferentes colegas co-autores, para concluir que tratava-se de um caso notório de falsificação de dados.Além do questionamento da avaliação de pares, ficou em aberto a questão da responsabilidade dos co-autores.
+
+O editor de Science considera que a questão envolvia, além da avaliação dos pares e do Comitê ético-científico, a "comunidade científica", em seu papel ideal de autoridade final para dirimir   neste caso, antes que controvérsias, os critérios de identificação dos critérios do julgamento e dos agentes autorizados para julgar.
+
+
+
+"Há uma questão muito mais importante do que essa. É uma que o Comitê Beasley levantou, mas deixou em aberto, após questionar se os co-autores exerceram 'responsabilidade profissional apropriada' para garantir a validade das afirmações dos estudos.[...]Ao lidar com questões autorais em vários papéis institucionais, eu encontrei argumentos vigorosos em ambos os lados dessa questão. Um diz que, dada a natureza interdisciplinar da ciência e a co-participação de pessoas com várias especialidades em um projeto, cada autor não pode ter a obrigação de assumir responsabilidade pela validade dos resultados." [...] O Comitê disse que 'não endossava a visão de que cada co-autor fosse responsável pela completude do esforço colaborativo...' Bem, não estão todos levando por completo o crédito? E se os benefícios são gozados conjuntamente e individualmente por todos os autores, então não deveria a culpabilidade ser conjunta e individual também? A resposta precisa vir na forma de uma decisão da comunidade científica, que agora precisa se fazer presente para a tarefa. Nós apoiaremos o consenso que resultar disso."[19]
+
+
+
+
+
+A especificidade da "variável cultural", nos grupos e "comunidades" de pesquisadores, requer sem dúvida outros estudos e observações.
+
+Se existe uma espécie de "identificação secundária" construída nas práticas de pesquisa, nela deveria diferenciar-se uma zona comum de relevância junto a uma zona fluida e constantemente reformulada, cuja grande mobilidade resulta da pluralidade dos critérios de pertinência com que os diferentes participantes da pesquisa singularizam suas contribuições a construção do campo.
+
+Relacionados ao que denominamos a "variável cultural", os modos de conhecer, tanto os codificados quanto os incoporados, os mais ou menos articulados, requerem maior espaço nos estudos da ciência e da pesquisa. A produção de conhecimentos científicos constitui, por um lado, uma prática intencional de caráter tal que requer um projeto explícito e coletivo de realização, acompanhamento, avaliação e retroalimentação. Na ordem formal, podemos dizer que os conhecimentos se vinculam uns aos outros por operações complexas e reguladoras de meta-conhecimento. Os atores das atividades científico-tecnológicas deverão ser, logo, capazes de operar com o conhecimento sobre o conhecimento e a informação sobre a informação.
+
+O conhecimento, porem, possui uma dimensão prática e experiencial, geradora de conhecimento tácito, incorporado, habitualizado. Nesse sentido, o que leva a selecionar aquilo que será considerado uma " evidência" ou  testemunho  de informação pode ser tanto consciente, intencional quanto algo da ordem do incorporado como "modo de olhar" que, após construído, age como se for "espontâneo". O pesquisador "incorpora" os programas conceituais e perceptivos de sua área de indagação e começa a "ouvir os dados".
+
+O olhar "formado" pela educação, as práticas metodologicamente controladas e monitoradas, o exercício reiterado da leitura e da escrita que passa constantemente pelo crivo dos pares, consolidam esquemas, quadros conceituais que, nem tão fixos como pretendem alguns, nem tão instáveis como sugerem outros, pautam a maior parte dos trabalhos de pesquisa.
+
+Os critérios seletivos são tanto de uso como de não uso da informação, e de fato; a informação é ante um acontecimento que uma entidade; o não uso de informação é parte também do processo cognitivo, não fica "fora" dele.
+
+Pesquisadores entrevistados, num estudo anterior[20], usam muitas vezes a expressão "minha vida de pesquisa pessoal", e estabelecem uma seqüência continua da pesquisa (porque é um mesmo movimento de pensamento que conduz sua trajetória) e ao mesmo tempo descontínua (porque muda a formulação das questões e os modos de conhecimento aos que recorre para respondê-las). Daí que falamos de "famílias de questões" que tem como princípio de encadeamento a prática habitualizada , a memória científica e a responsabilidade do perguntar.
+
+O valor informacional se constitui no decurso do perguntar, problematizando o que até então aparecia como não problemático e relacionando o que até então, carecia de relação.
+
+A busca de informação acompanha uma linha de argumentação, não a precede. A priori, toda informação potencial é e não é relevante. De fato, o pensar impertinente é justamente aquele que abre um novo domínio de pertinência.
+
+A "linha de aderência" entre os pesquisadores e seus temas, o que denominamos "a família de perguntas", não constitúi um continuum linear. As redes do conhecimento científico são heterológicas, requerem o trabalho de diferentes atores coletivos para produzir a conversão das experiências em textos e codificações, os instrumentos em experimentos, as perguntas em resultados, as controvérsias em novas teorias[21].
+
+Seria próprio da pesquisa, porem, acompanhar os procedimentos heurísticos ou de descobertas com procedimentos reflexivos. O pesquisador apreende, assim, ao mesmo tempo que incorpora "programações epistêmicas", a tematizar e controlar seus critérios e procedimentos de produção: seletivos, avaliativos, operacionais. De algum modo, a pesquisa tem sempre remissivas a alguma unidade ideal, socio-epistêmicas, de sustentação validativa do conhecimento, vinculando-se a essa "comunidade virtual" através dos estudos de "estado da arte", os "modelos" analíticos disponíveis e adquiridos, os projetos e programas de pesquisa partilhados com seus "pares", a leitura e análise dos autores clássicos, as reuniões científicas e outros fóruns de avaliação e credenciamento de seus produtos e empreendimentos .
+
+A dimensão cultural da pesquisa, pareceria dar lugar a um novo paradoxo: se os processos culturais de identificação que configuram à comunidade de pesquisa requerem uma formação continuada e o exercício relativamente autônomo de suas práticas, a formação e manutenção dessa autonomia são definidas por atores políticos e econômicos, dentro do contexto social em que essa comunidades se construem: um país, uma região, um município, uma organização.
+
+c) A variável política
+
+A "autonomia epistêmica" dos grupos e comunidades de pesquisa pareceria outorga-lhes maiores possibilidades de experimentação e uma capacidade de julgamento em situações politicamente relevantes que requerem um suporte gnoseológico diferenciado.
+
+Peter Hass (1992), cientista político, desenvolve nessa direção o conceito de comunidades epistêmicas. Uma característica principal das comunidades epistêmicas seria que seus integrantes, na medida em que partilham princípios racionais de julgamento e critérios de validade intersubjetivamente estabelecidos, exercem sua autoridade e competência arbitragem em suas esferas de pertinência  e não em outras-, para aplicá-los no julgamento de assuntos e emprendimentos politicamente relevantes. As comunidades epistêmicas antecipariam e avaliariam assim os resultados de cursos alternativos de ação, procurando dar visibilidade as redes de ligações que se estabelecem entre estados de coisas no mundo, os programas de ação e as políticas públicas.
+
+
+
+Uma comunidade epistêmica estaria constituída por uma rede de profissionais com reconhecida perícia e competência num domínio particular, que demandam o reconhecimento de sua autoridade em matéria dos conhecimentos politicamente relevantes dentro de aquele domínio ou área de assunto. Ainda que a comunidade epistêmica possa consistir de profissionais de uma grande variedade de disciplinas e contextos, eles tem 1) um conjunto de princípios e normas partilhados; 2) modelos causais compartilhados, os quais obtém os pontos de partida para estabelecer ligações entre os possíveis cursos da ação política e os resultados esperados; 3) noções de validade intersubjetivamente partilhadas, ou seja, critérios intersubjetivos para "sopesar" e validar conhecimentos no domínio de sua experiência; 4) um empreendimento político comum, ou seja, um conjunto de práticas associadas a um conjunto de problemas, aonde direciona sua competência profissional, junto a convicção acerca do maior bem-estar que a humanidade poderia obter como conseqüência desse direcionamento.(HAAS, 1992,3).
+
+
+
+
+
+Haas analisa o papel dessas "comunidades epistêmicas" no domínio da ecologia e das lutas pela proteção ambiental.
+
+Cabe considerar que os valores da variável política ficariam duplamente condicionados, seja pela forma de construção e consolidação dos grupos de pesquisa e das "comunidades epistêmicas"  de onde proveria tanto sua competência como o reconhecimento social da mesma-, seja pelas formas implementadas de tomada de decisão política, que abra mais ou menos espaços a instâncias consultivas e deliberativas.
+
+Como, porém, lidar com o paradoxo dos tempos em países não centrais, onde o sistema econômico e ainda, os atores comunitários, demandam respostas urgentes, ao mesmo tempo cientificamente justificadas e praticamente utilizáveis, para os problemas atuais?
+
+
+
+4. A reformulação do contrato social da pesquisa e a questão da autonomia
+
+Poderíamos enunciar, de maneira simplificada, que o contrato social que incorpore a pesquisa, deveria equacionar a autonomia epistêmica, dos atores gnoseológicos que vêem na pesquisa uma "família de questões" -nem absolutamente necessárias nem arbitrariamente indiferentes-, e a autonomia política dos atores sociais que desejam manter sua força decisória em domínios de questões que afetam sua sobrevivência, suas realizações e projetos, e que buscarão na pesquisa uma resposta a questões práticas, econômicas, de preservação e melhoramento de suas condições de vida.
+
+De modo mais geral, os pressupostos culturais e políticos das figuras contratuais, passariam por mudanças que seriam alvo da literatura sociológica e política no final da década de 90, sendo que a questão principal foi mais a "dês-legitimação" e desativação dos contratos que sua reformulação e consolidação[22].
+
+A partir da premissa da "separação dos poderes", Guston e Keniston consideram que "contrato" seria uma boa metáfora para definir as relações estabelecidas pelos membros da comunidade científica entre si e com a Sociedade e o Estado[23].
+
+Guston e Keniston insistem no caráter intencional e convencional do contrato, o fato de pressupor tanto conflitos e interesses a serem negociados quanto a existência de um bem ou valor comum que definiria o domínio da negociação[24].
+
+O mesmo dispositivo de equivalência pareceria ser adequado as negociações reguladas dos Estados jurídico-representativos.
+
+
+
+"Esse equilíbrio leva em conta o valor da prestação de contas (accountability) associada a um governo representativo e o valor da autonomia associado a uma comunidade profissional independente. Não só o governo investe num "bem público", mas delega a outras instituições a condução efetiva da pesquisa. A comunidade científica, logo, estabelecida em universidades e outras instituições de pesquisa, será quem tem a responsabilidade de produzir pesquisa, descobertas e novas tecnologias." (GUSTON, D. H. e KENISTON, K. 1994. p. 8)
+
+
+
+
+
+Para nós, o contrato social, enquanto dispositivo para o estabelecimento de equivalências, daria visibilidade a genealogia das figuras de separação e de reunião entre o que a ciência oferece a sociedade e o que a sociedade investe (em sentido material e simbólico) no desenvolvimento da ciência e o predomínio dos modelos de mercado (desde a teoria do campo científico de Bordieu às políticas neoliberais da década do 90) como busca de  equilíbrio  entre ofertas e demandas.
+
+De fato, a figura contratual, seja como estrutura de formalização e legitimação de interações, seja como "técnica de governo" (conforme Foucault), colocaria de manifesto um princípio implícito e compartilhado nas diferentes esferas dos Estados constitucionais e das economias de mercado, o princípio de equivalência, já pressuposto no que denominamos "movimentos complementares de autonomização/ conversão" e que sustentariam a produção de "valores" científicos.
+
+Como em outras áreas da atividade social, a pressuposição do princío de equivalência não exclúe sua verificação ou no modo da reciprocidade das partes ou no modo da sobredeterminação da relação com vantagem definidora de uma parte sobre as outras.
+
+Para Habermas, enquanto o modelo liberal reafirma a "separação dos poderes" e o tecnocrático hierarquiza a autoridade conhecimento científico sobre a vontade política, o caminho da renovação do contrato social das ciências tenderia adotar modelos relacionais, um dos quais, o pragmaticista, teria caracterizado a emergência e eficácia do aparelho estadounidense de pesquisa (HABERMAS, 1987)
+
+Como lidar ao mesmo tempo com as demandas de autonomia epistemica e de autonomia política?
+
+A pergunta nos levaria para nós ao que Nowotny chama a passagem do contexto de aplicação ao contexto de implicação.
+
+Isto significa que em lugar de perguntar-nos como e em que se aplica esta pesquisa, deveríamos perguntar-nos: que sujeitos (comunitários, categoriais, territoriais) estão implicados neste conhecimento?
+
+Na verdade, essa pergunta deveria trazer muitas consequências: primeiro, poderia redefinir o escopo e abrangência dos saberes e competências envolvidos numa pesquisa; segundo, modificaria o escopo, abrangência e modos de expressão com que seriam abertos os fóruns de comunicação, avaliação e prestação de contas da pesquisa; terceiro, a transformação do mundo pelo conhecimento científico estaria articulada as relações entre os sujeitos envolvidos nessa transformação enquanto conhecer, num sentido ecológico, é explorar as possibilidades da hominização[25] nos modos do ser em comum  incluindo nelas seu ser num mundo.
+
+Em outro estudo[26] consideramos três princípios que hoje organizariam as atividades de ciência e tecnologia no Brasil: o princípio paradigmático, o princípio corporativo e o princípio territorial.
+
+
+
+Eles tanto se complementam como se justapõem ou ainda entram em conflito  muitas vezes por falta de visibilidade de suas diferenças, de compreensão de sua interdependência e da extensão de seus foros jurisdicionais  pela definição de seu escopo e abrangência .
+
+
+
+
+
+O princípio paradigmático é aquele que coloca a ênfases nas estruturas intelectuais e epistemológicas da produção dos conhecimentos, estruturas estas que são representadas como grandes áreas e sub-áreas do conhecimento. O princípio paradigmático tem ocupado maior espaço nas zonas de interface entre a produção dos conhecimentos e as os sistemas educacionais e em particular, nas estruturas epistêmico-administrativas do ensino Universitário, da Pós-graduação e dos procedimentos e instrumentos de acompanhamento e avaliação, de Agências como a CAPES e o CNPq.
+
+A distribuição paradigmática dos saberes seguiria duas grandes direções de vinculação. Do ponto de vista das práticas de pesquisa, acompanharia a emergência e desdobramento de "famílias de questões" mantidas em relação significativa pelas memórias e os arquivos científicos; do ponto de vista de sua formalização, ficariam incluídos em grandes mapas a priori de áreas do conhecimento, conforme definições de instituições como a CAPES e o CNPq.
+
+O princípio corporativo é aquele que estabelece domínios de produção dos conhecimentos por homologia com domínios significativos da atividade social. A geração, reunião, organização, utilização e reutilização de conhecimentos e de competências, acompanham assim "famílias de interesses" assumidos e colocados em ação por um conjunto ao mesmo tempo heterogêneo e interligado de organizações públicas e privadas, cada uma com suas definições particularizadas de objetivos e metas corporativas.
+
+O princípio territorial, quiçá o menos visível e diferenciado, organiza conhecimentos e competências a partir de uma singularidade espaço-temporal que tanto afeta o domínio de construção do objeto de pesquisa como suas redes de implicação e aplicação. Trata-se assim de um conhecimento que, ainda que proveniente de ações impulsionadas pelo princípio paradigmático ou o princípio corporativo, fica ancorado num território que exige a translação semântico-cultural de seus modelos conceituais a uma situação singularizada por suas coordenadas espaço temporais, conforme as quais ficam vinculadas as situações concretas com os diversos contextos, os locais e os distantes.
+
+Poderíamos dizer que, a partir da década do 90, teríamos definições justapostas e as vezes, não compatibilizadas, do que seria o projeto de produção de conhecimento científico-tecnológico da sociedade local. O modelo do sistema de inovação pareceria, assim, ter a intenção de substituir e absorver o que já fora identificado como o sistema de ciência e tecnologia o, ainda, como programas e instituiçãoes de pesquisa. Poderíamos arriscar-nos a dizer que o sistema de inovação teria como principal princípio de organização o setorial-corporativo; o projeto de um sistema nacional de ciência e tecnologia incorporaria o princípio territorial geopolítico do Estado Nacional -, sendo que o princípio paradigmático teria sido assumido pelas comunidades de pesquisadores e suas expressões associativas[27] e, em alguma medida, por programas do CNPq e das grandes universidades.
+
+Como questão deixada para a reflexão, sustentaremos que a reformulação do contrato social da pesquisa poderia colocar em funcionamento dispositivos de equivalência plurais e flexíveis, que combinem, em medida e direção a serem melhor analisadas em diferentes situações, as intersubjetividades implícitas e involucradas conforme os três princípios de organização do conhecimento: paradigmático, setorial, territorial. Não estamos pensando numa outra fórmula tripartite fixa, tais como a do "Estado, Ciência, Indústria", já que as redes de conhecimento e as equivalências de valor se manifestariam em diversas configurações. Os princíos de organização do conhecimento assim reconstruídos, não remetem a entidades ou sujeitos pré-estabelecidos, mas a regimes de conhecimento e informação cujos movimentos de reunião/separação podem assumir diferentes configurações, conforme algumas orientações preferenciais.
+
+
+
+
+
+6. Referências Bibliográficas
+
+ABRASCO - Manifesto da ABRASCO sobre a política de pesquisa para o setor saúde, com vistas ao plenário da Conferência Nacional de Ciência, Tecnologia e Inovação. Brasília, setembro de 2001.
+
+AGAMBEN, Giorgio. The Comming Community. Theory out of Bounds. Neapolis:London, University of Minnesota Press, 2001 (3a. Edição)
+
+ALBRECHTSEN, Hanne; JACOB, Elin K. The dinamics os classification systems as boundary objects for cooperation in the eletronic library. Library Trends, v.47, n.2, Fall 1998. Disponível em: http://alexia.lis.uiuc.edu/puboff/catalog/trends/47_2abs.html . Acesso em: 29 maio 2002.
+
+AMARAL, Marise B. A disciplina da natureza e a natureza das disciplinas: a ciência como produção cultural - relatos de um encontro com Timothy Lenoir. Episteme, Porto Alegre, v. 2, n. 4 117-126, 1997.
+
+BRANSCOMB,L., HOLTON, G. and SONNERT, G. Science for Society.2002 AAAS Yearbook. Capturado em 11-11-02, http://www.aaas.org/spp/yearbook/2002/ch36.pdf
+
+BUSH, Vannevar . Science: The Endless Frontier.A Report To The President By Vannevar Bush, Director Of The Office Of Scientific Research And Development, July 1945.United States Government Printing Office, Washington,1945.
+
+BRANSCOMB,L., HOLTON, G. and SONNERT, G. Science for Society.2002 AAAS Yearbook. Capturado em 11-11-02, http://www.aaas.org/spp/yearbook/2002/ch36.pdf
+
+CASTELLS, M. La Era de la información : Economia, Sociedad y Cultura de la economia informacional. Madrid, Alianza Editorial, 1997. Vol.1 : La Sociedad Red..
+
+COLLINS, H. M., (1998) `The Meaning of Data: Open and Closed Evidential Cultures in the Search for Gravitational Waves', American Journal of Sociology, 104, 2, 293-337.
+
+COLLINS, H. M., & KUSCH, M., The Shape of Actions: What Humans and Machines Can Do, Cambridge, Mass: MIT Press.1998.
+
+CUSSIUS, Adrian. Norms, networks and trails. In: KEELE CONFERENCE 1997. Pre-print; s/i.
+
+DEBRAY, Regis. Transmitir. O segredo e a força das idéias. Petrópolis, Ed. Vozes,2000.
+
+_________. Histoire dês quatre M. Lês Cahiers de Mediologie, no. 6, Art. 1. In: http://www.mediologie.com/numero6/art1.htm . Capturado em 24 de maio de 2000.
+
+DOUGLAS, Mary. How institutions think. Syracouse : Syracouse University Press, 1986.
+
+DRUCKER, Peter. Sociedade pós-capitalista. São Paulo: Livraria Pioneira Editora, 1994.
+
+DUMAS, B. Les savoir nomades. Sociologie et Societes, v.31, n.1, p.51-62, printemps, 1999.
+
+FRASCATTI MANUAL, OECD, 2002. Disponível na Internet: www.oecd.org . Consulta em 6-02-2003.
+
+FROHMANN, Bernard. Taking policy beyond Information Science: applying the actor network theory for connectedness: information, systems, people, organizations. In: ANNUAL CONFERENCE CANADIAN ASSOCIATION FOR INFORMATION SCIENCE,23. Edmond, Alberta, 7-10 June 1995.
+
+________. The Role of the Scientific Paper in Science Information Systems. University of Western Ontario, Ontario. Disponível na Internet: http://instruct.uwo.ca/faculty/Frohmann . Consulta em: 31 dez. 1999.
+
+GONZÁLEZ DE GÓMEZ, Maria Nélida. O caráter seletivo das ações de informação.. INFORMARE. Rio de Janeiro: v.5, n.2, p.7 - 31, 2000.
+
+GIBBONS, M. Innovation and the developing system of knowledge production. University of Sussex, Disponivel em: http://edie.cprost.sfu.ca/summer/papers/Michael.Gibbons.html . Acesso em: 06 nov. 2001.
+
+GUSTON, D.H. , KENISTON, K. Introduction. The social contract for science .
+
+In: GUSTON, D.H. , KENISTON, K. (eds.). The fragile contract. University Science and he Federal Government. Cambridge: MIT Press,1994.
+
+HABERMAS, Jurgen . The Theory of Communicative Action.. Boston: Beacon Press, 1987. v.2: Lifeworld and System: A critique of funtionalist Reason
+
+_______. Direito e Democracia. Entre faticidade e validade. Rio de Janeiro: Tempo Brasileiro, 1997. 2 v.
+
+_______ . Técnica e Ciência como "Ideologia". Lisboa, Edições 70, 1987.
+
+HAAS, Peter. "Introduction: Epistemic Communities and International Policy Coordination." International Organization, v.46, no.1, p.1-35, 1992.
+
+HAAS, P. M. ."Banning Chlorofluorocarbons : Epistemic Community Efforts to Protect Stratospheric Ozone." International Organization, v.46, n.1,p. 187-224.1992.
+
+HECKHAUSEN, Heinz. Interdisciplinarrity: problems of teatching and research in universities. [Nice]: [CERI], [1970]. Relatório baseado nos resultados do Seminário sobre Interdisciplinaridade nas Universidades, organizado pelo CERI em colaboração com o Ministério da Educação Francês e a Universidade de Nice (França), de 7 a 12 de setembro, 1970.
+
+HJORLAND, B.; ALBRECHTSEN, H. Toward a New Horizon in Information Science. JASIS, v. 46, no. 6, p.400-425, 1995.
+
+KNOKE, D.; PAPPI, F.U.; BROADVENT,J.; TSUJINAKA, Y. Comparing policy networks. Labor politics in the US, Germany, and Japan. Cambridge University Press, 1996.
+
+LATOUR, B. Ciência em Ação: como seguir cientistas e engenheiros sociedade fora. São Paulo: Ed. UNESP, 2000.
+
+_______. Tecnology is society made durable. In__________. A Sociology of Monsters. Essays on power, technology and domination. New York: Ed. John Law, 1993. p.103-131.
+
+_______. The politics of explanation: an alternative. In: Woolgar, S. Knowledege and reflexivity, new frontiers in the Sociology of knowledge. London:Sage Publications, 1988.
+
+_______. On technical mediation. Philosophy, Sociology, Genealogy. Common Knowledge, v.3, n.2, 29-64..
+
+________. From the World of Science to that of Research? Science,spring 1998. Special symposium for the 150th Anniversary of the AAAS(invited paper -publication date: April 98).
+
+________. When Things Strike Back a Possible Contribution of Science Studies to the Social Sciences, British Journal of Sociology, Special Millenium Issue edited by John Urry, v.51, no.1, pp.105-123.
+
+LENOIR, Thimoty . Registrando a ciência: os textos científicos e as materialidades da comunicação. Episteme, Porto Alegre, v. 2, n. 4, 55-72, 1997.
+
+LENOIR, Thimoty . A ciência produzindo a natureza: o museu de história naturalizada. Episteme, Porto Alegre, v. 2, n. 4, 55-72, 1997.
+
+LENOIR, Thimoty . Quando os cientistas fazem história Episteme, Porto Alegre, v. 2, n. 4, 55-72, 1997.
+
+LYOTARD, J. A condição pós-moderna. Rio de Janeiro: Ed. Olimpo, 1990.
+
+____________. "Logos e tekhnè, ou a telegrafia" (55-64); Comunicação no Colóquio "Nouvelles technologies et mutation des savoirs", organizado em outubro de 1986 pelo Collège internacional de philosophie e o IRCAM, por iniciativa de Bernard Stiegler. In: _______ O inumano. Considerações sobre o tempo. Lisboa, Ed. Stampa, 1990.
+
+MACHLUP, F.; KRONWINKLER, T. Workers Who Produce Knowledge: A Steady Increase, 1900 to 1970. In: Weltwirtschaftliches Archiv, vol.III, n..4, p.752-759, ano.
+
+MORIN, E. A articulação dos saberes. Im: O SENTIDO DA ESCOLA. Alves, Nilda; Garcia, Regina Leite (org). RJ, DP&A, 2002.
+
+NOWOTNY, Helga. The Place of People in Our Knowledge: Towards local objectivity and socially robust knowledge. European Review, Jg.7 , no. 2, 1999.Pag.247-262. Acessível em: http://www.wiss.ethz.ch/pub/helga
+
+POLANYI, Michael. The Republic of Science, Minerva 1:54-73 (1962);
+
+POLÍTICA NACIONAL DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO EM SAÚDE: UMA PROPOSTA. Documento produzido pela Comissão de Ciência e Tecnologia da ABRASCO, abril 202.
+
+La tecnología: sus formas y las diferencias de los medios. Hacia una teoría social pragmática de la tecnificación. Disponível em: http://www.tu-berlin.de/fb7/ifs/soziologie/Crew/rammert/articles/Relation.html . Contributed paper to the Academic Session "Advances in the Philosophy of Technology" of the "Académie Internationale de Philosophie des Sciences" in Karlsruhe, 22.5.1997
+
+SERRES, M. Hermes, uma Filosofia das Ciências. Rio de Janeiro: Grijalbo, 1990.
+
+SCIENCE, THE ENDLESS FRONTIER.1945-1995. LEARNING FROM THE PAST, DESIGNING FOR THE FUTURE. Columbia university, Conferences: I, 1994; II, 1995; III,1996.
+
+SCOONESI, Ian. Science, policy and regulation:challenges for agricultural biotechnology in developing countries.Institute Of Development Studies, University of Sussex. JULY 2001
+
+SCHEMENT, Jorge Reina. Porat, Bell and the Information Society Reconsidered: The Growth of information work in the early twentieth century. Information Processing and Management, v. 26, n.4, p.449-465, 1990.
+
+SCHWARTZMANN, Simon. A Space for Science - The Development of the Scientific Community in Brazil. The Pennsylvania State University Press, 1991 In: www.airbrasil.org.brCapt. Em: 12-10-2002
+
+STEVENSON, D.E. The Michelson-Morley Experiment as a Case Study in Validation. Version 2.August 6, 2002. Department of Computer Science, Clemson University. steve@cs.clemson.edu
+
+STOKES, D.E. Pasteur's Quadrant. Disponível em: www.cspo.org/products/conference/Bush. Consultado em 12-10-2002
+
+U.S.PRESIDENT S SCIENCE AND ADVISORY COMMITEE, Science, Government and Information: The Responsabilities of the Technical Community and the Government in the Transfer of Information. Washington, D.C. Government Printing Office, 1963. 52 p. (The "Weinberg Report")
+
+U.S.CONGRES, OFFICE OF TECHNOLOGY ASSESMENT. The Regulatory Environment for Science- A Technical Memorandum. Washington, DC: U.S. Government Printing Office, Feb. 1986
+
+VATTIMO, Gianni. As Aventuras da diferença. Lisboa: Ed.70,1988.
+
+VAZ, Paulo. O inconsciente artificial. São Paulo: Unimarco Ed., 1997.
+
+U.S.CONGRES, OFFICE OF TECHNOLOGY ASSESMENT. The Regulatory Environment for Science- A Technical Memorandum. Washington, DC: U.S. Government Printing Office, Feb. 1986
+
+WITTGENSTEIN, L. Investigações filosóficas. Petrópolis: Vozes, 1996.
+

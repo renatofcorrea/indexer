@@ -1,0 +1,3 @@
+O Tesauro Eletrônico do Mundo do Trabalho: produto de um esforço interdisciplinar
+
+O presente artigo relata a implementação, de uma ferramenta para o gerenciamento do Tesauro Eletrônico do Mundo do Trabalho, criado para a Unitrabalho, uma fundação voltada a pesquisas acadêmicas sobre o trabalho, agregando 84 universidades brasileiras. A ferramenta é constituída de duas interfaces: uma para consulta e navegação e outra para gerenciamento. Esta atividade foi realizada por uma equipe interdisciplinar, do ponto de vista da Interação Humano-Computador, buscando alternativas para o diálogo entre dois universos: o dos profissionais da Ciência da Informação e o dos profissionais da Ciência da Computação.

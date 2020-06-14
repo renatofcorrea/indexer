@@ -1,0 +1,241 @@
+Auto-arquivamento: uma opção inovadora para a produção científica
+
+
+
+Resumo: Trata do conceito inovador de auto-arquivamento e suas implicações no sistema de publicações científicas. Esta nova filosofia procura minimizar as conseqüências provocadas pelo controle editorial, pela revisão severa entre os pares e pela reserva dos direitos autorais. A experiência da Budapest Open Access Initiative (BOAI) é relatada com o objetivo de mostrar uma ação efetiva que viabiliza o auto-arquivamento. Fundamentada no acesso livre (open access), a BOAI pretende uma reorganização dos mecanismos de produção do meio científico, baseada em conceitos mais democráticos de acesso ao conteúdo.
+
+Palavras chave: Arquivos-abertos, Sistema de Publicação, Budapest Open Access Initiative, Acesso Livre, Auto-arquivamento
+
+
+
+1. Introdução
+
+A nova era da Internet tem provocado grandes mudanças no seio dos sistemas de publicações. Ao estabelecer um paralelo entre publicação eletrônica e publicação impressa, observa-se que a primeira apresenta grandes vantagens em relação a segunda, tornando-se uma das principais fontes de informação e de meio de disseminação de pesquisas científicas, além de proporcionar uma maior visibilidade e acessibilidade ao conteúdo.
+
+Taubes (1996) aponta algumas vantagens da publicação eletrônica, em relação à tradicional. Dentre elas, o autor cita a possibilidade do uso de :
+
+
+
+* recursos multimídia (áudio, vídeo, etc.) ;
+
+* recursos de pesquisa (ferramentas de busca) - pesquisas por palavra-chave, autor, título, etc. ;
+
+* links para artigos relacionados e citações ;
+
+* fóruns de discussão, cartas aos editores e ao autor ;
+
+* serviços de alerta automático.
+
+
+
+No que diz respeito ao valor quantitativo da produção científica do pesquisador, as publicações eletrônicas dão um passo a frente do modelo tradicional. Além de contabilizarem a produção individual (quantos artigos o autor publicou) e o número de citações (índice de impacto), as novas tecnologias de informação e comunicação possibilitam obter o somatório de vezes que o artigo foi acessado.
+
+Anterior ao surgimento da Rede, toda a publicação científica era produzida em papel a um custo alto. Ainda hoje, devido a fatores econômicos ou por problemas de distribuição, os pesquisadores enfrentam sérias dificuldades de acessar grande parcela da literatura científica. As editoras comerciais criam obstáculos que dificultam o acesso às informações, e conseqüentemente à sua disseminação. Os custos elevados das publicações científicas, tanto na forma impressa quanto eletrônica, são barreiras para muitos pesquisadores, bibliotecas, instituições de ensino e de pesquisa. Mesmo as instituições e universidades com grandes recursos não têm acesso a todas as publicações científicas. No modelo tradicional de publicação, os gastos de editoração são repassados ao usuário no momento de acessar o documento por meio de cobranças de assinaturas. Mesmo com o aparecimento da possibilidade de disponibilizar a produção científica via Internet, grandes editoras ainda se beneficiam, exigindo pagamento no acesso a versão em linha da revista científica, nas licenças de uso de sites e no sistema de pagamento por artigo lido (pay-per-view). Esta atitude tem prejudicado pesquisadores que pouco ganham com o mercado editorial e cujo objetivo é, ao final do processo, divulgar o trabalho científico produzido. É neste sentido que Harnard (2201a) comenta que
+
+
+
+Unlike the authors of books and magazines articles, who write for royalty or fees, the authors of refereed journal articles write only for 'research impact'. To be cited and built on in the research of others, their findings have to be accessible to their potential users.
+
+
+
+Em outras palavras, raramente os pesquisadores visam o lucro econômico quando publicam suas pesquisas em publicações científicas. Os objetivos estão muito mais voltados a divulgar seus trabalhos para obter reconhecimento profissional, influência e prestígio junto à sua comunidade, e, principalmente, contribuir para o desenvolvimento da ciência, disseminando o conhecimento.
+
+No contexto mais mercadológico que científico, muito se perde. Tanto o pesquisador não atinge a ampla divulgação de seu trabalho científico em sua comunidade científica, quanto enfrenta sérias dificuldades na obtenção das informações que necessita. As alternativas proporcionadas pelas tecnologias de informação, se não eliminam, ao menos reduzem essas barreiras.
+
+Outro ponto que tem sido bastante debatido como fator de dificuldade para divulgação da grande massa de produção científica é a questão relacionada a revisão entre os pares. Godlee (2000) alerta que a revisão feita por um comitê de uma revista científica passou de uma função prática de seleção para um papel de garantia inquestionável da qualidade do artigo, sem contemplar a transparência necessária para este processo. Entre os diversos aspectos negativos da tradicional revisão entre os pares, a autora destaca: a morosidade do processo, o grande volume de tempo dedicado pelos pesquisadores para exercer esta tarefa, a variabilidade de critérios e a seletividade e arbitrariedade excessivas. Muitos trabalhos científicos de qualidade têm sua divulgação limitada devido a julgamentos parciais por parte de um comitê científico. Estes trabalhos "não controlados" têm encontrado um espaço na Rede para serem divulgados e, cada vez mais, estão sendo citados em pesquisas científicas de renome. É evidente que um certo tipo de filtragem é importante, no entanto ele não deve existir a ponto de prejudicar a divulgação do produto científico.
+
+Alguns fórum científicos têm se formado para discutir questões relativas a revisão entre os pares. Um deles foi a International Conference on Biomedical Publications based on the Peer Review System and Global Communication (Revuelta 1998) realizada em Praga, em setembro de 1997. Neste encontro, foram discutidos os seguintes pontos relacionados a metodologia de seleção de trabalhos científicos e considerados prejudiciais ao processo de qualificação:
+
+
+
+La discriminación de sexos en el proceso de revisión, la hegemonía geográfica y lingüística del mundo anglosajón, la publicación científica en los países en vías de desarrollo, la inutilidad del enmascaramiento de autores y revisores, el problema de la autoría, el conflicto de intereses, las relaciones con los medios y el futuro de la revisión on-line.
+
+
+
+Os processos de avaliação dos trabalhos para publicação não estão isentos de erros, livres de discriminação e de conflitos de interesses. A estrutura tradicional montada para a qualificação do trabalho de pesquisa será ainda a forma desejada pela comunidade? O que as novas tecnologias de informação e comunicação poderiam contribuir para a melhoria deste processo?
+
+Aliados a questão do mercado editorial e da revisão entre os pares, encontram-se problemas relacionados aos direitos autorais. A preocupação com a apropriação ilegal da propriedade intelectual e a violação dos direitos autorais não surgiu com a Internet e com as publicações eletrônicas. Trata-se de um problema que sempre existiu na publicação impressa, e vem resistindo aos mecanismos e leis coercitivos. A lei sobre direitos autorais (Lei 9610 de 19 de fevereiro de 1998) não faz distinção entre o meio impresso e o digital, gerando discussões que mostram que a questão dos direitos autorais está em evolução, não sendo possível fazer uma previsão do seu futuro. Segundo Martins Filho (1998), "os direitos morais e patrimoniais sobre a obra pertencem ao autor que a criou" e se caracterizam por dois aspectos:
+
+
+
+* moral - que garante ao criador o direito de ter seu nome impresso na divulgação de sua obra e o respeito à integridade desta, além de lhe garantir os direitos de modificá-la ou mesmo impedir sua circulação ; e
+
+* patrimonial - que regula as relações jurídicas da utilização econômica das obras intelectuais. (Martins Filho 1998)
+
+
+
+
+
+Portanto, a lei de direitos autorais garante ao autor o controle exclusivo sobre a sua obra e, para alguns, são válidas tanto no ambiente impresso (mundo real) quanto no eletrônico (mundo virtual). As cópias sem autorização e o roubo da propriedade intelectual (plágio) no ambiente eletrônico, são, portanto, violações ao direito autoral.
+
+As questões relativas aos interesses econômicos que envolvem as publicações comerciais são minimizadas quando se discute o interesse das comunidades acadêmicas e científicas, cuja preocupação maior é, tão somente, a proteção à propriedade intelectual.
+
+A divulgação de um pré-print é um direito legal do autor e só pode ser modificado no caso de imposição por normas editoriais de uma revista.
+
+
+
+The right to self-archive the refereed postprint is a legal matter, because the copyright transfer agreement pertains to that text. But the pre-refeering preprint is self-archived at a time when no copyright transfer agreement exists and the author holds exclusive and full copyright. So publisher policy forbidding prior self-archiving of preprints is never a legal matter, but merely a journal policy matter (as it would be if the journal were to forbid the submission of papers by authors with blue-eyes uncles !) (http://www.eprints.org/self-faq)
+
+
+
+No sistema tradicional de publicação, geralmente o autor perde o direito de divulgar um artigo, um relatório de pesquisa ou outro documento desta natureza, uma vez que já tenha se comprometido com uma casa editorial. Este quadro tem sofrido mudanças significativas. Algumas revistas científicas têm explicitamente encorajado autores a divulgarem seus pré-prints e postprints.
+
+Neste contexto, algumas ações estão sendo tomadas no âmbito do sistema de publicação científica com o intuito de incentivar o acesso e a divulgação dos trabalhos produzidos. A comunidade científica vem tentando retomar o controle de suas publicações, criando mecanismos para possibilitar o acesso livre e gratuito.
+
+Este artigo trata especificamente do conceito inovador de auto-arquivamento que, como veremos mais adiante, procura minimizar as conseqüências provocadas pelo controle editorial, pela revisão severa entre os pares e pela reserva dos direitos autorais. A experiência da Budapest Open Access Initiative (BOAI) é relatada com o objetivo de mostrar uma ação efetiva que viabiliza o auto-arquivamento.
+
+
+
+3. A Iniciativa dos Arquivos Abertos (Open Archives Initiative - OAI)
+
+Em 1991, Paul Ginspard, implantou o primeiro repositório de eprints mantido pelo Laboratório Nacional de los Alamos, Novo México. Inicialmente concebido para área de Física, conta hoje com as áreas de Matemática e Ciências da Computação. O crescente número de artigos arquivados nesse repositório desde o período de sua criação comprova o sucesso desse modelo para comunicação científica.
+
+Várias iniciativas similares foram criadas em diferentes áreas do conhecimento, como por exemplo o GogPrints [i], a Perseus Digital Library [ii], NSDL Open Archives [iii], PhysNet [iv]. Inicialmente, surgiram informalmente como um meio de compartilhar em uma mesma comunidade os resultados de pesquisas, relatórios preliminares, trabalhos ainda não revisados (non-peer reviewed), etc. Com o aumento desses tipos de repositórios disponíveis na Web, sentiu-se a necessidade de criar uma estrutura técnica e estabelecer padrões de tecnologias de informação e comunicação que viabilizassem a interoperabilidade entre eles.
+
+Com este objetivo, foi realizado em Santa Fé, Novo México, em outubro de 1999, um encontro com representantes das organizações que gerenciam provedores de serviços de eprint. Como fruto desta reunião, foi implantado a Iniciativa dos Arquivos Abertos (Open Archives Initiative - OAI). Esta iniciativa tem como objetivo desenvolver e promover a implantação e a disseminação dos conteúdos dos arquivos de eprint, chamados arquivos abertos.
+
+A denominação "arquivos" é utilizada pela comunidade de eprint para se referir aos repositórios de trabalhos acadêmicos, e passou a ser usada pela OAI, num sentido mais amplo, para definir os repositórios de informações armazenadas. (Lagoze, 2001).
+
+A OAI é apoiada pela Digital Library Federation, pela Coalition for Networked Information e pela National Science Foundation, e dedica-se a solucionar problemas relacionados a interoperabilidade entre os arquivos abertos, com o objetivo de ampliar o acesso às publicações científicas e acadêmicas.
+
+Atualmente, existem, registrados na OAI, 95 provedores de dados (data providers), que disponibilizam os metadados dos conteúdos de seus arquivos e 9 provedores de serviços (data services) que executam a coleta automática de dados (harvesting) nos arquivos abertos.
+
+A filosofia definida pela comunidade que participa da OAI envolve várias noções. O conceito de auto-arquivamento é um deles. Segundo Van de Sompel & Lagoze (2000), o auto-arquivamento é uma das soluções grandemente incentivadas pela OAI. É justamente este conceito que passamos a descrever a seguir.
+
+
+
+4. Auto-arquivamento : conceituação
+
+Segundo descrito no site (http://www.eprints.org/self-faq) reservado a questões sobre Eprint da Universidade de Southampton do Reino Unido, auto-arquivar (to self-archive) significa depositar um documento digital em um site público da web, preferencialmente em repositório do tipo Eprint compilado para o protocolo Open Archive Initiative (OAI). Ao submeter um documento em um ambiente desta natureza, o autor informa o conteúdo de um conjunto de metadados definido pela OAI a um sistema do tipo Eprint e envia o documento ao repositório ou indica a url onde se encontra o texto referente aos metadados. O protocolo OAI é importante para viabilizar a coleta automática dos metadados.
+
+Agindo desta forma, o autor garante a visibilidade e acesso aos trabalhos de pesquisa desenvolvidos, aumentando as possibilidades de ser citado e conhecido amplamente. Além disso, minimiza radicalmente as barreiras impostas nos sistemas tradicionais de publicação. Em outra palavras,
+
+
+
+The purpose of self/archiving is to make the full text of the research output of scholars/scientists and their institutions visible, accessible, harvestable, searchable and useable by any potential user with access to the Internet (http://www.eprints.org/self-faq)
+
+O auto-arquivamento não restringe o ato de depositar um documento exclusivamente ao autor do texto eletrônico, mas admite igualmente a submissão por terceiros, desde que autorizada pelo autor.
+
+A tipologia de documentos em um sistema de auto-arquivamento reflete o caminho habitual percorrido no registro de uma pesquisa. Assim sendo, um repositório Eprint deve permitir a inclusão tanto de pré-prints como de postprints e fazer a ligação entre as diversas versões.
+
+
+
+An eprint is the digital text of a peer-reviewed research article. Before refereeing and publication, the draft is called a (preprint(. The refereed, published final draft is called a (postprint(. Eprint include both preprints and postprints (as well as any significant draft in between, and any postpublication updates). Researchers are encouraged to self-archive them all. The OAI tags keeps track off all versions ((http://www.eprints.org/self-faq).
+
+
+
+O software Eprint desenvolvido pela Universidade de Southampton admite todas estas possibilidades. Este software está sendo atualmente adotado pelo Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT) que já conta com repositórios de arquivos abertos implantados em algumas comunidades científicas nacionais.
+
+Uma das grandes preocupações dos cientistas no que se refere ao auto-arquivamento consiste na qualidade dos trabalhos submetidos ao repositório. É importante salientar que a revisão pelos pares continua a ocupar seu papel essencial no controle do material publicado.
+
+A filosofia dos arquivos abertos faz uma alerta aos procedimentos de negociação de transferência de direitos autorais junto ao editor. Uma solução interessante adotada quando o editor não admite o auto-arquivamento do postprint é sugerida no site do Eprint (http://www.eprints.org/self-faq) da seguinte forma :
+
+
+
+[...] in those cases where the publisher does not agree to modify the copyright transfer agreement so as to allow the self-archiving of the refereed final draft ((postprint(), a corrigenda file can instead be self-archived, alongside the already archived preprint, listing the changes that need to be made to make the pre-refereeing preprint conform to the refereed postprint.
+
+
+
+Finalmente, é necessário esclarecer a diferença entre auto-publicação (vanity press) e auto-arquivamento (refereed research). No modelo preconizado pelos arquivos abertos, o fato de tornar público um texto científico não significa que se trate de uma publicação. No entanto, o fato do artigo ter obtido uma boa apreciação entre os pares é suficiente para ser contado como publicação. A distinção no meio científico é portanto a qualidade do trabalho e para isto necessita da validação de um grupo de especialistas. Nesse sentido, Harnard (2001) esclarece que
+
+
+
+The essential difference between unrefereed research and refereed research is quality-control [...] and its certification (by an established peer-reviewed journal of known quality). Although researchers have always wished to give away their refereed research findings, they still wish them to be refereed, and certified as having met established quality standards. Hence the self-archiving of refereed research should in no way be confused with self-publishing, for it includes as its most important component, the online self-archiving, free for all, of refereed, published research papers.
+
+5. Budapest Open Access Initiative (BOAI)
+
+Ações concretas que seguem a filosofia do auto-arquivamento começam surgir no cenário mundial. Uma delas é a Budapest Open Access Initiative (BOAI) (http://www.soros.org/dev/manifesto/read.shtml). Esta iniciativa foi criada em dezembro de 2001 durante o encontro promovido pelo Open Society Institute (OSI [v]). Participaram vários representantes de instituições que apóiam o acesso livre (open access) da literatura de pesquisa.
+
+Por open access, a BOAI entende uma literatura
+
+
+
+[...] free availability on the public internet, permitting any users to read, download, copy, distribute, print, search, or link to the full texts of these articles, crawl them to indexing, pass them as data to software, or use them for any other purpose, without financial, legal, or technical barriers other than those inseparable from gaining access to the internet itself (http://www.soros.org/dev/manifesto/help.shtml)
+
+
+
+A Iniciativa salienta que em todo o processo deve ser dado ao autor o controle da integridade do conteúdo do trabalho e respeitado o direito de ser citado e devidamente referenciado.
+
+O encontro de Budapeste teve como objetivo maior impulsionar os esforços de vários países no sentido de disponibilizar gratuitamente artigos produzidos por cientistas. O leque variado de assuntos discutidos contemplaram:
+
+
+
+* integração dos diversos esforços de acesso livre a literatura existentes no mundo;
+
+* estratégias de apoio a comunidades de pesquisadores, suas pesquisas e instituições envolvidas;
+
+* aplicação eficiente dos recursos da OSI e de outras agências de fomento para atingir, da melhor forma possível, os objetivos do acesso livre a literatura científica.
+
+
+
+Como salientado por Grimware (2002), para atingir o que pretende a concepção do open access será necessário quebrar as barreiras impostas pelos altos preços das assinaturas de revistas científicas. O autor salienta que
+
+
+
+By their nature, subscription prices cause limited access to the literature. Even the best-funded institutions cannot afford every journal, and smaller institutions, less-well-off countries, and most individuals have no access to a significant portion of the literature.
+
+
+
+Para tanto, a BOAI adota duas estratégias principais. A primeira delas diz respeito ao auto-arquivamento, onde o autor deposita seus textos completos em arquivos eletrônicos abertos. Estes arquivos devem seguir as normas do protocolo da Open Archive Initiative para que possa ser efetuado a coleta automática de dados, facilitando o acesso ao conteúdo. A segunda estratégia refere-se ao financiamento de revistas de pesquisa que não cobrem pela assinatura ou acesso.
+
+A finalidade da iniciativa de Budapeste não é boicotar os editores científicos, mas tornar acessível os produtos produzidos pelas comunidades científicas, ou seja quebrar barreiras. Em recente participação na lista de discussão da American Scientist Fórum (http://amsci-forum.amsci.org/archives/september98-forum.html), Bosc (2002) esclarece alguns pontos de atuação da BOAI. Segundo a autora [vi]
+
+
+
+1) auto-arquivamento preconizado pelo BOAI não é sinônimo de depósito de artigos não controlados pelos pares;
+
+2) os artigos submetidos nos arquivos institucionais podem ser de duas naturezas: pré-publicações que serão controladas pelos pares e post-publicações que já foram certificadas, ou seja publicadas em revistas;
+
+3) os artigos publicados nas revistas são artigos que foram fornecidos pelos pesquisadores e para os quais não esperam remuneração;
+
+4) cada pesquisador escolhe a política de arquivo (pré-publicação ou post-publicação) que lhe convenha, em função dos riscos que estima correr devido ao depósito antes da publicação ou das vantagens por difundir os resultados rapidamente [...];
+
+5) BOAI não quer dizer destruição do sistema de edição existente. A BOAI apela aos editores por uma nova forma de cooperação: ela demanda um acesso gratuito em linha dos artigos que foram fornecidos pelos pesquisadores [...]
+
+
+
+Como podemos observar, as ações do BOAI estão em comum acordo com os conceitos descritos para o auto-arquivamento.
+
+
+
+
+
+6. Conclusão
+
+No decorrer dos últimos anos, tem-se observado importantes mudanças no sistema de publicação científica. Se por um lado a Internet e as novas tecnologias da informação e da comunicação têm oferecido os meios tecnológicos para viabilizar estas transformações, por outro, o mundo da ciência tem buscado novas estratégias de divulgação e acesso dos resultados de pesquisas.
+
+O auto-arquivamento tem sido uma opção de grande aceitação no mundo científico. Este meio tem encontrado espaço em iniciativas semelhantes ao BOAI, citado no presente trabalho. Fundamentado na filosofia do acesso livre, ela pretende uma reorganização do sistema de publicações, baseada em conceitos mais democráticos de acesso ao conteúdo.
+
+Procuramos neste artigo mostrar esta nova concepção de publicação científica, esclarecendo o conceito inovador de auto-arquivamento e sua aplicação na BOAI.
+
+
+
+
+Bibliografia
+
+BOSC, Helene. BOAI: faisons tomber les fausses-idées. LISTSERVER.SIGMAXI.ORG. Disponível em: < http://listserver.sigmaxi.org/sc/wa.exe?A2=ind02&L=september98-forum&F=l&S=&P=19048>. Acesso em: 07 jun. 2002.
+
+BUDAPEST OPEN ACCESS INITIATIVE. Supported by the Open Society Institute's Information Program. Disponível em:< http://www.soros.org/openaccess/index.shtml>. Acesso em 10 jun. 2002.
+
+GODLEE, Fiona. Peer review in the e-environment. In: FREEDOM OF INFORMATION CONFERENCE, 2000, New York. [Papers]. London: BioMed Central, 2000. Disponível em: <http://www.biomedcentral.com/info/conference.asp>. Acesso em: 20 maio 2002.
+
+GRIMWADE, Alexander M. Open societies need open access. The Scientist, v. 16, n. 4, feb. 2002. Disponível em: <http://www.the-scientist.com/yr2002/feb/comm_020218.html>. Acesso em: 11 jun. 2002.
+
+HARNAD, Stevan. For whom the gate tolls? 2001. Disponível em: <http://www.ecs.soton.ac.uk/~harnad/Tp/resolution.htm>. Acesso em: 10 jun. 2002.
+
+HARNARD, Stevan. Learned inquiry and the net: the role of peer review, peer commentary and copyright. Disponível em: <http://cogprints.soton.ac.uk/documents/disk0/00/00/16/94/cog00001694-00/harnad98.toronto.learnedpub.html>. Acesso em:07 jun. 2002.
+
+HARNARD, Stevan. The self-archiving initiative: freeing the refereed research literature online. 2001a Disponível em:<http://www.ecs.soton.ac.uk/~harnad/Tp/nature4.htm>. Acesso em: 06 jun. 2002.
+
+LAGOZE, Carl ; SOMPEL, Herbert Van de. The Open Archives Initiative: building a low-barrier interoperability framework. 2001. Disponível em: <http://www.openarchives.org/documents/oai.pdf> Acesso em: 18 maio 2002.
+
+MARTINS FILHO, Plínio. Direitos autorais na internet. Ciência da Informação, Brasília, v.27, n. 2, p. 183-188, maio/ago. 1998.
+
+REVUELTA, Gemma. La revisión revisable: Congreso Internacional sobre Publicaciones Biomédicas basadas en el sistema de peer review y communicación global. Revistas Científicas y Medios de Comunicación, n. 10, ene./mar. 1998. Disponível em: <http://www.imim.es/quark/num10/cronica.htm>. Acesso em:11 jun. 2002.
+
+SIMON, Imre. A propriedade intelectual na era da internet. DataGramaZero, v.1, n.3, jun. 2000. Disponível em:<http://www.dgz.org.br/jun00/Art_03.htm>. Acesso em: 04 jun. 2002.
+
+TAUBES, Gary. Science journals go wired. Science Magazine, v. 271, n. 5250, feb. 1996. Disponível em: <http://www.epub.org.br/papers/sciwir1.htm>. Acesso em: 04 jun. 2002.
+
+VAN DE SOMPEL, Herbert ; LAGOZE, Carl. The Santa Fe Convention of the Open Archives Initiative. D-Lib Magazine, v. 6, n. 2, feb. 2000. Disponível em: <http://www.dlib.org/dlib/february00/vandesompel-oai/02vandesompel-oai.html>. Acesso em: 10 jun. 2002.
+

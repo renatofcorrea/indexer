@@ -1,0 +1,351 @@
+Alguns aspectos do uso da informação na economia da informação
+
+
+RESUMO
+
+Se a sociedade encontra-se em uma economia da informação, como as empresas estão usando a informação para competir no mercado? Este artigo busca a estruturação do referencial teórico para a construção do modelo que permita medir o uso da informação por parte das organizações. Com base nos levantamentos realizados, entende-se que as empresas usam a informação em busca de seis estratégias genéricas: redução de custos, criação de valor, inovação, redução do risco, virtualização e diferenciação de produto. Destacam-se, na economia da informação, as firmas que conseguem criar a interação entre os atores econômicos, tirar proveito da interconectividade e sincronizar as suas operações.
+
+Palavras-chave: Uso da informação; Economia da Informação; Modelo genérico.
+
+
+
+INTRODUÇÃO
+
+Muito se tem falado a respeito de uma nova economia, em um ambiente de rápidas transformações e novos tipos de negócios. A principal característica seria a quantidade de informações a serem processadas por uma organização, que cresceu muito quando comparada ao montante que se processava há alguns anos. O advento da Internet e a possibilidade de realizar negócios de formas diversas fizeram surgir uma preocupação quanto ao processamento de informações necessárias à tomada de decisões no ambiente de negócios da empresa.
+
+Então, pergunta-se: "São necessárias novas regras para a economia?" Shapiro & Varian1 afirmam que as mudanças vistas hoje são decorrentes dos avanços tecnológicos, mas as leis da economia continuam valendo. Não mudaram. A mudança na economia está na forma em que se usa a informação, daí o termo, mais apropriado, de economia da informação.
+
+Segundo Evans & Wurster2, a mudança fundamental com a economia da informação não é especificamente alguma tecnologia, mas o novo comportamento dos agentes econômicos, que surgiu e está alcançando uma massa crítica. Os autores vislumbram o surgimento da conectividade entre as pessoas. Tal movimento tem causado transformações profundas na forma de as organizações operarem e na necessidade de se repensarem os fundamentos da estratégia empresarial.
+
+Essas transformações podem ser entendidas como as novas formas de negócios, comunicação e interação. Novas tecnologias a cada dia possibilitam melhorias que diminuem obstáculos como tempo e espaço. Tanto as pessoas quanto as organizações têm trocado mais informações, seja pelo envio de mensagens ou troca de arquivos. O surgimento da conectividade cria uma série de benefícios jamais imaginados. Há algum tempo, as pessoas têm trocado música por meio de fitas cassetes, discos de vinil e cd. Até então a troca (ou às vezes empréstimos) de música está condicionada a uma troca de bens físicos. Quem poderia prever que um dia as pessoas estariam trocando música entre si de maneira digital, on-line, sem qualquer contato físico? O Napster entendeu o que seria conectividade e proporcionou às pessoas algo realmente novo.
+
+Nesses termos, a conectividade seria uma oportunidade criada pela tecnologia2. A tecnologia por sua vez seria o instrumento que criou tal ambiente. Resta agora entender o fluido que irriga esse ambiente, fazendo com que a tecnologia funcione e a conectividade exista – a informação.
+
+Este artigo é parte da revisão de literatura do projeto da tese de doutorado em andamento, a qual tem como objetivo principal desenvolver e testar um modelo conceitual de medição do uso da informação pela alta gerência das organizações. Até o momento foram identificadas potenciais dimensões de análise. Estas dimensões passarão a ser os constructos a serem testados, buscando-se, por meio da Análise Fatorial Confirmatória, na próxima fase da pesquisa, suas confirmações e a estruturação da escala para medição.
+
+
+
+A INFORMAÇÃO
+
+O estudo da informação está no âmbito da Teoria da Informação. Esta teoria foi formalizada no início do século XX, alicerçada em um sistema de base matemática, cujo objetivo era estudar os problemas de transmissão de mensagens. Preocupava-se naquele momento com a quantidade de informação suportável por um dado canal, em busca de prever e corrigir as distorções que pudessem ocorrer durante a transmissão. Assim, tal teoria era apresentada como uma técnica da engenharia de comunicações vindo a ser denominada Teoria Matemática da Informação, ou ainda Teoria Matemática da Comunicação3.
+
+Para a análise informacional, a informação é um agente dissipador de incertezas cujo objetivo é proporcionar alterações no comportamento das pessoas, reduzindo a incerteza4. Diferencia-se da informática e da cibernética. A informática tem o objetivo de tratar da automação da informação, e a cibernética volta-se para os problemas de controle da informação nas máquinas e nos organismos vivos5.
+
+A mudança no comportamento do receptor de uma dada mensagem depende do quanto de novo tem a mensagem. Assim, entende-se que, quanto maior for a taxa de novidade, maior será a mudança no comportamento das pessoas. Isso leva ao estabelecimento da interação entre taxa de informação e originalidade: mais informação resulta de maior originalidade, ou menor previsibilidade. A busca pelo novo é sempre um desafio. Entretanto, não há justificativa para uma incessante busca do novo a todo custo. Isto traria a negação do que foi adquirido no passado. Ressalta-se ainda que a valorização do que é novo é fomentada pela sociedade, podendo ser desestimulada em um momento e fomentada em outro5.
+
+Então verifica-se que a questão da originalidade é que dá valor a informação. Não pode ser em excesso, nem nula. A mensagem de maior valor é aquela que tende para a entropia máxima, sem nela cair. A mensagem ideal pode ser caracterizada como aquela que possui o máximo de informação, ou com tendência a entropia3. Contudo, à medida que a taxa de informação aumenta em uma mensagem, menor será sua inteligibilidade (e o inverso também é verdadeiro). Usa-se nessa ocasião o efeito da redundância, que é a forma de tornar mais clara a mensagem, de modo a absorver os possíveis ruídos que nela existam. Como ruído entende-se todo sinal ou signo inserido na mensagem que não se pretendia transmitir, prejudicando sua intelecção5. Falhas observadas na transmissão de uma informação podem surgir, uma vez que o emissor, normalmente o subordinado em uma organização, não compreende a(s) necessidade(s) do receptor, ou seja, do chefe6.
+
+Neste artigo, entende-se por informação:
+
+"(...) qualquer coisa que possa ser digitalizada, transformada em um fluxo de bits"1; sendo dados estruturados cuja forma e conteúdo são apropriados para um uso em particular, possuindo significado contextual, de utilidade, proporcionando incremento ao conhecimento estabelecido5,7,8,9,10.
+
+A contextualização é a principal característica para a informação. Uma informação pode ser importante, ter valor, fazer sentido para uma pessoa, e não causar nenhuma mudança em outra pessoa. A informação, por fim, representa algo que existe. "A informação, numérica ou não, não é uma abstração, mas está inexoravelmente ligada a uma representação física (...) Assim, o processamento da informação está inexoravelmente ligado ao universo material e suas leis"11.
+
+Hoje o mundo passa pelo problema de se ter muitas informações, significando uma sobrecarga. Deve-se tomar cuidado com o excesso. Como disse Herbert Simon, citado por Shapiro & Varian1, "a riqueza da informação cria a pobreza da atenção". Essa sobrecarga é decorrente de avanços tecnológicos que têm proporcionado um crescente aumento no número de dispositivos que tratam a informação. Mas não é esse o ponto mais relevante de estudo atualmente. A maior preocupação da ciência deve estar em entender como a informação é transmitida, como pode ser armazenada e como pode ser usada para tomar decisões6.
+
+Davenport12 estrutura a gestão da informação em quatro etapas: a) determinação de exigências; b) obtenção; c) distribuição; d) utilização. Afirma ainda que "(...) o uso da informação é algo bastante pessoal" e que é "(...) relativamente fácil estimar esse uso". Ou seja, a gestão da informação preocupa-se com o indivíduo, o que este precisa e como utiliza.
+
+
+
+COMO AS EMPRESAS UTILIZAM A INFORMAÇÃO
+
+Se as regras da economia não mudaram e a sociedade encontra-se hoje inserida em uma economia baseada na informação, como as empresas estão usando a informação para competir no mercado? A preocupação com o uso da informação nos negócios é um assunto que está na pauta da academia há algum tempo. Acredita-se que a organização baseada na informação é o modelo de organização do futuro, fundamentada no conhecimento e formada por especialistas13.
+
+Porter & Millar14 afirmam que as transformações nas organizações eram oriundas da "revolução da informação". Segundo eles, observam-se reduções de custos, de processamento e transmissão de informações, e estes fatos trazem novas formas aos negócios. Fazem um alerta aos gerentes: "É necessário o uso adequado das informações para que as organizações consigam vantagens competitivas."
+
+A sociedade entra na década de 1990, e o termo revolução da informação continua na pauta do dia das instituições. Mas pouco se entendia no início sobre as causas, os usos e as conseqüências da informação nos negócios. Mais para o fim da década, as teorias a respeito do tema começam a ser mais bem discutidas, buscando-se explicar as mudanças que aconteciam e que estavam para acontecer.
+
+Atualmente a informação é utilizada de diversas formas. Usa-se a informação para saber como agem os clientes, para controlar estoques, aumentar a produtividade etc. A informação pode ser um ativo, ou simplesmente uma ferramenta de suporte à decisão. Em diversas publicações, a informação é tratada com finalidades comuns, mas nem sempre explícitas.
+
+
+
+REDUÇÃO DE CUSTOS
+
+A busca pela redução de custos é a proposição inicial do uso da Tecnologia da Informação (TI)10,15. Por meio da reestruturação das funções organizacionais e introdução de eficientes sistemas transacionais, tem-se buscado a diminuição do tráfego de papel nos escritórios e a automação de diversas atividades básicas. No modelo de análise da informatização da empresa, percebe-se que a redução de custo é característica do primeiro estágio de evolução da informática na organização – o estágio de iniciação16.
+
+Com o tratamento automático da informação, a organização é capaz de adquirir economia de escala, que lhe trará por conseguinte a redução de custo de operação. Os sistemas transacionais são os maiores responsáveis pela redução de custos9,17. São sistemas para automação de escritório, automação comercial e automação industrial, empregados na contabilidade, folha de pagamento, contas a pagar, contas a receber, controle físico de estoque etc.
+
+Segundo Alter7, o custo é o principal determinante da satisfação do cliente. Com o uso de Sistemas de Informações (SI), busca-se reduzir custos tanto para clientes internos como externos, e as medidas típicas para custos são o preço de aquisição, custo de propriedade e montante de tempo, além da atenção requerida.
+
+Percebe-se que a informação é capaz de alterar os custos em qualquer parte da cadeia de valor de um firma14. No passado, a ênfase era dada na redução de custos mediante processamento repetitivo da informação, como no exemplo da digitação. Atualmente, até mesmo uma linha fabril é capaz de reduzir custo, uma vez que a produção processe informações necessárias para controle de estoque de matérias-primas, hora/máquina disponível etc.
+
+Como exemplo prático do impacto do uso da informação para redução de custo, tem-se o caso da GOL Linhas Aéreas, que entrou no mercado de aviação brasileiro utilizando um avançado sistema de informação para manutenção das aeronaves e outro para venda de bilhetes por telefone e pela Internet18. No pátio do aeroporto, o SI avalia diariamente a situação mecânica e operacional de cada aeronave, o que proporciona 12 meses de vôos durante o ano, enquanto a concorrência coloca o seu avião no ar durante 11 meses. Na verdade, a informação gerenciada permite saber diariamente a condição de manutenção operacional da aeronave, de forma que elimina um mês que o aparelho teria de ficar detido para reparo. A venda de bilhetes on-line, por sua vez, permite à GOL não manter custos fixos com agências físicas e disponibiliza a qualquer momento, para qualquer funcionário, a quantidade de passageiros em uma aeronave, possibilitando adequação de combustível e alimentação a serem gastos.
+
+Para Howell19, as iniciativas de redução de custos têm sido praticadas de sete formas:
+
+a) Análise de custo e lucratividade – visando a entender os direcionadores de custos e a identificar os produtos mais lucrativos, utilizando, por exemplo, custeio ABC.
+
+b) Eliminação de desperdício e foco em operações – sabidos quais os custos e os diferentes clientes, eliminam-se os produtos e clientes de baixa lucratividade, em busca de diminuir os custos no geral.
+
+c) Organizações focadas e horizontais – orientadas mais para as necessidades e expectativas dos clientes do que em previsões e expectativas internas, resultando no alinhamento e velocidade dos processos para geração de satisfação dos clientes.
+
+d) Planejamento do custo do produto (target costing) – baseado no preço em que os clientes estão dispostos a pagar pelo produto/serviço.
+
+e) Gerenciamento da cadeia de suprimentos, análise da cadeia de valor e outsourcing – significa entender como os custos são originados e as prováveis formas de diminuição.
+
+f) Kainzen costing – ou aprimoramento do custeio, significa estar atento continuamente para oportunidades que tragam cortes de custos do negócio, o que é possível ter dentro de uma cultura organizacional própria.
+
+g) Economia de ativos – investir somente nos ativos necessários ao desenvolvimento do negócio, buscando minimizar o desperdício.
+
+No tocante à cadeia de suprimentos de uma firma, Fine20 sugere que esta deva ser encarada como um conjunto de cadeias de capacidades. Na gestão da cadeia, a montante (do lado dos fornecedores) e a jusante (do lado dos clientes), a firma deve buscar adquirir velocidade para a sua cadeia, de forma a conquistar reduções de custos. Um dos benefícios da gestão da cadeia de suprimentos é a redução de estoques. Além disso, a capacidade gerada por essa cadeia permite a especialização de atividades, para cada organização que faz parte da cadeia, de modo a trazer redução nas operações, seja em tempo ou em custo. Tudo isso tendo como base a infra-estrutura de TI e um rico fluxo de informação.
+
+O fluido que movimenta essa cadeia é a informação. No ajuste ideal do tráfego de informação entre a empresa e os fornecedores, ter-se-á um fornecimento de insumos adequado em tempo e em custo. Com a informação básica do lado do cliente, a empresa poderá competir, tendo a noção das necessidades e preferências dos consumidores dos seus produtos, possibilitando a entrega em tempo e com características exigidas (ou esperadas).
+
+Como exemplo de redução de custo na cadeia de suprimentos, tem-se o uso do Electronic Data Interchange (EDI) na conexão entre empresa-fornecedor, com o intuito de reduzir custos com estoque, otimizar a expedição no tempo gasto com pedidos e no tamanho dos lotes remetidos21. Outro exemplo é o das aplicações para manutenção e reparo Maintenance, Repair and Overhaul (MRO). O uso da TI nesse campo permite às empresas aéreas ganho em eficiência, captura do conhecimento e redução de custo. As fornecedoras de serviços para as empresas aéreas passam a ter melhores informações sobre as necessidades do setor, incluindo planejamento, status dos reparos e modificações a serem feitas22. Tudo isso influi para a diminuição dos custos de operação.
+
+Na formação do target costing,Shapiro & Varian1 lembram que, na economia da informação, os bens informacionais possuem um custo alto de produção, mas são baratos para reprodução. Em outras palavras, é afirmar que "(...) um bem da informação envolve altos custos fixos, mas baixos custos marginais". Isso implica "(...) fixar o custo da informação de acordo com seu valor, não com o seu custo". A redução de custo pelo uso estratégico da informação acarreta ganho para a competitividade da organização e contribui indiretamente para agregação de valor para o produto e/ou para a própria cadeia de valor da firma.
+
+Criação de valor
+
+Para os pesquisadores da área de economia industrial, valor é o quanto os consumidores estão dispostos a pagar a mais por um produto ou serviço23. Um negócio torna-se lucrativo à medida que o valor criado ultrapassa os seus custos. E o uso intensivo da TI possibilita a ampliação desse ganho.
+
+Segundo Porter & Millar14, cada atividade de valor, dentro da cadeia de valor, utiliza componentes físicos e informacionais. A TI se encarrega de capturar, manipular e distribuir a informação necessária a cada atividade. A criação de valor pela TI está direcionada à eficiência que esta promove aos processos dispostos na cadeia de valor. Isso significa indagar, no caso da atividade de logística de saída, o quanto mais rápida pode ser a entrega do produto ao cliente com o uso da TI? Cabe à gerência fazer este questionamento de forma a entender como a TI traria benefícios, ou, em outras palavras, criaria valor.
+
+Para Ramirez24, as idéias de valor originárias da indústria são limitadas. Existe uma alternativa que vai além da cadeia de valor – a co-produção do valor. Enquanto para a economia industrial o valor é criado de maneira seqüencial, dentro de uma cadeia de valor, percebendo-se a agregação (ou adição) e a destruição do valor pelo consumidor, na co-produção de valor esta considera a criação de valor de forma não-linear, interativa, com vários autores no processo de produção, e de maneira transitiva. Além disso, os consumidores, nesta ótica, não destroem o valor.
+
+O que Ramirez24 desenvolveu é um framework que dá uma nova visão a respeito da criação do valor. Sobretudo, destacam-se a interação entre os atores econômicos, a interconectividade e a sincronização das ações. Essa idéia é corroborada por Stabell & Fjeldstad25, quando afirmam que a lógica de criação de valor em uma rede é por meio do linking entre os clientes.
+
+Acredita-se, portanto, que o valor é exógeno à firma, caracterizado pelo poder de relacionamento de cliente e de fornecedores26,27. Isso implica novas práticas para definição de negócios, estruturação da organização, gerência e para a busca de produtividade na economia atual. Para Venkatraman28, a TI pode colaborar intensivamente para obtenção dessas mudanças. Entretanto, a TI pode alavancar a performance da empresa, mas somente ocorrerá se acompanhada pela gestão de informações12,29.
+
+Sawhney30 atribui a tal sincronização uma forma de obtenção de melhores resultados para o negócio. Isso significa utilizar a informação de forma sincronizadano negócio. As organizações devem separar os recursos focados no produto para uma estratégia de recursos focados no cliente, mas sem precisar derrubar as paredes das empresas, ou mesmo unir apressadamente unidades de negócios. A resposta está em unificar as informações sobre os clientes, dispersas na empresa, e utilizá-las de forma a maximizar sua utilidade e aplicação.
+
+A Palm (www.palm.com) foi inovadora quando disponibilizou no mercado um palmtop capaz de sincronizar dados com o computador de mesa. Isso agregou um valor sem comparação com os concorrentes, que passaram a copiar a idéia. Da mesma forma nos negócios, a sincronização de informações, seja de clientes, fornecedores, estoques, manutenção etc., cria valor para o negócio31.
+
+Litan & Rivlin32, em um estudo sobre o impacto da Internet na economia, concluem que essa tecnologia proporciona benefícios muito mais direcionados a melhorar a conveniência e escolha do consumidor do que aumentar a produtividade e diminuir preços. Ou seja, a Internet tem estado presente na vida das pessoas como um mecanismo que, no fim, transmite informações. É uma verdadeira arma nas mãos dos consumidores, fazendo com que os mesmos estejam mais bem informados sobre o que desejam, quais as opções disponíveis para a escolha, diminuição da burocracia, entre outras31.
+
+Para Horovitz33, é necessário ir além da satisfação. É preciso criar um vínculo entre o cliente e a empresa. Para se ter esse vínculo, cabe à empresa: a) conquistar o cliente, b) tornar o cliente satisfeito e, então; c) desenvolver a lealdade. Para conquistar, são precisos dois tipos de informações: a) informações para targeting – identificando quais são os clientes; b) informações para customização – de forma a adaptar o produto/serviço de acordo com as necessidades dos clientes.
+
+Para satisfação, o ideal é conseguir exceder as expectativas iniciais do cliente. É necessária a captura de quatro tipos de informações: a) informações necessárias à adaptação do serviço de entrega às especificações de cada cliente; b) informações de feedback provenientes de clientes insatisfeitos; c) informações específicas de como encantar cada cliente; d) informações que verifiquem se o serviço de entrega corresponde aos padrões requisitados (exemplo: indicadores de qualidade).
+
+A lealdade constitui o terceiro patamar. É a lealdade que garante uma nova compra, o que requer um constante reforço da satisfação gerada anteriormente. Em um planejamento para garantir a lealdade da clientela, é necessário um SI que forneça detalhes de cada cliente, incluindo: a) comportamento de compra (o que, quando, quanto, onde e por quê); b) preferências de comunicação (correio, correio eletrônico, fax, telefone, visitas); c) atualização constante sobre o consumidor; d) custo/benefício (global e para cada cliente).
+
+Nesse momento, o comprometimento da organização com a lealdade a ser estabelecida será praticada com o uso de sistemas como o data warehouse e OLAP (On-Line Analytical Processing), em virtude da quantidade de dados a serem manipulados e a forma como devem ser tratados. A utilização de tais tipos de sistemas começa pela limitação dos tradicionais EIS (Executive Information Systems). Assim, tais sistemas constituem soluções flexíveis orientadas para problemas gerenciais do tipo proposto34,35.
+
+A interconectividade, as redes e a criação de valor
+
+A criação de valor a partir da interconectividade, comentada anteriormente, está diretamente ligada à capacidade de formação de redes. As redes têm sido utilizadas para transportar pessoas, bens e informações entre dois pontos distintos, ou mais. Esses tipos de redes constituem os negócios baseados em rede (network-based businesses), que podem ser exemplificados como as operadoras de telecomunicações, as companhias de transporte, as instituições financeiras e até mesmo as organizações que lidam com saúde36.
+
+Para Sawhney & Parikh37, a rede é a economia. Uma rede é um meio de condução de informações, não importa a sua complexidade. A inteligência de uma rede está em sua funcionalidade, que é a maneira de distribuir, armazenar, criar ou modificar informações. A Internet é uma rede digital do tipo smart, capaz de ampliar a utilidade das informações de diversas maneiras. E isso significa criar valor.
+
+A criação de valor em rede se dá a partir da conexão das várias atividade geradoras de valor, formando um sistema de atividades que possam caracterizar o negócio como único e tornar difícil sua replicação. A vantagem competitiva está em conectar, e não simplesmente colecionar atividades que sustentem valor38.
+
+Para se criar valor em uma rede, não importando qual seja, é necessário o entendimento sobre dois componentes da inteligência: o back-end e o front-end. As redes modernas empurram as inteligências back-end e front-end em sentidos opostos. A inteligência back-end diz-se ser a infra-estrutura compartilhada pelo principal propósito da rede, enquanto a inteligência front-end é fragmentada de diversas maneiras na periferia da rede, onde estão os usuários37. Dessa forma, uma organização é capaz de mobilizar partes da inteligência que estão na rede, como moléculas.
+
+O projeto SETI@home (http://setiathome.ssl.berkeley.edu), da Universidade da Califórnia, tem como objetivo o estudo de vida extraterrestre e mobiliza unidades de trabalho em rede. Em abril de 2002, participavam 226 países, mais de 3,6 milhões de pessoas. O back-end do projeto distribui trabalho para microcomputadores conectados à Internet, de forma a ter um processamento paralelo. Resultado: o valor gerado foi determinado pela possibilidade de se prover algo como 280 mil anos de tempo destinado ao processamento, com o poder de 12 teraflops, tornando-se quatro vezes mais rápido do que um supercomputador.
+
+A utilização da mobilização de competências traz profundas mudanças organizacionais. Conectadas em redes, diferentes organizações podem facilmente combinar suas capacidadese recursos para uma aliança temporária e flexível com o objetivo de explorar oportunidades de mercado.
+
+Fine20 afirma que é imprescindível, para a obtenção do sucesso, compreender a complexidade e a dinâmica das forças atuantes no setor e elaborar mapas da cadeia de fornecimento da empresa. Isso significa ter um mapa que possibilite olhar as três dimensões da cadeia de fornecimento: as empresas, as tecnologias e a rede de capacidades. Um mapa é o início do processo de reformulação da cadeia de capacidades de uma empresa, no qual se identifica o seguinte: (a) as organizações envolvidas nas atividades da empresa; (b) os subsistemas fornecidos por estas empresas; (c) as capacidades que elas trazem para a proposição de valor; (d) as contribuições tecnológicas de cada uma para o produto final da empresa.
+
+Inovação
+
+A economia da informação requer organizações que estejam engajadas na constante busca da inovação. Perfis inovadores e dinâmicos são requisitos para o planejamento das operações na Internet39. Por sua vez, os sistemas de informações precisam ser flexíveis de modo que suportem modificações de produtos, de processos e da própria organização10.
+
+O uso da informação proporciona novos tipos de produtos e serviços, o que leva à customização em massa e novos tipos de negócios7. Novos negócios podem ser caracterizados pela transformação de um negócio já existente mediante uso intensivo da informação, como no caso da FedEx, ou na criação de um outro negócio, como o exemplo das firmas prestadoras de serviço de conexão por banda larga14.
+
+Um exemplo bastante debatido é o caso das livrarias na Internet. Barnes & Noble (www.b&n.com) e Amazon.com (www.amazon.com) se estabelecem com um novo conceito de negócio para vender livros. Dentre suas várias características, destacam-se por conectarem-se com clientes de locais remotos, busca em um catálogo de milhares de títulos, customização no oferecimento de lançamentos.
+
+Na Economia da Informação as empresas estão experimentando inovar com a melhor interação entre os seus departamentos de desenvolvimento de produtos. Por meio de softwares, as áreas de design de produtos e de engenharia "conversam" de forma mais produtiva. Busca-se a melhoria do tráfego de informação permitindo a otimização do fluxo de informação e a redução do tempo de desenvolvimento de um projeto. A inovação tradicional baseada na tentativa e erro promove muitos desperdícios. Com o uso da informação, esse desperdício é minimizado40.
+
+A interação buscando inovação também acontece no relacionamento entre a empresa e o cliente. As empresas estão fornecendo aos seus clientes ferramentas que, usando a Internet, proporcionam a seleção e manipulação de informações de design e desenvolvimento dos produtos. Em outras palavras, as empresas estão permitindo que os clientes criem os produtos. Esta ação melhora a satisfação do cliente, que muitas vezes não é atendido simplesmente porque a pesquisa de marketing não foi capaz de identificar suas necessidades. A empresa fornece a ferramenta, e o cliente então torna-se co-responsável na inovação de produtos. Em fim, têm-se produtos mais próximos da necessidade dos clientes e em menos tempo41,42.
+
+A informação proporciona a inovação também por meio da aprendizagem. A exploração da aprendizagem na organização não é um luxo, mas uma necessidade. Necessidade esta que faz com que o ato de aprender configure-se como uma maneira de as firmas descobrirem o seu futuro. O fluxo de informação torna-se, então, essencial ao processo de aprendizagem43.
+
+Aliada à aprendizagem, tem-se a inteligência competitiva, que visa a antecipar mudanças no ambiente competitivo44. As oportunidades de negócio estão baseadas na validação e refino de idéias e projetos a partir do constante monitoramento do ambiente em que a organização está inserida. Entretanto, só há inteligência quando fatos, dados e tendências são enriquecidos e interpretados. Para isso, a TI oferece ferramentas para busca, monitoramento, observação e previsão45. Mais especificamente, refere-se à gerência de conteúdo, possibilitando o acesso e o compartilhamento do conhecimento, independentemente de tempo e espaço46.
+
+"Assim, é necessário considerar que uma empresa não inova sozinha, pois as fontes de informações, conhecimentos e inovação podem se localizar tanto dentro, como fora dela. O processo de inovação é, portanto, um processo interativo, realizado com a contribuição de variados agentes econômicos e sociais que possuem diferentes tipos de informações e conhecimentos"47.
+
+Redução do risco
+
+O risco é parte inerente do negócio, e cada gestor deve determinar o risco ao qual estará propenso, tendo em vista taxas de retorno e de crescimento. Quando da execução de mudanças, a organização torna-se alvo de riscos em potenciais. Nesse caso, saindo de uma posição estável e passando a efetuar mudanças, uma organização pode ter quatro fontes geradoras de risco48: a) mudanças na TI – novo hardware, novo software e reconfiguração de sistemas; b) mudanças organizacionais – nova estrutura gerencial, novas diretrizes, fusão; c) mudança em processos – novos produtos, novo mercado, aquisições; d) mudanças de pessoal – perda de executivos importantes, nova equipe, novo presidente. Cabe então à direção ter um controle efetivo dessas fontes, e a informação passa a ser um elemento de controle.
+
+A exemplo de melhor controle com o uso da informação, no ano de 2002 o Brasil passou pela mudança do seu sistema de pagamentos. Mudança esta que visa a trazer mais "segurança e confiabilidade (...)" de forma que, através de sistemas on-line seja possível a "(...) redução do risco de crédito nos pagamentos, que são irreversíveis (não podem ser sustados ou devolvidos por falta de fundos, como pode ocorrer com cheques)"49.
+
+Além de controle da informação, pode ser usada para análise do risco, seja no âmbito estratégico, financeiro, operacional, comercial, técnico e/ou ambiental. Para isso, cabe o uso de sistemas de informações que disponibilizem informações de maneira acurada e atual, antecipando eventuais fatos que proporcionem risco à organização50,51.
+
+Com o avanço da tecnologia e o surgimento da Internet, as organizações estão sob alvo de novas vulnerabilidades. Os riscos nos sistemas de informações pode ser originários de invasões feitas por hackers, infecções por vírus, desastres (incêndios, falta de energia, roubo) e sabotagem9. Para minimização dos riscos, cabe: a) o controle do desenvolvimento dos sistemas; b) treinamento dos usuários sobre segurança; c) segurança física; d) controle no acesso de dados, computadores e redes; e) controle dos processos de transação; f) incentivos à eficiência e efetividade operacional; g) auditoria dos sistemas; h) plano no caso de desastre7.
+
+Cabe, portanto, determinar quais informações os executivos precisam para tomar decisões, tendo em consideração os fatores críticos de sucesso pertinente ao negócio52.
+
+Virtualização
+
+Para Evans & Wurster2, a Economia da Informação desestrutura a cadeia física de valor. Por sua vez, a informação pode recriar a cadeia de valor de acordo com o negócio estabelecido tomando uma nova forma – a virtual. A virtualização é uma condição que transcende o aspecto físico da organização.
+
+Como uma rede, a Internet tem proporcionado novo ambiente econômico para as organizações. Isso significa novos canais de comunicação e de troca entre os agentes econômicos. Nesse ambiente, a informação torna-se um material vital para sobrevivência. Para caracterizar tal situação, o modelo ICDT (Information, Communication, Distribution and Trasaction)53 estrutura as quatro estratégias que as empresas têm usado para competir na Internet: a) Espaço de Informação Virtual; b) Espaço de Comunicação Virtual; c) Espaço de Distribuição Virtual; d) Espaço de Transação Virtual.
+
+A possibilidade de virtualizar produtos e serviços, ou seja, transformar matéria em bits, é uma capacidade adquirida de algumas organizações nos últimos anos, que, através da TI, buscam se diferenciar no mercado e transferir para o consumidor o poder de escolha. Em outras palavras, isso significa dotar produtos/serviços como sendo do tipo anywhere (capaz de ser usado/acessado de qualquer lugar), anytime (capaz de ser usado/acessado a qualquer tempo) e nomatter (não é feito de matéria, mas sim de bits)20,54.
+
+Assim, tem-se a indicação que a informação é um elemento importante na realização de Negócios na Era Digital (NED). E esses negócios pertencem a uma tendência emergente que possui um grande potencial de inovação na economia31,55.
+
+Para Rayport & Sviokla56, o modelo da cadeia de valor tradicional trata a informação como um elemento de suporte. Na verdade, a informação fará diferença quando a gerência visualizar o novo ambiente em que opera – o marketspace. Nesse ambiente digital, as diferenças são percebidas por a) conteúdo; b) contexto; c) infra-estrutura.
+
+No ambiente digital, a empresa precisa observar outro tipo de cadeia de valor – a cadeia de valor virtual. As empresas passam a competir em dois mundos: o físico e o virtual. Na forma física, a informação serve para controlar a cadeia, seja nos estoques, logística ou processo. No virtual, a informação é usada para oferecer um novo tipo de valor para o cliente. A criação de valor na cadeia de valor virtual envolve cinco etapas seqüenciais: coleta, organização, seleção, síntese e distribuição da informação. Observou-se que as empresas adotam a criação de valor virtual em três estágios: a) visibilidade – quando os gerentes utilizam a informação para coordenação e controle das atividades da cadeia de valor física; b) capacidade de semelhança – substituição de etapas da cadeia física para a cadeia virtual; c) novos relacionamentos com clientes – novas formas de proporcionar valor ao cliente57.
+
+Para estar inserida na economia da informação, é necessário que a organização esteja baseada em um modelo de negócio adequado. Segundo Venkatraman & Henderson58, em tempos de alta turbulência e transformações rápidas, a estratégia de se ter uma organização virtual é a mais adequada. Para virtualização de uma organização, é necessário observar:
+
+a) Interação com o cliente – nova oportunidade no relacionamento empresa-cliente (B2C – Business To Consumer), na qual o cliente pode remotamente experimentar produtos e serviços.
+
+b) Configuração do ativo – de forma que a organização passe a se deter apenas no que diz respeito à sua competência central, maximizando e flexibilizando seu relacionamento com fornecedores e subcontratados.
+
+c) Conhecimento – como o ativo básico da organização (em detrimento a terra, máquinas e capital), de forma que possam ser organizadas desde unidades de especialistas, no estágio 1, até a formação de uma comunidade de especialistas.
+
+Virtualizar significa ter uma nova forma de operar. Significa também ter uma nova concepção de cadeia de suprimentos – uma cadeia de suprimentos virtual59. Uma integração virtual significa ganho em velocidade, agilidade e foco em competências. São as seguintes as características que determinam a virtualização: a) velocidade – onde os negócios são processados em minutos ou horas, em vez de semanas ou meses; b) estratégia – focada em competências e na criação de links com fornecedores, subcontratados e parceiros, objetivando fortalecer o modelo de negócio com as competências de organismos externos; c) customização – através do relacionamento com clientes pela Web e com a cadeia de valor estabelecida; d) arquitetura de TI componentizada – onde diversos aplicativos se inter-relacionam buscando ligar clientes, fornecedores, parceiros e funções internas, de forma a otimizar a capacidade de sistemas, trabalhar a capacidade robusta de armazenamento e integrar as infra-estruturas físicas e digitais; e) equipes – providas de ferramentas e sistemas de comunicações, garantidas por uma cultura distinta, que promove respostas rápidas, qualidade empresarial e foco no cliente.
+
+Diferenciação de produto
+
+A diferenciação de produto ou serviço por meio da informação é uma estratégia que visa a conquistar vantagem competitiva14. Novos produtos têm sido ofertados com diferentes conteúdos informacionais. No caso dos televisores, os menus de comandos são disponibilizados na tela e o telespectador escolhe em qual língua prefere ler. O DVD apresenta, além das opções de diferentes línguas para o áudio e a legenda de um filme, a possibilidade de navegar pela mídia utilizando o contador (de horas, minutos e segundos). É o consumidor desfrutando a liberdade de escolha e ampliação da sua satisfação.
+
+A informação também diferencia as tintas vendidas no varejo. O cliente, que sempre escolheu a cor da tinta a partir de um conjunto definido, hoje pode escolher dentre infinitas combinações possíveis. Com um maquinário instalado na loja, basta o cliente informar qual a cor é desejada, e a tecnologia se encarrega de fazer as combinações necessárias. O produto é customizado e não necessita de produção em escala.
+
+Os sistemas operacionais dos computadores pessoais são diferenciados pelas informações que carregam. É a disputa entre o Windows e o MacOS na questão de quem é melhor. Ou no caso dos celulares, em que cada um é capaz de executar funções próprias, desde a mais simples busca na agenda interna de telefones até a transferência de dados via Internet.
+
+Provavelmente são os bancos que melhor utilizam a informação na transformação do seu próprio negócio60. No passado esse segmento tinha um conjunto de ofertas limitadas. Atualmente o leque de serviço é bastante vasto. Na busca pela atração e satisfação de clientes, os bancos reúnem no mundo virtual grande parte dos seus serviço, identificando e classificando as necessidades individuais. Na Web o cliente pode encontrar, por exemplo, a proposta perfeita de um seguro residencial apropriado à sua renda, de acordo com o seu bairro e às suas preferências 61. É a informação diferenciando e customizando produtos e serviços.
+
+
+
+CONCLUSÃO
+
+Neste artigo buscou-se desenvolver, com base nas teorias existentes, o referencial que estrutura o uso da informação por parte das organizações. De modo genérico, entende-se que tal uso, visando a alcançar melhor posicionamento competitivo no mercado, é direcionado para seis estratégias genéricas (figura 1): redução de custos, criação de valor, inovação, redução do risco, virtualização e diferenciação de produto.
+
+
+
+
+
+Neste momento tem-se o início do processo de construção da teoria, que consistiu em abstração, generalização, relacionamento, seleção, síntese e idealização 62,63,64. Cabe, a partir de agora, servindo como indicativo para futuros trabalhos, a construção do instrumento de medida para cada uma das dimensões propostas, com o objetivo de validar os constructos citados e a confirmação teórica propriamente dita.
+
+A quantificação do uso da informação, na estrutura aqui proposta, permitirá o estabelecimento de um grau dentro de uma escala apropriada. Com isso, será possível discriminar pontualmente as posições das organizações no modelo. Lembra-se que a medida, uma vez criada, não é o fim, mas um meio dentro do processo de descrição, diferenciação, explanação, predição, diagnóstico ou tomada de decisão 65.
+
+
+
+REFERÊNCIAS
+
+1. SHAPIRO, Carl; VARIAN, Hal R. A economia da informação: como os princípios econômicos se aplicam a era da Internet. Rio de Janeiro : Campus, 1999. 
+
+2. EVANS, Philip B.; WURSTER, Thomas S. A explosão dos bits:blown to bits. Rio de Janeiro : Campus, 2000. 
+
+3. SHANNON, Claude E.; WEAVER, Warren. The mathematical theory of communication. Urbana : The University of Illinois, 1949. 
+
+4. WESTPHAL, Christopher & BLAXTON, Teresa. Data mining solutions:methods and tools for solving realworld problems. New York : John Wiley, 1998. 
+
+5. COELHO NETTO, J. Teixeira. Semiótica, informação e comunicação: diagrama da teoria do signo. [S. l.] : Perspectiva, 1980. 
+
+6. SIMON, Herbert A. Administrative behavior: a study of decision-making processes inadministrativeorganizations. 4. ed. New York : Free Press, 1997. 
+
+7. ALTER, Steven. Information systems: a management perspective. Menlo Park : Benjamin/Cummings, 1996. 
+
+8. CHECKLAND, Peter; HOLWELL, Sue. Information, systems and information systems: makingsense of the field. Chichester : John Wiley, 1998. 
+
+9. LAUDON, Kenneth C. ; LAUDON, Jane P. Management information systems: new approaches toorganization and technology. 5. ed. Upper Saddle River : Prentice Hall, 1998. 
+
+10. ZWASS, Vladimir. Management information systems. Dubuque : Wm. C. Brown, 1992. 
+
+11. SIEGFRIED, Tom. O bit e o pêndulo: a nova física da informação. Rio de Janeiro : Campus, 2000. 
+
+12. DAVENPORT, Thomas H. Ecologia da informação: por que só a tecnologia não basta para o sucesso na era da informação. São Paulo : Futura, 1998. 
+
+13. DRUCKER, Peter F. A organização fundamentada na informação. In: DRUCKER, Peter F. (Org.). As novas realidades: no governo e na política, na economia e nas empresas, na sociedade e na visão do mundo. 3. ed. São Paulo : Pioneira, 1993. p. 177-188. 
+
+14. PORTER, Michael E. ; MILLAR, Victor E. How information gives you competitive advantage. Harvard Business Review, Jul./Ago.1985. 
+
+15. ALBERTIN, Alberto Luiz. Administração de informática: funções e fatores críticos de sucesso. 3. ed. São Paulo : Atlas, 2001. 
+
+16. NOLAN, Richard L. Managing the crises in data processing. Harvard Business Review, v. 57. n. 2. p.115-126, Mar./Apr. 1979. 
+
+17. MEIRELLES, Fernando de Souza. Informática: novas aplicações em microcomputadores. 2. ed. São Paulo : Makron Books, 1994. 
+
+18. BINDER, Marcelo:; COHEN, Max. New perspectives in the Brazilian flight sector: the entrance of Gol Linhas Aéreas. In: Business Association of Latin America . Tampa, Florida, 2002. 
+
+19. HOWELL, Bob. Using information for strategic cost reduction. In: MARCHAND, Donald A.(Org.). Competing with information: a manager's guide to creating business value with information content. Chinchester, England : Wiley, 2001. p.165-191. 
+
+20. FINE, Charles H. Mercados em evolução contínua: conquistando vantagem competitiva num mundo em constante mutação. Rio de Janeiro : Campus, 1999. 
+
+21. WOO, York Y. ; HSU, Shu-Lu. Order processing cost reduction in a joint vendor-buyer inventory system via the application of information technology. The engineering economist, v. 45, n. 4, p.350-365, 2000. 
+
+22. ROSENBERG, Barry; MECHAM, Michael. MRO software puzzle: airlines pick and choose. Aviation Week & Space Technology, Mar. 2001. 
+
+23. PORTER, Michael E. Competitive advantage. New York : Free Press, 1985. 
+
+24. RAMIREZ, Rafael. Value co-production: intellectual origins and implications for practice and research. Strategic Management Journal. v. 20, p. 49-65, 1999. 
+
+25. STABELL, Charles B. ; FJELDSTAD, Øystein D. Configuring value for competitive advantage: on chains, shops, and networks. Strategic Management Journal, v. 19, p. 413-437, 1998. 
+
+26. BOWMAN, Cliff. Value in the resource-based view of the firm: a contribution to the debate. The Academy of Management Review, v. 26. n. 4. p. 501-502, Oct., 2001. 
+
+27. BOWMAN, Cliff; AMBROSINI, Veronique. Value creation versus value capture: towards a coherent definition of value in strategy. British Journal of Management, v. 11, n. 1. p. 1-15, Mar. 2000. 
+
+28. VENKATRAMAN, N. I. Enable business transformation: from automation to business scope redefinition. Sloan Management Review, p. 73-87, Winter 1994. 
+
+29. MARCHAND, Donald A.; KETTINGER, William J. ; ROLLINS, John D. Information orientation: people, technology and the bottom line. Sloam Management Review, p. 69-80, Summer 2000. 
+
+30. SAWHNEY, Mohanbir. Don't homogenize, synchronize. Harvard Business Review, p.101-108, Jul./Ago. 2001. 
+
+31. KALAKOTA, Ravi; ROBINSON, Marcia. E-business: estratégias para alcançar o sucesso no mundo digital. 2. ed. Porto Alegre : Bookman, 2002. 
+
+32. LITAN, Robert E.; RIVLIN, Alice M. Projecting the economic impact of the Internet. The American Economic Review, v. 91, n. 2. p. 313-317, May 2001. 
+
+33. HOROVITZ, Jacques. Using information to bond with customers. In: MARCHAND, Donald A. (Org.). Competing with information: a manager's guide to creating business value with information content. Chinchester, England : Wiley, 2001. p. 35-53. 
+
+34. DHAR, Vasant; STEIN, Roger. Intelligent decision support methods: the science of knowledge work. Upper Saddle River : Prentice-Hall, 1997. 
+
+35. TURBAN, Efraim; ARONSON, Jay E. Decision support systems and intelligent systems. Upper Saddle River : Prentice-Hall, 1998. 
+
+36. COYNE, Kevin P.; DYE, Renée. The competitive dynamics of network-based business. Harvard Business Review. p. 99-109, Jan./Feb. 1998. 
+
+37. SAWHNEY, Mohanbir; PARIKH, Deval. Where value lives in a networked world. Harvard Business Review, p. 79-86, Jan. 2001. 
+
+38. PORTER, Michael E. What is strategy? Harvard Business Review, p. 61-79, Nov./Dec.1996. 
+
+39. NOGUEIRA, Roberto; SOARES, Cíntia. Utilização estratégica da Internet: um estudo nos bancos operando no Brasil. In: ENCONTRO DA ASSOCIAÇÃO NACIONAL DOS PROGRAMAS DE PÓS-GRADUAÇÃO EM ADMINISTRAÇÃO. Anais... Campinas : [s. n.], 2001. 1 CD-ROM. 
+
+40. EPPINGER, Steven D. Innovation at the speed of information. Harvard Business Review, p. 149-158, Jan. 2001. 
+
+41. THOMKE, Stefan; HIPPEL, Eric von. Customers as innovators: a new way to create value. Harvard Business Review, p. 74-81, Apr. 2002. 
+
+42. AMOR, Daniel. A (r)evolução do e-business. São Paulo : Makron Books, 2000. 
+
+43. DE GEUS, Arie P. Planning as learning. Harvard Business Review. p. 70-74, Mar./Apr. 1988. 
+
+44. GOMES, Elisabeth; BRAGA, Fabiane. Inteligência competitiva: como transformar informação em um negócio lucrativo. Rio de Janeiro : Campus, 2001. 
+
+45. DESCHAMPS, Jean-Philippe. From information and knowledge to innovation. In: MARCHAND, Donald A. (Org.). Competing with information: a manager's guide to creating business value with information content. Chinchester/England : Wiley, 2001. p.127-145. 
+
+46. CRUZ, Tadeu. Gerência do conhecimento. São Paulo : Cobra, 2002. 
+
+47. LEMOS, Cristina. Inovação na era do conhecimento. In: LASTRES, Helena M. M;. ALBAGLI, Sarita . (Org.). Informação e globalização na era do conhecimento. Rio de Janeiro : Campus, 1999. p. 122-144. 
+
+48. HAMILTON, Stewart. Information and the management of risk. In: MARCHAND, Donald A. (Org.). Competing with information: a manager's guide to creating business value with information content. Chinchester/England : Wiley, 2001. p. 195-207. 
+
+49. BANCO CENTRAL DO BRASIL. O novo sistema de pagamentos brasileiro. Disponível em: <http://www.bcb.gov.br/htms/spb/ospbevoce/EntendaoSPB/home.htm>. Acesso em: 22 abr. 2002 
+
+50. HAMILTON, Stewart. Controlling risks. In: MARCHAND, Donald A. (Org.). Competing with information: a manager's guide to creating business value with information content. Chinchester/England : Wiley, 2001. p. 209-228. 
+
+51. CAMPOS, Renato de; SANTOS, Luciana Rocha dos. Modelagem de processos e definição de requisitos para sistemas de informações para a previsão de demanda. In: ENCONTRO DA ASSOCIAÇÃO NACIONAL DOS PROGRAMAS DE PÓS-GRADUAÇÃO EM ADMINISTRAÇÃO,25., 2001, Campinas. Anais ... Campinas, 2001. 1 CD-ROM 
+
+52. ROCKART, John F. Chief excutives define their own data needs. Harvard Business Review, p. 81-93, Mar./Apr. 1979. 
+
+53. ANGEHRN, Albert A. Designing mature Internet business strategies: the ICDT model. European Management Journal, v. 15, n. 4. Aug. 1997. 
+
+54. DAVIS, Stan; MEYER, Christopher. Blur :the speed of change in the connected economy. [S. l.] : Little Brown, 1999. 
+
+55. ALBERTIN, Alberto Luiz. Comércio eletrônico: modelo, aspectos e contribuições de sua aplicação. 3. ed. São Paulo : Atlas, 2001. 
+
+56. RAYPORT, Jeffrey F.; SVIOKLA, John J. Managing in the marketspace. Harvard Business Review, p. 141-150, Nov./Dec. 1994. 
+
+57. _______. Exploiting the virtual value chain. Harvard Business Review, p. 75-85, Nov./Dec. 1995. 
+
+58. VENKATRAMAN, N.; HENDERSON, John C. Real strategies for virtual organizing. Sloan Management Review, p. 33-48, Oct. 1998. 
+
+59. GARTNER GROUP. Virtual Enterprise Scenario. In: GARTNER CONFERENCE, 1999. 
+
+60. MEIRELLES, Fernando de Souza. Fundação Getulio Vargas - Escola de Administração de Empresas de São Paulo. In: PESQUISA ANUAL DE TECNOLOGIA DE INFORMAÇÃO, 13., 2000. São Paulo : [s. n.], 2002. 
+
+61. TAPSCOTT, Don; LOWY, Alex; TICOLL, David. Plano de ação para uma economia digital. São Paulo : Makron Books, 2000. 
+
+62. WEICK, Karl E. What theory is not, theorizing is. Administrative Science Quartely, v. 40, p. 385-390, Sept. 1995. 
+
+63. _______. Theory construction as disciplined imagination. Academy of Management Review, v. 14, n. 5, p. 516-531, 1989. 
+
+64. SUTTON, Robert I.; STAW, Barry M. What theory is not. Administrative Science Quartely, v. 40, p. 371-384, Sept. 1995. 
+
+65. PEDHAZUR, Elazar J.; SCHMELKIN, Liora Pedhazur. Measurement, design and analysis: an integrated approach. Hillsdale: Lawrence Erlbaum, 1991. 
+

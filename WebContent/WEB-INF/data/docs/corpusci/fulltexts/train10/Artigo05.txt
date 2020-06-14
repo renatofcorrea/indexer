@@ -1,0 +1,497 @@
+Análise Contrastiva: memória da construção de uma metodologia para investigar a tradução de conhecimento científico em conhecimento público
+
+
+
+Resumo: Este artigo é uma reconstrução sumária e parcial da dinâmica de construção de uma metodologia de análise de processos de tradução do conhecimento científico - conhecimento privado a uma comunidade específica - já submetido a uma primeira tradução como conhecimento escolar, para acesso a um público de não-cientistas: estudantes de nível médio. Toma-se a escola como lócus de investigação, levando em conta que esta é a instituição socialmente responsabilizada pela democratização da informação científica, na perspectiva de que esta se transforme em conhecimento pessoal de indivíduos sociais, compreendidos como sujeitos do conhecimento, pela agregação de significados relevantes à formação da cidadania. O texto caracteriza-se como uma memória teórica e experiencialmente referenciada, de uma investigação realizada há mais de duas décadas, através da qual foi produzida a primeira formulação desta metodologia que, depois de várias reconstruções (que continuam a se processar contemporaneamente), vem sendo a base dos trabalhos realizados pela Rede Cooperativa de Pesquisa em (In)formação, Currículo e Trabalho - REDPECT / UFBA, dedicada a participar na construção do novo campo interdisciplinar e multirreferencial da Info-Educação.O texto limita-se a apenas um dos "componentes" do processo de tradução: a dupla dimensão de (des)construção e (re)construção de estruturas conceituais formais de um ou mais corpos teóricos da área de Biologia.
+
+Palavras chave: Conhecimento Científico, Conhecimento Privado, Conhecimento Escolar, Democratização da Ciência, Comunicação Científica
+
+
+
+Introdução
+
+Este artigo é uma reconstrução sumária e parcial da dinâmica de construção de uma metodologia de análise de processos de tradução do conhecimento científico - conhecimento privado a uma comunidade específica - já submetido a uma primeira tradução como conhecimento escolar, para acesso a um público de não-cientistas: estudantes de nível médio. Toma-se a escola como lócus de investigação, levando em conta que esta é a instituição socialmente responsabilizada pela democratização da informação científica, na perspectiva de que esta se transforme em conhecimento pessoal de indivíduos sociais, compreendidos como sujeitos do conhecimento, pela agregação de significados relevantes à formação da cidadania. O texto caracteriza-se como uma memória teórica e experiencialmente referenciada, de uma investigação realizada há mais de duas décadas, através da qual foi produzida a primeira formulação desta metodologia que, depois de várias reconstruções (que continuam a se processar contemporaneamente), vem sendo a base dos trabalhos realizados pela Rede Cooperativa de Pesquisa em (In)formação, Currículo e Trabalho - REDPECT / UFBA, dedicada a participar na construção do novo campo interdisciplinar e multirreferencial da Info-Educação.
+
+O texto limita-se a apenas um dos "componentes" do processo de tradução: a dupla dimensão de (des)construção e (re)construção de estruturas conceituais formais de um ou mais corpos teóricos da área de Biologia.
+
+Pretende-se que a sua leitura levante discussões críticas tanto em termos dos referenciais que apresenta e das construções descritas, quanto para a retomada de uma questão maior: a das linguagens, estruturas e processos metodológicos para tornar a disseminação do conhecimento na sociedade da informação mais do que discurso retórico. Esta pretensão maior está lastreada no compromisso que orienta a REDPECT - o de participar da transformação da sociedade da informação numa sociedade da aprendizagem.
+
+
+
+
+
+Primeiros desafios
+
+No período de 1976-1982, buscava-se trabalhar na perspectiva da democratização do conhecimento científico (mais especificamente da área de Biologia), de forma que se pudesse torná-lo conhecimento público e, portanto, torná-lo accessível para a construção do conhecimento pessoal [1] de qualquer indivíduo social [2]. Conforme explicitamente assumido, o que se pretendia estudar, então, era a "comunicação da informação produzida na comunidade dos biólogos numa forma que [...] fosse compreensível [àqueles] que pertenciam ao mundo dos não-biólogos." [3].
+
+O locus do estudo foi a escola, considerando-a como a instituição formalmente responsável, na sociedade contemporânea, por proporcionar meios para que o indivíduo social, tendo esse conhecimento disponibilizado, possa dele apropriar-se, constituindo-se assim como sujeito do conhecimento (SC) [4]. Enfocar a escola a partir da perspectiva de um espaço social onde o conhecimento científico é trazido para o domínio público implicou em escrutinar alguns dos seus papéis e em selecionar alguns deles para a definição do objeto de pesquisa propriamente dito. Dessa forma, depois de algumas análises preliminares, foram escolhidos três desses papéis [5].
+
+1. Mediação entre um corpo de conhecimento formalmente estruturado, legitimado e autorizado por uma comunidade científica e um grupo de SAs para o qual aquele corpo de conhecimento está sendo disponibilizado através de interações que objetivam a apropriação desse conhecimento, via assimilação na estrutura cognitiva, por esses sujeitos.
+
+2. Tradução de uma estrutura simbólica (conhecimento biológico) - termos, conceitos, sistemas de proposições, signos e símbolos não-verbais, etc. - complexa e específica da comunidade de biólogos, em outro tipo de estrutura (conhecimento escolar), mais aproximada do "conhecimento comum", através de termos, conceitos, signos e símbolos não-verbais, significativos para o grupo SC, através de processos que permitissem àquele grupo estabelecer relações com conhecimentos anteriormente assimilados, de modo a construir novos ou ampliar/aprofundar aqueles já existentes na sua estrutura cognitiva.
+
+3. Organização dessa estrutura simbólica, por meio da articulação de processos e recursos pertinentes, objetivando a construção de lastros para a compreensão e apropriação daquele conhecimento pelo grupo de SC
+
+Investigar esses papéis significou uma intensa a busca de informação. Seguindo a tradição da pesquisa nas Ciências Humanas e Sociais, levantou-se uma vasta bibliografia sobre epistemologia, sociologia do conhecimento, sociologia da ciência, educação - principalmente obras relacionadas com pesquisas em currículo, interações em sala de aula e ensino de ciências. Procurou-se delimitar esquemas a priori para a prospecção de campo e a análise de dados e informações, à proporção que se analisava a literatura. Contudo, foi ficando cada vez mais evidente que não era possível construir tais esquemas sem entrar no campo de investigação. Decidiu-se fazer, então, um estudo de campo exploratório [6] em paralelo com a pesquisa bibliográfica, o que proporcionou a agregação de várias outras fontes de informação ao trabalho: registros de falas em fita de áudio e de falas e ações em fitas de vídeo; documentos originais, produzidos pelos sujeitos envolvidos no processo (planos de aula, roteiros de estudo, instrumentos de avaliação) e documentos de acesso público (relatórios de estudos e pesquisas, prospectos de cursos, programas da disciplina).
+
+A diversidade das formas de registro, o volume de informações e a variedade de elementos gradualmente descobertos como constituintes do objeto de estudo proporcionaram um rico acervo, que foi sendo gradualmente submetido a uma análise preliminar. Ficou então patente que não havia possibilidade de se trabalhar com esquemas pré-definidos, uma vez que a aplicação de teorias já construídas, embora permitissem levantar suposições sobre as informações a partir de construções lógicas ali encontradas, não eram suficientes para expressar a riqueza e a complexidade do objeto.
+
+Essa insuficiência, conseqüentemente, levou a dificuldades em encontrar um método apropriado de análise. À época, a pesquisa qualitativa ainda sofria restrições no mundo das Ciências Sociais, em virtude das grandes linhas metodológicas só legitimarem dados e informações qualitativos quando serviam para: 1) ou a validação de teorias e, na maioria das vezes, através de quantificação desses dados e informações - o que levava à opção de converter dados qualitativos em quantitativos, de forma muita vezes forçada, para garantir a testagem de hipóteses; 2) ou a busca de novas propriedades para categorias estabelecidas, visando à revisão, reintegração ou reconstrução de idéias mais elaboradas ou mesmo noções teóricas já construídas; 3) ou a reformulação de hipóteses, a partir do confronto de teorias com casos que não confirmavam as suas construções anteriores [7].
+
+A insatisfação com os limites acima e o desejo de dar continuidade a experiência anterior [8] com a abordagem qualitativa, em virtude da necessidade de novos conhecimentos para fundamentar o compromisso com a democratização do conhecimento científico, levaram a não se conseguir trabalhar com as metodologias de pesquisa conhecidas e passaram a exigir uma perspectiva epistemológica e uma metodologia que dessem conta de tal complexidade. As buscas levaram a vários autores, dentre os quais se destacaram Douglas, Glazer & Strauss, Mannheim, Polanyi, Toulmin e Ziman [9]. Com o apoio de suas respectivas obras, foi possível começar a delinear um processo de análise mais abrangente e menos mutilante.
+
+
+
+Bases para a construção da metodologia
+
+Os registros do trabalho de campo da fase exploratória, quando analisados, ofereceram lastro para compreender que não havia um processo de tradução direta do conhecimento científico para o conhecimento escolar, nas situações observadas. Normalmente o conhecimento científico já chegava para o SM [10] traduzido, através de manuais, livros didáticos ou outras fontes secundárias. A mediação implicava, então, em uma tradução "de segunda mão": de conhecimento "escolar" de nível universitário ou básico a conhecimento do cotidiano ("comum"), num processo que a dialetizava, ora nesta seqüência, ora na inversa. Era preciso, portanto, compreender como se dava o fluxo informação --> tradução --> conhecimento, nesse processo.
+
+Partindo das contribuições, Glaser e de Glaser & Strauss, buscou-se utilizar o método de análise comparativa constante para a análise das informações registradas em campo. Contudo, depois de algumas tentativas resolveu-se não tomá-lo como a única referência, mas como uma das bases para a construção de uma metodologia mais abrangente. A razão dessa decisão pautou-se no conflito que se estabeleceu entre o principal objetivo da análise comparativa constante [11] e a intenção da Pesquisa de compreender (com base nos processos de mediação registrados) o processo de tradução do conhecimento científico, envolvendo diferentes fontes de informação e diversas formas de organizar o conhecimento - tanto a partir dos referenciais científicos, quanto daqueles dos textos escolares, quanto, ainda daqueles do conhecimento comum, dos quais o SM lançava mão, a depender das circunstâncias da situação em foco. Esse conflito implicava uma questão epistemológica: a Pesquisa não tinha intenção de construir conhecimento para explicar relações (fazer ciência pela ciência), o que implicava, novamente em reduzir a análise a um conjunto de categorias que, integradas, poderiam "gerar hipóteses" para serem, novamente, testadas.
+
+Ainda nessa fase exploratória do trabalho de campo, experimentaram-se diferentes alternativas para a condução das observações, organização e análise dos registros obtidos ao longo destas e sistematização dos resultados da análise. Os registros de campo foram feitos através de gravação em fita de áudio (processos verbais de tradução e entrevistas), fotografia (processos não-verbais de tradução), cópia de documentos (pessoais, produzidos pelos SMes e institucionais, disponibilizados pelas instituições onde se realizou o trabalho de campo) e notas cursivas em diário de campo. A sistematização desses registros foi feita através de portfólios de fitas transcritas, fotografias e documentos, classificados segundo critérios definidos a partir do escrutínio das respectivas características [12], os quais foram constituindo, gradativamente, o arquivo documental da Pesquisa. Esse arquivo incluiu, ainda, um fichário da bibliografia analisada.
+
+Com base nessa fase exploratória, planejou-se o trabalho de campo e a análise da investigação principal [13].
+
+
+
+Análise das informações documentadas
+
+A análise dos documentos da Pesquisa realizou-se, inicialmente, em três momentos: reconstituição dos diversos tipos de documento em unidades de análise (UA), escrutínio das informações contidas nessas unidades, construindo, para cada uma delas um transcrito anotado (TA), a partir da análise dos quais foram construídas as categorias analíticas (CA) e sistematização, isto é, organização das categorias construídas em um sistema de análise (SA).
+
+À proporção que se organizavam os documentos para os respectivos arquivos, era feita a codificação e a seguir preparada uma ficha que permitia a localização das cópias originais dos documentos, uma vez que foi feita uma cópia de cada um deles para o processo de análise preliminar.
+
+
+
+1. Reconstituição
+
+Nesse momento foram feitas a avaliação da qualidade dos registros, sua codificação segundo data, local e tipo de registro; classificação de acordo com as diferentes fontes de informação de origem; transcrição das gravações em fitas de áudio e uma ficha que permitia reordenar os documentos em unidades que integravam cada tipo de registro para cada evento registrado, formando assim as UAs. O objetivo dessa reconstituição foi a organização da informação em unidades que tornassem viável a formação de um conjunto de documentos representativos de cada evento registrado, de forma que se pudesse estabelecer relações entre as formas verbais e não-verbais da tradução, de acordo com a seqüência e os significados contextualmente construídos ao longo do processo. Tomando o texto da transcrição (transcrito [14]) como lastro da reconstituição, foram sendo colocados nos seus respectivos lugares peças que, por força da fragmentação dos registros, pareciam inicialmente desconexas: o plano de aula, as fotografias, as cópias do roteiro de atividade, as notas tomadas pela pesquisadora [15], por exemplo. Com esse conjunto de documentos, o processo de tradução se tornou quase que uma entidade tangível, não apenas em palavras, mas também em "evidências 'visíveis' das ações" que ocorreram durante cada evento registrado[16], apesar de algumas "congeladas" em fotografias estáticas, outras em cartazes, peças de jogos, etc.
+
+
+
+2. Escrutínio
+
+Envolveu duas fases articuladas: exploração inicial e análise detalhada. Se, no momento anterior, fragmentos foram "colados", formando uma UA, como um quebra-cabeça pré-montado, em que se vê o todo, mas de forma entrelaçada, sem a nitidez de seus componentes, a exploração inicial teve como finalidade desemaranhar o complexo de registros e das informações neles contidas, de modo a evidenciar o duplo processo de tradução / mediação. Isto é, o que era "passado" de uma forma de organizar o conhecimento (escolar) [17] a outra (conhecimento "comum") e através de que formas ou processos de interação.
+
+Na análise detalhada, a fase mais exigente de todo o trabalho, foi possível tomar como foco de análise apenas o conteúdo de cada UA, com o propósito de "dissecar" os aspectos mais precisos, refinados, do mesmo duplo processo.
+
+
+
+Exploração inicial
+
+Esta fase foi iniciada logo depois das primeiras observações em campodos e desenvolveu-se da seguinte maneira: seis UAs foram selecionadas e cada uma foi lida, anotando-se ao longo de todo o transcrito, em suas margens, qualquer ação relacionada com a tradução e com o que estava sendo traduzido, assim também com os papéis de mediação / tradução desempenhados. Todas as anotações foram, então, listadas de acordo com os componentes desse processo [18]: ações do SM ou SA; fragmentos de determinado tópico ou tema sendo traduzidos; processos de mediação; recursos materiais. A análise comparativa [19] do conteúdo das listas revelou que a maioria das anotações podia ser interpretada como "respostas" a questões implícitas, dentre as quais destacam-se: 1) O que faz o SM? 2) O que faz o estudante em relação com a ação desse SM? 3) O que está sendo traduzido na interação entre esses SC? 4) Que processos estão sendo usados para essa tradução? Todas as seis UAs foram, depois dessa exploração preliminar, reanalisadas, desta vez acompanhando o transcrito com a audição do registro em fita de áudio, para identificar aspectos não verbais da voz, significativos no processo de tradução, tais como: tom, ritmo, ênfases, possíveis intenções na entonação, sendo esses também registrados na margem do transcrito. Uma segunda reanálise foi feita, agora com o mesmo grupo de questões acima indicadas, buscando desta vez testar a propriedade [20] dessas e de outras questões levantadas, como elementos orientadores da análise. Sempre que necessário, novas questões foram formuladas para preencher lacunas de identificação de elementos relevantes. Dando seguimento a esta exploração, uma nova margem foi adicionada à margem anterior do transcrito, na qual foram sendo escritas as interpretações da pesquisadora relativamente a cada questão.
+
+O breve exemplo apresentado no EXCERTO No. 01 ilustra um transcrito anotado (TA) [21], produto da análise preliminar desenvolvida nesta fase. Nota-se aí que a UA integra informações de diferentes fontes, com diferentes formas de registro, buscando formar um conjunto articulado que permita ao pesquisador acompanhar o fluxo do processo de tradução.
+
+
+
+
+
+EXCERTO No. 01
+
+Tópico: Dispersão de sementes
+
+
+
+
+
+SC TEXTO TRANSCRITO
+
+ANOTAÇÕES
+
+
+
+SM: Certo: movimento ou dispersão de sementes pelos animais... (M escreve no quadro de giz: "Dispersão de sementes ou animais". SAs tomam notas no caderno).
+
+SM dita, escrevendo no quadro de giz.
+
+SA copia no caderno.
+
+Conteúdo: dispersão de sementes pelos animais.
+
+SM inicia sumário do que havia sido dito anteriormente.
+
+
+
+
+
+SA: Dispersão de sementes ou animais?! (A demonstra surpresa e inquietação na entonação da voz, chamando atenção de M).
+
+SA faz pergunta.
+
+SA esclarece dúvida.
+
+
+
+
+
+SM: (Vira-se para SAs, sem entender o que ele fala). 1. SM responde, com movimento do corpo, a demanda de SA.
+
+
+
+SA: Dispersão de sementes ou animais?!! (Com entonação ainda mais enfática).
+
+Repete pergunta.
+
+A idem acima.
+
+
+
+
+
+SM: Ah! Obrigada. Certo: Há duas maneiras dos animais dispersarem as sementes das plantas. Isto pode ser feito ou quando as sementes se prendem no seu corpo, ou quando elas são comidas e então expelidas depois. Vocês escreveram isto?
+
+(M vira-se para As, verificando se estão anotando nos cadernos).
+
+Para que as sementes se prendam no corpo do animal há certas estruturas. Por exemplo, ganchos ou espinhos, como no cardo. Isto é um cardo, certo?
+
+(M combina um ditado com a escrita no quadro de giz e, a seguir, a mostra do fruto de cardo para SAs).
+
+SM dita, escrevendo no quadro de giz e mostra exemplo de fruto.
+
+SA copia no caderno e observa o exemplo mostrado.
+
+Conteúdo: maneiras de dispersão de sementes por animais
+
+SM sumariza de forma oral e escrita, usando termos específicos e de conhecimento comum, sistematizando um conceito geral, com o suporte de recursos verbais e concretos.
+
+
+
+
+
+Análise Detalhada
+
+É nessa fase, realizada a partir de TAs, que, ao se processar uma prospecção refinada do conteúdo das UAs, começa-se, propriamente, a construção da análise contrastiva. Este começo foi provocado pela falta de bases mais sólidas, na literatura educacional, para a análise do fluxo de informação e das interações que mediavam o processo de tradução. Pretendia-se fazer uma prospecção que, ao mesmo tempo, permitisse fragmentar os TAs em unidades analiticamente viáveis, sem quebrar demasiadamente esse fluxo e as interações. Após pesquisa bibliográfica em que se buscou fazer uma varredura das principais obras da época [22] na área de educação e não encontrando qualquer autor que satisfizesse a essa pretensão, procurou-se, então, ir encontrando em diferentes autores, contribuições que permitissem uma análise menos restritiva. Essa decisão demandou um laborioso "vai e vem" dos TAs para a literatura, buscando encontrar, em diferentes fontes, aspectos investigados em estudos mais amplos que atendessem às necessidades de fazer da análise um processo que tornasse compreensível a complexidade do processo de tradução em estudo. Desta forma, passava-se a maior parte do tempo a contrastar o que era encontrado em uma obra de um autor com outras (do mesmo ou de outros autores), buscando elementos que, uma vez contrastados com conteúdos de partes específicas dos TAs, esclarecessem aspectos constituintes do referido processo.
+
+Quanto mais os TAs eram lidos, mais evidente ficavam as falhas e lacunas de interpretação. Que bases assumir para a análise? Como configurar o fluxo? Que alternativas lançar mão para desemaranhar os elementos verbais e não verbais da tradução? Como "desmontar" o discurso para separar o conhecimento "em tradução" das interações que mediavam a passagem de uma forma de organizar o conhecimento para outra (do conhecimento escolar para o comum, ou vice-versa)? Tais questionamentos levaram à descoberta de construções que muito ajudaram a análise e que de modo muito sumário são indicadas nos próximos dois parágrafos.
+
+Em relação às duas primeiras perguntas, o contraste entre os TAs e a busca que se fez na literatura teve como resultado a identificação de contribuições relevantes, tais como: a consideração do tempo de duração da interação verbal como elemento importante para a determinação de unidades de tempo amostral, em trabalhos de Flanders, Wragg, e de Eggleston, Galton & Jones [23]; o uso da "duração de tempo na reprodução de fitas de áudio" (playback length), por Herbert [24], para garantir a demarcação de transcritos em partes facilmente identificáveis; as "unidades de discurso" de Smith [25], para ajudarem a identificar formas de veiculação verbal de informações.
+
+Quanto às duas questões seguintes, dentre as grandes contribuições da literatura para essa análise podem ser destacadas: as discussões ausubelianas e de Novak sobre psicologia cognitiva e aprendizagem de conceitos [26]; as definições de dimensões lógicas de um conceito e as relações lógicas entre o núcleo lógico e os esquemas associativos formuladas por Schaefer [27]; as relações entre conceitos-imagens e conceitos-linguagem trazidas por Harré [28]; o desenvolvimento de técnicas analíticas para "quebrar" sentenças em peças legíveis, pretensamente sem ambigüidade, por Fodor & Katz [29]; a análise de conteúdo de peças de comunicação de Berelson [30], particularmente o processo de isolamento de palavras-chave; as contribuições de Kintisch e de Kieras [31] sobre a correspondência entre palavras, conceitos e proposições; o primeiro, tomando o conteúdo semântico de parágrafos de estórias e o segundo, o léxico de um sistema específico (Memória Associada Humana); o rico referencial do interacionismo simbólico, principalmente através das obras de Mead, Berger & Luckman e Goffman [32]; e a polêmica discussão trazida à sociologia da linguagem por autores como Bernstein e Labov [33], sobre a relação entre códigos de linguagem e classes sociais
+
+Os contrastes entre achados da literatura e as interpretações dos registros dos TAs, ofereceram subsídios para duas decisões sobre o encaminhamento da Pesquisa: 1) tomar como foco principal da análise do processo da tradução, a estrutura conceitual específica registrada em cada TA, bem como as formas verbais e não verbais de desconstruí-la em seus conceitos constituintes e modos de ressignificá-los (conceitos isolados, parcialmente relacionados entre si ou relacionados para reconstruir a estrutura como um todo) através do uso de termos, expressões, sentenças, signos e símbolos não verbais, diferentes daqueles específicos da estrutura simbólica que organiza o conhecimento produzido pela comunidade de biólogos ou a sua tradução em conhecimento escolar, na área de Biologia. 2) enfocar, ainda, o processo de mediação tomando como base as interações simbólicas entre SM e SA, identificadas ao longo dessa tradução, através de linguagens verbais e não verbais, que indicassem a ocorrência de processos cognitivos visando à veiculação e a apropriação da estrutura conceitual em foco. Desta forma, foram definidos os dois principais componentes do processo de tradução: uma estrutura conceitual [34] específica e os processos cognitivos envolvidos nas interações que mediaram a "passagem" desta estrutura para (uma) outra(s), visando à sua apropriação por SA em situação de aprendizagem escolar.
+
+Chegar a essas decisões demandou uma longa e complexa prospecção, um laborioso (mas também prazeroso) "vai e vem" entre o que se encontrava (ou se questionava por não entendimento, compreensão "lacunar") e as ausências enfrentadas (de possibilidades de interpretação) no conteúdo das aulas e das anotações na margem dos TAs e as múltiplas ofertas (ainda que parciais) "garimpadas" na literatura pesquisada. Se assim foi para esse estágio, menos longa e complexa não foi a análise em profundidade levada a efeito nos 48 TAs selecionados para essa análise.
+
+
+
+Análise da Estrutura Conceitual
+
+Considerou-se na Pesquisa que a estrutura conceitual em tradução era uma "peça" [35] de informação, selecionado de uma estrutura conceitual mais ampla, de um corpo de teoria(s) biológica(s), que estava sendo veiculada(o) pelo SM, buscando transformar a terminologia formal daquele corpo teórico em termos que (assumia o SM), seriam compreensíveis pelo SAs em situação de aprendizagem; isto é, tornar significativo para esses SAs um conhecimento formal e específico de uma comunidade científica, já traduzido para uma outra estrutura simbólica (conhecimento escolar)
+
+Resumidamente, a análise foi feita a partir da construção de categorias que emergiram do contraste acima explicitado. Verificou-se em cada TA que o SM planejou centrar cada situação de aprendizagem em um conjunto definido de informações, selecionado daquela "peça". Esse conjunto foi considerado a categoria mais geral da análise e denominada de tópico da tradução. Geralmente esse tópico era complexo em termos dos elementos que o constituíam, relativamente aos SAs que estavam envolvidos na situação e, portanto, passava por um processo de desconstrução. Esta era feita quer através de uma "quebra" do tópico em "partes" menos complexas, na maioria das vezes em conceitos biológicos mais simples, apresentados através de definições formais, mas muitas vezes, ocorria também a quebra do tópico sob forma de questionamentos, demonstrações, apresentação de exemplos, sem o uso ostensivo de uma terminologia específica da área biológica. Nessas oportunidades o SM lançava mão de linguagens verbais e não verbais, muito mais próximas da conversa informal, trazendo termos do cotidiano, de uso comum àqueles SAs.
+
+Contrastando as anotações de margem e os conteúdos dos TAs com a literatura, foi possível encontrar suporte teórico para a análise desta descontrução, em autores como Harré, Ausubel, Novak, Shaefer, cada um deles a partir de perspectivas diferentes, mas abordando a questão da inclusividade de um conceito e as relações entre conceitos "menores" que serviam como "blocos" para a construção de conceitos mais amplos. Nos termos de Harré, havia uma hierarquia de conceitos; nos de Ausubel e de Novak, uma relação de superordenação / subordenação entre eles; nos de Sheafer, um núcleo de significado (essência, nos termos do autor) e inúmeras possibilidades de associações com outros termos, objetos, etc., que tornavam o conceito compreensível para os SAs.
+
+Analisando mais detalhadamente, verificou-se que a tradução dos conceitos incluídos no tópico chegava a um nível em que a sua significatividade dependia de palavras-chaves (Berelson) e que os diferentes momentos da interação (episódios de Smith) poderiam ser reduzidos a uma sequência dessas palavras, todas elas imprescidíveis para a construção do significado do conceito [36]. Essas palavras representavam unidades constitutivas do conceito e, portanto, foram denominadas de unidades conceituais. A seqüência delas, de cadeia conceitual. Para os conceitos mais e menos inclusivos foram mantidos, respectivamente, os termos de Ausubel e Novak: conceito superordenado e conceito subordinado.
+
+A dinâmica do processo de tradução trouxe elementos muito significativos para a compreensão e o uso adequado dessas categorias, uma vez que, a depender do momento (na linha de tempo do processo), da amplitude e da profundidade com que um tópico era desenvolvido, as categorias relativizavam-se: um conceito inicialmente apresentado como superordenado, passava daí a pouco a subordinado e num outro determinado momento, até a ser uma unidade conceitual (o menor nível de subordinação). Além disso, principalmente porque a tradução consistia em um processo coletivo de (re)construção / desconstrução do significado de um tópico ou conceito, havia uma grande dependência, para a construção do seu significado nuclear (núcleo lógico do conceito), da mediação de ilustrações, analogias, exemplos (concretos ou representações), quer a partir de ações do SM, quer através do estímulo ou convite aos SAs no sentido de trazerem conhecimentos anteriores, para estabelecer "pontes cognitivas", conforme Novak, que facilitem a compreensão e a construção do significado do conceito. Desta forma, as interações eram repletas de esquemas associativos que faziam a articulação entre um conceito científico e o conhecimento comum mais aproximado do grupo de SAs.
+
+Os EXCERTOS No. 2 e 3 trazem fragmentos da tradução de dois tópicos diferentes, onde se pode verificar o uso de recursos verbais e não-verbais para a compreensão de um conceito complexo, embora subordinado em relação ao tópico, utilizando esquemas associativos (uso dos sentidos, linguagem conversacional, demonstração de modelo ou espécimen concreto).
+
+
+
+
+
+EXCERTO No. 02
+
+Tópico: Coordenação de movimento e equilíbrio
+
+
+
+
+
+SM
+
+"Certo. Vamos dar uma olhada nos canais semi-circulares em mais detalhe, usando estes modelos. É muito difícil no quadro de giz ter uma idéia real de como os canais estão posicionados nas três dimensões (sic), dentro de seu ouvido. Esquemas associativos (SM. mostra um modelo tridimensional, em plástico transparente, parcialmente preenchido com líquido azul).
+
+
+
+Se nós usarmos isto para representar os três canais semi-circulares, vocês serão capazes ver sua posição, um em relação aos outros, certo? (Move o modelo de modo que fique visível a posição de cada canal em relação aos outros).
+
+Agora, vocês podem ver que cada canal está num plano diferente? O que eu quero dizer com isto? É difícil de explicar ["]. (O modelo é mostrado em detalhe. SM passa o dedo indicador ao longo de cada canal).
+
+Agora vocês vêem que eles contém fluido. Eu acho que que vocês podem ver uma bolha de ar se movendo aí dentro; vocês estão vendo, não estão? Vejam a bolha de ar se movendo aí dentro. (Movimentando o modelo em vários sentidos e direções, de modo que SAs possam observar a movimentação do líquido no seu interior).
+
+Agora imaginem isto dentro de seu ouvido, certo? (SAs convidados a refletir abstratamente a partir da observação do modelo
+
+
+
+
+
+EXCERTO No. 03
+
+Tópico: Reprodução de vegetais
+
+
+
+
+
+SC
+
+TEXTO TRANSCRITO
+
+ANOTAÇÕES
+
+
+
+SM:
+
+[...] Pegue aquela planta vermelha, muito comum [...] (SM dirige-se a SA de modo familiar, conversando informalmente e fazendo gestos).
+
+Esquemas associativos SM indica com o dedo uma, entre outras flores, sem nomeá-la (exemplar de Hibisco)
+
+
+
+AS:
+
+A graxa? SA, pegando a flor, indicando conhecimento prévio do exemplar.
+
+SM:
+
+Sim, a graxa, e você tira as pétalas, bem embaixo e você vai encontrar uma garrafinha, não é? SM utiliza objeto concreto para observação, estimulando manipulação para SA identificar de estrutura, sem nomeá-la com terminologia específica; usa analogia do conhecimento comum.
+
+SA:
+
+Sim. SA observa, retirando as pétalas.
+
+SM:
+
+Aqui dentro. Você já teve curiosidade de abrir aí? SM mostra, usando um estilete, o ovário da flor, sem nomeá-lo; continua conversando informalmente.
+
+SA:
+
+Já. SA continua a dissecar o ovário.
+
+SM:
+
+Você já viu uma bolinha que tem aí dentro? Esta bolinha se chama oosfera e isto é o gameta feminino. Unidades conceituais SM usa analogia para depois aplicar a terminologia específica, introduzindo dois conceitos, aí na "posição" de unidades conceituais, que mais tarde serão usadas como conceitos subordinados ao superordenado aparelho reprodutor feminino de vegetais.
+
+
+
+
+
+À proporção que os TAs iam sendo analisados, ia sendo feito um outro tipo de contraste: de todas as categorias de análise (CAs) entre si, e com a literatura, a fim de se fazer uma seleção gradual daquelas que mais relevantes para os propósitos da Pesquisa, objetivando manter um nível de sistematização viável e significativo.
+
+
+
+3. Sistematização
+
+O conjunto de CAs construído através dessa estratégia de contraste agregou um significativo valor à dinâmica da análise do processo de tradução. Face à articulação das CAs, foi possível estruturar um sistema de análise (SI) que orientou a interpretação dos TAs e a seleção dos episódios mais relevantes para a produção do texto final da Pesquisa. Em linhas gerais o SI é composto dos elementos apresentados na síntese a seguir.
+
+
+
+
+
+Quadro Sumário dos Componentes do Processo de Tradução
+
+
+
+Componentes Básicos no Processo de Tradução
+
+Categorias
+
+Categorias Analíticas
+
+
+
+Conhecimento Biológico
+
+
+
+Estrutura Comercial
+
+
+
+Tópico da Tradução
+
+Conceitos Super Ordenados
+
+Cadeias de Unidades Conceituais
+
+Unidades Conceituais
+
+
+
+
+
+Nível de Tratamento
+
+
+
+Complexidade
+
+Abrangência
+
+Profundidade
+
+
+
+
+
+Bases Materiais
+
+
+
+Objeto Concreto
+
+Espécimes in Vivo
+
+Espécimes in Vitro
+
+Reálias
+
+
+
+
+
+Representação do Objeto
+
+Modelo Concreto Tridimensional
+
+Modelo Concreto Bidimensional
+
+Modelo Verbal
+
+
+
+
+
+Processos Cognitivos
+
+
+
+Verbais
+
+Declaração
+
+Designação
+
+Definição
+
+Descrição
+
+Interpretação
+
+Identificação
+
+Estabelecimento de Relação
+
+Inferência (ato)
+
+Síntese (ato)
+
+Avaliação
+
+
+
+
+
+Não Verbais
+
+Gesticulação
+
+Mostra (ato)
+
+Manipulação
+
+Exploração
+
+Experimentação
+
+Modelagem
+
+
+
+
+
+Considerações conclusivas
+
+Embora esta memória seja uma revisita a uma investigação que se realizou há quase três décadas, considera-se que seu objeto de estudo é absolutamente contemporâneo, principalmente quando se vê tanta insistência nas discussões sobre a democratização da informação, nos programas "Sociedade da Informação", de um grande número de países. A retórica da "luta" contra a segregação digital é contundente, passando por muitos setores da sociedade. Contudo, se a sociedade da informação é aquela que disponibiliza dados e informações, sem a preocupação de lhes agregar valor como conhecimento socialmente significativo e relevante para a construção de indivíduos sociais que tenham no conhecimento sistematizado um dos elementos mais fundamentais para a sua (in)formação cidadã, o mundo global está adicionando ao já enorme contingente de "excluídos sócio-econômicos" um outro grande, a dos "excluídos cognitivos". Aqueles que, embora cheguem até a ter algum acesso à informação, não têm competência para dela se apropriarem na construção de suas subjetividades. A responsabilidade da Ciência da Informação e da Educação face a este desafio é incalculável e não se pode permitir que o conhecimento, principalmente o científico e tecnológico, que é produzido com o massivo apoio de recursos públicos, permaneça propriedade de poucos. Sua tradução para a conquista de "patamares cognitivos" cada vez mais amplos em termos da distribuição entre os diversos estratos da população é papel não só da escola, mas também de todos os espaços sociais onde se possa interagir com o objetivo de (in)formar o cidadão, construindo espaços sociais de aprendizagem abertos e multirreferenciais.
+
+Espera-se que este artigo possa contribuir para a compreensão de que a grande complexidade implicada na tradução do conhecimento não é razão para impedir processos cada vez mais ampliados de disseminação responsável da informação. Há alternativas para lidar com essa complexidade e torná-la base para uma perspectiva menos mutilante (como diz Morin), de construção de subjetividades mais e melhor (in)formadas. O foco na construção metodológica tem o propósito de socializar uma, dentre as muitas possibilidades de organizar processos de disseminação do conhecimento nessa perspectiva.
+
+
+
+
+
+Notas
+
+
+
+[1] Consideram-se, aqui, as concepções de conhecimento público e conhecimento pessoal, respectivamente, de acordo com Ziman, J.M. Public knowledge: An essay concerning the social dimension of Science. Cambridge: Cambridge University Press, 1968 e com Polanyi, M. Personal knowledge: Towards a post-critical philosophy. London: Routledge and Kegan Paul, 1958. [2] Este conceito é asumido segundo Castoriadis, C. L'instituition imaginaire de la societé. Paris: Éditions de Seuil, 1975.
+
+[3] FRÓES BURNHAM, T. Cognitive aspects of the implementation of lessons by biology student teachers. Southampton: Faculty of Educational Studies, University of Southapton, 1983, p. 14 (Unpublished PhD thesis).
+
+[4] Esta expressão é usada com o sentido de sujeito que se constrói permanentemente, tendo no conhecimento sistematizado um dos elementos significativos para sua autonomização como individuo social. Neste artigo os SC são diferenciados entre SM - Sujeito Mediador e SA - Sujeito Aprendiz, indicando suas posições formais no processo de tradução, no espaço social da escola. Contudo, enfatiza-se que esses papéis são intercambiáveis na situação estudada.
+
+
+
+[5] Em razão dos limites deste artigo, só se tratará do papel "tradução", embora muitas vezes haja referência a aspectos do papel "mediação", devido a mútua implicação dos dois.
+
+[6] Este estudo durou nove meses, na condição de participante-observador (GOLD, 1969) o processo de formação de professores de Ciências (Biologia), no Chelsea College, Universidade de Londres, inicialmente em cursos de quatro disciplinas oferecidas no âmbito da própria Universidade (três meses); num segundo momento, continuando com duas daquelas quatro disciplinas e acompanhando as atividades de prática de ensino em duas escolas públicas, uma elementar e outra secundária, em Londres.
+
+[7] A esse respeito, ver a síntese apresentada por Glaser, B.G. The Constant Comparative Method of Qualitative Analysis. Social Problems, 12, 1965, p. 436-445; para maior aprofundamento, os clássicos trabalhos dos sociólogos Barton, A.H. e Lazarsfeld, P. F. Some functions of qualitative analysis in social research. In S.M. Lipset and N.J. Smelser (Eds.). Sociology: the progress of a decade. Englewood Cliffs: Prentice-Hall, 1961; Merton, R.K. Social theory and social structure. New York: Free Press of Glencoe, 1957 e Znaniecki, F. The method of Sociology. New York: Farrar and Rinehart, 1934 bem como os trabalhos estimulados pela posição destes nos trabalhos de Berelson, Becker, Becker e Geer,
+
+[8] FRÓES BURNHAM, T. Caracterização do professor de Ciências do 1o. grau no Estado da Bahia. Salvador: Faculdade de Educação da Universidade Federal da Bahia, 1976. (Dissertação de mestrado não publicada).
+
+[9] Especificamente: Douglas, J.D. Understanding everyday life. London: Routledge and Kegan Paul, 1971; Glaser, B.G. and Strauss, A.L. The discovery of grounded theory: Strategies for qualitative research. New York: Aldine de Gruyter, 1967; Mannheim, K. Ideology and Utopia. New York: Harcourt, Brace Javanovich, 1936; Polanyi, M. op. cit. Nota 1; Toulmin, S. Human understanding. Oxford: Clarendon Press, 1972; Ziman, J.M. op.cit. Nota 1.
+
+
+
+[10] O termo designa, neste caso específico, ou o professor universitário atuando nos cursos observados, ou o estudante de Biologia na condição de professor em formação, na prática de ensino.
+
+[11] "Gerar teoria" a partir de categorias (teóricas) que são "descobertas" por meio de uma comparação permanente entre os "incidentes" registrados no trabalho de campo e o que o pesquisador pode construir, com base nessas categorias e suas propriedades, para "gerar hipóteses" e explicar a situação estudada, (Cf. referências anteriores nas notas 5 e 7, a Glaser e Glaser & Strauss, respectivamente.
+
+[12] A descrição detalhada dessa sistematização e do processo dessa análise pode ser consultada em Fróes Burnham, op. cit. Nota 3.
+
+[13] Esta constituiu-se em dois estudos: um na Inglaterra e outro no Brasil, ambos acompanhando apenas a atuação dos SMs (estudantes-professores em formação) na prática de ensino. Em ambos os países esse acompanhamento foi feito em classes correspondentes (em termos dos anos de escolarização) à primeira série do ensino do 2o. grau (atualmente ensino médio) no Brasil.
+
+[14] O termo aqui significa o texto transcrito, correspondendo ao termo transcript, em língua inglesa
+
+
+
+[15] Essas notas foram tomadas ao longo das observações em campo ou imediatamente após a observação, ou ainda, assim que as transcrições estavam sendo feitas, o que ocorria o mais breve possível depois de cada observação, a fim de minimizar a interferência do tempo na memória do que foi observado.
+
+[16] Cf. Fróes Burnham, op. cit. Nota 3, p. 110.
+
+[17] O estudo exploratório trouxe uma clareza muito grande de que não era o conhecimento científico enquanto tal que estava sendo traduzido naqueles espaços escolares, mas sim uma tradução deste, simplificada, para uma população de SA - uma questão merecedora de investigação, até o momento atual.
+
+[18] Componente, aqui, significa as bases sobre as quais se dá a interação entre o SM e o estudante: ações (principalmente verbais e não-verbais com o propósito de "veicular" um conhecimento no processo de tradução); fragmentos do conhecimento específico que se objetiva traduzir; recursos materiais usados como elementos de organização do processo de tradução: por exemplo, um modelo bi ou tridimensional do que está sendo traduzido. Esta compreensão foi derivada do conceito apresentado em Herbert, J. A system for analysing lessons. New York: Teachers College Press, 1967.
+
+[19] Nos moldes propostos por Glaser & Strauss, op. cit. Nota 7.
+
+
+
+[20] Preferiu-se usar aqui este termo, ao invés de aplicabilidade, em virtude de não se estar trazendo as questões "de fora" da análise, mas a partir do escrutínio do conteúdo do próprio transcrito.
+
+[21] A expressão transcrito anotado é usada para indicar uma UA que passou pela primeira fase (exploração inicial), do momento analítico de escrutínio.
+
+[22] Aí são incluídos autores e obras das duas últimas décadas de então.
+
+[23] Cf. Flanders, N. A. Teacher influence, pupil attitudes and achievement. Washington: Office of Education, 1965. Wragg, E. C. An analysis of the verbal classroom interaction between graduate student-teachers and children. Exeter: University of Exeter, 1972. (Unpublished PhD thesis); Eggleston, J. F. Galton, M. J. and Jones, M. A Science teaching observation schedule. London: Macmillan Education, 1975).
+
+[24] Cf. Herbert, J. op. cit. Nota 16.
+
+
+
+[25] Episódio e monólogo, discutidos em duas obras: Smith, B.O. The study of the logic of teaching. Urbana: Urbana College of Education, Illinois University, 1964 (Repport on Phase I of the project The logical Structure of Teaching and Development of Critical Thinking) e Smith, B.O. and Meux, M.O. A study of the logic of teaching. Urbana: University of Illinois Press, 1970.
+
+[26] Ausubel, D.P. The psychology of meaningful verbal learning. New York: Grune and Straton, 1963; Ausubel, D.P., Novak, J.D. and Hanesian, H. Educational Psychology: A cognitive view. 2nd. Edition, New York: aholt, Rinehart and Winston, 1969; Novak, J.D. The role of concepts in science teaching. In H.J. Klausemeir and C.W. Harris. Analysis of concept learning. New York: Academic Press, 1966, p. 239-254; Novak, J.D. A theory of education. Ithaca: Cornell University Press, 1977.
+
+[27] A expressão núcleo lógico (logic core) é compreendida pelos autores como a estrutura invariante representativa de uma certa classe de coisas ou eventos, enquanto que esquema associativo(associative framework) tem o sentido de rede de associações que dá colorido ao conceito com atributos sensoriais, emoções e outros conceitos. Cf. Sheafer, G. Concept formation in Biology: The concept growth. European Journal of Science Education. Vol. 1, No. 1, 1979, p. 87-101; Shaefer, G. Concept formation in school between scientific and community demands. 1979. (Unpublished paper presented to the International Seminar on Cognitive Development); Katman, U. and Shaefer, G. New approaches in restructuring school Biology. Journal of Biological Education, v. 10, No. 3, p. 139-147.
+
+[28] Harré, R. The formal analysis of concepts. In H.J. Klausimeir and C.W. Harris. Analysis of concept learning. New York: Academic Press, 1966, p. 1-17.
+
+[29] Fodor, J.A. and Katz, J.J. The structure of a semantic theory. In , J.A. Fodor and J.J. Katz. The structure of language. Englewood Cliffs: Prentice-Hall, 1964.
+
+
+
+[30] Berelson, B. Content analysis in communication research. New York, Hafner, 1971.
+
+[31] Dois capítulos no livro Just, M.A. and Carpenter, P.A.. Cognitive Process in Comprehension. New York: John Wiley and Sons, 1977: um de Kintisch, W. On comprehending stories (p. 33-62) e o outro de Kieras, D. Problems of reference in text comprehension (p. 240-269).
+
+[32] Mead, G.H. Mind, self and society. Chicago: The University of Chicago Press, 1934; Berger, P.L. and Luckman, T. The social construction of reality. Harmondsworth: Penguin Books, 1971; Goffman, E. The presentation of self on everyday life. Harmondsworth: Penguin Books, 1971.
+
+[33] Bernstein, B. On the classification and framing of educational knowledge. In M.F.D. Young (ed.). Knowledge and control. London, Collier-Macmillan, 1971, p. 47-69; Bernstein, B. Class, code and control: Theoretical studies towards a sociology of language. Vol. 1, London, Routledge and Kegan Paul, 1975; Bernstein, B. Class, code and control: Applied studies towards a sociology of language. Vol. 2, London, Routledge and Kegan Paul, 1975; Labov, W. The study of non-standard English. Illinois: National Council of Teachers of English, 1970.
+
+

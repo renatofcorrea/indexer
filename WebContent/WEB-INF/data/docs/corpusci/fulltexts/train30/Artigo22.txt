@@ -1,0 +1,337 @@
+A Informação e o Paradigma Holográfico: a Utopia de Vannevar Bush
+
+
+
+Resumo: A Ciência da Informação tem dois elementos constituintes: por um lado ela nasce como acúmulo teórico e de experiências de processamento de informações, em particular da biblioteconomia e da documentação, com suas tecnologias capazes de processar volumes finitos de informação. Por outro como utopia, resultado da ampliação e alargamento do horizonte da ciência , nos esforços aliados na segunda guerra mundial e o desejo de Bush de um novo ordenamento para a Informação. O aspecto mais importante não é a "explosão informacional" como aumento quantitativo, mas a interconexão de experiências e pesquisas, que gera a necessidade de processamentos para a circulação de grandes massas de informação; utopia alimentada pela possibilidade vislumbrada de processar um volume infinito com o surgimento da tecnologia informática. Nossa reflexão é que se o primeiro aspecto está estruturado no paradigma do moderno, com sua visão determinista e racional, resumindo-se a estudar o processo de informação em sistemas fechados, homogêneos e passíveis de serem organizados à priori, o segundo, a utopia, não consegue encontrar uma resposta no interior deste paradigma. Este segundo aspecto constituinte, isto é a busca da capacidade de processar informações em um número infinito e independente de linguagens controladas e de disciplinas, tem como marco o texto "Como nós pensamos" de Vannevar Bush. Ele aponta para a necessidade e possibilidade da Ciência da Informação enfrentar de uma maneira nova o problema da complexidade e interatividade, características cada vez mais presentes em nosso mundo, colocando em questão o próprio paradigma vigente. Esta utopia, no entanto, foi posta em segundo plano devido aos objetivos produtivistas colocados pelas opções práticas que a marcaram. Para recolocá-la na ordem do dia é necessário rever a própria definição de Ciência da Informação, seus limites como campo de conhecimento, seus métodos, suas técnicas e tecnologias. O Paradigma Holográfico apresenta determinados caminhos e opções para uma nova discussão e o hipertexto o evidencia em termos práticos.
+
+Palavras-chave: Paradigma, Holografia, Ciência da Informação, Tecnologia da Informação, Hipertexto, Complexidade, Interatividade, Virtual, Totalidade
+
+
+
+A Utopia de Vannevar Bush
+
+É comum na literatura da área da Ciência da Informação (CI) a referência ao texto "As We May Think" de Vannevar Bush, publicado em julho de 1945 em The Atlantic Review (BUSH, 1945). O artigo teve grande influência em nossa aproximação com a CI, pois foi como se nos lançasse um desafio:
+
+"O conhecimento humano vem crescendo assustadoramente e se tornando cada vez mais especializado. À medida que o conhecimento cresce e a especialização se estende, mais complicado se torna o nosso acesso a esse monumental acervo. O investigador fica perplexo quando tem que lidar com o produto da pesquisa de milhares de colegas -- não tendo tempo para ler, muito menos para analisar e memorizar, tudo o que é publicado, mesmo em sua área de especialização. A especialização talvez seja a única maneira de fazer o conhecimento progredir. Mas o esforço de construir pontes entre as várias disciplinas especializadas ainda é incipiente e artificial" (BUSH, 1945).
+
+Vannevar Bush, que coordenou 6.000 cientistas no esforço aliado, fazia então uma avaliação do estado da ciência no pós-guerra. Ao final da Segunda Guerra, com autoridade de quem acompanhou parte substantiva da produção científica da época, ele apontava a dificuldade crescente da ciência que se desenvolvia em várias direções adquirindo complexidade; ressaltava a inoperância dos mecanismos de produção, gerência e difusão do conhecimento científico e a debilidade dos recursos humanos frente a esta nova situação. Denunciava os problemas criados pela crescente especialização que, mesmo necessária à aplicação em áreas particulares de conhecimento, leva à perda da capacidade em acompanhar o desenvolvimento do conjunto da ciência. Visto o grau de complexidade dos conhecimentos produzidos, os cientistas são obrigados a optar entre desenvolver seu trabalho, cada vez mais especializado, ou ler infinitos papers para se manter atualizado. Só estaríamos livres deste dilema, se criássemos novas metodologias, instrumentos e máquinas que permitam gerir grandes volumes de informações[1].
+
+O artigo de Bush colocava questões em diferentes níveis. Situando-se ao nível do "agenciamento", da maneira de fazer de um dirigente preocupado em responder necessidades e problemas práticos, as questões desbordavam em muito esta esfera discutindo paradigmas como precondição para abordar as questões ao nível do agenciamento e se preocupando em mostrar a viabilidade deste caminho, discutindo possibilidades técnicas e práticas de realizá-lo.
+
+As referências em nossa área, no entanto, eram mais à "explosão de informações[2]", ou a visionária máquina Memex (a busca de uma tecnologia capaz de superá-la), do que a questão que nos provocava inquietações. Para nós, a grande questão era que a mudança de quantidade[3] (no volume de informações) exigia uma mudança de qualidade no seu tratamento. O que fazia, que "nossos métodos de transmitir e analisar o resultados das pesquisas..." (ficassem) "... antiquados e totalmente inadequados aos propósitos para os quais os empregamos" (BUSH, 1945). Os processos de indexação usados não eram capazes de dar conta desta nova situação. Para abordar este volume infinito de informações o caminho apontado era o da associação de idéias "como nós pensamos" (BUSH, 1945). Esta diferença de procedimento exigia uma mudança de paradigma, uma mudança da maneira de processar, relacionar e mesmo conceber as informações. No entanto ao avançar na discussão ao nível "prático[4]" a questão de fundo aparecia difusa permitindo que questões técnicas e práticas fossem pensadas dentro da ótica do paradigma anterior. Ficava em segundo plano a questão mais importante que Bush colocava: sua utopia de "construir pontes entre as várias disciplinas especializadas" rompendo as comportas que as mantinham isoladas.
+
+O artigo, de certa forma, era expressão dos dois elementos constituintes da CI:
+
+1. Por um lado, o acúmulo teórico, de experiências práticas e de técnicas de processamento da informação existentes até então (capazes apenas de processar volumes finitos de informação);
+
+2. Por outro lado, a constituição uma problemática colocada por um objeto teórico novo (a Informação) e uma nova área de conhecimento (a Ciência da Informação)[5] o que coloca na ordem do dia, a utopia de romper as comportas que aprisionam a informação no limite estreito das disciplinas. Utopia que é resultado da ampliação e alargamento do horizonte da Ciência, evidenciado pela coordenação dos cientistas para os esforços aliados (o que gera a necessidade de processamento e circulação de grandes massas, infinitas, de informação). Utopia que também se apoiava no surgimento da tecnologia informática e sua capacidade de processar um volume cada vez maior de informações e que se materializou mais tarde na Internet.
+
+Se o primeiro aspecto, com sua ótica produtivista[6], determinista e racional, estava estruturado no paradigma moderno[7], restrita a estudar o processo de informação como um sistema fechado, homogêneo e passível de ser organizado à priori, o segundo, a utopia, não encontra uma resposta no interior deste paradigma. Esta utopia, de "estabelecer pontes entre as diferentes especializações", de ser capaz de processar informações em um volume infinito e independentemente de linguagens controladas, aponta para a única possibilidade de se lidar com a complexidade do mundo em que vivemos. Mas ela coloca em questão o paradigma vigente e põe na ordem do dia a necessidade de redefinição do próprio conceito de informação, da Ciência da Informação como área de conhecimento, e de seus métodos, técnicas e tecnologias.
+
+Para esta redefinição, ao nosso ver, é necessário refletir em duas questões:
+
+1. Porquê a Ciência da Informação aceita as divisões de disciplinas e não se coloca por cima delas, capaz de produzir conhecimentos que perpassem suas fronteiras?
+
+2. Seria possível abordar o problema da informação em uma outra esfera, de uma outra maneira, a partir de onde as fronteiras das disciplinas não se colocasse como algo intransponível?
+
+Nossa tese é de que a Ciência da Informação se estabelece ao nível do "atual[8]" e nesta esfera[9] as disciplinas fazem sentido, pois elas trabalham em espaço (escalas/posições) e tempo (velocidade/momentos) diferenciados[10]. Uma característica fundamental deste tipo de abordagem é que seus elementos transitam e são acionados ao nível do "atual", isto é, a partir de "contextos" determinados, ou dito de outro modo, a partir de determinados parâmetros espaço-temporal (que por sua vez são construções do paradigma moderno). Exatamente por se estabelecerem ao nível de diferentes processos de emergência, onde os parâmetros de espaço/tempo de cada disciplina são diferentes, podemos dizer que encontramos dobras (no tempo e no espaço) na passagem de uma para outra disciplina[11].
+
+A possibilidade de estabelecer "pontes entre as disciplinas" como queria Vannevar Bush, só existe se trabalharmos no terreno no "virtual[12]", onde estes parâmetros particulares deixam de ter importância, isto é, se estudarmos a informação de maneira independente do tempo e do espaço onde elas podem se "atualizar". Para isto precisaríamos estudar a informação não como uma cadeia de "relações de determinações" mas como "possibilidade de relações". A fixação destes parâmetros espaço-temporal de uma certa maneira permite uma cristalização das relações[13]. Elas são dadas. Isto possibilita o deslocamento do núcleo crítico da teoria da área para a questão da "representação", criando-se um sistema passível de ser medido e onde é possível estabelecer valores (falso ou verdadeiro). Como o sistema está dado é possível promover uma indexação e catalogação "a priori" e descobrir uma "melhor maneira" de organizar a informação originando padrões que devem ser usados por todos e em todo o lugar.
+
+Mas criar um sistema estável e capaz de ser operacionalizado a partir de diferentes parâmetros espaço-temporal, de múltiplos contextos e pontos de vista, exigiria trabalhar um volume de informações que as tecnologias de inteligência até a pouco ainda não eram capazes de processar. De outro modo, isso só é possível operando determinadas restrições e observando o processo em determinadas condições particulares[14].
+
+Estas restrições são dadas pelos pressupostos de espaço e tempo criados[15]. Tratar o fenômeno em determinados limites de escala; reduzir o número de elementos observados; desprezar fenômenos que não seriam determinantes para os objetivos pretendidos, e restringir o número de "pontos de vistas" considerados[16], foram algumas das maneiras de criar um sistema capaz de funcionar.
+
+O problema, no entanto, aparece novamente quando necessitamos trabalhar com interatividade e múltiplos "pontos de vistas", em diferentes escalas e espaço/tempos, com um volume infinito de informações e em condições de tempo real, isto é, de "tempo zero" ou em sistemas onde o tempo não existe.
+
+Este é de certa maneira o mundo em que vivemos. Uma nova situação onde:
+
+* Novos objetivos produtivistas justificam largamente a necessidade de estudar a informação dentro de uma perspectiva mais ampla, não-restrita a atividade de ciência e tecnologia propriamente dita, já que a informação se coloca cada vez mais no centro de todas as práticas na sociedade em que vivemos;
+
+* Vivemos uma evolução das tecnologias de inteligência (informática, internet, hiper-texto, simulação, etc.) que viabiliza, oferece e em certo sentido exige uma ampliação das possibilidades de estocagem, gerência e processamento da informação a níveis jamais imaginados;
+
+* Onde o paradigma moderno se mostra incapaz de pensar estas novas práticas e coloca a necessidade de avanço no sentido da constituição de um novo paradigma (o que é um problema teórico e prático ligado aos aspectos anteriores).
+
+Essa nova situação permite e exige uma nova abordagem da Ciência da Informação. E um bom caminho para isto é retomar a Utopia de Vannevar Bush.
+
+
+
+II - Texto e Hipertexto
+
+O texto e o hipertexto, de um certo modo são expressões dessas duas possibilidades de abordagem, por sua vez manifestações de paradigmas diferentes.
+
+Podemos dizer que até o surgimento da Internet vivíamos uma situação de "carência de informações". Ainda que seu volume tendesse ao infinito as informações eram estocadas em diferentes mídias e lugares, incomunicáveis. O acesso a elas, portanto, era parcelar e determinado. As informações eram basicamente processadas pelos homens, que as inscreviam, organizavam e transmitiam[17], e difundida através de palavras, principalmente escrita, e estocadas em livros, jornais, periódicos e correspondências.
+
+A tecnologia de imprensa favorece uma leitura linear, predeterminada pelo autor. Um livro ou um artigo de revista, em princípio, se lê de cabo a rabo[18], páginas e parágrafos um após outro. Quando lemos algo, nossa predisposição inicial é entender o que quer dizer o autor. A formação de um ponto de vista próprio, em princípio, ocorrerá ou não em um momento seguinte[19].
+
+O texto, de uma certa maneira, é uma extensão da fala[20] e reflete algumas de suas características. A mais importante delas é organizar as informações a partir de um ponto de vista determinado, no tempo e no espaço: o tempo e espaço do autor, do personagem ou da situação, em outras palavras a partir de um determinado sujeito. Ao estabelecer uma narrativa é criado um sistema de parâmetros espaciais e temporais onde estão articulados os diferentes fatos e episódios a partir de um determinado ponto de vista. Este encadeamento, no entanto, só se torna possível a partir destes parâmetros e no seu interior. De uma certa maneira eles são exclusivos daquele sujeito (em um momento e lugar determinado).
+
+Ocorre que, diferentemente da fala, o texto ganha uma dinâmica própria. Conforme ele se "afasta" do espaço e tempo do autor a força da gravidade em relação ao emissor perde sua força, e retirado de seus parâmetros, se torna possível a sua des/reconstrução em um outro espaço e tempo, o espaço e tempo do leitor, ganhando uma nova coerência criada por este. Este processo, muitas vezes se dá de maneira imperceptível e inconsciente. O leitor acredita que "entendeu" o que se quis dizer e que sua percepção do texto é a mesma do autor.
+
+Podemos dizer assim que, apesar de se articular ao nível do atual (como a fala) "estabelecendo determinações", ao desprender-se do autor, o texto aprofunda seu estatuto virtual. Ele passa a ter uma existência virtual se cristalizando não mais como "relações determinadas", mas como "possibilidade de relações".
+
+As tecnologias tradicionais de escrita e impressão impuseram assim modelos narrativos seqüenciais que originam problemas, em particular quando se aprofunda a complexidade e se desenvolve a interatividade (quando diferentes sujeitos se colocam em relação). Mas estes problemas, provisoriamente, foram reduzidos com a evolução das técnicas de edição e de gramática possibilitando pequenas escapadas momentâneas e precárias, através de notas, apostos, parêntesis, imagens e referências capazes de levar a outros ambientes e outras publicações[21].
+
+Conforme o texto se afasta em relação ao espaço/tempo que o estruturou, estas características virtuais ganham força. O contexto, que não é senão outra forma de designarmos o "atual" (os parâmetros espaço/temporais) perde sua força[22] e as características virtuais se aprofundam.
+
+Por outro lado, enquanto o texto ganha distância do autor e aumenta o número dos leitores, se introduz um elemento de complexidade a este processo: através dele diferentes sujeitos (e, portanto diferentes sistemas espaço/temporal) são colocados em contato. Isso por sua vez aprofunda ainda mais suas características virtuais[23].
+
+O leitor pode assim colocar em ação sua posição como sujeito. Mesmo que o suporte (livro) o dificulte, ele pode acrescentar ao livro outros textos através de anotações, resenhas, comentários, opiniões em outras publicações e livros, etc. Para não falar de que, através da indústria da edição, são introduzidos no próprio livro outros sujeitos nas figuras do editor, tradutor, revisor, apresentador, prefaciador, programador visual, etc.
+
+Mas quando se evolui do texto impresso para o texto digital, para o texto eletrônico e em particular para o hipertexto, começamos a romper com este tipo de narrativa e com sua estrutura espaço-temporal. O texto eletrônico desde o início coloca em cheque a maneira de organizar e gerir a informação exigindo uma revolução em suas práticas. As novas tecnologias de informação e comunicação serviram precisamente para facilitar a circulação do leitor nos textos independentemente de sua narrativa. A disponibilidade de textos eletrônicos foi o primeiro passo. "Com o surgimento dos arquivos eletrônicos se viabilizou a criação de bancos de dados, de sistemas de busca e análise do texto por meio de software, assim como a reutilização e recomposição dos textos. Simples programas de edição com capacidade de fazer buscas passaram a nos permitir localizar fragmentos que nos interessavam, copiá-los, e inseri-los em uma base de dados, em um artigo ou em uma mensagem de correio eletrônico (TORLÁ, )".
+
+O hipertexto foi o início dessa revolução e talvez a mudança mais característica da transformação de práticas comunicativas que está em curso[24]. Se no início ele parece apenas uma extensão do texto, onde os links podem ser comparados a notas, referências e comentários de autor, tradutor, editor, etc., e se mantenha ainda uma estrutura narrativa, nossa opinião é que o seu desenvolvimento romperá de vez com qualquer estrutura narrativa, perdendo a coerência e assumindo o contraditório, trazendo assim para seu interior "dobras" espaço-temporal e desta maneira radicalizando seu caráter virtual, como local de convivência de diferentes possibilidades de sujeitos.
+
+O hipertexto não é apenas uma nova forma de organização do texto. Existe uma diferença de qualidade, uma ruptura entre um e outro. Mesmo que o texto busque formas de superar as amarras da linearidade, ao criar o aposto, a nota, a referência, etc, isto é, recursos que remetem a outros tempos e outros espaços, estes se constituem a partir do tempo e espaço do autor, do editor ou do personagem, ou até são capazes de articular outros sujeitos, mas os articula em um tempo e espaço contínuo (ainda que falando de "lugares" e "momentos" diferentes). O hipertexto, ao contrario, permite trabalhar com agentes e processos que não se dão dentro de uma temporalidade e espacialidade determinadas. Enquanto o texto tem a virtude na coerência, o hipertexto tem sua virtude na possibilidade de convivência da contradição. Enquanto o texto é o terreno do sujeito, o hipertexto é o terreno das relações.
+
+
+
+III - Transição de Paradigmas
+
+Pensamos que o "paradigma determinista" (que de alguma forma é hegemônico nas concepções, nas práticas e na maneira de operar o mundo do ocidente), não é mais capaz de descrever e permitir que se opere em um mundo cada vez mais complexo[25].
+
+Esse paradigma nos permite descrever e operar o mundo[26] com relativo sucesso em determinada escala (ao nível humano, poderia se dizer) e com número limitado de variáveis passiveis de serem articuladas em relações de causa e efeito[27]. Mas com o aumento da complexidade[28] e necessidade de abordagens que considerem um número infinito de elementos, em diferentes escalas e em condições de "tempo real[29]", este paradigma se mostra inoperante. Isto porque em uma situação onde a descontinuidade e a assincronia é a regra, as relações de causa e efeito se inviabilizam, não é possível colocar todas as variáveis em uma mesma ordem de tempo e de espaço, e um pequeno incremento de valor em uma variável pode ter conseqüências desproporcionais e imprevisíveis em todo o sistema.
+
+A realidade que construímos[30] (causal, síncrona, homogênea, linear, seqüencial e "previsível" a partir da descoberta das "condições iniciais"; capaz de ser decomposta e estruturada "a priori"), começa a se apresentar cada vez com mais dobras, mais exceções, com mais elementos que devem ser desprezados. Por outro lado, cada vez mais detalhes devem ser incorporados à descrição[31], fazendo com que o modelo se obscureça, fique confuso, e perca seus contornos. Do mesmo modo, a maneira de operar calcada nela começa a produzir resultados cada vez mais imprevisíveis e menos relevantes.
+
+Quando falamos de mudança de paradigmas, falamos de um processo que engloba diversos "níveis". A mudança se manifesta na maneira de abordar os problemas, na visão de totalidade (ou de sua inexistência), das medições e relações que podem ser feitas e estabelecidas, assim como na técnica e na maneira de operar.
+
+Um paradigma cria algumas armadilhas para se perpetuar. Ele se incorpora a tal ponto em nossa vida, se impregna em nossa maneira de ver e de operar - e assim na nossa maneira de "sentir", que temos a dificuldade de pensar de outra forma[32]. Mas a invasão do homem em novas esferas da vida, seu acesso a outras escalas, lhe apresenta novas possibilidades. É o que acontece neste momento onde encontramos "indeterminação" em lugar de "determinação"; "acaso" em lugar de "previsibilidade"; "descontinuidade" em lugar de "continuidade"; "assincronia" em lugar de "sincronia" e "interatividade" em lugar de "aditividade".
+
+Estes elementos estão cada vez mais presentes em nossa vida e podemos verificar que muitos intelectuais, cientistas, artistas e pessoas comuns demonstram sensibilidade para eles, dando-lhes respostas variadas em diversos níveis. Surgiram técnicas, tecnologias, artifícios, noções, conceitos, fórmulas, relações e possibilidades alternativas aos elementos do "paradigma determinista". Mas estes novos elementos ainda não se globalizaram na criação de um novo paradigma capaz de dar uma nova ordem ao caos que nos envolve[33].
+
+Nos chamou a atenção, no entanto, quando se enfrenta estas discussões e na crítica ao paradigma determinista, a freqüência com que aparece a referência à holografia (um processo relativamente desconhecido) para ilustrar, esclarecer, simular e descrever estes novos processos[34]. Em particular a referência à possibilidade de se pensar uma situação onde o todo esta na parte e a parte esta no todo e de se viabilizar a possibilidade de pensar a informação no terreno virtual.
+
+
+
+IV - Hipertexto: O Rompimento com a linearidade
+
+Como já observamos Vannevar Bush - apesar de não usar a palavra[35], já na década de 40 descreveu a idéia de hipertexto. Explicava que, "nossa maneira natural de pensar, de considerar um assunto, é por associação. Captamos conexões entre as coisas e nossos pensamentos tomam a forma de redes". Essa é a idéia original que está por trás do WWW onde os elementos de informação estão vinculados de diversos modos não seqüenciais, e onde os computadores poderiam nos ajudar a seguir esses vínculos, assim como construir novos.
+
+No inicio dos anos 70, a evolução da informática e dos processos de digitalização, compressão, correção de erro, estocagem e gerência de informações viabilizaram um salto significativo na capacidade de estocar informações. Como exemplo, podemos citar o célebre , cujo objetivo era publicar 10.000 textos na rede antes do ano 2000[36].
+
+A Internet começava a engatinhar nas Universidades e nos Centros de Pesquisa. O crescimento das informações estocadas colocar a necessidade de criar e implantar ferramentas que ajudassem ao usuário a buscar e a organizar a informação disponível na rede. A rede começava a se tornar complexa, mas o hipertexto ainda era (e hoje ele ainda é) um adolescente. Estava a meio caminho do simples e do complexo, refletia ainda a narrativa centralizada e seguia a lei da gravidade. O Gopher[37] foi uma das mais importantes manifestações deste processo de maturação. Era baseado em menus, onde cada opção apresentava o enlace seguinte, hierarquicamente inferior. A busca da informação estava baseada em uma estrutura de diretórios até chegarmos ao "documento final".
+
+Ressalte-se que estamos já aqui perante uma configuração de rede. Mas uma rede determinada, a rede possível a partir da concepção do pensamento moderno. Uma rede cujos "nós" são articulados por relações de determinação, onde quanto mais próximo do centro mais importante se é; onde existe uma hierarquia de determinações e onde a comunicação com os pontos mais abaixo da pirâmide passa obrigatoriamente por estruturas superiores. Observem a semelhança com o mundo e a realidade que foi construída a partir do modo moderno de ver o mundo.
+
+Mas imagine que em um "nó" desta pirâmide, em algum ponto mais abaixo, se cria uma "nova relação", uma subdivisão que aponta para um nível alguns "nós" acima. O resultado será algo similar às escadas e outros objetos do artista plástico Escher, ou dos desenhos de Juarez Machado, onde se avança para trás e se desce para um nível superior. Chega-se a um paradoxo onde a linguagem linear e seqüencial não permite mais entender esta rede cada vez mais complexa, onde não se consegue mais saber onde é, melhor dizer, onde não existe mais centro ou onde, dependendo de um ou outro ponto de vista, qualquer elemento pode ocupar esse lugar. Chegamos a uma situação, onde espaço e tempo passam a ter dobras e não podem ser mais reduzidos a algo contínuo. Começamos a trabalhar com a possibilidade de uma descrição onde podem conviver diferentes pontos de vista, onde podem conviver diferentes "sentidos", sujeitos e diferentes situações.
+
+Este caminho se iniciou, em 1989, com o Projeto World-Wide Web:
+
+"Imaginemos que estamos lendo um livro e que encontramos uma palavra que não conhecemos. O mais normal é que nesse momento tenhamos que interromper a leitura para buscar seu significado em um dicionário. Porém, e se pudéssemos selecionar esta palavra no próprio texto de tal forma que imediatamente nos aparecesse seu significado? Poderíamos pensar assim, também, sobre referências que se fazem em um artigo científico. Esta idéia (...) foi desenvolvida no CERN para facilitar a comunicação e adestramento dos colaboradores, cientistas e estudantes dispersos geograficamente por todo o mundo e que participavam em seus projetos. (...) a intuição original da equipe do CERN era que o problema dos vínculos entre elementos de informação dispersos poderia ser abordado mediante um sistema de hipertextos distribuídos em redes de computadores". O resultado é o que hoje em dia se oferece com o WWW: "documentos cujos enlaces nos podem conduzir a um certo número de outros documentos e assim sucessivamente, combinados com consultas que geram os enlaces dinamicamente segundo nossos próprios interesses. É o leitor quem decide que enlaces seguir ou que perguntas fazer. Isso é o que o WWW faz possível". (SHOOP, 1993).
+
+Schoop (1993) descreve assim as diferenças entre o Gopher e o WWW: "Tanto o Gopher como o WWW, são aplicações que oferecem ao usuário um serviço de informações homogêneo e simples de utilizar. O usuário alguns minutos após começar a utilizá-los é capaz de extrair uma informação. Ambos são também distribuídos e integram quase a maioria dos demais sistemas de informações existentes na Internet. Ambos são conhecidos como sistemas globais de informação. No entanto, a forma de obter as informações é totalmente distinta. O Gopher está baseado em menus e cada opção do menu é que dispõe do enlace, enquanto que o WWW está baseado no conceito de hipertexto e são as palavras ressaltadas de um documento que possuem um enlace (mais informação) que apontam para outros documentos. O Gopher está baseado em uma estrutura hierárquica de diretórios até chegar ao documento final (texto, imagem,...), enquanto que o WWW se baseia em enlaçar as palavras/imagens dos documentos com outros documentos e assim sucessivamente...".
+
+Claro que a estrutura dos textos de cada pagina continua viciada muitas vezes pela tradição de escrever como uma estrutura de determinações hierárquicas, utilizando a narrativa lógica e seqüencial tradicional. Mas o simples fato de criar este tipo de ligações abre uma infinidade de caminhos possíveis o que começa a modificar a maneira de ler. Isto, mais cedo ou mais tarde, levará a que se escreva de uma nova maneira. Muito falta para se aprender a trabalhar com hipertextos[38]. Durante anos persistirá uma diversidade de formas híbridas. Mesmo as versões WWW da maior parte dos textos oferecidos apenas utilizam o hipertexto para criar menus de suas seções, porém nem sequer introduzem enlaces no conteúdo do texto[39].
+
+O que ocorre com o hipertexto não é uma exceção. De uma maneira geral podemos dizer que as transformações que estamos vivendo ainda estão em sua infância e deste modo temos ainda manifestações de práticas cognitivas de outras épocas convivendo com as novas. Mas já podemos perceber as práticas completamente novas que ela prenuncia.
+
+O hipertexto é uma das manifestações de novas práticas comunicativas e cognitivas introduzidas pela Internet. A título de ilustração relacionaremos três aspectos que dizem respeito a características constituintes de processos cognitivos que ela coloca e que apontam para a ruptura de paradigmas:
+
+* Em primeiro lugar, como já vimos, a passagem do processo de organização da informação estruturada em narrativa para a organização baseada no hipertexto, onde as informações não têm significado em si (não existe um sentido implícito), elas dependem do olhar e do caminho percorrido (existe aqui uma situação onde o olhar é constituinte);
+
+* Em segundo lugar, o rompimento com a trajetória. Se antes o tempo e espaço eram vistos como variáveis que se correspondem, contínuas e correlacionadas, apontando uma trajetória, agora os caminhos são descontínuos, como descontínuos são o espaço e o tempo. Neste marco, fica difícil localizar uma informação percorrendo uma trajetória, "percorrendo uma ordem", será mais fácil de encontrá-la através de mecanismos probabilísticos (mecanismos de busca);
+
+* Em terceiro lugar inexiste uma perspectiva, um "ponto de fuga", isto é, uma fonte de legitimidade definida capaz de mostrar a "forma correta", a partir de um único olhar e de uma determinada hierarquia.
+
+A nosso ver estas práticas são manifestações do esgotamento do paradigma moderno e da emergência de um novo paradigma.
+
+V - Fotografia e Holografia
+
+A holografia permite entender a totalidade como algo diferente da soma das partes (onde a parte está no todo e o todo está na parte), e o modelo que ela sugere oferece a possibilidade de relações assíncronas, intersubjetivas e interativas (como elemento de construção de realidades). Podemos também perceber os processos de sincronização e de interferência, como possíveis explicações para as dinâmicas de um determinado sistema sem se lançar mãos das tradicionais relações de causa e efeito. Mais importante que o anterior é o fato que o modelo holográfico se constrói "fora do tempo", ou dito de outra maneira, define um campo de possibilidades onde o tempo inexiste, mas que permite uma emergência particular no tempo e no espaço daquele que a ele acede.
+
+Se explorarmos um pouco as diferenças entre a fotografia e a holografia, podemos perceber como a abordagem holográfica pode re-equacionar e criar novos diferenciais para o estudo da informação, seu estoque e seu processamento.
+
+A fotografia é uma forma de representação e um sistema de estoque de informações que reflete uma visão de totalidade estruturada a partir do método de análise. Nela se tem uma correspondência direta entre "cada ponto representado" e seu "original" através de uma projeção cartesiana em um suporte fotográfico. Ao fazer este "desdobramento[40]" a fotografia destrói a totalidade que se propunha representar estocando apenas um dos pontos de vista a partir do qual ela é observada, focando-a e fixando-a no tempo e no espaço (ou dito de outra maneira transformando-a em elemento constitutivo deste tempo e espaço).
+
+No caso da holografia não temos uma "representação", mas um sistema de informação capaz de múltiplas representações e de "atualizações" diversas no tempo e no espaço, dependendo do ponto de vista do observador.
+
+Algumas das características mais fascinantes da holografia são:
+
+1) A transformação de uma representação bidimensional do objeto (holograma) em uma imagem tridimensional que reproduz a inteira aparência do objeto;
+
+2) O fato de que a informação contida no holograma não tenha nenhuma similitude com o objeto que ela é capaz de constituir/reconstituir[41];
+
+3) O modo como a informação esta organizada (parte representando parte, na fotografia e parte contendo informação do todo, na holografia);
+
+4) O papel constitutivo que nesta técnica joga a relação entre as partes do holograma, já que cada parte, por menor que seja, possui a informação total do holograma, precisamente de todas as interações possíveis entre as partes, o que lhe permite reconstruir visualmente todo o objeto com clareza[42].
+
+VI - Um caminho para rever o conceito de informação Como podemos pensar a informação a partir destas duas possibilidades de abordagem?
+
+As teorias clássicas de informação, comunicação e educação, criaram um modelo que considera a existência de um emissor, um canal e um receptor. O processo de comunicação se desenvolve a partir do emissor que emite uma mensagem que passa pelo canal e chega ao receptor.
+
+Como se pode ver estamos perante uma abordagem trabalhada ao nível do "atual", a partir de parâmetros espaço-temporal. A informação só pode ser concebida assim se estamos tratando de um sistema distincionalmente fechado, onde todos os sucessos estão conectados a todos os demais (são causalmente conexos) e ocorrem em instantes de um tempo comum e único (são síncronos). Um sistema "só pode ser considerado perfeitamente sincrônico e causalmente conexo quando é concebido como um sistema isolado" (NAVARRO, 1997).
+
+Estamos face, portanto, a uma concepção de informação concebida como propriedade interna de um sistema com características síncronas, contínuo, linear, homogêneo, e previsível, cujas relações estão dadas e determinadas "a priori". O emissor "emite" uma mensagem que percorre um canal em um determinado tempo que é posteriormente, por um processo aditivo, recebida e assimilada pelo receptor. A informação, em última instância, se confunde com a mensagem ganhando uma espessura quase material, como um líquido que passa por um canal.
+
+Evidentemente que ao observarmos este modelo em funcionamento, podemos verificar que esta "mensagem" se modifica no processo de comunicação e que "emissor" e "receptor" se influenciam mutuamente (interativamente).
+
+Dois processos diferentes se estabelecem então para ser possível manter o modelo:
+
+* Por um lado um processo de redução. Para torná-lo operacional é preciso desprezar tudo o que não for "relevante" para os seus objetivos[43]; restringir a observação e a operação ao que possa ser medido, homogeneizado[44], controlado, organizado e domesticado;
+
+* Por outro lado, ao nível teórico, incorporando ao modelo os elementos observados, estudando suas "particularidades", "enriquecendo-o" e ampliando sua descrição a ponto de desfigurá-lo, mas sem conseguir sair de seus limites, sem colocar em questão o próprio modelo.
+
+Mas podemos considerar, de outro modo, a informação como uma propriedade da relação entre sistemas diferentes. Isto só pode se verificar se estudamos a informação no terreno virtual, como um processo de in-formação recíproca entre sistemas diferentes situadas em parâmetros espaço/temporal diferentes. Esta in-formação recíproca não se dá através do "envio de mensagens/respostas" sucessivas no tempo e no espaço, mas, conforme nos propõe Navarro por um processo de "sincronização de constrições[45]". A noção de constrições entre sistemas é equivalente a noção de in-formação: "aquisição por parte de uma realidade de uma nova forma particular" (existe aqui uma identificação entre informação e surgimento de novas distinções).
+
+"Dois sistemas se in-formam mutuamente quando deixam de ser independentes e se convertem em causalmente dependentes quando seus tempos se cruzam - entram em contato - e geram um tempo novo nos quais são possíveis e se formam seqüências de sucessos, inexistentes em seus tempos prévios individuais".
+
+Quando isto ocorre, cada um ou ambos (ou os vários) sistemas podem ser apenas perturbados e quando deixarem de se sincronizar retomar sua trajetória; ou podem ter sua trajetória irremediavelmente modificada.
+
+Neste modelo não existe mensagem. Nada passa de um a outro sistema. A informação não é algo tangível, quase material, mas um processo[46]. De uma certa forma ela é um processo de emergência, no tempo e no espaço, de algo que não se situa neles.
+
+A sincronização de constrições pode constituir uma única rede de acontecimentos não contínuos (a redução a uma seqüência única é um caso particular) onde as diferentes seqüências "podem manter-se independentes em todos os momentos que não sejam aqueles nos quais se cortam, nos quais entram em dependência causal", em outras palavras quando se manifestam no terreno do "atual", em um "ponto de vista", onde aparece um sujeito[47]. Nos outros momentos temos um fenômeno de "concorrência causal" quando as pré-condições de um certo sucesso "podem se gerar de maneira independente e diversa".
+
+Esta abordagem permite entender como o processo de in-formação pode gerar algo novo e não apenas "transferir algo de um lugar para outro". Permite-nos também trabalhar com ambientes assíncronos, fragmentários, não-homogêneos, descontínuos e principalmente entender o processo interativo e como pode a informação ser o resultado de uma tensão entre "sujeitos" diferentes.
+
+
+
+
+Referências Bibliográficas
+
+ARENDT, H. A vida do espírito - o pensar, o querer, o julgar. Rio de Janeiro, Relume-Dumará, 1989.
+
+__________. A Condição humana. Rio de Janeiro, Forense Universitária, 1989.
+
+BARRETO, A. A informação e o cotidiano urbano. (Relatório apresentado ao CNPq). Ibict/ECO, 1991.
+
+__________. A informação e a transferência de tecnologia. Brasília, Senai/Ibict, 1992.
+
+__________. A transferência de informação, o desenvolvimento tecnológico e a produção de conhecimento. (Relatório apresentado ao CNPq). Ibict/ECO, 1993.
+
+__________. A questão da informação. São Paulo em Perspectiva. São Paulo, Fundação Seade, v.8, n.4, out.-dez., 1994, p.3-8.
+
+BARTHES, R. "A morte do autor". O rumor da língua. Lisboa, Edições 70, 1987.
+
+BUSH, Vannevar. "As We May Think" The Atlantic Monthly 176.1 (July): 101-108. Ver também: http://www.theatlantic.com/unbound/flashbks/computer/bushf.htm , 1945).
+
+BOHM, David. A totalidade e a ordem implicada. Uma nova percepção da realidade. São Paulo: Cultrix, 1992. Trad. de Wholeness and the Implicate Order, 1980.
+
+BROOKES, Bertram C. The foundations of information science Part I.-Philosophical aspects. Journal of Information Science, v.2, p. 125-133, 1980.
+
+__________. The foundations of information science Part IV -Information Science: the changing paradigm, Journal of Information Science, v.3, p.3-12, 1981.
+
+BOURDIEU, P. O poder simbólico. Rio de Janeiro, Bertrand, 1989.
+
+BUTCHER, H.J. A inteligência humana. São Paulo, Perspectiva, 1968.
+
+TEILLARD DE CHARDIN, P. Le Phènomène Humain, Seuil, Paris. 1955.
+
+DERTOUZOS, Michael. O que Será... São Paulo: Companhia das Letras. 1998.
+
+FARRADANE, J. Relational indexing and classification in the light of recent experimental work in psychology". Information Storage and Retrieval, v.1, 1963, p.3-11.
+
+__________. The nature of information. Journal of Information Science, v.1, n.3, 1979.
+
+__________. Knowledge, information and information science. Journal of Information Science, v.2, n.2, 1980.
+
+FEYERABEND, Paul. Adeus à Razão. Lisboa, Ed. 70, 1991.
+
+_____________. Contra o método. Rio de Janeiro, Francisco Alves, 1977.
+
+FORESTA, Don. Mondes Multiples. Guyancourt: Éditions Bás, 1991.
+
+FROHMANN, Bernard. Rules of Indexing: a critique of mentalism in Information Retrieval Theory, Journal of Documentation.V.46, n.2, p.81-101, 1990.
+
+____________. The Role of the Scientific Paper in Science Information Systems, University of Western. Ontario, Ontario. <http://instruct.uwo.ca/faculty/Frohmann> 31-12-99.
+
+GELL-MANN, Murray. O Quark e o Jaguar: As aventuras no simples e no complexo. Rio de Janeiro: Editora Rocco, 1996.
+
+GRAMSCI, Antônio. Obras Escolhidas, Lisboa: Editorial Estampa, 1974, 339 págs. V II.
+
+GUILFORD, J.P. "Three faces of intellect". American Psychologist, v.14, n.8, 1959.
+
+GUIMARÃES E SILVA, Junia. Ciência da Informação: uma Ciência do Paradigma Emergente, in Ciência da Informação, Ciências Sociais e Interdisciplinaridade. Pinheiro, Lena Vânia R. (org.)Brasília/Rio de Janeiro: Ibict, 1999.
+
+HABERMAS, J. Conhecimento e interesse. Rio de Janeiro, Guanabara, 1987.
+
+__________. Ciência e técnica como ideologia. Lisboa, Edições 70, 1987.
+
+HAWKING, Stephen. Uma Breve História do Tempo. Rio de Janeiro: Editora Rocco, 1988.
+
+HEISENBERG, Werner. Physics and Beyond, George Allen & Unwin Ldt. London, 1971.
+
+HEIDEGGER, M. Discurso sobre o Humanismo. Rio de Janeiro, Tempo Brasileiro, 1962.
+
+JAKOBSON, R. Lingüística e comunicação. São Paulo, Cultrix, 1993 (Coletânea de trechos selecionados de Roman Jakobson).
+
+KERCKHOVE, Derrick. O Senso Comum, Antigo e Novo. Imagem Máquina. André Parente (org.), Editora 34, Rio de Janeiro, 1996.
+
+KUHN, Thomas S. A estrutura das revoluções científicas. São Paulo, Perspectiva, 1975.
+
+LAKATOS, Imre. La falsación y la metodología de los programas de investigación
+
+científica. In: ___________. MUSGRAVE, Alan. (Eds.) La crítica y el desarrollo del conocimiento. Barcelona, Grijalbo, 1975, pág. 203-343
+
+LEVY, Pierre. A máquina Universo. Porto Alegre, Atmed, 1998.
+
+_________. Essai Sur La Cyberculture: L'Universel sans Totalité. Rapport au Conseil de l'Éurope, version provisoire. <http://hypermedia.univ- paris8.fr/pierre/cyberculture/cyberculture.html > 18-05-98.
+
+_________. Inteligência Coletiva. Petrópolis, Vozes, 1997.
+
+_________. O que é Virtual? RJ, Ed.34, 1996.
+
+LIEBNITZ, Wilhelm Vom.
+
+MC LUHAN, Marshall, Understanding Média, Signet, New York, 1964.
+
+MANDELBROT, B., Les Objets Fractals. Forme, hazard et dimension, Paris, Flammarion, 1975.
+
+MATURANA, Humberto, VARELA, Francisco J. De Máquinas e de seres vivos: autopoiese -- a organização do vivo. Porto Alegre: Artes Médicas. 1997.
+
+MASI, Domenico de. O Futuro do Trabalho. José Olimpio/UNB. Rio de Janeiro/Brasília, 1999.
+
+MIKHAILOV, A I: CHERNYI; GILYARESKI, R S. Estrutura e Principais Propriedades da Informação Científica. In: Gomes, H.E. (Org.) Ciência da Informação ou Informática? Rio de Janeiro, Calunga, 1980. Pág. 71-80.
+
+MORIN, E. Epistemologia da Complexidade. Novos Paradigmas, Cultura e Subjetividade. Dora Fried Schnitman (org.) Porto Alegre: Ed. Artes Médicas Sul LTDA, p.274-289. 1994.
+
+NASBITT, John. Paradoxo Global. Rio de Janeiro: Editora Campus, 1994.
+
+NAVARRO, Pablo. El Holograma Social. Una ontología de la sociedad humana, Madrid, Siglo XXI, 1997.
+
+NAVARRO, Pablo. Internet como dispositivo de interação Virtual, 1997.
+
+NEUMAN, J. von, Teoría general y lógica de los autómatas, en Pylyshyn, Z. W. (ed.), 1975.
+
+POPPER, K. Conhecimento objetivo; uma abordagem evolucionária. Belo Horizonte: Itatiaia; São Paulo: Ed. Universidade de São Paulo. 1975
+
+_______. El desarrollo del conocimiento científico. Conjeturas y refutaciones. Buenos Aires, Paidós, 1967ª.
+
+_______. La lógica de la investigación científica. Madrid, Tecnos, 1967b.
+
+PRIBAM, Karl H., Qual a confusão está em toda a parte, O Paradigma Holográfico. Ken Wilber (org.), São Paulo, Cultrix, 1982.
+
+PRIBAM, K. H. e Martín Ramírez, J. Cérebro, Mente y Holograma, Madrid, Editorial Alhambra. 1980
+
+PRIGOGINE, Ilya, La Fin de la Certitude in Représentation et Complexité. Rio de Janeiro: Unesco/ISSC/Educan, p.1-84. 1997.
+
+POINCARÉ, Henri, O valor da Ciência. Rio de Janeiro: Contraponto, 1995.
+
+RUSHKOFF, Douglas. Um jogo chamado futuro: como a cultura dos garotos pode nos ensinar a sobreviver na Era do Caos. Rio de Janeiro. Editora Revan, 1997.
+
+OSTROWER, Faiga. A sensibilidade do Intelecto. Rio de Janeiro: Campus. 1998.
+
+SANTOS, Boaventura. Um discurso sobre as Ciências. Lisboa: Afrontamento, 1993.
+
+SANTOS, Nilton. A Caixa de Pandora: Uma reflexão sobre Espaço e Transição a partir da Cruzada de Alfabetização da Nicarágua.Tese IPPUR, 1987.
+
+SANTOS, Nilton. E também lhes ensine a ler: A experiência da Cruzada Nacional de Alfabetização da Nicarágua. Rio de Janeiro, Ayuri Editorial, 1987.
+
+SARACEVICK, T. Interdisciplinary Nature of Information Science. In Ci.Inf., v.24, n.1, p.36-40, Jan.-Abril 1985.
+
+SCHOOP, J. T. - PIZÀ, S. - Gari, A - SÀNCHEZ, E. - SOLA, A. Nuevas Aplicaciones de Internet: World-Wide Web (WWW). Servei de Càlcul U.I.B., novembre 1993 <http://www.uib.es/art_w3/indice_art.html>
+
+TEILLARD DE CHARDIN, p. Le Phènomène Humain, Seuil, Paris, 1955.
+
+TOFLER, Alvin. O Choque do Futuro. Rio de Janeiro.1970
+
+TORLÀ, Carles Bellver, Leer y escribir después de los libros <http://www.traci.uji.es/docs/nti/net/despues/index.html>
+
+WINNER, Norbert. Cybernetics: or Control and Communication in the Animal and the Machine, The MIT Press, Cambridge, Mass., 1965.
+
+WILBER, Ken (org.), O Paradigma Holográfico, São Paulo, Cultrix, 1982.
+
+WITTGENSTEIN, L. Investigações Filosóficas. Petrópolis, Vozes, 1996.
+
+WURMAN, Richard. Ansiedade de Informação. SP. Cultura Editores Associados. 1991.
+

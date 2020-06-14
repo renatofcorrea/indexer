@@ -1,0 +1,151 @@
+Ensino e pesquisa em ciência da informação
+
+
+
+Resumo: Considerando-se o acesso à informação como a questão básica da ciência da informação, constata-se que é possível segmentar esse campo pelo tipo de informação a que se procura facilitar o acesso: informação publicada especializada, informação publicada não-especializada e informação não-publicada. As características peculiares desses segmentos vão deteminar a forma que os nomes dos profissionais neles atuantes podem tomar, as disciplinas importantes, a pesquisa, além de outros aspectos relacionados com a formação na área do conhecimento.
+
+Palavras chave: Ciência da Informação, Biblioteconomia, Sistema de Informação, Arquivologia, Ensino, Pesquisa
+
+
+
+Neste texto, faz-se uma reflexão sobre as principais questões que dizem respeito à formação e à pesquisa na área da ciência da informação. Questões como os objetivos de um programa de pós-graduação em ciência da informação, as designações dos profissionais atuantes na área, as disciplinas básicas, e os núcleos temáticos de pesquisa. Mas para isso, é fundamental começar com uma explanação do que entendemos por ciência da informação.
+
+
+
+Uma visão do campo
+
+Devemos entender que ciência da informação é uma expressão utilizada atualmente, no Brasil, para designar uma área do saber com manifestações nas diversas formas do conhecimento (ciência básica, ciência aplicada, tecnologia, economia)[1] e abarcando uma série de especialidades ou sub-áreas. No que diz respeito a essas especialidades, parece haver consenso quanto à inclusão de algumas (Biblioteconomia, por exemplo), ao passo que o mesmo não ocorre em relação a outras (Museologia, por exemplo). Em outra oportunidade (Dias 2000), atribuímos a origem da utilização da expressão, nesse sentido genérico, ao fato de assim ser utilizada na tabela de áreas do conhecimento do Conselho Nacional do Desenvolvimento Científico e Tecnológico (CNPq). Por conseguinte, é interessante transcrever aqui essa classificação do órgão para a área de ciência da informação:
+
+6.7 - CIÊNCIA DA INFORMAÇÃO 6.7.1 - Teoria da Informação
+
+6.7.1.1 - Teoria Geral da Informação
+
+6.7.1.2 - Processos da Comunicação
+
+6.7.1.3 - Representação da Informação
+
+6.7.2 - Biblioteconomia
+
+6.7.2.1 - Teoria da Classificação
+
+6.7.2.2 - Métodos Quantitativos. Bibliometria
+
+6.7.2.3 - Técnicas de Recuperação de Informação
+
+6.7.2.4 - Processos de Disseminação da Informação
+
+6.7.3 - Arquivologia
+
+6.7.3.1- Organização de Arquivos
+
+
+
+Desse ponto de vista, a ciência da informação se subdividiria em três grandes sub-áreas: Teoria da Informação, Biblioteconomia e Arquivologia. Há um consenso quase unânime em relação a estas duas últimas como pertencendo a esse grande campo do conhecimento. Quanto à Teoria da Informação, não reconheceríamos como uma especialidade tão claramente definida na literatura ou nas atividades de ensino e pesquisa do campo. Essa Teoria da Informação parece querer representar aquilo que chamaríamos de ciência da informação em seu sentido restrito (Dias 2002). Esta se caracterizaria como a especialidade do campo que lida com a informação especializada. Com isso, teríamos dois sentidos para a expressão ciência da informação: um amplo, significando o campo de conhecimento como um todo; e um restrito, significando uma especialidade dentro desse campo do conhecimento. Trata-se, evidentemente, de um complicador, porque toda vez que a expressão fosse utilizada, ter-se-ia que explicar em qual dos dois sentidos estaria sendo empregada. Talvez em razão disso, a experiência norte-americana mostra uma preferência pela expressão biblioteconomia & ciência da informação para designar o todo do campo de conhecimento (Dias 2000). Pudemos constatar que entre as escolas norte-americanas da área " especificamente entre as escolas mais bem avaliadas -- a grande maioria utilizava essa expressão (em inglês, school of library and information science)[2]. A expressão é um reconhecimento tácito de que as duas especialidades têm mais em comum do que querem fazer crer alguns autores que identificam a biblioteconomia apenas como uma dentre tantas disciplinas com as quais a ciência da informação tem uma relação especial (Saracevic 1992). Ou seja, formam um campo uno, com um objeto específico, como abaixo discutido.
+
+Ao mesmo tempo, a expressão sinaliza também para a existência de peculiaridades que fazem com que se possa distinguir as duas especialidades, que se reconheça que têm características que as distinguem uma da outra. Uma importante observação a ser feita, é que os profissionais atuantes em Arquivologia, com razão, questionam o fato de o nome dessa especialidade não aparecer na expressão. Estão absolutamente certos, é uma espécie de discriminação. A única explicação que podemos encontrar é de ordem prática, pois a expressão ficaria muito longa.
+
+Deveríamos entender que, quando usa esse nome (biblioteconomia & ciência da informação), uma determinada escola teria por propósito atuar em toda a extensão do campo. Ou seja, oferecer cursos, fazer pesquisa e desenvolver atividades de extensão que abrangessem todo esse vasto escopo. Por conseguinte, escolas com a designação de School of Library Science, como a da universidade de Clarion (Estados Unidos), por exemplo, passam a idéia que seus cursos estão limitados à especialidade da biblioteconomia. A tendência é que desapareçam, porque parece não ser promissora a perspectiva de se restringir à especialidade da biblioteconomia.
+
+Da mesma forma, aquelas escolas, e as há, que incluem o termo Arquivologia em seus nomes, estão sinalizando para um destaque especial dado a essa especialidade.
+
+Tive oportunidade, noutro texto, de mostrar minha visão do que seria o específico da ciência da informação. Em primeiro lugar, o acesso à informação caracterizaria o campo como um todo. Depois, o campo pode ser dividido em especialidades, destacando-se três grandes áreas, que se caracterizam pelo tipo de informação a que procuram facilitar o acesso: a informação publicada especializada, seria o domínio da ciência da informação propriamente dita; a informação publicada não-especializada (ou geral), é mais comumente associada com a biblioteconomia; e a informação não-publicada é o território da arquivologia.
+
+O conceito de especialização a que se faz referência no parágrafo anterior pode facilmente ser interpretado de forma equivocada. Na ciência da informação, esse conceito mantém o sentido básico do termo, mas também inclui outros aspectos. O fato de uma biblioteca universitária de medicina, por exemplo, ter uma coleção especializada em medicina não é bastante para torná-la uma biblioteca especializada, no sentido em que este termo tem sido utilizado na biblioteconomia e na ciência da informação. Um dos caracteres de distinção entre bibliotecas especializadas (ou centros de documentação, serviços de informação) e outros tipos de bibliotecas com coleções restritas a uma determinada área do conhecimento, é o oferecimento de serviços especiais, como o de disseminação seletiva da informação.
+
+
+
+Nome do profissional
+
+A expressão profissional da informação, de certa forma, já se estabeleceu como referência para designar, de forma genérica, aqueles que atuam na área da ciência da informação (Moderno 1998). Entretanto, é utilizada também em outras áreas, como é o caso da área de comunicação, em que jornalistas e repórteres são muitas vezes chamados de profissionais da informação. Por conseguinte, termina por ser uma denominação algo genérica.
+
+Em consonância com as considerações acima feitas, e com o que se vem observando na prática, é natural que haja uma grande diversidade de termos designativos dos profissionais que atuam na área. Começando pelo mais básico deles, o de bibliotecário, diríamos que é um termo que pode continuar muito bem a ser utilizado para designar aqueles profissionais que atuam em bibliotecas escolares, bibliotecas públicas e bibliotecas universitárias. Sejam estas bibliotecas reais ou virtuais. Em outras palavras, sistemas e profissionais que lidam com informação não especializada, seja porque não se limitam a uma determinada área do conhecimento (caso típico das bibliotecas públicas), seja porque embora possam se limitar a uma determinada área, não apresentam, entretanto, aquelas características que os definiriam como atuantes em informação especializada (o oferecimento de serviços sofisticados de filtragem seletiva da informação, por exemplo).
+
+É interessante observar que, antes do aparecimento do termo ciência da informação, tínhamos profissionais formados em biblioteconomia que não trabalhavam em bibliotecas. Por exemplo: os professores dos cursos de biblioteconomia. O termo bibliotecário não se aplicaria bem a esses professores, mas acreditamos que nenhum deles se sentisse diminuído de ser assim designado. Por outro lado, também nunca se preocuparam em criar uma terminologia apropriada para eles[3].
+
+Os profissionais com formação em outras áreas e que vêm atuar na ciência da informação, bem como os próprios bibliotecários que passam a ter atuação nos serviços de informação especializados, parecem rejeitar fortemente a terminologia associada ao termo biblioteca. Trata-se de postura baseada numa visão equivocada da biblioteca e de bibliotecários como instituições e profissionais antiquados e retrógrados. É uma imagem talvez verdadeira para uma parcela de bibliotecas e bibliotecários, mas inteiramente falsa para outra parcela, cujo trabalho vem resultando em monumentos como grandes bibliotecas nacionais, públicas e acadêmicas, e instrumentos complexos e sofisticados, como os sistemas de classificação bibliográfica e os códigos de catalogação.
+
+Entretanto, é perfeitamente legítimo que usem outras terminologias, até porque devem estar convictos que designam melhor aquilo que fazem.
+
+
+
+Objetivos de um Programa de Pós-Graduação
+
+Na definição dos objetivos de um programa de pós-graduação em ciência da informação temos que levar em consideração as peculiaridades da área, como acima procuramos caracterizar. Há um componente forte de atuação profissional, seja em bibliotecas, seja em serviços de informação, ao mesmo tempo em que se tem reconhecido a importância da pesquisa na área. Por conseguinte, um primeiro objetivo é o de preparar pessoal especializado para funções de assessoria e administração em sistemas de informação, principalmente sistemas mais complexos. A organização e a administração de grandes bibliotecas universitárias, públicas e nacionais, é tão complexa a ponto de exigir, de muitas das posições profissionais de suas estruturas, habilidades que o nível de graduação normalmente não satisfaz. É uma preparação que hoje associaríamos imediatamente com os objetivos dos mestrados profissionalizantes. Como esses inexistiam, os mestrados acadêmicos têm cumprido essa função, que agora talvez possa ser repassada para aquele outro tipo de mestrado.
+
+Um outro objetivo importante para a pós-graduação está previsto no artigo 66, da Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394, de 20 de dezembro de 1996). De acordo com esse artigo, a preparação para o exercício do magistério superior deve ser feita em nível de pós-graduação, prioritariamente em programas de mestrado e doutorado. Embora as universidades de maior prestígio, que geralmente visam a pesquisa de ponta, tenham hoje o doutorado como uma exigência quase unânime para o recrutamento de docentes, parece começar a se firmar a convicção de que é possível ter universidades com pesquisa menos onerosa, onde o mestrado acadêmico poderia ser talvez aceitável como nível de formação de seus professores. Essa parece ser uma das poucas perspectivas para esse tipo de mestrado, de vez que objetivos que já teve no passado, como servir de intermediário entre a graduação e o doutorado, não se reconhece mais, hoje em dia. Assim, na ciência da informação, o mestrado preparou pessoal docente, muitos dos quais posteriormente seguiram para o doutorado.
+
+Outro objetivo específico do doutorado é o de formar pesquisadores. Se se reconhece que a área tem problemas que merecem ser estudados, é necessário que forme pesquisadores que se dediquem a esse tipo de trabalho.
+
+
+
+Disciplinas Básicas
+
+O acesso à informação registrada em documentos, ou a facilitação desse acesso, tem sido dificultado, desde sempre, por razões econômicas. Poucos indivíduos teriam condições de adquirir e manter coleções ou acervos nas dimensões capazes de permitir uma satisfação adequada de suas necessidades de informação. A manutenção dessas coleções de forma a possibilitar seu uso proveitoso, é bom lembrar, pressupõe a presença de profissionais de informação responsáveis pela organização dos documentos e pela busca nesses estoques. Todos esses elementos significam que verbas substanciais são necessárias para o estabelecimento e manutenção de serviços de informação eficientes.
+
+Por outro lado, há razões de ordem intelectual que dificultam o acesso. As demandas de informação podem variar grandemente, da necessidade por um dado específico até a busca de informação exaustiva. Mas seja qual for essa necessidade, o acesso pressupõe, em primeiro lugar, a identificação precisa e exaustiva de todas as fontes ou documentos com potencial para satisfazer aquela determinada necessidade de informação. Em seguida, a tarefa é a de encontrar, no conjunto identificado, as informações procuradas.
+
+Sob ambos os prismas, tanto o econômico quanto o intelectual, há muito que se estabeleceu um papel essencial para sistemas de informação e de recuperação da informação (SIRIs) como instrumentos apropriados para enfrentar esses obstáculos. A diferença entre uns e outros é sutil, mas exemplos relativos às bibliotecas tornam fácil entender a diferença entre os dois tipos de sistema: a biblioteca, ela própria, é um sistema de informação. Seu catálogo, um exemplo de sistema de recuperação da informação. Em ambos os tipos de sistemas vai-se encontrar as mesmas funções básicas: seleção, tratamento, organização, armazenagem, constituindo as funções de alimentação do sistema; e análise e negociação de questões, definição da estratégia de busca, busca propriamente dita, e disseminação da informação, constituindo as funções de uso do sistema. Essas funções têm sido destacadas como as grandes funções intelectuais dos profissionais da informação (Lancaster 1993, p. 154; Hjorland 1997, p. 1).
+
+Á vista dessas considerações, identifica-se como disciplinas básicas da pós-graduação as seguintes:
+
+Organização da informação " visa a organização das informações/documentos que vão dar sustentação aos SIRIs. Inclui o desenvolvimento de coleções (ou estoques), descrição física (catalogação, metadados) e descrição temática (classificação, ontologias). O conteúdo de interesse da disciplina não se limita a essas atividades, entretanto, mas estende-se também à criação/manutenção de instrumentos essenciais a essas atividades, como políticas de desenvolvimento de coleções, manuais de indexação, códigos de catalogação, sistemas de classificação, thesauri, formatos de metadados. Busca em Sistemas de Informação " Há a função específica da busca propriamente dita, mas aqui deve-se considerar também outras funções importantes pressupostas, como a de análise e negociação de questões e a de formulação de estratégias de busca, que precedem a busca. A importância da função de busca está diretamente relacionada ao conhecimento dos usuários e, especialmente no caso da informação especializada, das complexas fontes de informação e de seus respectivos instrumentos de acesso. A busca pressupõe um conhecimento das estruturas, linguagens e outros elementos essenciais da organização da informação. O domínio dessas habilidades em níveis mais altos de eficiência pressupõe treinamento especializado e experiência substancial. Hjorland (1997), acima mencionado, dá destaque especial a esta função, ao afirmar que se trata do problema chave da ciência da informação.
+
+
+
+
+
+Esta busca em SIRIs, não deve ser confundida com a busca que se pode fazer fora desses sistemas, objeto da disciplina Comunicação, que discutimos a seguir.
+
+Comunicação da informação " A ciência da informação tem dedicado atenção especial à comunicação científica, definida por Garvey como incluindo todas as atividades que vão desde o momento em que o cientista tem uma idéia de pesquisa até a incorporação dos resultados dessa pesquisa no correspondente corpus de conhecimento. Mas a comunicação da informação, como um processo básico de interesse da ciência da informação, ocorre também em todos os demais segmentos informacionais: no do público em geral, no dos administradores, no segmento dos tecnólogos. Em todos os diversos grupos de usuários, a informação é buscada não apenas nos sistemas formais, que se baseiam em informação registrada, mas também nos sistemas informais, baseados em informação não-registrada. Em alguns desses grupos, o fenômeno da comunicação informal tem sido estudado o bastante para que se tenha chegado inclusive a identificar mecanismos ou instituições tais como o colégio invisível (cientistas), os gatekeepers (tecnólogos) e a rádio peão (administradores). Mas é certo que a comunicação informal também ocorre nos demais grupos, como se pode facilmente observar entre as pessoas no cotidiano e os estudantes nas escolas. Ambos estes grupos também se utilizam da comunicação informal para buscar as informações de que precisam.
+
+Essas disciplinas, que também são básicas nos cursos de graduação em biblioteconomia e ciência da informação, num curso de pós-graduação devem ganhar um enfoque devidamente adequado a este nível. Esse enfoque vai ainda se diferenciar caso se trate de um curso de mestrado ou de doutorado. O mestrado, destinado como é ao aperfeiçoamento/especialização de profissionais, deve enfatizar os aspectos gerenciais ou informacionais dessas disciplinas. Por exemplo, no caso do desenvolvimento de coleções: na graduação, os estudantes aprendem os processos básicos dessa função, com vistas à sua operacionalização. Para o mestrado, o enfoque deve ser nas decisões que precisam ser tomadas num sistema de informação ou de recuperação da informação, relativas à atividade de seleção. No nível de doutorado, que visa à formação de professores e pesquisadores, o enfoque dos estudos de seleção poderia ser, por exemplo, no desenvolvimento e teste de modelos de seleção usando técnicas bibliométricas, como já se fez no passado.
+
+Alguns gostariam, talvez, de disciplinas que enfocassem os aspectos ou fundamentos teóricos da ciência em informação em abstrato, sem utilizar nenhum conteúdo substantivo, como os das disciplinas acima mencionadas. É uma possibilidade que tem sido experimentada. Nesse caso, a estratégia parece ter que se limitar ao estudo de conceitos básicos, como o de informação.
+
+
+
+Diferencial da informação
+
+Aqui, é interessante transcrever a pergunta de Barreto (2002): "Qual o diferencial da ciência da informação sobre as demais disciplinas (áreas) que lidam com a informação?". Acredito que boa parte das dificuldades enfrentadas na definição ou delimitação da ciência da informação têm a ver com o sentido desse "lidam com a informação". O que significa lidar com informação? Num certo sentido, carece de significado relevante, porque se pode entender que todas as disciplinas (ou áreas) do conhecimento lidam com informação. Se lidar significa usar, todas as áreas do conhecimento lidam com a informação. Se significa criar, a mesma coisa. Ao invés dessas formas genéricas de definir, deveríamos ser mais específicos: organizar informações, por exemplo, é uma forma mais específica de identificar o que se faz na ciência da informação. Talvez achem que organizar informação não se aplicaria bem a temas como a produção da informação. Mas deve-se entender que se estuda a produção para poder melhor entender os usuários e, assim, melhor organizar as informações.
+
+
+
+Núcleos Temáticos de Pesquisa na Área
+
+É evidente que os conteúdos associados com as disciplinas básicas acima identificadas constituem núcleos importantes de pesquisa na área.
+
+Entendemos apropriado considerar que a pesquisa em ciência da informação pode incluir certos núcleos temáticos que não se constituem em habilidades necessárias ao profissional que atua na prática da área. Exemplo clássico é a questão da comunicação informal, que se torna importante por servir de contraponto ao papel que tem a comunicação formal, esta sim passível de ações do profissional da informação que podem significar uma maior ou menor eficiência no processo. Em outras palavras, o profissional da informação tem quase nenhuma ingerência na facilitação do acesso do usuário aos mecanismos de comunicação informal, mas conhecer esses mecanismos e a importância que têm para os usuários, é uma forma de conhecer melhor os próprios usuários e as formas como resolvem suas necessidades de informação.
+
+Essa é a lógica, a nosso ver, para a consideração sobre que outros conteúdos, disciplinas ou núcleos temáticos se justificariam num programa de ciência da informação. O caráter interdisciplinar que se procura caracterizar na ciência da informação tem dado margem a certos exageros na definição das fronteiras do campo. O importante, por conseguinte, é ter claro que os conteúdos que estejam fora das disciplinas básicas não podem jamais constituir o principal num programa, mas ter apenas um caráter complementar.
+
+
+
+Conclusão
+
+O ensino e a pesquisa em ciência da informação dependem, em primeiro lugar, de uma compreensão do que se entende que seja essa área do conhecimento e de qual seja o seu objeto de interesse. Entendemos que o acesso à informação, ou a facilitação desse acesso, é esse objeto. Os usuários são os beneficiários desse acesso facilitado, sendo que se dividem em grupos com características próprias e demandas de informação que também são próprias, decorrentes das mencionadas características.
+
+O acesso eficiente pressupõe que as informações sejam, antes de mais nada, organizadas, e isso se faz por meio do desenvolvimento de sistemas de informação e de recuperação da informação. A busca nesses sistemas, entretanto, exige também conhecimento especializado e experiência. Tanto na organização quanto na busca, é essencial o conhecimento do usuário e de seus comportamentos de comunicação e uso de informação. Por conseguinte, esses conteúdos " organização e busca de informação, e usuários -- são naturalmente os conteúdos importantes para as disciplinas de pós-graduação e para a pesquisa em ciência da informação.
+
+
+
+
+Referências Bibliográficas
+
+BARRETO, Aldo de Albuquerque. [Chamada de trabalhos para o Datagramazero de outubro de 2002]. Comunicação por e-mail.
+
+BUNGE, Mário. Ciência e Desenvolvimento. Belo Horizonte: Itatiaia; São Paulo: Edusp, 1980.
+
+DIAS, Eduardo Wense. "Biblioteconomia e ciência da informação: natureza e relações" in Perspectivas em Ciência da Informação, Belo Horizonte, v. 5, n. especial, p. 67-80, 2000.
+
+____,_____________. "O específico da ciência da informação" in CUNHA, Miriam (org.).O campo da ciência da informação. João Pessoa: Editora/UFPB, 2002.
+
+GARVEY, William D. Communication, the essence of science: facilitating information exchange among librarians, scientists, engineers, and students. Oxford; New York : Pergamon Press, 1979.
+
+HJORLAND, B. Information seeking and subject representation. Westport: Greenwood Press, 1997.
+
+LANCASTER, F.W. Libraries and the future. New York: Haworth, 1993.
+
+MODERNO profissional da informação: o perfil almejado pelos cursos de biblioteconomia brasileiros. Porto Alegre: ABEBD, 1998, 109 p. (Documentos ABEBD, Nº 13).
+
+SARACEVIC, T. "Information science: origin, evolution and relations" in CONFERENCE ON CONCEPTS OF LIBRARY AND INFORMATION SCIENCE, 1991, Tampere, Finlândia. Conceptions of library and information science: historical, empirical and theoretical perspectives; ed. by Perti Vakkari and Blaise Cronin. Los Angeles: Taylor Graham, 1992. p. 299-312.
+

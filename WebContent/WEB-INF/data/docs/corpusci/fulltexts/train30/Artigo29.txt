@@ -1,0 +1,291 @@
+Políticas de Informação Governamental: a construção de Governo Eletrônico na Administração Federal do Brasil
+
+
+
+Resumo: Políticas de informação governamental têm sido implementadas em diversos países sob a noção de governo eletrônico, ainda pouco estruturada do ponto de vista teórico. No Brasil, a Administração Federal tem desenvolvido diversas ações desde 2000. Limitações de ordem sócio-econômica dificultam o acesso da maioria da população a sistemas de telefonia e a equipamentos de informática. Outro obstáculo ao Governo Eletrônico é a deficiência na gestão das informações governamentais. Após dois anos de implantação, o impacto do Governo Eletrônico revela-se maior na gestão interna da Administração Federal do que no atendimento ao cidadão.
+
+Palavras-chave: Governo Eletrônico, Políticas de Informação, Informação Governamental
+
+
+
+
+Introdução
+
+A informação governamental é um dos principais componentes dos dispositivos de mediação no jogo democrático que envolve Estado e Sociedade Civil. As condições em que é produzida, estocada e disseminada dentro e fora do Estado determinam e são determinadas - direta ou indiretamente - pela diversidade de atores do cenário político-social. Isto pressupõe, no mínimo, que o Estado reconheça a informação como recurso gerencial intrínseco a todas as suas ações e objeto de políticas públicas específicas.
+
+A implementação de políticas públicas em diversos setores - com impactos evidentes na governança e governabilidade - torna imprescindível o desenho e execução de políticas de informação governamental. Tal situação tem sido pouco freqüente na história do Brasil, não apenas nos períodos de autoritarismo, mas também em conjunturas recentes, de maiores teores democráticos.
+
+Sob esta perspectiva, desenvolvemos, entre março de 2001 a fevereiro de 2003, com apoio do CNPq, o projeto de pesquisa "O Estado Informacional na sociedade da Informação: a Internet como instrumento de governança e governabilidade". Tendo como objetivo geral, "investigar os parâmetros políticos, tecnológicos e técnicos que, do ponto de vista informacional, constituem elementos otimizadores da Internet como instrumento de governança e governabilidade, à luz do Programa Sociedade da Informação", um dos aspectos abordados foi o Programa Governo Eletrônico, iniciativa da Administração Federal.
+
+Durante o período mencionado, foram identificadas - através do site do Governo Eletrônico (http://www.governoeletronico.gov.br), jornais e outras fontes - 345 notícias relativas às seguintes categorias:
+
+
+
+· Incentivos do Governo Eletrônico à popularização do acesso à Internet · Ampliação dos serviços de órgãos federais na Internet
+
+· Implantação da Rede Multiserviço (integração das redes existentes no âmbito da Administração Pública Federal)
+
+· Programa de Informatização das Ações Educacionais (Internet nas escolas públicas de ensino médio)
+
+· Rede Nacional de Informações em Saúde - RNIS (Interligação de 1.200 municípios à Internet; Implantação do projeto piloto do Cartão Nacional de Saúde Cartão SUS interligação de 4.300 municípios à RNIS e de 20.000 unidades de saúde à Rede do Ministério da Saúde)
+
+· Compras Eletrônicas (licitação eletrônica para as compras governamentais no âmbito da administração pública federal)
+
+· Cartão do Cidadão para acesso a serviços e informações governamentais
+
+· Pagamentos Eletrônicos de taxas, impostos, contribuições, etc
+
+· Regulamentação e efetivação do documento eletrônico como um documento legal de uso pleno
+
+· Articulação de Poderes e Governos Estaduais e Municipais Federal para o compartilhamento da rede e infra-estrutura do Governo Eletrônico
+
+· Infra-estrutura de chave publica: normas e padrões de segurança que permitam conceder validades jurídica aos documentos e transações efetuadas via web.
+
+· Gestão do Governo Eletrônico
+
+· Programa Brasileiro de Sociedade da Informação
+
+· Experiências internacionais sobre Governo Eletrônico
+
+
+
+
+
+O conjunto dos dados coletados possibilitou uma análise global dos dois primeiros anos do Governo Eletrônico na Administração Federal, à luz das especificidades do seu contexto administrativo e sua situação informacional, além das relações Estado-Sociedade no Brasil.
+
+
+
+A noção de governo eletrônico
+
+Uma questão inicial na abordagem de experiências de governo eletrônico refere-se aos contornos teóricos da noção que norteia tais iniciativas.
+
+A noção de governo eletrônico é muito abrangente e ainda carece de maior aprofundamento teórico e pesquisas no campo da Ciência da Informação. Trata-se de um construto que deriva inicialmente de políticas públicas, desenvolvidas sobretudo em países anglo-saxônicos.
+
+A diversidade de abordagens sobre o tema expressa a abrangência da noção de Governo Eletrônico. "A sedutora expressão ´governo eletrônico` .. observa Nogueira (2000), "deve ser vista com alguma cautela, pois reduz o governar ao campo estrito da prestação de serviços, deixando de lado sua dimensão mais propriamente política, referente ao dirigir e ao articular, com vistas a fixar diretrizes de ação para a coletividade, reforçar seus laços internos e sua convivência."
+
+
+
+Lenk & Traunmüllerv (2001) visualizam quatro perspectivas:
+
+
+
+1. A Perspectiva do Cidadão - visando oferecer serviços de utilidade pública ao cidadão contribuinte; 2. A Perspectiva de Processos - visando repensar o modus-operandi dos processos produtivos ora existentes no Governo, em suas várias esferas, tais como, por exemplo, os processos de licitação para compras (e-procurement);
+
+3. A Perspectiva da Cooperação - visando integrar os vários órgãos governamentais, e estes com outras organizações privadas e não-governamentais, de modo a o processo decisório possa ser agilizado, sem perda de qualidade, assim como evitando-se fragmentação, redundâncias etc. hoje existentes nas relações entre esses vários atores;
+
+4. A Perspectiva da Gestão do Conhecimento - visando permitir ao Governo, em suas várias esferas, criar, gerenciar e disponibilizar em repositórios adequados, o conhecimento tanto gerado quanto acumulado por seus vários órgãos.
+
+
+
+
+
+Segundo Zweers & Planqué (2001), "Governo Eletrônico é um conceito emergente que objetiva fornecer ou tornar disponível informações, serviços ou produtos, através de meio eletrônico, a partir ou através de orgãos públicos, a qualquer momento, local e cidadão, de modo a agregar valor a todos os stakeholders envolvidos com a esfera pública" .
+
+
+
+Balutisiv (1999) define Governo Eletrônico através da seguinte equação:
+
+
+
+Governo Eletrônico = S [ Comércio Eletrônico; Customer Relationship Management (CRM); Supply Chain Management (SCM) + Gestão do Conhecimento + Business Intelligence (BI) + Tecnologias Colaborativas ]
+
+Na perspectiva de Perri (2001), Governo Eletrônico envolve diversas leituras:
+
+
+
+1.Fornecimento de Serviços Eletrônicos
+
+Essa área concentra a maior parte dos esforços, recursos e atenção política devotados a Governo Eletrônico. O fornecimento de serviços de utilidade pública para o contribuinte, assim como o relacionamento Governo-Empresas, usando as tecnologias da informação e comunicação como propiciadoras para tal. 2. Democracia Eletrônica (e-democracy)
+
+Refere-se aos sistemas de votação eletrônica e experiências piloto de consulta on-line aos cidadãos.
+
+3. Governança Eletrônica
+
+Essa seria a área menos estudada de Governo Eletrônico. Inclui, entre outras atividades: suporte digital para elaboração de políticas públicas; tomada de decisões; public choices e workgroup entre os vários gestores públicos de diferentes escalões.
+
+
+
+Governo Eletrônico no Brasil
+
+Uma das principais ações governamentais no campo da informação no Brasil, o Governo Eletrônico contempla três das sete linhas de ação do Programa Sociedade da Informação: Universalização de serviços, Governo ao alcance de todos e Infra-estrutura avançada. Seu estabelecimento na Administração Pública Federal, a partir de março de 2000, tem levado à arquitetura de uma estrutura organizacional e informacional com ênfase nas "iniciativas do Governo Federal voltadas para o uso da Internet no exercício da cidadania".
+
+
+
+"Isso compreende os meios, as informações e os serviços necessários para o usufruto de direitos e o cumprimento de obrigações. Os serviços mencionados devem ser entendidos como 'serviços públicos mais públicos': aqueles que podem ser usufruídos em casa, no trabalho, ou em local de acesso público à Internet, sem a necessidade da presença do cidadão numa representação do governo." (http://www.governoeletronico.gov.br).
+
+As principais linhas do Governo Eletrônico são:
+
+
+
+- oferta, na Internet, dos serviços prestados ao cidadão, buscando-se a melhoria dos padrões de atendimento, redução de custos e facilidade de acesso; - ampliação das condições de acesso do cidadão às informações, em formatos adequados, por meio da Internet;
+
+- convergência entre sistemas de informação, redes e bancos de dados governamentais para permitir o intercâmbio de informações e a agilização de procedimentos;
+
+- implantação de uma infra-estrutura avançada de comunicações e de serviços, com padrões de segurança e serviços, além de alto desempenho;
+
+- uso do "poder de compra do Governo Federal" para a obtenção de custos menores e a otimização do uso de redes de comunicação;
+
+- estímulo ao acesso à Internet, com ênfase de pontos de acesso em instituições públicas ou comunitárias;
+
+
+
+O Governo Eletrônico tem privilegiado três frentes fundamentais: a interação com o cidadão, a melhoria da sua própria gestão interna e a integração com parceiros e fornecedores.
+
+
+
+" Em relação ao cidadão, estão sendo criados portais na Internet que funcionam como verdadeiros balcões virtuais de informação e de atendimento para a prestação de serviços. Para a gestão interna, está sendo promovida a integração entre os sistemas em rede interna (intranet). A integração entre parceiros e fornecedores está sendo desenvolvida na forma de uma extranet conectada aos sistemas de informação do Governo Federal que compreende, dentre outros, os sistemas de administração financeira (SIAFI), de administração de pessoal (SIAPE), de serviços gerais (SIASG), de apoio à educação (Sistema MEC), à saúde e à previdência social. A estrutura relacional a ser constituída entre os principais atores neste processo, envolverá governo, cidadãos/clientes e empresas, dentro das diversas possibilidades de transações eletrônicas (e-business e e-gov)". (Pinto)
+
+
+
+A infra-estrutura político-organizacional do Governo Eletrônico abrange, por princípio, todos os ministérios, mas tem como referências institucionais centrais a Casa Civil da Presidência da República. Em 3 de abril de 2000 foi instituído o Grupo de Trabalho Interministerial com a finalidade de examinar e propor políticas, diretrizes e normas relacionadas com as "novas formas eletrônicas de interação".
+
+No âmbito do Conselho de Governo da Presidência da República, foi criado em 18 de outubro de 2000 o Comitê Executivo do Governo Eletrônico (CEGE) com o objetivo de "formular políticas, estabelecer diretrizes, coordenar e articular as ações de implantação do Governo Eletrônico".
+
+Em 27 de outubro de 2000 foram definidos quatro Grupos de Trabalho para o desenvolvimento de propostas relativas às 45 metas estabelecidas para o Governo Eletrônico:
+
+
+
+1. Implantação da Rede Br@sil.gov
+
+Implantação de uma Rede Multiserviço, no âmbito do Governo Federal, por meio da integração e do compartilhamento das diversas redes existentes, buscando: a racionalização e a simplificação da topologia; a redução do preço do Kilobit transmitido; a melhoria da ocupação e minimização. 2. Universalização do Acesso à Internet
+
+Ações que promovam a universalização do acesso à Internet,por meio da redução dos custos incidentes em toda a cadeia de provimento (de serviço e acesso), da utilização de novos dispositivos e meios de comunicação e da adoção de modelos de acesso coletivo ou compartilhado.
+
+3. Universalização dos Serviços
+
+Ações que visam disponibilizar todos os serviços e informações, prestados pelo governo federal, ao alcance do cidadão através da Internet e das demais formas eletrônicas de interação.
+
+4. Normas e Padrões para Prestação de Serviços
+
+Ações visando estabelecer parâmetros de qualidade para os serviços prestados.
+
+
+
+
+
+Além do Governo Federal, iniciativas de Governo Eletrônico vêm sendo desenvolvidas em administrações estaduais (Minas Gerais, Paraná, São Paulo, Rio de Janeiro, etc) e municipais (São Paulo, Belo Horizonte, Porto Alegre, etc).
+
+Um dos obstáculos ao objetivo do Governo Eletrônico de oferecer serviços interativos ao cidadão através da Internet são às limitações de ordem sócio-econômica que dificultam, o acesso da maioria da população brasileira a sistemas de telefonia e a equipamentos de informática. Pinto (2000), destaca como principais dificuldades os seguintes aspectos:
+
+
+
+. Apenas 5% da sociedade brasileira, segundo estimativas mais otimistas, teria acesso à Internet. . O principal meio de conexão dos usuários da Internet no Brasil é através da telefonia convencional (o número de linhas telefônicas é estimado em 62,5 milhões, das quais 38,8 milhões fixas e 23,7 milhões celulares ou seja, o acesso à telefonia alcança somente 39% da população).
+
+. Elevado preço dos serviços de telefonia convencional .
+
+. Inexistem categorias diferenciadas de tarifação que atendam às necessidades do usuário da Internet.
+
+. Custo excessivo das conexões internacionais dos backbones locais.
+
+. Provedores de acesso não dispõem de serviços de conexão com a Internet nas pequenas localidades.
+
+. Alto custo dos equipamentos de informática, inacessíveis à absoluta maioria da sociedade brasileira, associado à falta de financiamento "ao estudante ou ao consumidor de menor renda e de oferta, no mercado, de equipamentos simplificados, a preços mais accessíveis".
+
+. Escassa capacitação e familiaridade para a convivência com novas tecnologias e serviços.
+
+
+
+
+
+Como observa Nogueira (2000),
+
+"Não se governa no vazio, em abstrato. Governa-se numa comunidade, com ela e para ela. Além do mais, não se governa para alcançar maior eficiência, menores custos e mais agilidade. ... A utilização dos meios eletrônicos não pode ser um fim em si mesmo e precisa se traduzir em resultados que engrandeçam as pessoas e a cidadania. Como governar "eletronicamente" se a comunidade não é eletrônica? O governo eletrônico precisa se combinar com a presença de uma comunidade preparada para assimilá-lo e acima de tudo controlá-lo. Serviços "on-line" em tempo integral são um benefício inquestionável para o cidadão, já que podem liberá-lo de filas e mau atendimento. Mas são apenas isso? Não acabarão por impor uma outra lógica à relação entre Estado e cidadão, transformando este último em mero usuário, num "cliente" mais satisfeito e, em tese, menos preocupado em participar ativamente do governar?"
+
+
+
+Além desses aspectos, deve-se ressaltar a ausência de políticas informacionais no Estado brasileiro. Esta situação leva à produção, sem critérios, de volumosos estoques informacionais que, insuficientemente gerenciados, comprometem a qualidade do processo político-decisório governamental e o direito do cidadão às informações. A exclusão informacional que se faz presente em muitos guichês reais, reflete-se na qualidade e quantidade de serviços públicos na Internet.
+
+"A infraestrutura dos serviços informatizados do Governo Federal está baseada na operação de uma malha de múltiplas e diversas redes isoladas. Assim, os serviços não obedecem a padrões de desempenho e de interatividade, as interfaces com o usuário nem sempre são amigáveis e constata-se um descompasso entre os diversos órgãos governamentais no ritmo de assimilação das tecnologias da informação. A capacidade de intercomunicação entre os sistemas é ainda muito limitada, uma vez que foram concebidos sob um paradigma tecnológico já obsoleto. Dessa forma, os sistemas corporativos da administração pública federal são desnecessariamente centralizados, pouco integrados entre si e estruturados com o seu foco na gestão de processos e não de funções". (Pinto)
+
+
+
+Algumas conclusões
+
+Após dois anos de investigação sobre a implantação do Governo Eletrônico na Administração Pública Federal (2001-2002), alguns pontos merecem destaque e remetem-nos a novas inquietações em termos de pesquisa:
+
+- Do ponto de vista teórico, constata-se uma frágil densidade conceitual em torno do governo eletrônico, revelada não só na literatura sobre o tema na Ciência da Informação como nos programas governamentais a respeito no Brasil e em outros países. Por outro lado, constata-se que o tema, dada a sua abrangência, tende a ser abordado por várias disciplinas: Administração, Informática, Ciência Política, Direito, Ciência da Informação, Engenharia de Produção, etc.
+
+- Observa-se uma institucionalização crescente do Programa Governo Eletrônico do Governo Federal. Este processo torna-se evidenciado na estruturação político-organizacional e na construção de marcos legais.
+
+- As ações do Governo Federal em relação à implantação do Governo Eletrônico mostram-se mais evidentes em relação às suas metas - mesmo considerando que várias não foram atingidas - do que em relação ao Programa Sociedade da Informação.
+
+- Sob a noção de "governo eletrônico" e a influência das iniciativas a respeito no plano federal, ações vêm crescendo, de forma diferenciada, nos níveis estadual e municipal.
+
+- O desenvolvimento desigual do Governo Eletrônico na Administração Federal tende a enfatizar especialmente as ações relativas à melhoria da sua própria gestão interna, seguido das propostas de integração com parceiros e fornecedores e, por último, a interação com o cidadão.
+
+- A infra-estrutura informacional da Administração Federal, disponibilizada na Internet, apesar dos avanços nos últimos quatro anos, ainda mostra-se insuficiente no que se refere às condições de acesso à informação e serviços governamentais e ampliação da qualidade desses serviços, de modo a garantir maiores oportunidades de participação social no processo democrático.
+
+Finalmente, a observação sobre as ações desenvolvidas nos últimos dois anos sugere que a sociedade encontra-se ausente na arquitetura da dimensão político-organizacional do Governo Eletrônico. Tal ausência certamente compromete qualquer política pública de largo espectro social como no caso das ações relativas à informação governamental. Compromete-se, assim, seu potencial como território de mediação democrática no qual Estado e Sociedade se realizam cotidianamente.
+
+
+
+Bibliografia
+
+BACKUS, Michiel . "E-Governance and Developing Countries: Introduction and examples". Research Report, n. 3, abr., 2001.
+
+BARBOZA, Elza Maria Ferraz ; NUNES, Eny Marcelino de Almeida ; SENA ,Nathália Kneipp. "Websites governamentais,uma esplanada à parte". Ci. Inf., Brasilia, v. 29, n.1, p.118-125, jan./abr. 2000.
+
+BITTENCOURT, Jorge Calmon Moniz de. "Diretrizes para o Governo Eletrônico no Mundo em Desenvolvimento - 10 Perguntas que os Líderes do Governo Eletrônico devem Fazer a Si Mesmos". In: CONIP - CONGRESSO DE INFORMATICA PUBLICA , 8., 2002. Anais eletrônicos..., 2002. Disponível em:<http://www.conip.com.br/palestras2002/12dejunho/sala5/jorgecalmon/diretrizesegov.zip>. Acesso em: 23 jul. 2002.
+
+BRAGA, Elisabeth. "Compras Eletrônicas no Setor Público: O Desafio da Mudança". In: CONIP - CONGRESSO DE INFORMATICA PUBLICA , 8., 2002. Anais eletrônicos..., 2002 . Disponível em: <http://www.conip.com.br/palestras2002/13dejunho/sala2/elisabethbraga/comprasnet.zip>. Acesso em 23 jul. 2002.
+
+CARDOSO, Samuel ; GERENT, Cardoso e Maristela Prado. "Editais de Licitação Via Internet". In: CONIP - CONGRESSO DE INFORMATICA PUBLICA , 8., 2002. Anais eletrônicos..., 2002. Disponível em:<http://www.conip.com.br/palestras2002/12dejunho/sala2/samuelemaristela/licitacao.zip>. Acesso em 23 jul. 2002.
+
+CARNEIRO, Paulo. "Projeto Liberdade: Identificação Segura e Aberta no Governo". In: CONIP - CONGRESSO DE INFORMATICA PUBLICA , 8., 2002. Anais eletrônicos..., 2002.
+
+"CERTIFICACAO digital assegura operações virtuais". Revista do Governo Eletrônico. n. 2, jun./jul./ago.. 2002. Disponível em: <http://www.prefeitura.sp.gov.br/revista/n2/mat_certificacao_digital.asp>
+
+"CERTIFICACAO: o Brasil ingressa no restrito grupo de paises que possuem entidades próprias de certificação". Tema. ano. 26, edição. 159. jan. 2002. Disponível em: <htpp://www.serpro.gov.br/publicações/tema/159materia03.htm>Acesso em: 23 jul. 2002.
+
+CIATTEI, Emanuel. "ICP - infra-estrutura de chaves públicas para prestação de serviços ao cidadão - A experiência da primeira autoridade certificadora estadual". In: CONIP - CONGRESSO DE INFORMATICA PUBLICA , 8., 2002. Anais eletrônicos..., 2002.
+
+"GOVERNO Eletrônico: os serviços públicos que se destacam na Internet". Tema. ano. 26, edição. 159. jan. 2002. Disponível em: <htpp://www.serpro.gov.br/publicações/tema/159/materia07.htm>Acesso em: 23 jul. 2002.
+
+GUERREIRO, Evandro Prestes Guerreiro. "Projeto Inclusão Digital para Acesso Público e Gratuito à Internet". In: CONIP - CONGRESSO DE INFORMATICA PUBLICA , 8., 2002. Anais eletrônicos..., 2002. Disponível em: <http://www.conip.com.br/palestras2002/11dejunho/sala6/evandro_prestes_guerreiro/2conferencia_online_conip2002.zip>. Acesso em 23 jul. 2002.
+
+JARDIM, José Maria . Transparência e Opacidade do Estado no Brasil: usos e desusos da informação governamental. Niterói: EDUFF, 1999.
+
+_________________. A face oculta do Leviatã: gestão da informação e transparência
+
+KLIKSBERG, Bernardo. "Cómo reformar el Estado para enfrentar los desafíos sociales del 2000". Disponível em: <http://www.iigov.org/iigov/pnud/revista/prevista6.htm>. Acesso em: 8 jul. 2000.
+
+LEAL, Ney Gilberto. "Quiosque Rede Governo". In: CONIP - CONGRESSO DE INFORMATICA PUBLICA , 8., 2002. Anais eletrônicos..., 2002. Disponível em:<http://www.conip.com.br/palestras2002/11dejunho/sala5/ney_gilberto_leal/ney_leal.zip>. Acesso em 23 jul. 2002.
+
+
+
+LENK, K. ; TRAUNMULLER, R. "Broadening the Concept of Electronic Government", In: PRINS, J. E. J. (Ed.). Designing E-Government. [S. l.] : Kluwer Law International, 2001, p. 63-74.
+
+MAROS, Luiz Carlos Pereira. "Sistema integrado de licitações e compras". In: SECOP- Seminário Nacional de Informática Publica,29., 2001. Anais eletrônicos..., 2002. Disponível em: <http://www.abep.sp.gov.br/Download29Secop/SCSistemaintegradodeLicitacoeseCompras.PDF>. Acesso em: 23 jul. 2002.
+
+NASSUNO, Marianne. "Atendimento ao Usuário-Cidadão: Iniciativas no Governo Federal". In: CONIP - CONGRESSO DE INFORMATICA PUBLICA , 8., 2002. Anais eletrônicos..., 2002 . Disponível em: <http://www.conip.com.br/palestras2002/13dejunho/sala7/mariannenassuno/conipatendimentoaousuariocidadao.zip>. Acesso em: 23 jul. 2002
+
+NOGUEIRA, Marco Aurélio. "Governos Eletrônicos". Disponível em:<http://geocities.com/maisbrasil/goveletron.htm>. Acesso em: 6 jul. 2002.
+
+NOGUEIRA FILHO, Dalmo. "Governo Eletrônico". In: SECOP - Seminário Nacional de Informática Publica, 29., 2001. Anais eletrônicos..., 2002. Disponível em: <http://www.abep.sp.gov.br/Download 29secopSP/governo>. Acesso em: 23 jul. 2002.
+
+PAULA JUNIOR, Jaime Leonel de ; AX, Renaldo ; SOARES, Cilene Ferandes. "Compras Públicas Via Internet". In: CONIP - CONGRESSO DE INFORMATICA PUBLICA , 8., 2002. Anais eletrônicos..., 2002 . Disponível em: <http://www.conip.com.br/palestras2002/13dejunho/sala2/cilenefernandessoares/ax_pmf.zip>. Acesso em: 23 jul. 2002.
+
+
+
+PINTO, Sólon Lemos. "Governo Eletrônico no Brasil". Disponível em: <http://www.governoeletronico.gov.br>. Acesso em: 20 jun. 2002.
+
+RAMOS, Joel ; LAVAREDA,,Paulo. "Direcionamento em 'e - government' - Metodologias, Práticas, Plataforma e Soluções". In: SECOP- Seminário Nacional de Informática Publica, 29., 2001. Anais eletrônicos..., 2002.
+
+SANTOS, Maria Helena de Castro. "Governabilidade, Governança e Democracia: Criação de Capacidade Governativa e Relações Executivo-Legislativo no Brasil Pós-Constituinte". Dados, v. 40, no. 3, 1997.
+
+SANTOS,Rogério Santanna dos. "Infovia da Prefeitura de Porto Alegre". In: CONIP - - CONGRESSO DE INFORMATICA PUBLICA , 8., 2002. Anais eletrônicos..., 2002.
+
+SAUR, Ricardo. "Um Novo Modelo de Prefeitura Eletrônica: Regionalidade e Integração Modular". In: CONIP - CONGRESSO DE INFORMATICA PUBLICA , 8., 2002. Anais eletrônicos..., 2002.
+
+SEMINÁRIO GOVERNO NA INTERNET.1., 2000, Brasília. Anais eletrônicos... Brasília, 2000. Disponível em: <http://www.redegoverno.gov.br/e_gov/index.htm>. Acesso em: 5 jul. 2000.
+
+SILVEIRA, Henrique Rodrigues Flavio da. "Internet, governo e cidadania". Ci. Inf. v.30, n.2, p.80-90, maio/ago. 2001. Disponível em: <http://www.ibict.br/cionline/300201/index.htm> Acesso em: 20 jul.2002.
+
+SYMONDS, Matthew. "Survey Government and the Internet. The next revolution. After e- commerce, get ready for e-government", The Economist, June 22nd. 2000. Disponível em : <http://www.ebape.fgv.br/e_government/asp/dsp_artigos.asp>.
+
+WAINWRIGHT, Eric. "Convergence, Information and Records Management : Observations from an Australian Government Information Management Perspective". Disponível em:<http://www.nla.gov.au/>.
+
+WEINSTEIN, Peter C. Ontology-Based Metadata: transforming the MARC Legacy. Digital Libraries, Pittsburg, p. 254-263. 1998.
+
+ZWEERS, K. ; PLANQUE, K. "Electronic Government. From a Organizational Based Perspective Towards a Client Oriented Approach". In: PRINS, J. E. J. (Ed.). Designing E- Government. [S. l.] : Kluwer Law International, 2001, p. 92.
+

@@ -1,0 +1,214 @@
+Contribuição da Pós-graduação para a Ciência da Informação no Brasil: uma visão
+
+
+
+Resumo: Síntese da avaliação continuada dos programas de pós-graduação em Ciência da Informação reconhecidos pela CAPES (PUC/CAMP, UFBA, UFMG, UFRJ/IBICT, UnB e UNESP/Marília), relativa ao ano de 2001. A partir da constituição dos corpos docente e discente, números de dissertações e teses defendidas e publicações do corpo docente, propõe-se um diagnóstico da pós-graduação na área, finalizando por uma discussão das características da pesquisa em Ciência da Informação realizada nos programas e a fragilidade da área em relação ao Sistema Nacional de Pós-Graduação. Em anexo uma tabela transcreve as áreas de concentração e linhas de pesquisa, com respectivas ementas, dos programas da área em 2001.
+
+Palavras-chave: Ciência da Informação no Brasil, Avaliação 2001 CAPES, Pós-graduação em Ciência da Informação, Pesquisa em Ciência da Informação no Brasil
+
+
+INTRODUÇÃO
+
+Este texto apresenta uma síntese da Ciência da Informação no Brasil em 2001, numa visão construída a partir dos principais elementos de análise adotados pela CAPES para a avaliação dos programas de pós-graduação. As considerações que seguem pretendem refletir um misto de sensações e impressões obtidas a partir da experiência de avaliação, apontando traços marcantes e características formadoras e conformadoras da área à época da avaliação. O objetivo é revelar um panorama da pós-graduação da área, alertando a comunidade envolvida para questões fundamentais que merecem atenção visando assegurar um futuro promissor.
+
+Cumpre ressaltar que o resultado do trabalho de avaliação da CAPES, realizado pela Comissão de Avaliação, é sistematizado em relatórios[1] que analisam as condições de cada curso, seus pontos fortes e fracos, visando sinalizar o que merece elogio ou maior cuidado por parte das coordenações. A avaliação efetuada pauta-se também por uma série de comparações, baseada em parâmetros estabelecidos pelos programas inscritos na área "Ciências Sociais Aplicadas I" da CAPES. Em 2001 a área era constituída por 21 programas distribuídos pelas áreas de conhecimento da Comunicação e Ciência da Informação. Este diagnóstico enfoca o sub-conjunto dos programas em Ciência da Informação.
+
+Antes de apresentar o diagnóstico da área em 2001, é preciso destacar que as análises realizadas pela Comissão, bem como os dados disponíveis na CAPES em relação ao Sistema Nacional de Pós-Graduação, caracterizam a Ciência da Informação como uma área tímida, pouco agressiva, que se evidencia por um número restrito de iniciativas. É importante também relembrar que o Sistema Nacional de Pós-Graduação vem crescendo a uma taxa de 10% ao ano, ao passo que a área viveu durante 30 anos com 5 programas e neste momento conta 6 programas formalmente inscritos na área de conhecimento da Ciência da Informação[2]. A situação é, neste sentido, de uma quase estagnação. Este aspecto enseja uma ampla reflexão por parte de todos que se preocupam com a pesquisa e a docência em Ciência da Informação no Brasil.
+
+Cumpre relembrar que a análise que segue foi baseada nos dados relativos a 2001 constantes dos relatórios encaminhados pelos 6 programas de pós-graduação em Ciência da Informação reconhecidos pela CAPES - PUC/CAMP, UFBA, UFMG, UFRJ/IBICT, UnB e UNESP/Marília. Este é o universo de observação.
+
+A análise dos programas em Ciência da Informação ressaltará alguns aspectos centrais, a saber:
+
+1. os corpos docente e discente dos programas;
+
+2. as dissertações e teses defendidas em 2001;
+
+3. as publicações do corpo docente;
+
+4. as áreas de concentração, suas linhas de pesquisa e respectivos projetos de pesquisa.
+
+
+
+1. OS CORPOS DOCENTE E DISCENTE DOS PROGRAMAS
+
+Um pouco mais de 400 pessoas atuaram nos programas de pós-graduação da área em 2001. O quadro abaixo resume os dados de corpos docente e discente encaminhados pelos programas:
+
+
+
+Programa Corpo docente Corpo discente Correlação
+
+discente/ NRD6
+
+Total NRD6 Início ano Ingressantes Total
+
+alunos
+
+M D M D
+
+PUC/CAMP 7 5 40 - 20 - 60 12
+
+UFBA 9 7 9 - - - 9 1.3
+
+UFMG 16 13 37 16 17 6 76 5.9
+
+UFRJ/IBICT 13 13 46 45 17 8 116 8.9
+
+UnB 11 9 29 17 15 7 68 7.6
+
+UNESP/Marília 9 7 23 - - - 23 3.3
+
+TOTAL 65 54 184 78 69 21 352 6.5
+
+
+
+NRD6 - Núcleo de Referência Docente 6
+
+M - mestrado
+
+D - doutorado
+
+O quadro acima reproduzido mostra que o corpo docente dos programas contou, em 2001, com 65 docentes, dos quais 54 integraram o NRD6, ou seja, o Núcleo de Referência Docente 6. O NRD6 constitui a base do programa, seu coração, pois representa a parcela do corpo docente que tem vínculo estável com a IES de, no mínimo, 30 horas semanais e 9 meses por ano, dedicando às atividades de docência, pesquisa e orientação no mínimo 30% de seu tempo. A avaliação de diferentes indicadores da atuação dos programas é feita em função do NRD6, considerando-se que este núcleo deve oferecer a garantia de funcionamento adequado do programa[3]. Os outros docentes vinculados aos programas (com regimes contratuais menores, menos dedicação ao programa ou aposentados) agregam valor ao programa mas, tendo em vista seu vínculo com o mesmo, não é recomendável que o programa dependa dos mesmos de forma excessiva. No cômputo geral, verifica-se portanto que 83% dos docentes vinculados aos programas de pós-graduação compõem o núcleo que lhes dá sustentação. Esta porcentagem é bastante favorável, em sua média.
+
+Em relação ao corpo discente, o quadro acima apenas quantificou os alunos no início de 2001 e aos mesmos acrescentou os ingressantes durante o ano. Dentre os 352 alunos, 10 foram desligados ou abandonaram o programa no período, o que caracteriza um índice de evasão bastante baixo[4]. De resto, como será detalhado no item 2 abaixo, 106 alunos se titularam no período. Como o ingresso dos alunos se dá em diferentes períodos do ano, de acordo com os cronogramas de cada instituição e as titulações também se distribuem pelo ano, dimensionamos neste texto o corpo discente somando os ingressantes aos alunos já vinculados aos programas no início do ano, aproximando-nos tanto quanto possível de uma realidade que é alterada ao longo dos meses. De toda forma, se considerarmos que, durante o ano, 90 novos alunos ingressaram nos programas e 106 se titularam, saindo dos programas, o total de 352 alunos não configura, seguramente, um número muito distante da realidade.
+
+Calculamos, finalmente, a correlação entre os discentes e o núcleo docente que sustenta a proposta dos programas. Embora se observem diferenças entre os mesmos, na média chega-se a uma correlação de 6.5 discentes por docente do NRD6, ou seja, os programas de pós-graduação neste aspecto estão bem dimensionados e não dependem excessivamente de outros docentes para acompanhar as atividades do corpo discente. Para memória, a área de Comunicação e Ciência da Informação na CAPES admite um máximo de 12 discentes por docente do NRD6: os programas de Ciência da Informação permanecem bem abaixo deste patamar e alguns programas poderiam expandir sua oferta de vagas sem comprometer o acompanhamento dos alunos.
+
+Nem todos os discentes são caracterizados, em 2001, na condição de orientandos. A diferença entre os números de discentes e orientandos pode refletir tanto uma política do programa segundo a qual os discentes não têm um orientador formalmente designado desde o início de sua formação, quanto erros de preenchimento nos relatórios. Estes erros, caso tenham ocorrido, obviamente não puderam ser corrigidos por ocasião da avaliação: esta é baseada nas informações disponibilizadas pelos programas. Em 2001, de acordo com os mesmos relatórios, os orientandos se distribuem da seguinte maneira:
+
+
+
+Programa Orientandos Correlação
+
+orientando/NRD6
+
+Mestrado Doutorado Total
+
+PUC/CAMP 15 - 15 3
+
+UFBA 9 - 9 1.3
+
+UFMG 53 20 73 5.6
+
+UFRJ/IBICT 41 41 82 6.3
+
+UnB 14 14 28 3.1
+
+UNESP/Marília 22 - 22 3.1
+
+TOTAL 154 75 229 4.2
+
+
+
+Deduz-se, pela análise dos dois quadros anteriores, que, em 352 discentes, os programas contam 229 orientandos, ou seja, 65% dos discentes têm um orientador designado, o que configura uma boa correlação. Muito embora uma parcela dos orientandos possa ser orientada por docentes que não compõem o NRD6, na avaliação calcula-se a correlação entre orientandos e o NRD6, para aferir se o programa conta com um núcleo docente suficiente para garantir o trabalho de orientação. Lembrando que a área considera excelente uma correlação de 6 orientandos por orientador do NRD6, quando o corpo docente também atua na graduação, e 10 orientandos por orientador do NRD6 quando os docentes atuam quase que exclusivamente na pós-graduação (este é o caso do programa da UFRJ/IBICT), constata-se que todos os programas se mantêm dentro do padrão de excelência da área, podendo aumentar a proporção de orientandos sem prejudicar a formação do corpo discente.
+
+
+
+2. AS DISSERTAÇÕES E TESES DEFENDIDAS EM 2001
+
+Como foi acima dito, em 2001 os programas da área titularam 106 discentes, distribuídos da seguinte maneira:
+
+
+
+Programa Mestrado Doutorado Total
+
+PUC/CAMP 27 - 27
+
+UFBA 1 - 1
+
+UFMG 24 1 25
+
+UFRJ/IBICT 17 6 23
+
+UnB 17 4 21
+
+UNESP/Marília 9 - 9
+
+TOTAL 95 11 106
+
+
+
+Historicamente vem-se observando, em termos bastante aproximados, uma correlação de 3 mestrados para 1 doutorado: esta correlação se aproxima dos números de discentes no início do ano e ingressantes no ano, conforme pode ser verificado no quadro anterior. Os titulados em 2001 não correspondem, no entanto a esta aproximação: os mestrados interinstitucionais (MINTER) da PUC/CAMP com a UFPR e da UFMG com a UFPI provocaram certamente as diferenças observadas em relação à proporção historicamente recorrente. Os 4 programas de pós-graduação que iniciaram suas atividades nos anos 70 ofereceram MINTERs nos últimos anos, apontando para uma visão social e uma disponibilidade para a cooperação junto a outras instituições de ensino, formando seus quadros em tempo reduzido. No entanto, os MINTERs, além deste aspecto positivo, também provocaram, em alguns programas, problemas devido à sobrecarga que um MINTER acarreta. Em todo caso, os números dos titulados mostram claramente a importância dos MINTERs para a área.
+
+Outros dados relativos a esses titulados levantam, em particular, duas questões:
+
+- a natureza das dissertações e teses defendidas por estes alunos, suas temáticas, abordagens, etc.
+
+- o destino dos egressos: os mesmos voltam para as instituições de origem? Nos mesmos cargos? Atuavam ou passam a atuar no ensino de graduação?
+
+É impossível responder às duas perguntas com as informações de que dispomos atualmente, mas seria da maior importância que alguns estudos neste sentido fossem implementados.
+
+
+
+3. AS PUBLICAÇÕES DO CORPO DOCENTE
+
+Um dos produtos mais visíveis da pós-graduação é constituído pela produção bibliográfica. Parte-se do pressuposto que a pós-graduação desenvolva pesquisas e que estas sejam divulgadas: a pesquisa que não é divulgada não passa a ter uma existência social e, portanto, em nada contribui para a geração do conhecimento na área. Por esta razão valoriza-se a produção bibliográfica e, nesta, determinadas publicações mais do que outras, como segue:
+
+* O texto a ser publicado deve ter sido avaliado por um comitê editorial ou outra instância avaliativa; * O texto a ser publicado deve ser suficientemente longo para poder explanar os objetivos, pressupostos, hipóteses e resultados de uma pesquisa, razão pela qual a área, incorporando a natureza argumentativa da construção do conhecimento em ciências sociais, não considera textos com menos que 4 páginas;
+
+* O texto deve ser publicado num veículo de divulgação de qualidade. Neste caso trabalha-se, por um lado, com uma tipologia de veículos e, por outro lado, com uma estratificação em função da circulação dos mesmos. Assim sendo, consideram-se os livros e capítulos de livros, diferenciando os livros das coletâneas e o livro didático do livro que reflete o produto de uma pesquisa. Em relação aos artigos de periódicos, além da extensão dos mesmos, trabalhou-se com uma lista de periódicos qualificados - o Qualis. O Qualis foi organizado por sucessivas comissões compostas por consultores de Comunicação e Ciência da Informação e utilizado pela primeira vez na avaliação continuada de 2001, razão pela qual os resultados de sua implantação devem ser analisados com a devida cautela. A CAPES prevê a constituição de uma comissão, por área, que acompanhe os periódicos e atualize a lista Qualis regularmente, incluindo e re-avaliando os veículos. A lista empregada na avaliação continuada de 2001 categorizou os periódicos pela qualidade dos mesmos (influência na área, presença de conselho editorial, regularidade na publicação, etc.) e pela circulação dos mesmos (internacional, nacional ou local).
+
+
+
+
+
+A área adotou a seguinte pontuação para as publicações:
+
+Livro produto de pesquisa - 2 pontos
+
+Re-edição de livro produto de pesquisa - 1 ponto
+
+Livro didático ou introdutório à matéria - 1 ponto
+
+Organização de coletânea - 0.5 pontos
+
+Capítulo de livro - 1 ponto
+
+Artigo de periódico com no mínimo 4 páginas - 1 ponto.
+
+A Comissão de Avaliação de Comunicação e Ciência da Informação calculou a produção dos corpos docentes dos programas supondo o padrão de excelência, acordado em sucessivas reuniões de Coordenadores de Programas de Pós-Graduação em Comunicação e Ciência da Informação desde março de 1998, ou seja, 2 pontos/ano/docente. Em que pese o cuidado que se deve ter na utilização da lista Qualis, dada sua novidade, fato é que a área, de acordo com estes parâmetros, na média, publica menos do que seria desejável. Logicamente esta afirmação deve ser contextualizada, pois em cada programa há docentes que publicam acima da média e outros que nada publicam, mas permanece um paradoxo: a área inclui no escopo de suas preocupações as questões da publicação e divulgação científica, bem como os procedimentos necessários para representar, organizar e disseminar a informação publicada pelos diferentes atores da produção científica, mas não se afirma como produtora de conhecimento publicado.
+
+Os docentes dos programas de pós-graduação publicaram, em 2001, preponderantemente em bons periódicos nacionais, alguns artigos em periódicos do exterior, alguns capítulos de livros, poucos livros e apresentaram uma extensa produção em anais de congressos. Esta produção em anais de congressos, que se distribui de forma eqüitativa entre textos integrais e resumos, é problemática pois não há hoje garantias que os mesmos tenham passado por comitês editoriais qualificados. Principalmente com o advento dos anais eletrônicos, a publicação em anais de congressos passou a ser facilitada e, salvo honrosas exceções, não apresenta as condições de qualidade preconizadas para uma produção dos programas de pós-graduação. No que diz respeito aos resumos de trabalhos publicados em anais de congresso, se os mesmos são reconhecidos pela sua utilidade para divulgar pesquisas em andamento, em função de sua extensão os mesmos não apresentam as pesquisas com o necessário detalhamento, razão pela qual são igualmente desprezados na avaliação da produção bibliográfica da área.
+
+O quadro geral da produção bibliográfica da área em 2001, de acordo com os registros encaminhados pelos programas, encontra-se no anexo 1. Deve-se salientar, ainda, que os números incluídos no quadro em anexo não representam toda a produção bibliográfica encaminhada pelos programas, mas a parcela da produção que foi levada em consideração, excluindo repetições, produção técnica, publicações não vinculadas à Ciência da Informação ou trabalhos de alunos.
+
+No cômputo geral da área, somando as pontuações previstas para os artigos de periódicos, livros e capítulos de livros, de acordo com os números presentes no quadro em anexo, chega-se a uma produção equivalente a 63 pontos, para um corpo docente de 54 pesquisadores em NRD6, o que significa 1.16 publicação/ano/docente, ou seja, pouco mais que a metade do que se espera dos docentes da área. Se os 63 pontos forem considerados em relação ao corpo docente (total) dos programas - 65 docentes - aproximamo-nos de uma correlação de 1 publicação/docente/ano. Não ignoramos que estes cálculos gerais da área representam médias e dificilmente casos reais, mas, enquanto médias os indicadores, no entanto, reiteram o que foi dito no início deste item: a área publica pouco: metade do que se espera da mesma, em suma. Esta avaliação, cumpre reiterar, não diz respeito à qualidade dos textos publicados, mas à qualidade dos veículos nos quais as publicações foram realizadas.
+
+A área tem reiteradamente discutido a importância das publicações, insistindo no argumento de que o patamar adotado é por demais exigente. Deve-se lembrar, neste aspecto, três considerações:
+
+* O patamar atualmente aplicado na avaliação CAPES vem sendo discutido com os programas desde março de 1998, em sucessivas reuniões dos representantes de área com os coordenadores de programas e em reuniões da ANCIB e da COMPÓS. Se não há unanimidade em relação ao assunto, a pontuação ora aplicada representa indiscutivelmente a opinião da maior parte dos docentes-pesquisadores envolvidos nos programas de pós-graduação da área; * A alegação, freqüente, segundo a qual não há como exigir publicação quando não há um número suficiente de veículos de divulgação reconhecidos não se sustenta. Embora a comunidade acadêmica saiba que os periódicos lutam com dificuldades, ainda assim a área hoje conta com um número razoável de bons periódicos, editados por programas de pós-graduação, alguns cursos de graduação e outras instituições, tais como o IBICT. Com o advento dos periódicos eletrônicos a questão do custo, que respondia em larga medida pelos problemas de regularidade nas publicações, pôde ser redimensionado. Fato é que os periódicos da área lutam com dificuldades para sobreviver, mas é fato também que a maior parte dos mesmos hoje se preocupa muito com a captação de "bons" artigos, pois estes não são submetidos aos conselhos editoriais na proporção desejada;
+
+* Por último, não há como discutir a importância da publicação no processo da construção do conhecimento, como forma de divulgação e submissão à comunidade acadêmica dos resultados das pesquisas desenvolvidas. Caso esta comunidade, particularmente a comunidade da pós-graduação, considere que os veículos de divulgação existentes não são em número e qualidade suficientes, esta deve se unir e propor medidas para alterar a situação. Temos, no entanto, uma certeza: a comunidade não pode se desculpar pela pequena produtividade adiantando a insuficiência de periódicos de qualidade se a mesma, por um lado, não vem de fato produzindo artigos e, por outro lado, não manifesta preocupação e iniciativas no sentido da melhoria de uma realidade.
+
+
+
+4. AS ÁREAS DE CONCENTRAÇÃO, SUAS LINHAS DE PESQUISA E RESPECTIVOS PROJETOS DE PESQUISA No anexo 2 encontram-se transcritas, por programa, as denominações de suas áreas de concentração e linhas de pesquisa com as respectivas ementas. Embora saibamos que o quadro transcreve as informações oficialmente encaminhadas pelos programas, relativas a 2001, e que alguns programas estão readequando ou reformulando suas linhas de pesquisa, este fato não impede uma análise do quadro atual - e oficial - dos desenhos acadêmicos dos programas de pós-graduação, tal como os mesmos propõem recortes no universo de investigação da Ciência da Informação.
+
+O quadro em anexo permite dimensionar tanto as diferenças entre os programas quanto as ênfases que os diferentes programas dão a determinados assuntos, muitas vezes originados na especialização de um pesquisador que nucleou outros pesquisadores e temáticas ao redor de um eixo comum de indagações. A origem das linhas de pesquisa (e de muitos grupos de pesquisa também) tem freqüentemente sua explicação em circunstâncias desta natureza, mas não é suficiente para atribuir organicidade à proposta dos programas. A análise deve, pois, partir do enunciado da área de concentração - enquanto delimitação do objeto de especialidade da produção do conhecimento e da formação realizada pelo programa - e avaliar os recortes específicos da área de concentração, ou as restrições temáticas, propostas pelo mesmo, ou seja, as linhas de pesquisa. Estas linhas de pesquisa devem se ancorar na capacidade docente instalada no programa: de nada adianta enunciar linhas de pesquisa nas quais o corpo docente não vem investindo de forma substantiva.
+
+A análise das áreas de concentração e respectivas linhas de pesquisa é reveladora de uma visão pragmática da área, freqüentemente voltada à solução de problemas da atividade profissional e menos voltada para a consolidação conceitual e epistemológica da própria área. Seguramente a origem de 5 entre 6 programas em cursos de graduação em Biblioteconomia explica em boa parte esta situação, mas cremos necessárias outras análises e discussões a respeito da missão de uma pós-graduação em Ciência da Informação no Brasil, hoje. Em outros termos, faz-se necessária uma discussão, urgente, acerca das prioridades na construção do conhecimento em Ciência da Informação, se esta deve ser mais voltada para o mundo profissional ou deve adquirir uma certa autonomia em relação a este, inclusive para reunir condições de melhor contribuir, a partir de um ponto de vista diferenciado, para a elaboração de propostas inovadoras visando à circulação social da informação enquanto bem simbólico. A autonomização da reflexão reúne, seguramente, mais condições para enriquecer as propostas voltadas para o mundo profissional.
+
+Um dos aspectos desta questão que foi identificado na análise dos dados da avaliação continuada (mas que na verdade já havia ocorrido em avaliações anteriores) - e deve ser ressaltado - diz respeito à conceituação de projeto de pesquisa pelos diferentes programas. Da listagem dos  projetos de pesquisa  em desenvolvimento fica evidenciado que muitos dos projetos mencionados não se constituem verdadeiramente em temáticas de pesquisa propriamente ditas e, sim, em realização de atividades de caráter e necessidades decorrentes puramente de atividades profissionais digamos assim, necessárias certamente, mas que não se constituem em um  problema de pesquisa  a ser investigado, com as exigências peculiares de um trabalho acadêmico de origem científica.
+
+A prática profissional desenvolvida para a solução de um problema em si não necessariamente se justifica como uma atividade de pesquisa, mas o problema tratado pode vir a gerar uma investigação de cunho científico.
+
+Outro aspecto importante a ser destacado é que a natureza científica dos projetos de pesquisa não fica evidenciada pela descrição apresentada, o que por um lado parece ser uma evidência do que comentamos acima. Por outro lado ressalta a falta de sistematização científica (enquanto objetivos, metodologia e resultados esperados) dos projetos de pesquisa propriamente ditos. De qualquer forma, é oportuno mencionar a precariedade da grande maioria das descrições dos projetos listados nos 6 cursos analisados. Muitos deles não apresentaram nem mesmo títulos significativos que mostrem a sua expressividade enquanto tema de pesquisa.
+
+A intenção de reflexão investigativa em torno da produção de conhecimento é o que de fato caracteriza a atividade de pós-graduação, devendo também ser estendida ao nível de graduação. Porém, é particularmente imprescindível na pós-graduação stricto sensu que visa formar mestres e doutores, professores e pesquisadores, para atuarem na formação de pessoal qualificado na área ou para atuarem como profissionais mais capacitados em diferentes ambientes de informação. A prática profissional também deve considerar a reflexão como prática intelectual, contribuindo não apenas para a re-produção de conhecimento mas para a produção de novos conhecimentos.
+
+De forma contextual e conceitual, as áreas de concentração e linhas de pesquisa organizam o programa em sua proposta de verticalização na investigação e os projetos de pesquisa conferem à mesma sua concretude. Isto deve ficar explícito tanto na enunciação das áreas de concentração e na apresentação das ementas das linhas de pesquisa, assim como na descrição dos projetos de pesquisa dos docentes dos programas e nos resumos das dissertações e teses concluídas pelo corpo discente.
+
+Concluindo, é importante se evidenciar uma harmonia classificatória da área da ciência de informação enquanto pós-graduação, espelhada nas áreas de concentração e linhas de pesquisa e refletida na produção docente e discente de cada programa.
+
+Retomando a temática da pesquisa desenvolvida nos programas, faz-se necessário rebater uma afirmação que, vez por outra, é enunciada: a área não tem vocação para a pesquisa, pois foi gerada a partir de cursos profissionalizantes (excetuado o programa da UFRJ/IBICT, os demais nasceram a partir de cursos de graduação em biblioteconomia). Esta argumentação pode ter refletido uma verdade no passado, mas vem se tornando cada vez menos verdadeira, por duas razões complementares: a graduação se preocupa cada vez mais com a pesquisa, tanto de seu corpo docente (visando à constante melhoria e atualização dos conteúdos programáticos ensinados) como discente: a inserção do aluno numa cultura investigativa é hoje considerada essencial para assegurar sua empregabilidade, face às constantes e rápidas mudanças que ocorrem no universo profissional. A área não pode, pois, prescindir da pesquisa, o que não equivale a afirmar que ela demonstra vocação para tanto.
+
+A pesquisa é elaborada, em sua maior parte, nos programas de pós-graduação. Esta constatação é verdadeira para a pesquisa no Brasil em todas as áreas do conhecimento, e não somente em Ciência da Informação. Por outro lado, a titulação do corpo docente dos cursos de graduação é igualmente assegurada pelos programas de pós-graduação, razão suplementar para que a estagnação na pós-graduação da área deve preocupar a todos.
+
+Uma outra linha argumentativa pode ser invocada: a caracterização da pesquisa, tal como adotada pela área na CAPES, é muito exigente, ou restritiva, razão pela qual ela tanto inibe como sub-dimensiona as atividades investigativas. Este argumento também é frágil, pois por um lado tende a ignorar o problema (o problema passa a ser o olhar do "outro"), e por outro lado ignora que, quer queiramos quer não, fazemos parte de um conjunto muito maior: o Sistema Nacional de Ciência e Tecnologia. A área da Ciência da Informação se insere num conjunto maior, que é regulado por regras, metodologias e parâmetros tradicionalmente gestados nas ciências exatas, nas engenharias ou ciências da saúde. Para chegar a ter um espaço no sistema de pós-graduação é necessário estabelecer algumas interfaces com as demais áreas. Neste ponto a argumentação freqüentemente desvia para uma conseqüência deste estado de fato: os critérios adotados pelas agências de fomento são critérios das áreas tradicionais e inadequados para avaliar nossa pesquisa. A argumentação desdobra-se neste ponto em discursos sobre a especificidade da área, obviamente ignorada pelas demais, voltando ao padrão do inimigo externo. O sistema de pós-graduação e, portanto, em boa medida, da pesquisa, adota a avaliação de mérito pelos pares como um de seus fundamentos mais sólidos. Ou seja: a avaliação pelos pares da área e por pares de outras áreas que, no momento das divisões de verbas pelas agências, por exemplo, sabem que o montante é fixo (e vem diminuindo), significando que o crescimento de uma área dificilmente se faz sem uma contrapartida (ou seja, uma diminuição) das outras áreas. O sistema é concorrencial e baseado em avaliações de mérito. A auto-complacência, característica da área, provoca, neste sentido, um resultado que se volta contra a mesma. Não vemos outra alternativa, a não ser demonstrar que estamos capacitados a fazer pesquisas relevantes, bem formuladas e estruturadas, e que, portanto, somos concorrentes "sérios". Neste jogo político, a área, ao demonstrar uma estagnação e auto-complacência exagerada, não atinge nenhum resultado positivo, somente se enfraquece mais.
+
+
+
+CONSIDERAÇÕES FINAIS
+
+A bem da verdade, a avaliação continuada da CAPES deixou uma preocupação em relação a uma área que não demonstra muita vitalidade, à qual faltam grandes idéias, grandes iniciativas, uma certa ousadia. A área ousa muito pouco: menos que o desejável, em todo caso. Esta é a sensação que permanece. Ou continuamos fazendo nossas pesquisas com uma visão muito imediatista e de aplicação local, e rapidamente seremos varridos do mapa das agências, ou começamos a fazer de fato uma ciência com C maiúsculo, que pode até se caracterizar por sua especificidade conquanto consigamos explicitar no que esta consiste. Caso contrário, se formos avaliados pelos critérios tradicionais da pesquisa, nossa fragilidade se manifestará rapidamente. Bastará inquirir quantas pesquisas produzidas pelos programas de pós-graduação em Ciência da Informação tendem a propor generalizações ou abstrações que ultrapassem o estágio da pesquisa empírica, dos relatos, das descrições e dos estudos de caso. Quantas pesquisas propõem generalizações baseadas em diferentes estudos de caso sobre determinada questão? Esta visão, por alguns rotulada como positivista ou iluminista, é inadequada para medir o progresso da área? Caso queiramos argumentar desta maneira, será necessário contrapor a este modelo um outro (pós-moderno?), apresentá-lo de forma tal que o mesmo possa ser reconhecido e respeitado pelas demais áreas na condição de parâmetro adequado. Trata-se, em suma, de substituir exigências: os critérios considerados adequados para um sistema de ciência positivista podem ser substituídos por outros critérios, considerados mais adequados, e comprovadamente tão exigentes quanto os primeiros. Um sistema concorrencial (e de verbas públicas cada vez mais escassas, quando a demanda tende a crescer) não pode prescindir de critérios exigentes, quaisquer que sejam. Este é nosso calcanhar de Aquiles e demanda uma ampla reflexão por parte de todos os atores envolvidos: docentes/pesquisadores, alunos de pós-graduação, coordenações de programas, ANCIB e representações de área junto à CAPES e ao CNPq.
+
+

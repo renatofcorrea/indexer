@@ -1,0 +1,172 @@
+Periódicos eletrônicos: considerações relativas à aceitação deste recurso pelos usuários
+
+
+RESUMO
+
+Este artigo apresenta algumas reflexões sobre a aceitação de periódicos eletrônicos disponibilizados na World Wide Web. Assuntos que freqüentemente são ignorados durante a elaboração dos mesmos são discutidos. Citam-se como exemplo alguns periódicos científicos eletrônicos brasileiros na área da ciência da informação. Analisam-se também algumas barreiras tecnológicas que impedem o uso mais amplo e irrestrito deste recurso.
+
+Palavras-chave: Periódicos eletrônicos; Usabilidade; Novas tecnologias.
+
+
+INTRODUÇÃO
+
+A introdução contínua de novas tecnologias, no dia-a-dia do ser humano, produz alterações na forma de execução do trabalho e processos relacionados. Podemos constatar como exemplo representativo desta afirmação a evolução das tecnologias relacionadas ao processo de difusão da escrita. Vejamos a seguir, de maneira resumida, algumas das etapas desta evolução. Retornando a um passado longínquo na antigüidade, verificamos como poucos e privilegiados leitores tinham acesso ao texto escrito. Esse texto estava muito provavelmente materializado em rolos feitos de couro animal, que, como tal, para ser lido precisava ser desenrolado com a utilização das duas mãos do leitor, atrapalhando a realização de alguma outra tarefa que necessitasse da utilização deste membro. Visualizando agora o século IV da era cristã, constataremos o surgimento de um novo suporte para a difusão do texto escrito que se impõe de forma incisiva. Este suporte chamava-se códex, que nada mais era do que um livro, constituído de folhas dobradas, reunidas e encadernadas, que veio suplantar de forma indiscutível os rolos até então predominantes. A utilização deste novo suporte trouxe uma série de benefícios até então difíceis de serem realizados, tais como a possibilidade de se escrever durante a atividade de leitura. Os dispositivos inerentes ao códex transformaram de forma radical a utilização dos textos (Chartier, 2002).
+
+Chartier (2002, p.106) afirma que:
+
+"A invenção da página, as localizações garantidas pela paginação e pela indexação, a nova relação estabelecida entre obra e objeto que é o suporte de sua transmissão tornaram possível uma relação inédita entre o leitor e seus livros".
+
+Mais recentemente, na última metade do século XX, testemunhamos a introdução do meio eletrônico como um novo suporte à difusão da escrita. Este meio está alterando de forma progressiva a maneira como interagimos com o texto escrito. O meio eletrônico possibilita a utilização dos avanços introduzidos pelos livros além de estender estas possibilidades graças às características intrínsecas a este meio que seriam impossíveis de serem implementadas da maneira tradicional.
+
+Analisaremos a seguir alguns tópicos relacionados às publicações eletrônicas que contribuem para dificultar uma adoção mais ampla deste recurso. Enfatizaremos mais especificamente os periódicos científicos eletrônicos disponibilizados em sites da World Wide Web, que constituem um exemplo específico da utilização do meio eletrônico na divulgação de informações.
+
+Periódicos eletrônicos: o novo ou a adaptação de um padrão existente?
+
+A utilização inadequada de uma nova tecnologia, como conseqüência de uma reduzida compreensão dos recursos que a mesma pode proporcionar, contribui para que ela não seja utilizada de forma ampla. Johnson (2001, p.107) ajuda a validar este raciocínio anterior afirmando o seguinte: "As novas tecnologias, quando nascem, são sempre mal compreendidas, muitas vezes pelos que estão mais próximos delas".
+
+Historicamente nós temos exemplos de tecnologias que tiveram originariamente um uso diferente do que conhecemos hoje. Johnson (2001) explica que, quando da invenção do fonógrafo por Thomas Edison, o mesmo pensou na utilização deste equipamento como um gravador de conversas telefônicas, e não como um reprodutor de música. O tempo mostrou o equívoco de Edison, pois as pessoas não estavam interessadas na gravação do que falavam ao telefone. Este raciocínio nos leva a refletir: será que os usuários poderiam achar, ou sugerir novas formas de uso para os periódicos científicos eletrônicos, diferentes das pensadas pelos editores, especialistas em mídia ou analistas de sistemas? Acreditamos que sim, e a utilização plena destes periódicos passa pela incorporação no desenvolvimento dos mesmos das funcionalidades descobertas e requeridas pelas pessoas que os utilizam.
+
+No momento em que fazemos acesso a alguma revista científica eletrônica, disponibilizada em algum site da Web, não é difícil constatar que a vasta maioria das mesmas não faz bom uso dos recursos passíveis de implementação para o padrão Web. O que encontramos na maior parte dos casos é a mera transcrição de periódicos já existentes de forma impressa para o meio eletrônico, e mesmo os periódicos que já nasceram no mundo eletrônico, sem nunca terem nenhum "ancestral" no formato impresso, não implementam as possibilidades inerentes ao meio eletrônico de forma satisfatória.
+
+Entendemos que o meio eletrônico, por representar um novo paradigma na disseminação de informações, deveria ser explorado de tal forma que fosse feito uso integral de suas possibilidades. Questionamos ainda se a utilização pura e simples do meio eletrônico como uma mera transcrição do meio impresso não seria um obstáculo para uma utilização mais ampla dos periódicos científicos eletrônicos.
+
+Uma interessante colocação sobre o meio eletrônico é feita por Chartier (2002, p.113) e nos faz refletir sobre seu pensamento:
+
+"A revolução do texto eletrônico1 é, de fato, ao mesmo tempo, uma revolução da técnica de produção dos textos, uma revolução do suporte do escrito e uma revolução das práticas de leitura".
+
+Considerando a citação acima, podemos sugerir que os procedimentos voltados para a produção, suporte e práticas de leituras, associados ao texto eletrônico, devem ser distintos de procedimentos similares associados ao texto impresso, de outra forma não poderemos considerar que a revolução do texto eletrônico esteja completa em todo o seu potencial. De uma maneira mais simplificada: se um texto vai ser disponibilizado no meio eletrônico, sua produção deveria ser elaborada com o auxílio de aplicativos utilizados para o processamento eletrônico de textos, de outra maneira perderíamos a flexibilidade de edição associada a este tipo de ferramenta, bem como a necessidade de uma etapa a mais para a digitalização do texto manuscrito; da mesma forma, se um texto está disponibilizado de forma eletrônica, nos parece que o mesmo deveria ser lido com o auxílio de um suporte tecnológico eletrônico, dispensando a impressão em papel, o que nem sempre acontece.
+
+Apresentaremos, a seguir, alguns tópicos associados aos periódicos científicos eletrônicos que devem ser considerados para que a revolução do texto eletrônico seja concretizada. Alguns destes tópicos seriam: o uso do hipertexto, a utilização de ferramentas de indexação e busca e a adequação de diferentes formatos de texto ao meio eletrônico.
+
+Uma das possibilidades mais interessantes disponibilizadas pela Web é a utilização do hipertexto. A arquitetura da Web está fundada na utilização do mesmo por meio da exploração de suas trilhas. Contudo, verificamos que o uso do hipertexto nos documentos publicados na Web é muitas vezes negligenciado. Os padrões encontrados são de textos lineares, à semelhança de seus primos impressos, tal situação distancia os textos encontrados na Web das idéias seminais de Vannevar Bush, feitas na primeira metade do século XX quando da descrição de seu invento, o Memex, que em muito se assemelhava ao que encontramos hoje quando navegamos na trilhas da Web.
+
+Johnson (2001, p.95) contribui para qualificar a idéia acima apresentada afirmando que:
+
+"Entre os textos baseados na Web preponderam de longe os francamente lineares. Quase todas as matérias jornalísticas são peças únicas, unidimensionais, artigos que seriam exatamente os mesmos se fossem compostos de tinta e papel em vez de zeros e uns (muitos deles, é claro, são simplesmente versões digitais de originais impressos)."
+
+A utilização dos recursos inerentes ao hipertexto oferece novas oportunidades de cognição que suplementam as oferecidas pelos artigos disponibilizados em papel de forma estritamente linear (Marcondes, 2001). Segundo Marcuschi (1999), a natureza do hipertexto está associada a diversas características, dentre as quais apresentamos algumas:
+
+– Não-Linearidade – Esta é uma das características centrais do hipertexto, está relacionada com a flexibilidade de se percorrerem as diversas redes navegáveis de um hipertexto. O usuário tem a autonomia de percorrer o caminho que achar mais adequado e da maneira que melhor lhe convier, não existindo a priori um caminho único e fixo a ser seguido;
+
+– Acessibilidade ilimitada – O hipertexto permite que sejam acessados os mais diversos tipos e fontes, não importando se elas são artigos de periódicos, materiais de referência, obras literárias ou qualquer outra coisa;
+
+– Multissemiose – Esta característica está relacionada com a possibilidade que o hipertexto tem de interconectar, de forma simultânea e integrada, a linguagem verbal e a linguagem não-verbal;
+
+– Interatividade – relaciona-se com a característica de uma ação qualquer gerar uma reação em tempo real como resposta à ação anterior. Considerando a World Wide Web como um exemplo de hipertexto, verificamos que ao se selecionar uma determinada ligação (link) somos imediatamente remetidos a uma outra instância;
+
+– Virtualidade – o hipertexto é um fenômeno que existe de forma única e exclusiva no espaço virtual; não existe hipertexto no mundo real e concreto que nós habitamos. Alguns podem afirmar que existe hipertexto no mundo real e, também, que desenhos em uma página de um artigo de periódico com referências para uma explicação nas suas margens seria um exemplo de hipertexto no mundo real (preferimos não relevar esta hipótese).
+
+A utilização do hipertexto em um artigo científico, entre outras coisas, pode servir como fonte de referência, facilitando a leitura do mesmo. Vejamos, como exemplo, um artigo publicado em uma revista eletrônica na área de ciência da informação que trate da utilização de criptografia, e que ao longo deste artigo existam referências à máquina Enigma2. É possível que a referência à máquina Enigma não faça sentido para algum leitor, ou que o mesmo, embora conhecendo o referido termo, deseje mais informações sobre o assunto. A simples utilização de uma trilha que ligasse a palavra Enigma a uma página com informações sobre a mesma atenderia esta necessidade informacional. Meadows (1999, p.36) complementa a idéia afirmando que:
+
+"...o leiaute clássico da revista impressa pode ser reproduzido facilmente na tela (levando em conta os diferentes formatos e possibilidades da página impressa e da tela), porém o computador oferece recursos adicionais. Um deles diz respeito às referências apensas a um artigo. Uma referência em um artigo impresso que remete para outro artigo ou livro implica uma busca bibliográfica separada, caso se queira consultar o trabalho citado. No caso da revista eletrônica, ela pode ser organizada de tal forma que outros materiais citados no texto de um artigo possam ser trazidos imediatamente à tela com o apertar de um botão."
+
+A própria indústria que lucra com a produção e comercialização de produtos de software para a navegação na Web também não contribuiu para o desenvolvimento do hipertexto, ainda sobre este assunto Johnson (2001, p. 83) relata que:
+
+"... quase na metade de 1996, a Netscape e a Microsoft lançaram novas versões de seus respectivos navegadores, quebrando uma espécie de recorde informal para os mais rápidos upgrades de software na história. A acreditar nos press-releases que as acompanharam, essas duas versões somadas introduziam mais de uma centena de novas características. Havia upgrades para suporte de Java, novos tipos de animação, plug-ins de som, filtros de e-mail e assim por diante. Mas nenhuma dessas novas características – nem uma – aperfeiçoava o gesto básico de clicar em um link de texto. A verdadeira pedra angular da World Wide Web havia sido completamente ignorada sob uma nevasca de outros acréscimos gratuitos3".
+
+Embora devendo inovações nos navegadores que privilegiem a utilização do hipertexto, a indústria disponibiliza no mercado uma variedade de ferramentas voltadas para a elaboração de hipertextos pelo usuário final, desde processadores de textos bastante populares como o Microsoft Word4 até ferramentas mais simples para a elaboração de páginas HTML, tais como o Composer, que faz parte do navegador Netscape.
+
+Baseado no fato da existência e do fácil acesso a ferramentas para a elaboração de hipertexto, podemos questionar se os autores de artigos científicos estarão dispostos a utilizar as mesmas na elaboração de seus artigos. A simples existência de ferramentas não garante de maneira alguma a sua utilização.
+
+Diversos motivos podem ser levantados para que um autor não inclua hipertexto em um artigo a ser disponibilizado em um periódico científico eletrônico, entre eles, o sentimento de que tal procedimento é desnecessário; a existência de barreiras culturais sedimentadas ao longo dos anos pelo ato de realizar tarefas sempre de uma mesma maneira, até a dificuldade em trabalhar com os produtos de software próprios para o uso do hipertexto. Produtos estes, que, embora tenham evoluído ao longo dos anos, com a transição da interface do padrão texto para o padrão gráfico, ainda apresentam barreiras de uso para os usuários sem a devida familiaridade com a utilização dos mesmos.
+
+Além do hipertexto, um outro recurso fundamental que deveria estar sempre disponível nos sites que hospedam periódicos científicos eletrônicos seriam as ferramentas de indexação e busca. Infelizmente, mesmo sendo evidente que pesquisar de forma manual determinado assunto, entre diversos números de periódicos, não seja exatamente uma tarefa produtiva, muitas das vezes esta é a situação encontrada. Consideramos que, para ter um periódico científico eletrônico que justifique o nome "eletrônico", o mesmo deveria também fazer uso deste recurso.
+
+Artigos de periódicos sempre foram indexados e pesquisados de maneira convencional, contudo o meio eletrônico oferece uma flexibilidade até então difícil de ser reproduzida no meio impresso, seja pela busca de forma praticamente instantânea de qualquer palavra isolada contida em um artigo de periódico, seja pelo uso de expressões boleanas bastante elaboradas.
+
+Se o meio eletrônico facilitou o trabalho de busca nos conteúdos para os usuários, também, da mesma forma ajudou bastante o pessoal técnico de retaguarda, envolvido com a indexação de artigos de periódicos para posterior consulta, pois a maior parte do trabalho repetitivo inerente à indexação de conteúdos começa a ser feito por um sistema automatizado. Assim, uma vez o software configurado, o processo de indexação é feito de forma automática, dispensando praticamente qualquer intervenção humana no processo.
+
+É importante não deixar de mencionar que, embora os processos de indexação e busca automática sejam feitos rapidamente e dispensem o uso intensivo de mão-de-obra, eles apresentam deficiências pela baixa qualidade da indexação e pelo grande número de informações sem relevância recuperadas quando da execução de uma busca, oferecendo alta revocação, contudo com baixa precisão (Marcondes, 2001). Como toda tecnologia, as ferramentas de indexação e busca agregaram, com o passar do tempo, novos recursos, e suas deficiências vão sendo paulatinamente suplantadas. Desta forma, é de se esperar que ocorram melhoras nos seus índices de precisão.
+
+Dos periódicos científicos eletrônicos brasileiros na área da ciência da informação, apenas alguns fazem uso de ferramentas automáticas de indexação e busca, dos quais podemos mencionar os seguintes:
+
+Informação & Sociedade: Estudos: faz uso de uma ferramenta para indexação e busca ao conteúdo dos artigos. O software utilizado por este periódico é o htdig5 cujo modelo de licenciamento é baseado no paradigma do software livre (free software). No caso do periódico Informação & Sociedade: Estudos, o htdig está configurado para indexar o conteúdo dos resumos associados a cada artigo de periódico, o nome dos artigos e os respectivos autores. Com relação à ferramenta de busca associada a este periódico, constatamos que a mesma com grande freqüência está fora do ar, aumentando assim de forma considerável o tempo gasto na busca de informações disponibilizadas pelo periódico (figura 1);
+
+
+
+
+
+Ciência da Informação: possui uma ferramenta de busca para todo o site (www.ibict.br) onde está hospedado o periódico. Acreditamos que, por questões de usabilidade, a busca aos artigos do periódico deveria ser separada da busca do site no Ibict como um todo, permitido desta forma melhorar a precisão das informações retornadas. Realizamos pesquisas com algumas palavras-chave e obtivemos referências para diversos pontos do site do Ibict que não tinha nenhuma relação com o periódico (figura 2);
+
+
+
+
+
+Perspectivas em Ciência da Informação: embora não contenha os artigos integrais para consulta on-line, estando os artigos disponíveis apenas em formato papel, é feito uso de uma ferramenta para a busca de informações. Neste caso, uma ferramenta chamada Greenstone6, que é um produto de software utilizado para a construção e distribuição de coleções de bibliotecas digitais. O Greenstone é produzido pelo New Zealand Digital Library Project na Universidade de Waikato, em cooperação com a Unesco (figura 3).
+
+
+
+
+
+Podemos, ainda, citar como exemplo de periódicos científicos eletrônicos na área da ciência da informação que não disponibilizam uma ferramenta de busca para os seus usuários os periódicos DataGramaZero e Encontros Bibli: Revista de biblioteconomia e Ciência da Informação.
+
+A pouca utilização do hipertexto e de ferramentas de busca nos faz indagar se a tecnologia está sendo utilizada de forma equivocada quando consideramos os periódicos científicos eletrônicos. Este e outros pontos nos farão refletir sobre a mesma situação.
+
+Periódicos eletrônicos: usos e desusos
+
+Nos primórdios de sua utilização, os computadores eram essencialmente máquinas "devoradoras de números", utilizadas nas mais diversas atividades que demandavam processamento numérico, não demorando muito para também serem utilizados em atividades que necessitassem de processamento alfabético. O processamento de fontes de informações secundárias como os guias da comunicação científica, tais como os resumos e os índices, são um bom exemplo disto, e nos remetem à década de 60 do século XX (Meadows, 1999).
+
+O processamento eletrônico de fontes de informações secundárias facilitou, de maneira considerável, a localização de informações com a ajuda da crescente capacidade de armazenamento e busca dos dispositivos computacionais e o desenvolvimento de programas aplicativos com mais recursos para o usuário final.
+
+Acompanhando o processamento eletrônico de fontes de informações secundárias e seguindo o contínuo desenvolvimento tecnológico, passamos a nos deparar também com o uso do meio eletrônico no processamento de fontes de informações primárias, dentre as quais nos interessam, neste estudo, apenas os periódicos científicos. Com relação aos diferentes tipos de informações que podem ser de valia para os pesquisadores, Meadows (1999, p.34) afirma que:
+
+"Do ponto de vista da comunicação científica, entretanto, o meio eletrônico só se torna de fato interessante quando pode processar todos os tipos de informação que interessam aos pesquisadores".
+
+Meadows (1999) comenta ainda que a transição da literatura primária para o formato eletrônico não está se concretizando da maneira esperada, e, segundo o autor, uma das causas deste fenômeno seriam os recursos inerentes ao próprio computador.
+
+Analisaremos, a seguir, alguns aspectos relacionados aos periódicos científicos eletrônicos que, se adequadamente entendidos pelos editores, podem contribuir de forma decisiva para uma compreensão das razões que levam os usuários a utilizar ou não os mesmos.
+
+Entendemos que, de uma forma geral, o usuário de um periódico científico eletrônico pode fazer uso do mesmo de duas maneiras distintas:
+
+1. o usuário, de posse do endereço do periódico eletrônico, acessa a informação desejada e faz a leitura do mesmo em terminal de vídeo, fazendo uso do hipertexto e das ferramentas de busca sempre que necessário. Consideramos como terminal de vídeo um monitor de raios catódicos, uma tela LCD e produtos equivalentes que não produzem uma saída de forma física;
+
+2. o usuário, de posse do endereço do periódico eletrônico, acessa a informação desejada e solicita a impressão do conteúdo em um dispositivo de impressão tal como uma impressora jato de tinta ou laser para uma posterior leitura.
+
+Acreditamos que grande quantidade de usuários faz uso dos periódicos eletrônicos da segunda maneira apresentada, o que, neste caso, significa que os sites hospedeiros dos mesmos estão funcionando como um repositório eletrônico de informações. O ato do usuário ao ler o periódico neste caso é equivalente ao de um usuário que vai a uma biblioteca e solicita uma versão impressa do mesmo. Esta situação, aqui apresentada, faz-nos indagar se neste caso o usuário estaria realmente fazendo uso de toda funcionalidade disponibilizada pelo periódico eletrônico – pode ser que neste caso não estejam implementados o hipertexto e ferramentas de busca – ou estaria fazendo uso do site que o hospeda apenas como uma plataforma para a distribuição de cópias de artigos convertidos para o formato digital.
+
+O ato de apenas imprimir o artigo, para uma posterior leitura, não desqualifica o meio eletrônico, apenas afirma que os usuários encontraram uma aplicação que acham mais adequada para o periódico dito "eletrônico". William Gibson em Neuromancer, citado por Johnson (2001, p.108), diz que: "A rua descobre seus próprios usos para as coisas – usos que os fabricantes nunca imaginaram".
+
+O cenário acima descrito é sem dúvidas uma aplicação interessante e válida da tecnologia, contudo vejamos algumas razões que afastam os usuários de utilizarem os periódicos eletrônicos da primeira maneira apresentada.
+
+Meadows (1999, p.153) explica que existe uma dificuldade por parte dos usuários em internalizar informações a partir da tela do computador. Esta dificuldade é maior quando consideramos os livros eletrônicos devido ao seu maior volume e à sua natureza seqüencial. As revistas eletrônicas representam um obstáculo menor para a sua apreensão, pois os textos dos artigos de periódicos não possuem o mesmo volume dos textos contidos nos livros, o que facilita a sua leitura. Mesmo assim, conhecemos usuários que simplesmente fazem uma busca no periódico por um determinado artigo e o imprimem, conforme apresentado anteriormente.
+
+Ainda, de acordo com Meadows (1999, p.153), podemos afirmar que as obras de referência, tais como dicionários e enciclopédias, adequaram-se de maneira mais satisfatória ao meio eletrônico, pois, em contraponto aos livros e às revistas eletrônicas, as consultas a obras de referência estão geralmente associadas a menores quantidades de informações textuais a serem lidas na tela, o que facilita o trabalho de leitura do usuário, além da existência de uma quantidade razoável de ligações hipertextuais, principalmente quando nos referimos às enciclopédias eletrônicas.
+
+Com relação ao ato de ler diretamente da tela do computador, Nielsen (2000, p.101) relata que:
+
+"A pesquisa tem mostrado que ler da tela do computador é cerca de 25% mais lento do que ler do papel. Mesmo os usuários que desconhecem essas pesquisas sobre fatores humanos geralmente dizem que sentem desconforto ao lerem texto on-line. Como resultado, as pessoas não querem ler muito texto das telas do computador".
+
+Ainda, de acordo com Nielsen (2000, p.103), os problemas de legibilidade associados a ler a partir da tela do computador estão relacionados à resolução apresentada pelas mesmas. Embora existam telas com a resolução de 300 dpi, cuja qualidade é equivalente a um texto impresso por uma impressora a laser ou jato de tinta, as mesmas apresentam ainda um alto custo para aquisição. Segundo Nielsen (2000), telas com a resolução de 300 dpi serão comumente utilizadas por volta do ano 2007.
+
+Mesmo considerando que a qualidade das telas de computador disponíveis no mercado não apresentem qualidade satisfatória para o usuário, acreditamos que este não é o único motivo que leve o usuário a imprimir o seu artigo de periódico para uma posterior leitura. O texto impresso apresenta facilidades que, no momento, ainda não estão disponibilizadas pela tecnologia de forma universal. É possível para o usuário transportar o mesmo para qualquer lugar independentemente da proximidade de tomadas ou da disponibilidade de baterias. O pesquisador consegue facilmente fazer anotações no texto impresso com uma simples caneta. No caso do extravio do artigo, é completamente viável acessar o site onde está hospedado o periódico e solicitar uma reimpressão, o que não seria tão viável na hipótese de o pesquisador estar fazendo a leitura do artigo ao ar livre com o seu laptop e viesse a perder o mesmo, devido ao custo deste dispositivo.
+
+
+
+CONSIDERAÇÕES FINAIS
+
+Com base no que foi apresentado, podemos afirmar que de maneira alguma acreditamos que a plena aceitação dos periódicos eletrônicos esteja condenada em virtude de contingências tecnológicas. Estimamos que, dentro de um período de uma década, embora seja muitíssimo arriscado fazer exercícios de futurologia, teremos dispositivos portáteis de baixo custo que permitam o acesso a periódicos científicos eletrônicos e à sua leitura, de forma tão transparente e simples, que mimetizem a contento o texto impresso em papel. Estes dispositivos devem possuir uma longa autonomia de operação, no caso de serem desplugados de uma fonte de alimentação e possibilitarem também a conexão e o download wireless de bibliotecas digitais para a aquisição de uma variedade ilimitada de periódicos científicos ou qualquer outro tipo de texto que esteja no formato eletrônico. É possível fazer tal previsão a partir da observação do avanço constante da tecnologia e pelos novos dispositivos por ela disponibilizados a intervalos cada vez mais curtos de tempo.
+
+Transcendendo um pouco o estudo apenas dos periódicos científicos eletrônicos e olhando a publicação de textos no formato eletrônico, de uma maneira geral, tomaremos a liberdade de não concordar com a afirmação de Martin apud Chartier(1994, p.95), se levarmos em consideração a tecnologia disponível atualmente:
+
+"O livro não exerce mais o poder que teve; ele não é mais o mestre de nossos raciocínios ou de nossos sentimentos em face dos novos meios de informação e comunicação dos quais a partir de agora dispomos".
+
+A situação acima só seria materializada em um mundo onde a tecnologia mimetizasse, ou seja, disponibilizasse todos os benefícios do meio impresso com os benefícios do meio eletrônico em um único dispositivo, de forma que usuários relevassem por completo o meio impresso, o que não acreditamos que vá ocorrer em médio prazo. O que supomos que irá acontecer será a utilização paralela dos dois meios.
+
+
+
+REFERÊNCIAS
+
+CHARTIER, Roger. Os desafios da escrita. São Paulo : Unesp, 2002. 
+
+_______. A ordem dos livros. Brasília : UnB, 1995. 
+
+JOHNSON, Steven. Cultura da interface.Jorge Zahar. Rio de Janeiro : 2001. 
+
+MARCONDES, Carlos Henrique; SAYÃO, Luís Fernando. Integração e interoperabilidade no acesso a recursos informacionais eletrônicos em C&T: a proposta da Biblioteca Digital Brasileira. Ciência da Informação, Brasília, v. 30, n. 3, p. 24-33, set./dez. 2001. 
+
+MARCUSCHI, Luiz Antônio. Linearização, cognição e referencia: o desafio do hipertexto. In: COLÓQUIO DA ASSOCIAÇÃO LATINO-AMERICANA DE ANALISTAS DO DISCURSO, 4. Santiago, Chile, 1999. 
+
+MEADOWS, Arthur Jack. A comunicação científica. Brasília : Briquet de Lemos Livros, 1999. 
+
+NIELSEN, Jacob. Projetando websites: designing web usability. Rio de Janeiro : Campus, 2001. 
+

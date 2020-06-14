@@ -1,0 +1,308 @@
+O olhar da consciência possível sobre o campo científico
+
+
+
+RESUMO
+
+O artigo descreve o exercício de tecer, no tear da ciência da informação, uma rede para apreender e explicar um evento de comunicação da informação no campo científico. Como objeto de estudo, foi selecionado o artigo em que G. Wersig e U. Neveling propõem, em 1975, um fundamento social para a ciência da informação. A pesquisa encontrou os indícios de que os autores compartilhavam com outros cientistas uma visão socialista da ciência da informação, fundada na importância da organização da informação científica e tecnológica e de sua comunicação no campo científico. Contudo, os autores foram além da consciência real do seu grupo, ao antever a relevância da informação para todos os grupos sociais na sociedade contemporânea. Nesse contexto, a proposição de uma "responsabilidade social" é retomada como fundamento à práxis dos cientistas da informação e como 'padrão que une' ciência e ética, no campo da ciência da informação.
+
+Palavras-chave: Teoria da ciência da informação; Sociologia da informação; História da ciência da informação; Comunicação científica; Responsabilidade social.
+
+
+
+"... as teorias são redes que lançamos para aprisionar aquilo que chamamos 'mundo': para racionalizá-lo, explicá-lo, dominá-lo. E cuidamos de que a malha seja cada vez mais fina."
+
+(Popper, 1967, p. 83)
+
+
+
+Contexto
+
+No presente exercício, iremos tecer uma rede conceitual com fios urdidos a partir da sociologia, da filosofia da ciência, da história, da comunicação e da ciência da informação, para apreender e explicar um evento de comunicação no campo científico. Nesse ofício, devemos unir os fios de modo a revelar, nas entrelinhas de um enunciado científico, a visão de mundo de um grupo de cientistas da ciência da informação.
+
+Alguns textos da literatura da ciência da informação publicados a partir do final da década de 1960 constituirão o território onde buscaremos os indícios de que a proposição de Wersig e Neveling sobre o fundamento social da ciência da informação representa, ao mesmo tempo,
+
+a) uma expressão coerente e adequada da consciência possível de um grupo de cientistas da informação, em 1975;
+
+b) uma proposição sobre a função social da ciência da informação.
+
+Urdindo os fios do texto
+
+Nosso estudo aborda um enunciado contido no texto do artigo The phenomena of interest to Information Science, publicado no número 4, volume 9 do periódico inglês The Information Scientist2, em 1975. Seus autores, Gernot Wersig e Ulrich Neveling, vinculados à Universidade Livre de Berlim, apresentaram o texto no Fórum Internacional de Pesquisa em Ciência da Informação, promovido pelo Westfield College na Universidade de Londres no início de agosto do mesmo ano da publicação. Uma busca nas bases de dados do Institute for Scientific Information3 mostrou-nos que desde o ano seguinte à sua publicação até 1999 este artigo tem sido sistematicamente citado em diversas áreas da literatura científica da ciência da informação, biblioteconomia e documentação, em vários países.
+
+The phenomena of interest to Information Science está estruturado em três seções. O trecho que nos interessa diretamente está inserido na seção cujo título podemos traduzir livremente como "responsabilidade social"4. Conforme mostraremos adiante, encontramos no texto indícios da abordagem dos autores soviéticos, representados pela perspectiva dialética e modelo estruturalista. Mas, como iremos revelar, o enunciado amplia a atuação da ciência da informação à comunicação do conhecimento científico para a sociedade em geral – expressando a visão de um grupo de cientistas que começavam a olhar sua profissão com outros olhos.
+
+No Novo Dicionário Aurélio (2ed.) encontramos urdidura (s.f.) como "o conjunto de fios dispostos no tear paralelamente ao seu comprimento, e por entre os quais passam os fios da trama" (p.1741). A definição esclarece sobre nosso exercício de tecer uma rede conceitual, um "contexto" no tear interdisciplinar da ciência da informação.
+
+Bunge (1980) observa, com relação à existência de "teoria" nas ciências sociais, que nessa área seria mais comum encontrarmos quadro teórico, ou "contexto", que ele define como
+
+"... conjunto de proposições referentes a um mesmo domínio (p.ex., sociedades humanas) contendo certos conceitos... que constituem um grupo homogêneo... Um contexto serve então de matéria-prima para elaboração de teorias, uma vez que obteremos cada uma destas selecionando proposições do contexto e, em particular, guardando tão-somente aquelas que constituam um conjunto coerente...". (p.160)
+
+Pois, como conjunto explicativo coerente, um quadro teórico pretende garantir uma explicação baseada, o mais possível, nos fatos que as hipóteses se propõem representar; e, como conjunto hipotético, deve poder ser contestado em sua totalidade pelos fatos que investiga, sendo seu teste empírico uma exigência primordial. Por outro lado, enquanto conjunto significativo pertinente, todo "contexto" é, em última instância, relativo a um problema, o que significa que deve referir-se efetivamente à realidade que visa a interpretar.
+
+"... Popper, em 1972, sugeriu que 'não somos estudantes de assuntos, mas estudantes de problemas'5. [Nessa perspectiva,] a ciência da informação, como qualquer outro campo, é definida pelos problemas que aborda e pelos métodos que escolheu, com o passar do tempo, para resolver esses problemas". (Saracevic, 1995, p.38)
+
+Nas palavras de Mostafa (1995),
+
+"[a] ciência da informação nasce ao lado de outras configurações, como a do processamento automático de dados, a análise de sistemas, a cibernética, a inteligência artificial, a pesquisa operacional, a psicologia cognitivista, todas ciências novas (disciplinas novas)...
+
+Das comunicações a ciência da informação absorveu a questão mesma do processo de comunicação; entendeu já no início que a informação flui por um processo de comunicação, concentrando-se no processo de comunicação na ciência. Como esse processo passa por canais, a ciência da informação passou a ser a ciência desses canais....". (p.306)
+
+Mas, como o próprio Saracevic já ressaltara em texto anterior (apresentado em 1991), enquanto fenômeno da comunicação humana os problemas de informação não podem ser abordados dentro de apenas uma área da atividade científica. Esta já era a visão de Mikhailov e colaboradores (1980), quando reconheciam que
+
+"... À medida que se acumulou e generalizou a experiência prática obtida nas atividades de informação científica, tornou-se mais profundo o nosso conhecimento sobre a própria informação científica, sobre as características específicas de sua geração, transferência e utilização, sobre métodos e meios de processar a informação científica, etc....". (p.71-72)
+
+Para Saracevic, transcorridas mais de duas décadas, torna-se necessário o desenvolvimento de abordagens teóricas e metodológicas que favoreçam a interdisciplinaridade e permitam o relacionamento da ciência da informação com outros campos científicos. Nesse sentido, a característica interdisciplinar da ciência da informação
+
+"... não precisa ser procurada, está lá, no âmago do próprio campo científico....
+
+[Pois, se] trocas significantes estão acontecendo entre vários campos científicos que abordam os mesmos problemas de informação, ou semelhantes, de formas bastante diferentes [a] ciência da informação definitivamente deveria unir esses campos". (Saracevic, 1995, p.40)
+
+O primeiro fio na urdidura do nosso contexto é representado pelo modelo de rede conceitual de Wersig (1993). Em trabalho apresentado em Tampére (Finlândia) 1991 e publicado dois anos depois no periódico Information Processing and Management, Wersig propôs três modelos de estruturas teóricas que poderiam se constituir em "contextos" para a ciência da informação, a partir da utilização de "conceitos fundamentais".
+
+O primeiro desses modelos é orientado pela redefinição de conceitos científicos amplos, redesenhados para os propósitos do campo da ciência da informação (p.ex., o conceito de "sistema"). No segundo modelo, Wersig propõe uma estrutura de reformulação científica de "interconceitos", também redesenhados para os propósitos do campo da ciência da informação. Pois, segundo ele,
+
+"Se olharmos nosso campo no contexto delineado acima,... descobriremos que alguns conceitos essenciais para o necessário fundamento teórico não [estão] estabelecidos com uma estrutura própria.... Chamo estes conceitos de "fundamentais", porque eles [unem] um conjunto de disciplinas tradicionais sem [que esta situação venha] a ser compreendida como transdisciplinar. Um exemplo... é o conceito básico a partir do qual propus construir a compreensão de ciência da informação: 'conhecimento'." (p.237)
+
+Para unir essa estrutura teórica, Wersig usa "retrato", um conceito "sem domicílio científico" que poderia ser re-definido, na perspectiva da informação, em relação à sua apresentação gráfica, forma, conteúdo e período de ocorrência, levando-se em consideração seu valor cultural como registro do conhecimento de um ou mais aspectos da realidade.
+
+No terceiro dos modelos propostos, Wersig sugere para a ciência da informação uma estrutura teórica que considere menos a formulação de leis gerais e mais a de estratégias de ação, mediante uma abordagem de entrelaçamento de conceitos científicos. Neste modelo, denominado rede conceitual, os conceitos fundamentais
+
+"... se constituem semelhantemente a ímãs, ou "atratores", atraindo os materiais [teóricos ou empíricos] para fora [dos seus respectivos campos científicos] e reestruturando-os dentro da estrutura científica da informação...." (p.238)
+
+Dessa forma, é tecida uma proto-rede de conceitos básicos em ciência da informação, a partir da qual outros indivíduos ou grupos podem vir a encontrar e entretecer outros fios soltos, fazendo a rede ainda mais inclusiva e mais apertada, de modo a aumentar seu caráter científico. A estrutura de uma rede baseada no conceito "conhecimento", tal como proposta por Wersig, é mostrada na figura 1.
+
+
+
+
+
+Wersig desenvolve sua "rede" a partir da idéia de uma mudança real no papel do conhecimento para indivíduos, organizações e culturas. No nosso exercício, iremos tecer uma rede conceitual com fios [conceitos] urdidos no próprio texto que identificamos como evento de comunicação da consciência possível de um grupo de cientistas no campo da ciência da informação, em um dado momento histórico.
+
+Goldmann (1970) propõe a aplicação do conceito de consciência possível à comunicação e à transmissão de informações, dizendo que se trata
+
+"... do fato de que, em uma conversação, ou... em uma transmissão de informações, não existe apenas um homem ou aparelho emissor das informações e um mecanismo transmissor, mas, em alguma parte, existe também um ser humano que as recebe.
+
+Mesmo quando o caminho é longo e passa por desvios de uma cadeia de aparelhos e máquinas, no final há sempre... um ser humano, e sabemos que sua consciência não pode 'deixar passar' qualquer coisa de qualquer modo.... " (p.39)
+
+Para o estudo do problema, Goldmann propõe, "de maneira bastante empírica", um modelo para abordar as quatro situações em que ocorreriam problemas, ou barreiras, na comunicação da informação. Na primeira, uma informação pode não "passar" por faltarem ao receptor informações anteriores que o tornem apto a decodificar a mensagem e apreender o sentido que lhe atribuiu o emissor; na segunda, os elementos relacionados à estrutura psíquica do indivíduo e à sua biografia que podem impedir a recepção e compreensão da informação, mas, tanto aqui quanto na situação anterior, podem ocorrer transformações individuais que venham a permitir o entendimento da mensagem pelo receptor.
+
+Uma terceira situação ocorre quando um grupo social, em virtude de sua consciência real, resultante de seu passado e de acontecimentos que sobre ela agiram, resiste à passagem de certas informações. No exemplo de Goldmann, é o caso de pesquisadores que compartilham determinado paradigma e que se recusam a tomar conhecimento de teorias que questionem sua abordagem. Porém, ainda aqui as dificuldades podem ser superadas por transformações pessoais que permitam aos pesquisadores reconhecer o valor de novas teorias, uma vez que essas transformações na consciência real não colocam em questão a existência do próprio grupo social. Esta é a situação que abordamos no presente exercício.
+
+Na quarta situação, para receber e compreender a mensagem enviada, o grupo como tal teria de desaparecer ou transformar-se a ponto de perder suas características essenciais. Para Goldmann, isto significa que há, em nível coletivo, uma consciência receptora que não é permeável a toda uma série de informações. Ele coloca que isso decorre do fato de que, desde as sociedades mais antigas até a sociedade atual, a natureza do conjunto das relações entre os indivíduos e o resto da realidade social é de tal ordem que constitui, continuamente, certa estrutura psíquica, em grande parte comum aos indivíduos que formam a mesma classe social. Nesse sentido, esclarece que as visões do mundo são fatos sociais e as grandes obras filosóficas e artísticas configuram expressões coerentes e adequadas dessas visões do mundo. São expressões individuais e sociais ao mesmo tempo que podem ser definidas como
+
+"[um] sistema de pensamento que, em certas condições, se impõe a um grupo de homens que se encontram em situações econômicas e sociais análogas, isto é, a certas classes sociais. Os filósofos [cientistas] e o escritor pensam ou sentem esta visão até suas últimas conseqüências e a expressam, através da linguagem, no lado conceitual ou sensível. [Mas,] para isso, é necessário que [esta visão] exista ou que, pelo menos, esteja em curso de nascimento [no momento da sua expressão]." (Goldmann, 1979a, p.74)
+
+Goldmann acrescenta, "a título de hipótese", que talvez se possa distinguir as ideologias das visões do mundo precisamente "pelo caráter parcial e, por isso mesmo, deformador das primeiras e total das segundas" (Goldmann, 1979b, p.99). Para ele, isso permitiria a vinculação, seja na sociedade medieval ou na sociedade moderna, das visões do mundo às classes sociais que possuam um ideal visando ao conjunto da humanidade, e não apenas aos seus interesses imediatos como classe. Mas, ao falar de expressão de uma consciência coletiva, Goldmann faz uma ressalva: um comportamento ou uma obra só se tornam expressão da consciência coletiva, à medida que a estrutura que exprimem não seja particular ao seu autor, mas, sim, comum aos diferentes membros constituintes do grupo social. Entretanto,
+
+"...Para o [cientista] a situação às vezes se apresenta diferente. Sua tarefa essencial é chegar ao conhecimento mais vasto e mais adequado da realidade. [Em certos casos, a] independência relativa do indivíduo em relação ao grupo permite-lhe... corrigir os limites duma visão por conhecimentos adequados,... ou ainda ampliar os limites da consciência real da classe, numa dada época, pelas possibilidades gerais dessa classe no conjunto do período histórico." (1979b, p.100)
+
+A nosso ver, este seria o caso do enunciado de Wersig e Neveling no campo científico da ciência da informação. Nesse sentido, a 'consciência possível' de Goldmann pode ser utilizada como um 'atrator' de uma 'rede conceitual' para caçar, na literatura da ciência da informação, os indícios de uma visão de mundo em que a informação científica e tecnológica é considerada, em si mesma, como força produtiva e fator de transformação social.
+
+"Por milênios o homem foi caçador. Durante inúmeras perseguições, ele aprendeu a reconstruir as formas e movimentos das presas invisíveis pelas pegadas na lama, ramos quebrados,... a farejar, registrar, interpretar e classificar pistas infinitesimais... a fazer operações mentais complexas com rapidez fulminante... Gerações e gerações de caçadores enriqueceram e transmitiram esse patrimônio cognoscitivo...." (Ginzburg, 1989, p.151)
+
+O paradigma indiciário tem raízes muito antigas, que remontariam à própria evolução da humanidade. Nas palavras de Ginzburg, ele se traduz em um saber de tipo venatório, caracterizado pela capacidade de, a partir de dados aparentemente irrelevantes, descrever uma realidade complexa que não seria cientificamente experimentável. Pode-se acrescentar que esses dados são sempre dispostos pelo observador [caçador] de modo tal que possam se traduzir em uma seqüência narrativa, cuja formulação mais simples poderia ser "alguém passou por lá". Ginzburg sugere que a própria idéia de narração (contar uma história, descrever situações e comportamentos), distinta de outras formas de expressão, como o sortilégio, o exconjuro ou a invocação, pode ter nascido em uma sociedade de caçadores:
+
+"... O caçador teria sido o primeiro a "narrar uma história" porque era o único capaz de ler, nas pistas mudas... uma série coerente de eventos.... Decifrar" ou "ler" as pistas dos animais são metáforas...." (p.152)
+
+Criando sua própria metáfora, Ginzburg compara as variáveis que compõem uma pesquisa desenvolvida sob o paradigma indiciário aos fios de um tapete. Definido o campo onde se realiza a investigação [o território], o pesquisador/tecelão busca os indícios de um padrão que [re]úne as informações em uma interpretação que encontra seu significado no contexto teórico sustentado pela urdidura dos fios. A consistência da teia revelada no trabalho do pesquisador [tecelão] é verificável "percorrendo-se o tapete com os olhos em várias direções" (p.170). O tapete seria o paradigma que, a cada vez que é usado e conforme o contexto, denomina-se venatório, divinatório, indiciário ou semiótico.
+
+"Trata-se, como é claro, de adjetivos não-sinônimos, que no entanto remetem a um modelo epistemológico comum, articulado em disciplinas diferentes, muitas vezes ligadas entre si pelo empréstimo de métodos ou termos-chave.
+
+Essa idéia, que constitui o ponto essencial do paradigma indiciário ou semiótico, penetrou nos mais variados âmbitos cognoscitivos, modelando profundamente as ciências humanas. Minúsculas particularidades paleográficas foram empregadas como pistas que permitiam reconstruir trocas e transformações culturais...". (Ginzburg, p.170 e 178)
+
+A questão que Ginzburg coloca é se um paradigma indiciário pode ser rigoroso. Mas, para ele, o tipo de rigor das ciências da natureza é não apenas inatingível, mas, certamente, também indesejável para as formas de saber mais ligadas à experiência cotidiana — mais precisamente em
+
+"... todas as situações em que a unicidade e o caráter insubstituível dos dados são, aos olhos das pessoas envolvidas, decisivos. Em situações como essas, o rigor flexível... do paradigma indiciário mostra-se ineliminável. Trata-se de formas de saber tendencialmente mudas – no sentido de que... suas regras não se prestam a ser formalizadas nem ditas. Ninguém aprende o ofício de conhecedor ou de diagnosticador limitando-se a pôr em prática regras preexistentes. Nesse tipo de conhecimento entram em jogo... elementos imponderáveis: faro, golpe de vista, intuição". (p.177)
+
+Ele ressalva que, usando-se o termo "intuição" como sinônimo de processos racionais, será possível resgatar antigos conceitos que fazem parte das origens da ciência, no Ocidente:
+
+"A antiga fisiognomonia árabe estava baseada na firasa: noção complexa, que designava em geral a capacidade de passar imediatamente do conhecido para o desconhecido, na base de indícios. O termo, extraído do vocabulário dos sufi, era usado para designar tantos as intuições místicas quanto as formas de discernimento e sagacidade...".(Ginzburg, p.179)
+
+Para Ginzburg, essa "intuição" está arraigada nos sentidos (até mesmo superando os atributos biológicos) e seria difundida no mundo todo, sem limites geográficos, históricos, étnicos, sexuais ou de classe. É parte integrante do gênero humano e, nesse sentido, está muito distante de qualquer forma de privilégio social.
+
+Talvez por sua origem enraizada na fronteira indefinível entre natureza e cultura, o paradigma indiciário
+
+"... pode se converter num instrumento para dissolver as névoas da ideologia que, cada vez mais, obscurecem uma estrutura social como a do capitalismo... [Pois] se a realidade é opaca, existem zonas privilegiadas — sinais, indícios — que permitem decifrá-la". (Ginzburg, p.177)
+
+Dessa forma, o paradigma indiciário poderia tornar-se um dos "caminhos" [metodologia] através do qual o mistério da unidade subjacente à diversidade existente no mundo, objeto de todo conhecimento, pode adquirir um sentido. No presente exercício, ajudar-nos-á a desvelar o padrão que une a tecedura dos fios no tear conceitual, revelando o sentido oculto no evento de comunicação científica observado e que interpretamos como expressão de uma "visão de mundo socialista" no campo da ciência da informação.
+
+Tecendo a teia dos indícios
+
+Em 1968, Borko resumiu as características fundamentais da nova disciplina científica: interdisciplinaridade, forte inter-relação entre teoria e prática, interface com outros campos científicos. Seu artigo tornou-se relevante no campo da ciência da informação por seu propósito de esclarecer não apenas "o que é ciência da informação", mas, em especial, "o que faz um cientista da informação" (Borko, p.3).
+
+No ano seguinte, o Comitê de Pesquisa Teórica da Informação da Federação Internacional de Documentação, presidido por A. Mikhailov, publicou, com apoio do Viniti6, o documento FID 435 sobre "os aspectos teóricos da informática". O próprio Mikhailov apresenta a coletânea, propondo um fundamento social para a ciência da informação e atribuindo sua emergência a um processo histórico relacionado à necessidade de comunicação do conhecimento no campo científico. Pinheiro (1997) nos diz que, "sob o ponto de vista da elaboração de uma teoria da ciência da informação", este é um documento de extrema importância, em especial por reunir trabalhos que seriam apresentados em um evento internacional de informação científica, programado para 1968 em Moscou e que não chegou a se realizar. Talvez por isso, a maioria dos autores que participaram da coletânea está identificada com a abordagem soviética para os problemas da informação.
+
+Em 1984, um texto de Brookes publicado no Journal of Information Science nos revelaria outros indícios sobre as raízes históricas da relevância das atividades de informação científica na União Soviética:
+
+"[A maioria do Ocidente conhece Lenin] unicamente como o marxista ardente e revolucionário que, em 1917, fundou a União das Repúblicas Socialistas Soviéticas. Seu papel como o fundador também da informática [ciência da informação] russa não é tão conhecido quanto merece ser.
+
+[Desde cedo], Lenin valorizou a função dos sistemas de informação [científica e técnica] de que o novo estado necessitaria para sobrevivência em um mundo hostil. Suas idéias não eram totalmente originais, mas ele estava atento aos desenvolvimentos europeus na documentação, até um ano antes da Primeira Guerra Mundial; por exemplo, ao trabalho pioneiro de Paul Otlet e Henri La Fontaine e seu Instituto Internacional de Bibliografia em Bruxelas e ao Catálogo Internacional da Literatura Científica produzida pela Sociedade Real [inglesa] em colaboração com várias organizações nacionais. Por volta de 1917... todos esses empreendimentos estavam em dificuldade,... por causa das rupturas causadas pela guerra e da carência fundos e... por causa de conflitos de objetivos. Nesta situação, Lenin tirou vantagem de saber exatamente o que desejava, e... comandou forças e recursos [para realizar seu objetivo]. Embora estivesse assoberbado por todas as espécies de dificuldades práticas, ele foi capaz de [trabalhar] decisivamente como um organizador de sistemas de informação para o novo estado, tal como havia feito como revolucionário político." (p.221)
+
+Dantas (1994) assinala que, ao expressar uma visão socialista da informação, a abordagem dos cientistas soviéticos, sob a liderança de Mikhailov, aponta para as possibilidades e a legitimidade de um estudo dialético da informação, contribuindo para dotar a ciência da informação de uma perspectiva crítica sobre suas próprias atividades e interesses. Ele se fundamenta em um artigo publicado em 1975 por Nicholas Belkin sobre "conceitos soviéticos para a ciência da informação", no qual o autor identifica três linhas de abordagem: filosófica, pragmática e semântica.
+
+O destaque, na primeira linha, é para Ursul, que procura formular um conceito de informação de acordo com os "cânones da filosofia marxista-leninista". Sua proposição básica é que "a informação é uma propriedade fundamental da matéria e da consciência, agindo para conectá-las por meio de suas relações com a variedade e o reflexo" (apud Dantas, p.40). Na linha pragmática, destacam-se os trabalhos de Mikhailov, Chernyi e Gilyarevskyi, que se preocuparam basicamente com o conceito e características da informação científica. A terceira abordagem, liderada por Schreider, enfatiza a "natureza semântica da informação humana" e a relaciona, principalmente, às condições do receptor.
+
+Dantas ressalta que Belkin
+
+"... não considera essas abordagens conflitantes; ao contrário, elas lhe parecem complementares, a partir de um nível mais geral formulado por Ursul até um mais específico tratado por Mikhailov et alii, passando pela intermediação semântica de Schreider.... estariam coerentes com a noção epistemológica da totalidade do Universo, que devemos esperar dos cientistas da ex-União Soviética." (1994, p.41)
+
+Entretanto, acreditamos que, no momento histórico (1975) em que ocorre o evento que estamos analisando neste exercício, a linha pragmática é a que mais se aproxima de uma abordagem reunindo a perspectiva teórica à prática das próprias atividades do campo da ciência da informação. Seu fundamento é a importância da produção científica para o desenvolvimento das forças produtivas e a relevância da informação científica e tecnológica nesse processo, sem esquecer o valor cultural para a realização do socialismo.
+
+"A ciência desempenha um papel de excepcional importância na construção da sociedade comunista; é um dos instrumentos fundamentais para o conhecimento do mundo objetivo e influi... na formação da concepção do mundo. Sem suas conquistas seriam impossíveis a grande produção industrial e o planejamento da economia nacional....". (Mikhailov et alii, 1973, p.13)
+
+Dessa forma, a partir da perspectiva do materialismo dialético, os pragmáticos desenharam um padrão socialista no contexto do campo científico da ciência da informação. Os sinais dessa abordagem são encontrados em textos de colaboradores de Mikhailov, aplicando-se, no presente exercício, o comentário de Goldmann sobre a questão do "autor": "Ao problema particularmente importante [de] 'Quem fala ?', penso ser necessário juntar um segundo: 'O que diz ?'".7
+
+E o que diziam os cientistas da informação soviéticos, no início dos anos 70?
+
+Em 1971, Gilyarevskyi, um dos colaboradores habituais de Mikhailov, apresentou suas idéias sobre a emergência da "atividade científica informativa" e sua contraparte científica propriamente dita, a "informática", na perspectiva da divisão social do trabalho científico:
+
+"[No processo histórico,] uma parte dos trabalhadores científicos [passou a se dedicar às atividades de] coleta, análise crítica e generalização de todas as informações científicas conhecidas referentes a uma questão concreta ou a um ramo da ciência..." (p.3)
+
+Nessa visão, se as necessidades de comunicação dos "trabalhadores científicos" criaram as condições para a emergência dos "trabalhadores científicos informativos" mediante um processo de divisão social das atividades no campo científico, em decorrência de sua própria dinâmica profissional, os "trabalhadores científicos informativos" criaram as condições para a emergência de uma "atividade científica" autônoma, que representaria, por um lado, o processo de reflexão sobre sua prática social e, por outro, a agregação de valor ao "trabalho científico informativo".
+
+Nesse texto de Gilyarevskyi, também encontramos algumas das "noções fundamentais" do campo da "informática", iniciando pela definição de "informação científica" como sendo
+
+"[a] informação lógica que se obtém no processo de conhecimento e reflete adequadamente as leis do mundo objetivo e é utilizada na prática social histórica.
+
+[Esse processo não caracteriza] apenas a atividade de investigação científica, mas a prática, todos os gêneros da atividade [humana] relacionada com a transformação da natureza e sociedade....
+
+... Deste modo, o termo "informação científica" é genérico e a palavra "científica" não significa em absoluto que esta informação é resultado apenas de uma atividade puramente científica.....
+
+[Por sua vez] a atividade científica informativa é parte independente do trabalho científico que dele se separou no curso de sua divisão social e tem por finalidade fornecer aos cientistas e especialistas as informações necessárias [para seu trabalho]". (Gilyarevskyi, p.6-9, passim)
+
+Mas, em 1976, Roberts publica um artigo em que, embora reconheça a inegável autoridade de Mikhailov no que diz respeito às bases teóricas da ciência da informação, critica sua visão restrita dos limites do campo de atuação da ciência da informação na sociedade. E se mostra admirado de que os soviéticos, partindo de uma premissa tão ampla quanto a de "necessidades sociais", tenham restringido as atividades desse campo científico ao desenvolvimento da ciência e tecnologia.
+
+"A visão cientificista de Mikahilov delimita uma comunidade que, em condições de informação, é relativamente privilegiada e que tem menos necessidade de intermediários do que provavelmente a maioria dos cientistas de informação. Com base na evidência oferecida, e considerando a natureza social da ciência da informação, é difícil entender por que os problemas de informação de outros grupos sociais não são merecedores do mesmo nível de interesse...
+
+Em essência o estabelecimento por Mikhailov de um campo de estudo controlável, científico em seu método, conteúdo e âmbito, é alcançado às custas de trivializar os aspectos sociais de comunicação e excluindo os problemas de informação urgentes da comunicação de massa.... Sem dúvida é relevante estudar os problemas de informação de comunidades científicas, mas não há razão para negligenciar outros grupos sociais... As implicações sociais da comunicação e informação são tais que só a base social mais ampla é aceitável como uma área de estudo para a ciência de informação." (Roberts, p.250)
+
+Essas idéias representam a expectativa de uma atuação social mais ampla da ciência da informação e já faziam parte do discurso dos cientistas da informação desde o início dos anos 70. No nosso contexto, são evidências da consciência possível (visão de mundo) de um grupo de cientistas ainda compartilhando o paradigma da função social da ciência da informação, mas ampliando sua visão sobre sua atuação como atividade científica. Dessa forma, olhando através de uma janela aberta para a sociedade, os cientistas da informação começavam a vislumbrar os problemas da informação em nova perspectiva, orientando seu interesse teórico para além dos limites das atividades do campo científico. Nesse contexto, os cientistas e profissionais da informação poderiam ser abordados como mediadores no processo de comunicação social, em especial nas situações de comunicação do conhecimento de natureza técnica e científica para os diversos grupos da sociedade.
+
+Assim, encontramos indícios de que a proposição de uma "responsabilidade social" para a ciência da informação, no artigo de Wersig e Neveling, em 1975, por um lado reflete a abordagem socialista dos cientistas soviéticos, enquanto, por outro, amplia os limites da atuação da ciência da informação, lançando novo olhar sobre seu próprio campo científico.
+
+Mas, o que disseram Wersig e Neveling? Com a palavra, os autores:
+
+"'Ciência da Informação', 'informática' ou como seja chamado, é um campo de estudo que emergiu recentemente, e sua consciência de ser uma disciplina científica data talvez do final dos anos 1950 (embora como trabalho científico tenha sido empreendido antes por investigadores individuais)...."
+
+
+
+
+
+Wersig e Neveling defendem a autonomia do novo campo científico, que nem se teria originado de outro campo de estudo nem da interseção de dois ou mais campos, mas seria decorrente "das necessidades de uma área de trabalho prático". Para eles,
+
+"... as contribuições para o nascimento da 'ciência da informação' vieram de muitas disciplinas diferentes (devido às experiências diferentes das pessoas que atuam em um campo onde não existia nenhum sistema educacional estabelecido) e sua emergência foi causada por muitos interesses diferentes (devido a áreas diferentes de aplicação envolvidas no trabalho de informação)".
+
+
+
+
+
+Algumas dessas áreas teriam sido relevantes desde o início; outras, como ciências sociais, ciência da ciência e teoria da comunicação, seriam contribuições mais recentes. Entretanto,
+
+"... esta variedade de abordagens conduzia a uma situação em que todo participante na discussão poderia concordar que deveria haver algo como 'ciência da informação', mas cada um interpretaria a 'ciência da informação' em relação a uma experiência específica".
+
+
+
+
+
+Para os autores, as dificuldades na discussão não pareciam ser causadas somente pelas diferentes experiências dos 'cientistas da informação', ou pelos diferentes usos terminológicos da palavra 'informação', mas, especialmente, pela própria derivação histórica da totalidade do campo, que não permitiria uma compreensão mais generalizada sobre o fenômeno de seu interesse. Entretanto,
+
+"Em nossa opinião ciência não é algo [justificável] em si mesma, mas sempre pode ser justificada pelas necessidades sociais [às quais] atenderá, [de modo que devemos] encontrar quais foram as razões específicas que conduziram ao desenvolvimento da 'ciência da informação'."
+
+
+
+
+
+É a perspectiva a partir da qual os autores se questionam sobre "quais necessidades sociais seriam atendidas através da ciência da informação?", que lhes permite olhar para além do horizonte do campo científico e fundamentar sua proposição sobre uma "responsabilidade social" da ciência da informação mais abrangente do que a soviética. A visão pessoal dos autores, neste caso, poderia ser reconhecida como sinais da firasa a que alude Ginzburg, a consciência possível de Goldmann.
+
+O enunciado da proposição sobre um fundamento social para a ciência da informação tem como propósito responder à questão, e o faz a partir de uma visão da ciência da informação como sujeito coletivo:
+
+"Com a relevância crescente de ciência para o desenvolvimento industrial no século XIX..., a especialização da ciência começou, mais [disciplinas científicas se tornaram] necessárias, e a comunicação científica cresceu... isto conduziu a uma situação em que um grupo de 'anônimos' surgiu [colocando-se] entre os produtores de dados, pesquisadores e inventores e aquelas pessoas que necessitam dos dados, resultados e inovações. Por conseguinte, no processo da divisão [social] do trabalho um novo campo de atividade prática surgiu e uma velha profissão começou a mudar sua definição.
+
+
+
+
+
+[Então,]
+
+As pessoas de informação apareceram — com títulos diferentes, em países diferentes, mas semelhantes na função. E esta função dita de maneira simples [é] assegurar que aquelas pessoas que necessitam de conhecimento em seu trabalho... possam recebê-lo, independentemente de ter procurado ou não. [É] uma função social derivada do desenvolvimento histórico.
+
+
+
+
+
+Assim uma disciplina nova se desenvolveu – não por causa de um fenômeno específico que sempre tinha existido e agora se tornou um objeto de estudo, mas por causa de uma necessidade nova de estudar um problema que mudou completamente sua relevância para a sociedade. [Pois atualmente] o problema de transmissão do conhecimento para aqueles que dele precisam é uma responsabilidade social, e esta responsabilidade social parece ser o real fundamento da 'ciência da informação'".
+
+
+
+
+
+O padrão que [nos] une
+
+A nosso ver, com a proposição de "responsabilidade social", em 1975, Wersig e Neveling expressaram de forma coerente e adequada uma visão de mundo socialista na ciência da informação. O enunciado representa idéias e conceitos em uso no campo da ciência da informação à época, mas não somente descreve o que vê – a importância da informação para a produção científica e tecnológica –, como também antevê sua relevância para a produção econômica e cultural, na sociedade contemporânea.
+
+Destarte, embora abordado como evento da consciência possível no campo científico, o texto que analisamos também pode ser visto como uma proposição teórica, considerando-se que a informação sobre a função social do campo da ciência da informação apresenta as características exclusivas da informação científica, a saber: cumulatividade, por sua ligação com o próprio desenvolvimento da ciência da informação, sua continuidade e internacionalismo; independência dos autores em uma extensão maior do que em outros tipos de informação, ressaltada pelas características do próprio campo científico; obsolescência ou envelhecimento, que pode ser medida pela citação em outros textos científicos ao longo de um período de tempo, como fizemos para verificar a atualidade do artigo de Wersig e Neveling; e dispersão, significando que
+
+"mudando sua expressão lingüística, unidades semânticas idênticas de informação científica – noções, declarações,... hipóteses, conceitos, teorias, leis, ensinamentos – são usados em obras científicas diversas de maneiras diferentes e contextos diferentes". (Mikhailov e colaboradores, 1980, p.86-8)
+
+O que se aplica claramente ao nosso exercício de tecer, no tear interdisciplinar da ciência da informação, é uma rede conceitual para apreender e explicar um evento de comunicação no campo científico. Nesse ofício, buscamos os indícios de uma "consciência possível" no território da literatura da ciência da informação e encontramos os sinais de uma abordagem socialista no campo da ciência da informação.
+
+Nesse contexto, quando propõe que a necessidade de comunicação da informação permeia todos os grupos sociais e não somente aqueles ligados à ciência, o enunciado de Wersig e Neveling pode ser visto como evento da consciência possível no campo científico. Nossa interpretação é que os autores transpuseram os limites da consciência real do grupo socialista, indo além das possibilidades de enunciação do contexto no qual se fundamentaram – anteviram a relevância econômica e cultural da informação e a função social dos cientistas da informação.
+
+Ao mesmo tempo, trata-se de uma proposição científica fundada em paradigma compartilhado por um grupo de cientistas da informação do qual os autores participavam, em dado momento histórico, como demonstrado. Nesse sentido, o enunciado de Wersig e Neveling poderia ser visto como o fundamento de um contexto no qual os cientistas da informação podem [re]conhecer-se não somente como facilitadores na comunicação do conhecimento para aqueles que dele necessitam, na sociedade contemporânea, mas, especialmente, como um sujeito coletivo que participa ativamente do processo histórico de transformação da humanidade.
+
+
+
+REFERÊNCIAS
+
+BUNGE, M. Epistemologia; curso de atualização. 2. ed. São Paulo : T. A. Queiroz, 1980. 
+
+BELKIN, N. J. Some soviet concepts of information for information science. JASIS, 1975. 
+
+BORKO, H. Information science: what is it? American Documentation, v. 19, n. 1, 1968. 
+
+BROOKES, B. C. Lenin: the founder of informatics. Journal of Information Science, n. 8, p. 221-223, 1984. Recensão de: MIKHAILOV, A. I.; CHERNYI, A. I.; GILIAREVSKI, R. S. Scientific communication and informatics. Arlington, VA : Information Resources, 1984. 
+
+DANTAS, M. Trabalho com informação: investigação inicial para um estudo na teoria do valor. 1994. Dissertação (Mestrado em Ciência da Informação) - IBICT, UFRJ, Rio de Janeiro, 1994. 
+
+FERREIRA, A. B. de H. Novo dicionário da língua portuguesa. 2. ed. Rio de Janeiro : Nova Fronteira, 1986. 
+
+FID (The Hague). On theoretical problems of informatics. Moscou : RI, 1969. 
+
+FREIRE, I. M. A responsabilidade social da ciência da informação e/ou o olhar da consciência possível sobre o campo científico. 2001. Tese. (Doutorado em Ciência da Informação) - IBICT, UFRJ, Rio de Janeiro, 2001. 
+
+GILYAREVSKYI, R. S. Actividad cientifica informativa objeto y metodo de la informática: cursos para especialistas de los países de la America Latina. Moscou : UNIDO, 1971. 
+
+GINZBURG, C. Mitos, emblemas, sinais: morfologia e história. São Paulo : Cia. das Letras, 1989. 
+
+GOLDMANN, L. Comentário. In: FOUCAULT, M. O que é um autor? Lisboa : Passagens, 1992. 
+
+_______. Dialética e cultura. Rio de Janeiro : Paz e Terra, 1979a 
+
+_______. Ciências humanas e filosofia; o que é a sociologia? 7. ed. Rio de Janeiro : DIFEL, 1979b 
+
+_______. Importância do conceito de consciência possível para a informação. In: COLÓQUIOS FILOSÓFICOS DE ROYAUMONT. O conceito de informação na ciência contemporânea. Rio de Janeiro : Paz e Terra, 1970. 
+
+MIKHAILOV, A. I. Preface. In: FID (The Hague). Study Committee Research on Theoretical Basis of Information. On theoretical problems of informatics. Moscou : VINITI, 1969. (FID, n. 435). 
+
+_______; CHERNYI, A. I.; GILYAREVSKYI, R. S. Estrutura e principais propriedades da informação científica. In: GOMES, H. E. (Org.). Ciência da Informação ou Informática? Rio de Janeiro : Calunga, 1980. 
+
+_______. Fundamentos de la informática. Moscou : Nauka; Havana : Academia de Ciências de Cuba, 1973. 
+
+_______. Informatics: its scope and methods. In: FID (The Hague). Study Committee Research on Theoretical Basis of Information. On theoretical problems of informatics. Moscou : VINITI, 1969. (FID, n. 435). 
+
+MOSTAFA, S. P. Ciência da informação: uma ciência, uma revista. Ciência da Informação, Brasília, v. 25, n. 3, 1995. 
+
+PINHEIRO, L. V. R. A ciência da informação entre sombra e luz: domínio epistemológico e campo interdisciplinar. 1997. Tese (Doutorado em Comunicação e Cultura) - IBICT, UFRJ, Rio de Janeiro, 1997. 
+
+POPPER, K. R. La lógica de la investigación científica. Madrid : Tecnos, 1967. 
+
+ROBERTS, N. Social considerations towards a definition of information science. The Journal of Documentation, v. 32, n. 4, Dec. 1976. 
+
+SARACEVIC, T. Interdisciplinary nature of information science. Ciência da Informação, Brasília, v. 24, n. 1, 1995. 
+
+_______. Information science: origin, evolution and relations. In: INTERNATIONAL CONFERENCE HELD FOR THE CELEBRATION OF 20TH ANNIVERSARY OF THE DEPARTMENT OF INFORMATION STUDIES, UNIVERSITY OF TAMPERE, 1991, Finland. [S. l. : s. n.], 1991. 
+
+WERSIG, G. Information science: the study of postmodern knowledge usage. Information Processing & Management, v. 29, n. 2, 1993. 
+
+_______. NEVELING, U. The phenomena of interest to Information Science. The Information Scientist, v. 9, n. 4, Dec. 1975. 
+

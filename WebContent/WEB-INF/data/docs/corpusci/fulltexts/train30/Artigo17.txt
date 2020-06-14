@@ -1,0 +1,193 @@
+Novas Tecnologias e Produção Científica: uma relação de causa e efeito ou uma relação de muitos efeitos? 
+
+
+
+
+Resumo: Discute a relação entre novas tecnologias e o desenvolvimento da produção científica e da publicação eletrônica, enfatizando a Internet. Sem negar sua relevância como elemento interveniente da realidade contemporânea, prioriza as desvantagens trazidas pelas facilidades de produção no espaço cibernético, no caso particular da produção científica, tais como: a inconsistência, instantaneidade e efemeridade das informações; a complexidade de armazenamento; a dificuldade do controle bibliográfico; a banalização da autoria e o desrespeito à propriedade intelectual; o uso aético da informação; a invasão da privacidade x relações impessoais.
+
+Palavras-chave: Internet e Produção Científica, Novas Tecnologias de Informação e de Comunicação, Produção Científica e Novas Tecnologias
+
+
+
+
+
+Palavras Iniciais
+
+"Ir para a Rede [Internet], não é ir para a certeza"
+
+(Abel Packer, 2002)
+
+Novas tecnologias de informação e de comunicação. Inovações tecnológicas. Avanços tecnológicos. Tecnologias de ponta. Revolução tecnológica. Redes eletrônicas de informação. Internet. Espaço cibernético. Estas e muitas outras são expressões que usamos no cotidiano. Estas e muitas outras expressões fazem parte da sociedade na contemporaneidade. Falamos de avanços tecnológicos para enaltecer a possibilidade de estar em qualquer lugar a qualquer momento. Falamos de avanços tecnológicos para compreender a desatualização, em tempo mínimo, de nossos equipamentos eletrodomésticos e de qualquer ordem - o computador pessoal, o modelo do celular, os recursos do carro etc. Falamos de avanços tecnológicos para exaltar a possibilidade de cura de doenças e/ou entender os novos males que afligem o homem moderno. Falamos de avanços tecnológicos para explicar a solidão crescente do ser humano. Falamos de avanços tecnológicos para propagar as possibilidades do ensino à distância. Falamos de avanços tecnológicos para abordar o incremento da pedofilia. Falamos de avanços tecnológicos para comparar o nível de desenvolvimento dos povos. E assim, ininterruptamente...
+
+No entanto, se a tecnologia agora é mais invasiva - com sua presença no nosso dia-a-dia em bancos, competições esportivas, ambientes religiosos, agências de viagem, lojas, produções e exposições de arte, supermercados, aeroportos, companhias aéreas, empresas privadas e públicas, indústrias, atividades agropecuárias, atividades acadêmicas e científicas etc. -, reiteramos que ela não tem vida independente. Nenhum recurso tecnológico é um fim em si mesmo. A tecnologia está sempre atrelada à realidade social, o que justifica sua concepção mais moderna não apenas como o agrupamento de técnicas audiovisuais, de telecomunicações, de automação, mas também, como elemento que incorpora as decorrências econômicas e sociais dessas técnicas dentro de uma visão espaço-temporal.
+
+Tudo isto dito tão-somente para reiterar nossa oposição em relação à retórica ideológica, segundo a qual a Internet democratiza a informação e o conhecimento. Isso pressupõe o acesso universal, enquanto princípio magnânimo que determina a disponibilidade de informações para todos, como condição sine qua non ao exercício pleno da democracia. E não é verdade. Quando falamos, por exemplo, em novas tecnologias como aumento de publicações eletrônicas, estamos tratando de uma temática alheia à grande parte da população mundial. São os analfabetos ou neo-alfabetizados; os grupos raciais e étnicos minoritários; os idosos; os desempregados ou subempregados; parte dos deficientes físicos; os prisioneiros; e, no caso do Brasil, a grande maioria dos que integram as classes sociais economicamente carentes e excluídas das benesses tecnológicas. Não obstante o esforço válido desenvolvido pelo Ministério da Ciência e Tecnologia (MCT), no sentido de envolver a sociedade na gestação do Programa Sociedade da Informação (Takahashi, 2000).
+
+Registramos, por exemplo, duas experiências recentes que retratam realidades distintas: nosso retorno, após 30 anos ao município de Conceição de Piancó (Paraíba) e a nossa vivência em Havana, Cuba, como pessoa comum. Em ambas as localidades, o quase total desconhecimento das riquezas do espaço cibernético, visto ainda, como algo irreal e fantasioso para muitos, à semelhança dos que desconfiam da ida do homem à lua... Mesmo em países de Primeiro Mundo, como a França, a vivência em La Rochelle, como estudante estrangeira, comprovou o custo elevado para a utilização da Rede e/ou a dificuldade de acesso, nos locais de uso gratuito.
+
+Sob tal perspectiva, sem assumir posição radical que visualiza as inovações tecnológicas como elementos irremediavelmente comprometidos com o processo de aculturação e, também, sem enaltecê-las como panacéia para os males da humanidade, pretendemos, na contramão de outros discursos, chamar a atenção para as desvantagens trazidas pelas facilidades de produção no espaço cibernético, tais como: a inconsistência, instantaneidade e efemeridade das informações; a complexidade de armazenamento; a dificuldade do controle bibliográfico; a banalização da autoria e o desrespeito à propriedade intelectual; o uso aético da informação; a invasão da privacidade x relações impessoais.
+
+Para tanto, de início, inserimos a produção científica dentro do contexto das novas tecnologias, mais especificamente na Internet, a fim de discutir a concepção do termo "científico" na esfera de publicações em geral e das publicações periódicas em particular. No momento seguinte, discorremos sobre os elementos acima referidos, buscando apresentar sugestões dentro do binômio novas tecnologias versus produção científica.
+
+
+
+
+
+Internet e Produção Científica: uma relação de causa e efeito?
+
+Numerosos sites, alguns dos quais que merecem credibilidade, como o do IBEST e do Instituto Brasileiro de Pesquisa de Opinião Pública, trazem informações sobre a expansão da Internet como meio de comunicação independente, democrático e interativo. No Brasil, desde 1991, o órgão oficial para acompanhar e avaliar as atividades da Internet é a Rede Nacional de Pesquisa (RNP), vinculada ao MCT e de responsabilidade direta do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq). Portanto, priorizamos, dentre as fontes consultadas, suas informações acerca da evolução da Internet no Brasil e no mundo (Brasil. MCT, 2002a, 2002b).
+
+De forma concisa, asseguramos apenas que a Internet congrega, na atualidade, os cinco continentes, ainda que a África esteja bem aquém, por suas próprias condições: reúne mais de 10% dos habitantes do mundo, mas conta com somente 0,31 computador e 2,2 telefones para cada 100 habitantes. De qualquer forma, hoje, são cerca de 275 milhões de usuários conectados à Internet. Os Estados Unidos da América do Norte (EUA), como esperado, estão bem à frente no ranking mundial (106,3 milhões de internautas), seguidos do Japão. Já o Brasil ocupa o décimo lugar, com 6,79 milhões de pessoas e aproximadamente 14 milhões de residências conectadas à Rede. Porém, ao mesmo tempo em que a RNP detalha informações sobre a evolução da Internet no Brasil e no mundo em diferentes setores, como Governo, bancos, escola, comércio eletrônico, participação feminina, táxis, cinemas etc., no que concerne ao quesito desenvolvimento científico restringe-se a mencionar a troca crescente de correio eletrônico, de consulta à documentação técnica e de reuniões virtuais por pesquisadores brasileiros, além da disponibilidade cada vez maior de títulos de periódicos especializados.
+
+Neste momento, então, emerge a nossa primeira questão: o que é científico? O que é produção científica? Sites e sites disponibilizam milhares de textos. Há uma avalanche de informações nas quase três bilhões de páginas disponíveis na Rede em seus 71,3 milhões de sites, aproximadamente. São tantas e tão variadas que provocam um novo mal deste século - a ansiedade de informação. Profissionais das mais diferentes áreas se sentem atormentados por não conseguirem reter todas as novidades geradas em seu campo de atuação ou dominar informações que aparecem nas rodas sociais, tais como: os ganhadores do Prêmio Nobel, nas diferentes categorias; o Oscar, nas diferentes modalidades; as oscilações no mundo econômico; os best sellers do momento; os cantores da moda; as mudanças políticas dos países vizinhos.
+
+Retomamos, assim, o tema: como discernir o científico do não científico? Como discernir o técnico-científico do não técnico-científico? Como separar o joio do trigo? Como separar o "lixão" cibernético das informações consistentes? Com esta provocação, ressaltamos que as aplicações tecnológicas no processo de comunicação acarretaram sempre novas formas de relações sociais e práticas culturais. A começar pela escrita, que propiciou a consolidação da literatura e da imprensa - a grande responsável pela popularização das informações. Mas não é uma relação simplista de causa e efeito, em que a alterações infra-estruturais correspondem mudanças superestruturais ou vice-versa. Isto é, a Internet ou o número maior de publicações eletrônicas não é sinônimo de produção científica, no sentido estrito do termo.
+
+Aliás, inexiste consenso sobre o que é ou não científico. Mas, no mínimo, há critérios de cientificidade apregoados nos manuais de metodologia da ciência, segundo os quais um texto científico deve ter: coerência, consistência, originalidade e objetividade, além de se submeter, necessariamente, à apreciação crítica da comunidade científica, após sua imprescindível divulgação. A este respeito, clássicos do campo da comunicação científica, com destaque para Price (1976), reconhecem que o tamanho bruto da ciência em recursos humanos ou em publicações duplica entre dez a vinte anos, a depender do indicador e da maneira de medir. O intervalo de dez anos resulta de medições abrangentes, que não diferenciam com rigor a qualidade das contribuições, de acordo com a concepção básica de ciência. O de 15 anos resulta de seleção mais cuidadosa, utilizando-se definições mais restritivas para publicações e autores. O período de vinte anos corresponde à inclusão de trabalhos de alta qualidade.
+
+Em se tratando dos periódicos eletrônicos, vigoram duas concepções mais comuns. A primeira incorpora qualquer periódico em formato eletrônico, o que subentende a inclusão de revistas que existem em papel e estão disponíveis em formato eletrônico, mais os periódicos on-line disseminados através das redes de informação e os periódicos em compact disc read only memory (CD-ROM). A segunda, mais restrita, considera apenas os periódicos criados para o meio eletrônico e disponíveis somente nele e que, além disso, mantêm padrões de revisão crítica, controle da qualidade editorial, acesso universal e arquivamento permanente de matérias, tal como os periódicos científicos impressos (Lancaster, 1995).
+
+A este respeito, mesmo datando de vinte anos atrás, as diretrizes de Braga, Oberhofer (1982) para a classificação dos periódicos, tomando como referência a natureza do material veiculado, continuam válidas, servindo de fundamento para outras categorizações, como a do Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT). Em termos gerais, são científicos quando mais de 50% do conteúdo são artigos assinados resultantes de pesquisas científicas. São técnicos quando dedicam acima de 50% a artigos assinados, emitindo comentários, opiniões, pontos de vista sobre determinados temas. São periódicos de divulgação aqueles que priorizam notícias curtas, informes e similares.
+
+Segundo informações do próprio IBICT (2002), atualmente, existem na Rede aproximadamente 725 títulos de periódicos técnico-científicos. No entanto, é possível que muitos dos títulos conservem sua versão impressa, haja vista o estudo recente realizado por Targino & Castro (2002), no âmbito do Grupo de Publicações Eletrônicas em Medicina e Biologia (Grupo e-pub), programa nacional dedicado exclusivamente à produção de títulos científicos eletrônicos na área de saúde, comprova que 64,29% dos seus títulos ainda existem como impressos.
+
+Ora, se o exposto até então sugere que, no caso dos documentos impressos, a delimitação científica ainda está sujeita a julgamentos de valor, na Rede, obviamente, é mais difícil uma avaliação universal e convincente. Assim, reiteramos que as novas tecnologias favorecem, sim, a ampliação do número de publicações, mas é preciso adotar os critérios mínimos de cientificidade supracitados para utilizar a expressão - produção científica - referindo-se ao material consultado. Não podemos assumir a postura simplista: mais textos, mais ciência. É como pensar que a informatização per se opera milagres, em vez de pensar na inteligência, no pragmatismo e no discernimento de utilizar o computador como instrumento capaz de agilizar procedimentos. Caso contrário, tem-se o que o economista Cláudio de Moura Castro, através da grande imprensa, denominou de "burrice informatizada", em que o potencial do computador é esquecido e usado só para ratificar a irracionalidade da burocracia.
+
+
+
+
+
+Novas Tecnologias e Produção Científica: uma relação de muitos efeitos
+
+Inconsistência das informações, complexidade de armazenamento e do controle bibliográfico
+
+A partir das colocações anteriores e da experiência de cada um de nós como internauta, inferimos que um dos grandes entraves à utilização da Internet, no momento atual, é a dificuldade de selecionar o material que vale a pena ser lido. Diante de textos colocados em circuito sem qualquer critério de avaliação, o usuário necessita de discernimento, uma vez que a apreciação dos pares constitui elemento básico para a validação e/ou rejeição de novos conhecimentos. Em outras palavras, o processo avaliativo é básico quando da distinção entre o que é científico ou não. Assim sendo, o usuário requer agora treinamento que lhe permita explorar a riqueza de possibilidades dos meios eletrônicos de forma racional, responsável e ágil.
+
+Muitas vezes, textos disponibilizados com o intuito de receberem feedback (à semelhança dos preprints e prepapers) para o aprofundamento das posições iniciais dos autores e/ou como forma de garantir a autoria, estão sendo utilizados como referencial teórico de novos estudos. Na maioria das vezes, não há autorização ou sequer conhecimento do usuário-autor. Esta utilização aleatória revela despreocupação com a natureza das informações, fidedignidade e consistência dos dados, talvez, por sua instantaneidade e efemeridade, aliadas à complexidade de armazenamento. Ao mesmo tempo em que é possível instantaneamente lançar um texto em Rede, sites existem e deixam de existir como num passe de mágica: o do Grupo de Trabalhos de Bibliotecas Virtuais do IBICT é somente um dos exemplos da efemeridade. Publicações eletrônicas que se propõem à atualização imediata de informações são disponibilizadas de forma irregular e descontínua, como comprovado no estudo do Grupo e-pub, de forma tão intensa, que afirmamos: em termos genéricos, os registros não passam por um filtro que garanta a qualidade dos dados. Prioriza-se o crescimento quantitativo da Rede, em detrimento dos aspectos qualitativos e dos seus impactos sociais, o que repercute no ciclo da informação e, por conseguinte, nos processos de comunicação científica.
+
+Também, freqüentemente, um mesmo texto está disponível em diferentes sites, o que traz a vantagem de maior divulgação. Ora, se os pesquisadores devem recorrer sempre a todas as formas de comunicação - informal, semiformal, formal e eletrônica - para propagar seus trabalhos, uma vez que as idiossincrasias sociais não comportam nem permitem a uniformização de procedimentos, a prática cada vez mais comum de "jogar" um mesmo texto em numerosos sites causa maior congestionamento no tráfego da Rede.
+
+Ademais, tal como o "xeroquismo" exacerbado e progressivo no ensino universitário brasileiro, o uso de informações eletrônicas sem aprofundamento e criticidade agrava a tendência de horizontalização da leitura, comprometendo o processo de informação e conhecimento. Sem saudosismo ou pessimismo, em nossa opinião, corremos o risco crescente de perder a visão integral dos temas e de abandonar o interesse por obras densas, básicas ou de conteúdo clássico, imprescindíveis à formação profissional, em qualquer área do conhecimento humano.
+
+Logo, reiteramos que o fluxo maior de informação não é necessariamente fator gerador de mais conhecimentos, sendo necessário atenção para os itens: complexidade de armazenamento e dificuldade do controle bibliográfico. Por ser flexível e fluida, a informação disposta no espaço cibernético, perde-se num curto espaço de tempo, o que dificulta o seu estudo e controle. São duas das razões que justificam, sobremaneira, a preferência que cientistas e acadêmicos continuem recorrendo aos impressos para a divulgação de suas pesquisas. Para Lancaster (1995, p. 521), eles não vislumbram nenhum incentivo para disponibilizar seus textos em rede: "...nem honorários, nem direitos autorais; nem evidência de que tal publicação teria mais peso para promoção, reconhecimento de autoria, ou aumento de salário; e nem garantia que a audiência alcançada pudesse ser maior." Portanto, tudo indica que a comunidade científica prossegue considerando os originais eletrônicos "inferiores" aos tradicionais, e até mesmo as universidades federais, grosso modo, desconsideram as publicações eletrônicas, quando da fixação da Gratificação de Estímulo à Docência (GED).
+
+Diante das expectativas de um futuro incerto, ainda é o periódico científico impresso que assegura prioridade científica e garantia de autoria Evidências desta premissa são o índice elevado de títulos em versão impressa e eletrônica dentro do Grupo e-pub e o número irrisório de periódicos exclusivamente eletrônicos em ciência da informação, por exemplo, até agora apenas dois: Datagramazero e Encontros BIBLI - Revista de Biblioteconomia e Ciência da Informação -, embora a revista eletrônica recém-lançada, Morpheus, mantenha informação, conhecimento e sociedade como uma de suas linhas. Também comprova o apego aos impressos o fato de que muitos, após a divulgação de papers em eventos técnico-científicos, cujos produtos finais estão em CD-ROM, buscam revistas impressas para veiculação de suas matérias.
+
+Em suma, a inconsistência, instantaneidade e efemeridade das informações, a complexidade de armazenamento e a dificuldade do controle bibliográfico são alguns dos muitos efeitos do binômio novas tecnologias x produção científica. O impacto das novas tecnologias no processo de comunicação provoca a reordenação dos processos de produção e distribuição de conteúdos, o que requer mudança nas práticas profissionais com vistas à sua utilização, através de controle bibliográfico, organização e difusão de informações, segundo afirmativa de Miranda & Simeão (2002).
+
+Como decorrência disto, a RNP está voltada para o estabelecimento da Internet2 (Brasil. MCT, 2002b, p. 2), cuja meta central é a implantação de um serviço de redes para a comunidade de ensino e pesquisa, que atenda a "alta qualidade (grifo nosso) para o tráfego de produção Internet"
+
+
+
+
+
+Banalização da autoria e desrespeito à propriedade intelectual
+
+Se no tempo dos nossos avós ou pais, o dito popular "o homem se realiza quando planta uma árvore, gera um filho e escreve um livro" podia ser contestado ante a afirmação de que o processo de realização deve ser contínuo e permanente, agora, mais do que nunca, se tornou obsoleto. Dentre os agraciados pelo direito à informação, qualquer um pode se transformar em autor e editor, ao mesmo tempo e quase instantaneamente.
+
+Além do processo de print on demand, que lhes permite copiar e distribuir exemplares de suas inspirações e publicações, existem cerca de 64.600 editoras virtuais (www.ieditora.com.br; www.papel. virtual.com.br são exemplos), muitas das quais dispostas a colocar textos sem aferir sua qualidade, mediante o pagamento de uma quantia x ou recebimento de uma comissão y. A venda de trabalhos acadêmicos, mesmo para a pós-graduação stricto sensu, é possível, como veiculado, sem pudor, numa revista especializada em informática e pelo programa Fantástico, da rede Globo, no segundo semestre deste ano (2002). E mais: ao lado dos quase 4.830 sites que disponibilizam livros na íntegra em rede, incluindo obras clássicas da literatura isentas de pagamento de direitos autorais (www.uol.com.br/cultvox; www.folhetim.com.br/ index.php; www.bibliotecavirtualorg.br, e outros), há em torno de 5.020 títulos de livros, construídos a várias mãos (IBICT, 2002).
+
+Então, se exemplos clássicos como a descoberta sobre o DNA em 1953, por Francis Crick e James Watson, mostram que a co-autoria sempre existiu - aparece com mais freqüência na primeira metade do século XX e ganha expressão após a Segunda Guerra Mundial, principalmente na física nuclear e ciência espacial -, agora tem crescido significativamente, alcançando pesquisas acadêmicas e industriais. Isto significa que o "gênio solitário e amalucado" de outrora ou o Descartes ilhado em sua estufa dá lugar ao pesquisador-líder, responsável pela integração e coordenação de equipes. Para Price (1976), no entanto, além das facilidades oferecidas pelo espaço cibernético, a autoria múltipla também decorre da tendência crescente à especialização, da evolução científica e tecnológica, do aumento da institucionalização, da racionalização do suporte econômico da investigação científica, aliados à política atual das próprias agências de fomento, que priorizam os projetos integrados de pesquisa em detrimento de trabalhos individuais.
+
+O autor supracitado e Meadows (1999), os quais prevêem até mesmo a extinção da autoria individual, asseguram que as pesquisas em colaboração têm maior visibilidade, levando em conta o número de citações que recebem. Tendem ainda a ser de melhor qualidade, pois, em geral, envolvem cientistas produtivos e renomados, permitindo a troca de informação entre vários indivíduos, o que favorece maturação mais segura de idéias e maior atenção para o desenrolar da investigação.
+
+No entanto, nos dias atuais, autoria e co-autoria da produção técnico-científica estão condicionadas à pressão social e profissional para que se publique cada vez mais. É a vigência de um sistema de avaliação de desempenho calcado na produção dos pesquisadores e professores. É a prática usual no meio acadêmico de ameaçar com o limbo ou com a morte profissional todos os que não publicam, sem levar em conta as diferenças entre instituições, áreas, departamentos, especialidades e temas. Esta pressão termina por incentivar mentiras e falcatruas. Ao nome do autor verdadeiro, acrescenta-se - por coação, amizade, conveniência etc. - o nome de pseudocolaboradores, o que é desonesto e aético, porquanto autor é tão-somente aquele que participa de todas as etapas de produção de uma obra, da concepção da idéia até a redação final, e que assume, integralmente, a responsabilidade intelectual, independente das circunstâncias e da natureza do trabalho. Portanto, revisores, normalizadores, estatísticos, digitadores, desenhistas, copidesques e orientadores não são autores. Reconhecê-los como tal é ferir as noções mais elementares de bom senso, que deve permear a concessão de autoria.
+
+Mesmo no caso de colaborações reais, é preciso estabelecer o grau de participação, como lembra Meadows (1999). Quando o envolvimento dos autores se dá num mesmo nível, devem ser arrolados segundo a ordem alfabética do último sobrenome. Caso um deles assuma maior responsabilidade ou a coordenação das tarefas, deve aparecer como primeiro autor, seguido dos demais, também em ordem alfabética, considerando-se o envolvimento de cada um. Porém não é simples discernir a responsabilidade maior ou menor dos membros da equipe, o que gera disputas e insatisfações. Em muitas ocasiões, o primeiro lugar vai para o de maior titulação ou prestígio, como forma de assegurar e/ou facilitar a edição. Em outras, chefes, subchefes e similares, alegando prerrogativa hierárquica ou concessão de benefícios, insinuam a conveniência da inclusão de seu nome, consolidando o que se denomina de "autoria honorária".
+
+São inferências que valem para o material impresso convencional e o eletrônico, com a ressalva de que no terreno eletrônico, onde a autoria múltipla também prevalece, o risco de embustes é ainda maior. Envolvem sérios questionamentos quanto à propriedade intelectual e ao processo de distribuição da informação. Conseqüentemente, devemos estar atentos para as deformações e disfunções que caminham pari passu com a adoção de parceria. A pressão institucional faz com que a co-autoria nem sempre represente o compartilhamento de esforços em prol da ciência, mas traduza mera troca de favores entre os pares, acentuando o parasitismo intelectual: admitir companheiros "virtuais", na esfera dos impressos ou dos eletrônicos, é pôr em risco a qualidade da produção científica, incrementando, sim, o fluxo de dados e informações, mas comprometendo a produção de caráter científico.
+
+
+
+
+
+O uso aético da informação
+
+A partir dos deslizes cometidos em nome da autoria, podemos abordar os riscos de deformação e insegurança que a realidade virtual, em várias modalidades (bancos, comércio eletrônico etc.), pode causar à sociedade. Não há padrões preestabelecidos de comportamento, mas é impossível deixar fluir a evolução tecnológica em descompasso com valores éticos e morais. Então, vários autores, como Dern (1999), já se preocupam com o fortalecimento da netiquette (network + etiquette) como meio de ditar a postura apropriada na Rede, a fim de assegurar credibilidade e respeitabilidade em relação aos conteúdos disponíveis.
+
+* É a responsabilidade do internauta quanto às políticas internas de "sua" instituição, limitando o acesso a páginas de conteúdo informativo ou não comprometedor, tanto por questões de custo, mas, sobretudo, por causa dos valores éticos e morais subjacentes ao acesso a sites pornográficos ou que apregoam atitudes preconceituosas contra negros, estrangeiros, judeus, homossexuais e outros grupos minoritários; * é a discussão recente sobre o comportamento de um político brasileiro flagrado acessando site pornográfico em seu horário de trabalho no Parlamento. (A questão que se impõe não é se ele tem ou não este direito, mas sim, o acinte de fazê-lo com o dinheiro público);
+
+* é a propagação da pedofilia e demais perversões sexuais via Internet;
+
+* é a disseminação de vírus e a ampliação da ação de hackers, que destroem, impiedosamente, arquivos particulares e institucionais;
+
+* é a possibilidade da fabricação de armas, seguindo instruções on-line;é a utilização do espaço cibernético por revolucionários e traficantes;
+
+* é a utilização assombrosa de sites que fornecem aos estudantes, universitários ou não, textos que podem suprir tarefas escolares, como o conhecido www.zemoleza.com.br.
+
+
+
+
+
+Há ainda cuidados que devem integrar a rotina dos internautas: enviar mensagens pessoais só ao interlocutor; não propagar textos de outrem sem permissão; não passar adiante correspondência contendo ofensas e colocações de ordem pessoal contra qualquer indivíduo; não usar nomes de pessoas famosas; utilizar assinaturas e textos concisos, claros, relevantes e precisos; cuidar da qualidade das mensagens, em termos de conteúdo, redação, "tom de voz", para evitar agressões e mal-entendidos; não sobrecarregar a caixa postal dos demais com correntes e textos quase sempre indesejados.
+
+
+
+
+
+Invasão da privacidade x Relações impessoais
+
+Uma outra crítica freqüente à Internet diz respeito a sua capacidade de invadir a privacidade de indivíduos e empresas, graças ao direito de acesso a informações públicas e privadas, de forma indiscriminada. Na atualidade, uma quantidade crescente de dados pessoais é armazenada em bancos de dados públicos ou privados, os quais podem ser usados de forma indevida ou propagar informações distorcidas. Enquanto as empresas tornam-se mais dependentes da eletrônica, disponibilizando inter, intra e extra-muros suas informações, ao mesmo tempo, passam a estar mais e mais vulneráveis aos ataques dos hackers, à invasão de sua privacidade ou ao alvo dos concorrentes.
+
+Questões de repercussão mundial também podem ser aqui mencionadas. Um dos líderes do Al Qaeda e um dos planejadores do atentado de 11 de setembro ao povo norte-americano, o iemenita Ramzi Binalshibh, foi preso em setembro de 2002, após entrevista a uma emissora de TV do mundo árabe, graças ao sistema de rastreamento eletrônico da Agência de Segurança Nacional dos EUA. Trata-se de um sistema que possui capacidade de armazenamento de três bilhões de comunicações diárias no mundo, incluindo celulares e também correio eletrônico, o que dá idéia da capacidade de se invadir a privacidade do homem contemporâneo, em todas as circunstâncias.
+
+Assim, com base na premissa de que a esfera pública é o espaço onde todos interagem, infere-se que a Internet exerce a função de agente desse espaço, o qual se consolida a partir da expansão da esfera privada. Mas, se há vantagens, tais possibilidades tecnológicas comprometem o enriquecimento cultural, pois esmaecem o vigor de cada uma das esferas. Conferem a tudo o que é subjetivo aparência de objetividade e de publicidade As intimidades tornam-se públicas e assuntos públicos são expressos no reino do íntimo (Targino, 1997).
+
+Enquanto isso, a redução de contatos face-a-face pode ser vista, também, como ponto negativo da Rede. Decresce o potencial de trocas mútuas enriquecidas pela linguagem corporal, tom de voz e até recursos de papelaria - quando se tem a opção do papel timbrado, papel perfumado, adesivos, carimbos e demais recursos. Para minimizar a falta de emoção das relações impessoais, muitos internautas recorrem a emotícones ou caretas. Mas, por outro lado, há quem atribua à Internet o dom de reduzir a solidão das pessoas, favorecendo o contato com indivíduos de nações e características distintas, o que equivale à oportunidade, talvez única, de intercambiar experiências. E, de fato, amizades virtuais e namoros eletrônicos têm aumentado consideravelmente, representando, ora experiências positivas, ora experiências negativas.
+
+
+
+
+
+Considerações finais e sugestões
+
+As idéias ora apresentadas não são conclusivas. Ao contrário, identificam-se como exercício de reflexão para despertar novas posições e contraposições diante do avanço das novas tecnologias e, em particular, da Internet. Esta expande nova base de coesão social de natureza eletrônica. Acarreta transformações radicais na vida de cada um e dos grupos sociais. Permite suprir nossas demandas informacionais, em tempo ágil, com maior acuidade, vislumbrando o indivíduo em suas potencialidades e limitações, e não mais como elemento "cinzento" de uma massa amorfa e disforme.
+
+Não estamos, pois, fazendo objeção à Internet. Ao contrário. Plagiando Castro (2002), quando compara os atuais testes de avaliação utilizados no ensino brasileiro com os remédios que salvam vidas, mas que trazem efeitos colaterais, reconhecemos que a Internet representa processo de transformação da realidade, mas possui efeitos colaterais e cria moléstias próprias. Toda a discussão não visa enaltecê-la ou repudiá-la. A questão é reconhecer seus méritos e lidar criativamente com tais efeitos, buscando aperfeiçoá-la para conviver e ultrapassar suas limitações. Trata-se de rasgar seu véu de magia e purismo, uma vez que nenhum processo social desencadeado pelas inovações tecnológicas pode ser analisado de forma isolada. A cultura está na fronteira do material e do simbólico, interagindo com o mundo da produção e com as representações imaginárias. Não há soluções únicas e permanentes para sociedades múltiplas e voláteis. Neste sentido, é utopia pensar num suporte informacional acessível à humanidade como um todo diante das singularidades dos indivíduos, grupos sociais, povos e das nações. É a adoção de uma visão humanista e realista, que considera liberdade como respeito, aceitação e convivência com o diferente, nas mais diferentes instâncias.
+
+Contrapondo-se à universalização do correio eletrônico, ao incremento dos bancos de dados, à transformação das práticas profissionais (incluindo o profissional da informação e da comunicação) e ao surgimento de novas profissões, empresas de alta tecnologia - que concentram empresas de Internet e da indústria de computadores - estão caindo. Portais e sites começam a fechar. Milhares de pessoas estão desempregadas. Serviços gratuitos são agora pagos. Os internautas enfrentam a lentidão dos downloads, o alto custo de serviços, a ineficácia de ferramentas de busca e o "lixão" cibernético. Segundo palavras textuais de Piza (2002, p. 22),
+
+"Ninguém mais fala em 'convergência de mídias', como a fantástica, porém, inútil, fusão de TV e PC. Ninguém mais acredita num breve acesso a filmes e músicas a preços baixos e conexões velozes [sem que isto ocasione protestos veementes dos envolvidos - artistas, empresários e gravadoras]. Ninguém mais prega a religião da virtualidade, a suposta comunhão da humanidade pelos microchips (...). Ninguém mais discute a revista 'Wired', nem imagina uma rede mundial onde as leis e as sanções não se imponham à vontade individual."
+
+E, de fato, quando da explosão da Internet, se proclamava o fim do papel - "num futuro próximo, não haverá mais livrarias, senão as virtuais", dizia-se. Não estamos vendo isto acontecer. Um dos meus primeiros textos, divulgado no Jornal do Commercio (Recife), em 1968, face ao avanço do microfilme, discutia a questão - a morte do livro: realidade ou ficção? A discussão persiste. Mas o livro, usado aqui como sinônimo de impresso, sobreviverá por longo tempo, até porque as contribuições da tecnologia para o desenvolvimento da produção científica deixam muito a desejar. Além do mais, o clímax de cada inovação tecnológica tem o seu próprio espaço, o seu próprio tempo, o seu próprio público, sem riscos reais de uma aldeia global. Em anos e anos de informação multifacetada, não há registro de casos de extinção de veículos de comunicação face ao surgimento de outros. Ocorrem, sim, mutações, adaptações e avanços. Em suma, afirmamos que a Internet faz jorrar publicações eletrônicas, mas estas, não são necessariamente, contribuições científicas. Em outras palavras, o casamento novas tecnologias versus produção científica representa não uma relação de causa e efeito, mas uma relação de muitos efeitos, que se confundem e se entrelaçam, sem que possam ser categorizados como bem ou mal, o que justifica as sugestões ora registradas:
+
+* incentivo a mudanças no sistema educacional, em todos os níveis, priorizando o treinamento no uso de tecnologias de informação, com o intuito de utilizar melhor suas potencialidades e discernir entre informações consistentes e não; * atenção à formação profissional integral, evitando a fragmentação, inconsistência e superficialidade de textos ou mensagens, através de postura crítica permanente;
+
+* acompanhamento das atividades da RNP no que concerne à instalação da Internet2;
+
+* respeito ao processo de autoria, segundo os preceitos universais de que é autor quem participa, efetivamente, da concepção da idéia e dos objetivos; da aplicação dos recursos metodológicos; da coleta, análise e interpretação dos dados e da redação do texto nos diferentes momentos;
+
+* contribuição com a netiquette, mediante adoção de padrões de comportamento compatíveis com os fundamentos básicos da Rede e do respeito ao outro.
+
+
+
+Referências Bibliográficas 
+
+BRASIL. Ministério da Ciência e Tecnologia. Secretaria de Política de Informática e Automação. Rede Nacional de Pesquisa. Evolução da Internet no Brasil e no mundo. Disponível em (http://www.rnp.br/arquivos/evolução/pdf(. Acesso em: 22 set. 2002a.
+
+_________. Sobre a RNP. Disponível em (http://www.rnp.br/arquivos/evolução/pdf(. Acesso em: 22 set. 2002b.
+
+BRAGA, G. M.; OBERHOFER, A. Diretrizes para a avaliação de periódicos científicos e técnicos brasileiros. Rev. Lat. Doc., [s.l.], v.2, n.1, p.27-31, ene./jun.1982.
+
+CASTRO, C. de M. Quem tem medo da avaliação?. Veja, São Paulo, p. 20, 10 jul. 2002.
+
+DERN, D. P. The Internet guide for new users. New York: McGraw-Hill, 1999. 570 p.
+
+INSTITUTO BRASILEIRO DE INFORMAÇÃO EM CIÊNCIA E TECNOLOGIA. [Dados sobre a Rede]. [mensagem pessoal]. Mensagem enviada por (maffia@ibict.br( em 20 set. 2002.
+
+LANCASTER, F. W. The evolution of electronic publishing. Library Trends, Champaign, v. 43, n. 4, p.713-740, spring 1995.
+
+MEADOWS, A. J. A comunicação científica. Brasília: Briquet de Lemos Livros, 1999. 268 p.
+
+MIRANDA, A.; SIMEÃO, E. A conceituação de massa documental e o ciclo de interação entre tecnologia e o registro do conhecimento. In: NAKAYAMA, H. (Org.). Análise da informação. Brasília: UnB, 2002.
+
+PIZA, D. A revolução e a bolha. [s. l.: s.n.], 2002. p. 22.
+
+PRICE, D. J. de S. O desenvolvimento da ciência; análise histórica, filosófica, sociológica e econômica. Rio de Janeiro: Livros Técnicos e Científicos, 1976. 77 p.
+
+TAKAHASHI, T. Sociedade da informação no Brasil: Livro Verde. Brasília: MCT, 2000. 202 p.
+
+TARGINO, M. das G. The social impact of the Internet: does it promote diversity, access and participation? In: CLICHE, D. Cultural ecology; the changing dynamics of communications. London: International Institute of Communications, 1997. 257p. p.72-87.
+
+TARGINO, M. das G.; CASTRO, M. M. R. N. de. Perfil dos títulos dos periódicos do grupo de Publicações Eletrônicas em Medicina e Biologia (Grupo e-pub). In: ______. (Org.). Desafiando os domínios da informação. Teresina: UFPI, 2002. 313 p. p. 291-313.
+

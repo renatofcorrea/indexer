@@ -1,0 +1,1215 @@
+A Ciência da Informação no CNPq - fomento à formação de recursos humanos e à pesquisa entre 1994-2002
+
+
+
+
+Resumo: Levantamento dos dados referentes às ações de fomento de CNPq para a área de Ciência da Informação, para o período de 1994 e 2002. Após breve introdução sobre as origens do CNPq em que é enfatizada sua vocação inicial como agência de fomento para as áreas de ciências exatas e naturais, o artigo mostra dados sobre quantidade e dispêndio do órgão com a área de Ciência da Informação. As ações do CNPq relatadas são as que se destinam à formação de recursos humanos no exterior e no país e a pesquisas no país. Os dados mostram que considerando todas as áreas financiadas pelo CNPq, uma parte muito reduzida do orçamento tem sido destinada à Ciência da Informação. Por outro lado, pode-se argumentar que dado o número de cursos pós-graduação, especialmente doutorado, existentes no período considerado e especialmente o número de pesquisa em andamento cujos relatórios foram relatados na reunião de 2000 da ANCIB, a sociedade que congrega os pesquisadores da área, e ainda, a demanda bruta registrada no CNPq, os auxílios recebidos e vigentes, embora ainda insuficientes, parecem menos inadequados. No entanto, a estagnação no volume de bolsas concedidas entre 1994 e 2002 levanta preocupações a respeito da evolução da área.
+
+Palavras-chave: Fomento à pesquisa - Ciência da Informação; CNPq - fomento á pesquisa em Ciência da Informação
+
+
+
+
+
+Introdução
+
+Desde a introdução da Ciência da Informação no Brasil, no final da década de 50, o CNPq e a CAPES têm sido os órgãos de fomento mais presentes na sua história. Embora ao longo do tempo as duas agências tenham atuado na formação de pessoal, como financiadoras de cursos e de bolsas de estudo, e na geração de conhecimento científico, concedendo bolsas e auxílios à pesquisa e equipando bibliotecas e laboratórios, sempre houve o entendimento de que havia uma divisão de responsabilidades entre elas: à CAPES cabe prioritariamente fomento à formação de pessoal com ações dirigidas aos cursos de pós-graduação, e ao CNPq cabe o apoio às atividades de pesquisa, por meio, principalmente, de seu sistema de concessão de bolsas e auxílios de diversas modalidades a pesquisadores.
+
+A atuação da CAPES, como estimuladora da formação de pessoal de nível superior, é bem conhecida por todos aqueles ligados ao ensino de pós-graduação no país, pois seu sistema de avaliação influencia de maneira decisiva a gestão e o rumo dos cursos. Por outro lado, a atuação do CNPq não é tão conhecida pelos pesquisadores que dela se beneficiam ou poderiam se beneficiar. Mas da mesma forma que a ação da Capes pode determinar a sobrevivência dos cursos de pós-graduação, a atuação do CNPq pode influenciar de maneira decisiva a direção da pesquisa de uma área e o desenvolvimento do conhecimento científico. Este estudo pretende descrever a atuação do CNPq como agência de fomento à pesquisa na área de Ciência da Informação, sob o ponto de vista do volume e dispêndio havidos nos últimos anos, isto é, tipo e quantidade de bolsas e outras ações de fomento concedidas a pesquisadores da área. A intenção é tornar mais conhecido o espaço que a Ciência da Informação tem ocupado nas ações de fomento do CNPq, assim como os meios que a agência utiliza para implementá-las. Espera-se que os dados apresentados possam servir de estímulo à comunidade de pesquisadores da Ciência da Informação, oferecendo subsídios a ações que resultem na conquista de mais espaço nos orçamentos da agência, e portanto, na possibilidade de aumento do volume de pesquisas financiadas e crescimento da área.
+
+O artigo se inicia descrevendo de maneira breve o CNPq como agência financiadora: como surgiu e que influências têm determinado suas prioridades. Descreve depois os instrumentos de fomento de que se utiliza atualmente para cumprir sua missão. Mostra, em seguida, dados que descrevem o tipo e a quantidade de auxílios concedidos aos pesquisadores da área de Ciência da Informação, cobrindo o período entre 1994 e 2002. Conforme o auxílio, no entanto, o período coberto pelo levantamento varia de acordo com a disponibilidade encontrada para seu levantamento. A maior parte dos dados se refere ao período de 1994 a 2000. Os dados de 2002 se referem a bolsas e projetos de pesquisa em vigência, e são descritos com mais detalhes. O artigo se encerra com algumas considerações sobre os dados apresentados.
+
+
+
+1. O CNPq como agência de fomento.
+
+A história da formação e o desenvolvimento do CNPq e de outros órgãos brasileiros de fomento e amparo a pesquisa está bem relatada por Schwartzman (2001) em seu trabalho sobre a formação da comunidade científica brasileira e não é o objeto deste artigo. Mas a compreensão das motivações que levaram a fundação de uma agência de amparo a pesquisa, inclusive do ambiente político em que surgiu e evoluiu, é importante para o tema deste trabalho.
+
+Schwartzman (2001) descreve a criação do CNPq em 1951, então com o nome de Conselho Nacional de Pesquisa, como uma ação governamental dentro do espírito do pós-guerra de apoiar o desenvolvimento da ciência no País. A subordinação do CNPq era direta à Presidência da República, revelando o interesse do governo em sua atuação Dois anos antes, em 1949, havia ocorrido a fundação do Centro Brasileiro de Pesquisas Físicas, CBPF, instituição de pesquisa cujo propósito era conduzir o país no campo da pesquisa atômica. Ainda segundo Schwartzman, esses planos não se desenvolveram como planejado, entre outras razões porque houve resistência a pretensões do Brasil nos Estados Unidos, além de, Schwartzman sugere, talvez não ter o País ainda, a época, desenvolvido capacidade científica suficiente. Apesar disso, CNPq sobreviveu a essa crise inicial e assumiu o papel de órgão de fomento de pesquisas nas áreas de ciências física, biológicas e outras ciências naturais. Os recursos disponíveis nunca foram abundantes, mas permitiram que cientistas ligados a universidades sem verbas para pesquisa pudessem dar andamento a seus trabalhos. Em 1975, embora conservando a sigla original, o CNPq recebeu novo nome, Conselho Nacional de Desenvolvimento Científico e Tecnológico. O novo nome pretendia refletir ampliação em seu campo de atuação. Nessa época, seu vínculo mudou, passando para o âmbito do Ministério do Planejamento, o que, ainda segundo Schwartzman, refletia a compreensão a que chegaram economistas e físicos, das ligações entre tecnologia e desenvolvimento econômico.
+
+Para compreender a ação do CNPq é preciso ter em mente que a agência foi criada para amparar a pesquisa nas ciências físicas, biológicas e outras ciências naturais, as chamadas hard sciences. No esquema de classificação das áreas adotado pelo CNPq, a Ciência da Informação é uma das áreas incluídas na subdivisão Ciências Sociais Aplicadas, tendo como companheiras nessa divisão a Comunicação, as Artes, a Museologia e o Turismo. A Arquivologia e a Biblioteconomia são consideradas subdivisões da Ciência da Informação, A inclusão de áreas mais "suaves" na agenda do CNPq só se deu bem mais tarde em sua história, mais precisamente na década de 70, com a implantação dos cursos de pós-graduação nas instituições públicas federais e estaduais. Essas áreas nunca foram consideradas propriamente prioritárias, embora tenha havido épocas de estímulo ao desenvolvimento de algumas, então chamadas "áreas emergentes", inclusive à Ciência da Informação.
+
+1.1 Missão do atual CNPq
+
+De acordo com informações divulgadas pela própria agência em seu sítio na Internet (www.cnpq.br), sua missão hoje é "promover e fomentar o desenvolvimento científico e tecnológico do País e contribuir na formulação das políticas nacionais de ciência e tecnologia." Ainda de acordo com as informações contidas naquele sítio, para cumprir sua missão, o CNPq dirige seus esforços para duas metas básicas, o fomento a pesquisas, que é a sua ação principal, e a difusão de C&T. Este artigo trata apenas das ações de fomento à pesquisa.
+
+1.2. Programas de Fomento
+
+De maneira geral, as atividades de fomento à pesquisa do CNPq são dirigidas essencialmente para o amparo à pesquisa e a capacitação de recursos humanos para a pesquisa. A ação de fomento encontra-se organizada em dois programas:
+
+Programas básicos voltados para o uso planejado dos instrumentos de fomento, segundo as áreas tradicionais do conhecimento.
+
+Programas de indução, correspondentes às áreas estratégicas e campos multidisciplinares e de cunho regional ou horizontal, cuja ação perpassa as áreas do conhecimento
+
+
+
+
+
+Programas básicos voltados para o uso planejado dos instrumentos de fomento, segundo as áreas tradicionais do conhecimento.
+
+Programas de indução, correspondentes às áreas estratégicas e campos multidisciplinares e de cunho regional ou horizontal, cuja ação perpassa as áreas do conhecimento
+
+1.3 Formas de acesso
+
+Há duas formas principais de acesso ao fomento, a demanda espontânea e a demanda induzida. Esta última mantém dois tipos de programas: programas temáticos e setoriais; e programas regionais, e é implementada por meio de editais.
+
+O calendário tradicionalmente estabelecido pelo CNPq oferece aos pesquisadores duas oportunidades ao ano para solicitação de auxílios à pesquisa. O processo e as datas são normalmente publicados em seu site. As solicitações são analisadas inicialmente pelo pessoal técnico da agência que então as envia para consultores ad hoc. Esses são em geral também bolsistas, membros da comunidade de pesquisa a que também pertence o solicitante. Finalmente, em duas ocasiões anuais, os representantes das diversas áreas se reúnem em comissões temáticas, os chamados Comitês Avaliadores, CA, que reúnem as áreas classificadas em um mesma divisão. Nessas ocasiões todos os projetos pré-analisados pelos consultores ad hoc são novamente analisados. De acordo com as verbas disponíveis para cada área, as solicitações aprovadas pelos comitês são contempladas em ordem de mérito. Os dados descritos mais adiantes são os resultados dessas análises, para a área de Ciência da Informação, para os períodos especificados.
+
+1.4 Instrumentos para Implementação de Ações de Fomento
+
+Para implementação de sua missão, o CNPq opera um conjunto de instrumentos que serão descritos a seguir.
+
+1.4.1 Bolsas de Fomento à Pesquisa e Formação de Recursos Humanos
+
+a) Bolsas Individuais no País:
+
+Produtividade em Pesquisa (PQ)
+
+Pesquisador Visitante (PV)
+
+Pesquisador Visitante Especial (PVE)
+
+Desenvolvimento Científico Regional (DCR)
+
+Recém-Doutor (RD)
+
+Pós-Doutorado (PD)
+
+
+
+
+
+b) Bolsas Individuais no Exterior:
+
+Estágio Sênior (ESN)
+
+Pós-Doutorado (PDE)
+
+Doutorado (GDE)
+
+Doutorado Sandwich (SWE)
+
+Aperfeiçoamento/Especialização (APE)
+
+
+
+
+
+c) Bolsas por Quota:
+
+à instituição
+
+Iniciação Científica (PIBIC)
+
+Doutorado (GD) - cotas novas
+
+Mestrado (GM)
+
+
+
+
+
+ao orientador Doutorado (GD) - renovações
+
+
+
+
+
+ao pesquisador Aperfeiçoamento a Pesquisa (AP) (temporariamente suspenso)
+
+Iniciação Científica (IC)
+
+Apoio Técnico (AT)
+
+
+
+
+
+1.4.2 Auxílios a) auxílios de curta duração
+
+Pesquisador Visitante (APV)
+
+Participação em Eventos Científicos (AVG)
+
+Promoção de Eventos Científicos (ARC)
+
+
+
+
+
+b) projetos individuais de pesquisa
+
+Projeto de Pesquisa (APQ)
+
+Editoração (AED)
+
+Projeto Integrado de Pesquisa (AI)
+
+
+
+
+
+1.4.3 Bolsas Tecnológicas
+
+Bolsas de curta duração Estágio/ Treinamento no país (BEP)
+
+Estágio/ Treinamento no exterior (BSP)
+
+Especialista Visitante (BEV)
+
+
+
+
+
+Bolsas de longa duração Iniciação Tecnológica Industrial (ITI)
+
+Treinamento no país (EP)
+
+Desenvolvimento Tecnológico Industrial (DTI)
+
+Treinamento no exterior (SEP)
+
+Especialista Visitante (EV)
+
+
+
+
+
+Recentemente, o CNPq iniciou, ainda de maneira experimental, alguns programas novos de fomento, entre os quais merece destaque o PROFIX. Esse programa visa incentivar a permanência no País ou o retorno ao Brasil de pesquisadores doutores, sem vínculo empregatício com entidades nacionais. Para atingir sues objetivos, o programa se utiliza de mecanismos tais como bolsas e auxílios que possam viabilizar a inserção temporária do pesquisador em instituições de ensino e pesquisa, institutos de pesquisa científica e tecnológica federais e estaduais, empresas públicas de pesquisa e desenvolvimento ou centros de P&D de empresas privadas. A idéia é contribuir para a distribuição mais adequada de recursos humanos altamente qualificados pelas diferentes regiões geográficas do País.
+
+Outra iniciativa recente é o Programa de Pós-Graduação Integrada. O objetivo desse programa é facilitar o acesso de alunos de mestrado diretamente ao curso de doutorado, antes de terminar o curso de mestrado e sem necessidade de se submeter ao exame de seleção. Esse programa é dirigido apenas a alunos que se sobressaem em seus cursos e cujos programas tenham recebido nota 6 ou 7 na avaliação realizada pela Capes. A duração total da bolsa (mestrado mais doutorado) é de cinco anos. Há alguns limites no orçamento destinado a essas bolsas entre os quais um teto de 30% da quota do CNPq à instituição. Uma vez concedida essa bolsa a um aluno, esse não pode reverter sua decisão e voltar ao mestrado. Sua opção deve ser feita entre o 12º e o 24º mês de seu curso.
+
+1.5 A ação do CNPq comparada a outras agências brasileiras de fomento
+
+Além do CNPq e da CAPES, várias outras agências brasileiras financiam pesquisas. Entre essas destacam-se as fundações de amparo à pesquisa mantidas pelos Estados, chamadas FAPs. Dessas, a mais conhecida e atuante é a FAPESP, do Estado de São Paulo. A Tabela 1 mostra a participação de algumas dessas agências e da CAPES, segundo dados do Prossiga, divulgados em seu site. (www.prossiga.cnpq.br)
+
+
+
+Tabela 1 - Distribuição de bolsas vigentes em 2002 por Agência de Fomento Agência
+
+Formação no país
+
+Formação no exterior
+
+Pesquisa no país
+
+Quantidade total
+
+Percentual
+
+CAPES 14531
+
+1391
+
+*
+
+15922
+
+21,90
+
+
+
+CNPq 29788
+
+805
+
+12366
+
+42959
+
+59,09
+
+
+
+FACEPE 231
+
+*
+
+154
+
+385
+
+0,53
+
+
+
+FAPEMIG 1098
+
+*
+
+121
+
+1219
+
+1,68
+
+
+
+FAPERGS 1209
+
+*
+
+28
+
+1237
+
+1,70
+
+
+
+FAPERJ 892
+
+*
+
+469
+
+1461
+
+2,01
+
+
+
+FAPESP 7977
+
+60
+
+545
+
+8582
+
+11,80
+
+
+
+FUNCAP 934
+
+*
+
+*
+
+934
+
+1,28
+
+
+
+TOTAL 56660
+
+2256
+
+13783
+
+72699
+
+100
+
+
+
+* A agência não concede essa modalidade. Fonte: Prossiga/CNPq, em 09/04/2002
+
+Segundo esses dados, o CNPq foi o responsável pelo maior número de bolsas de pesquisa e auxílios à pesquisa concedidos em 2002. Entre as agências estaduais, a FAPESP se destaca das demais. Vale notar no entanto, que esses números se referem a quantidade de bolsas e não valores, e que neles devem estar incluídas as bolsas de iniciação à pesquisa, que são numerosas mas de baixo valor financeiro. De qualquer forma, os dados mostram a importância da agência CNPq como financiadora.
+
+
+
+2. O fomento à Ciência da Informação:
+
+Por ocasião do IV ENANCIB, a reunião periódica patrocinada pela sociedade científica ANCIB que congrega os pesquisadores da área de Ciência da Informação, Miranda e Barreto (1999/2000) fizeram um balanço do desenvolvimento das atividades de pesquisa em Ciência da Informação no Brasil, cobrindo 30 anos de história dos cursos de pós-graduação na área. Pinheiro (1999/2000), na mesma ocasião, fez um relato do estado da infra-estrutura então disponível para pesquisa, baseando-se sobretudo em dados publicados pelo CNPq em seu site. Mueller, Miranda e Suaiden (1999/2000), também na mesma ocasião, analisaram os trabalhos em andamento apresentados no evento. As três palestras, juntas fornecem o contexto em que o presente levantamento se insere.
+
+Os dados serão apresentados em dois grupos: formação de recursos humanos e fomento à pesquisa.
+
+Auxílios concedidos para Formação de Recursos Humanos pelo CNPq à área de Ciência da Informação entre 1994-2000 - no país e no exterior.
+
+2.1 Bolsas de Formação de Recursos Humanos
+
+2.1.1 Bolsas de Formação de Recursos Humanos no Exterior
+
+As bolsas para formação de pesquisadores no exterior concedidas pelo CNPq no período são de nível de doutorado, inclusive doutorado - "sanduíche"[1] e pós-doutorado. A Figura 1 mostra o número de bolsas distribuídas no período de 1994-2000. As bolsas são computadas em 12 parcelas, por isso os números fracionados. O declínio no número de concessões a partir de 1996, e que já era baixo mesmo no seu pico em 1995, chegando a ausência de concessões nos dois últimos anos representados, é uma questão a ser investigada - pode se dever a falta de verbas ou falta de solicitações. Neste último caso, a questão permanece necessitando de estudos.
+
+
+
+
+
+Figura 1 - Formação de Recursos Humanos no Exterior em Ciência da Informação por modalidades. Quantidade de bolsas por modalidade concedidas no período 1994-2000 Os dados da Figura 2 se referem ao mesmo conjunto bolsas para formação no exterior, mas mostram o dispêndio havido. Os níveis de bolsa continuam, portanto, sendo de doutorado (pleno e sanduíche) e pós-doutorado. Até 1995, O CNPq computava esses custos em dólares americanos. A partir de 1996, esse registro passa a ser em Reais. O dólar variou bastante em relação ao Real no período estudado, e a Figura 3 representa gastos com as duas moedas, sem conversão. Por isso, faz mais sentido considerar os dispêndios a partir de 1996. Nesse caso, vemos que vem havendo declínio até chegar a zero em 1999 e 2000.
+
+
+
+
+
+Figura 2 - Formação de Recursos Humanos no Exterior em Ciência da Informação. Dispêndio com bolsas por modalidade no período 1994-2000 2.1.2 Bolsas de Formação de Recursos Humanos no País
+
+A atuação do CNPq na formação de pesquisadores no país é realizada por meio de concessão de bolsas de níveis e modalidades diversas, como exposto na seção 5 deste texto. Os dados correspondentes ao período entre 1994 e 2000, expostos nas Figura 3 (quantidade de bolsas por modalidade) e Figura 4 (dispêndio), mostram alguns aspectos interessantes. As bolsas de Iniciação à Pesquisa, concedidas a alunos de graduação, se destacam quanto à quantidade, mas seu custo unitário é baixo. Essas bolsas são concedidas de duas maneiras: por quota à instituição onde o bolsista estuda, por meio do PIBIC e por quota ao pesquisador. No primeiro caso, têm a intenção de formar e estimular novos talentos e no segundo, além disso, permitir ao aluno participar de pesquisa conduzida por pesquisador também bolsista. Esse fato deve ser levado em conta quando se avalia apenas a quantidade de bolsas. No início do período, o CNPq concentrou seus esforços em bolsas de mestrado, que perdem espaço, no fim do período, para bolsas de apoio à pesquisa e iniciação científica. A concessão de bolsas para doutorado no país, no período, manteve-se estável. O fato novo, em 1999-2000, são as bolsas de iniciação tecnológica industrial, refletindo novo rumo nas políticas do Ministério do desenvolvimento e CNPq.
+
+
+
+
+
+Figura 3 - Formação de Recursos Humanos no País em Ciência da Informação por modalidade . Quantidade concedida no Período 1994-2000
+
+
+
+
+
+Figura 4 - Formação de Recursos Humanos no País em Ciência da Informação por modalidade Dispêndio no período 1994-2000 A relação dispêndio / quantidade de bolsas não se mantém estável no período. A Figura 5 mostra o total de bolsas concedidas e o dispêndio havido entre 1994-2000, para a área de Ciência da Informação. Note-se que enquanto a quantidade de bolsas concedidas se mantém estável, o dispêndio varia, mostrando aumento considerável no final do período. Esse dados podem estar refletindo os efeitos da política financeira de estabilidade da moeda no início do período e também o aumento de bolsas de iniciação científica, de baixo custo.
+
+
+
+
+
+Figura 5 - Formação de Recursos Humanos no País - Quantidade de Bolsas e Dispêndio, todas as modalidades, 1994-2000. 2.2. Fomento à Pesquisa em de Ciência da Informação período 1994-2002
+
+Desde o seu início como agência financiadora, o CNPq assumiu como uma de suas principais responsabilidades o fomento à pesquisa. Sua atuação é implementada principalmente por meio de concessão de bolsas e de auxílio para aquisição de materiais e serviços necessários a pesquisa, inclusive viagens, aos pesquisadores cujos projetos são aprovados e classificados por mérito, no exame realizado pelos avaliadores ad hoc e membros da Comissão específica (CA). A bolsa de produtividade em pesquisa (PQ) é hoje a modalidade mais solicitada por pesquisadores da área de Ciência da Informação, também concedidas dentro do chamado Auxílio Integrado (AI). Esta última modalidade permite, além da solicitação de bolsa para o pesquisador responsável pelo projeto, a solicitação de bolsas complementares por quotas, para membros de sua equipe. Os auxílios para aquisição de materiais e viagens têm se tornado bem mais difíceis de obter. As seções a seguir mostram separadamente dados relacionados à concessão de bolsas de produtividade em pesquisa (PQ) e de outros auxílios á pesquisa. Nesta seção serão descritos os dados referentes aos auxílios à pesquisa e em seguida os dados referentes
+
+2.2.1 Auxílios à pesquisa concedidos à Ciência da Informação período 1994-2002
+
+A Figura 6 mostra a quantidade de concessões de auxílios, inclusive bolsas, por modalidade, concedidas entre 1994 e 2000. Nota-se acentuado declínio nas curvas. Quanto ao dispêndio do CNPq (Figura 7) para sustentação desses auxílios à pesquisa, no período, os dados mostram um aumento nos gastos que não encontra paralelo no gráfico que representa quantidade. Salvo engano, pode-se deduzir que o custo desses eventos aumentou. Da mesma forma, o número de bolsas de pesquisa permaneceu relativamente estável, mas os custos subiram.
+
+
+
+
+
+Figura 6 - Fomento à Pesquisa em Ciência da Informação:
+
+Quantidade de concessões por modalidade de auxílio e ano 1994-2000
+
+
+
+
+
+Figura 7 - Fomento à Pesquisa em Ciência da Informação -
+
+dispêndio por modalidade e ano 1994-2000
+
+3. Fomento à Ciência da Informação - 2002
+
+Os dados mostrados a seguir se referem a situação da área no ano de 2002.
+
+3.1 Bolsas de pesquisa concedidas à Ciência da Informação - 2002 - distribuição segundo região do país, subárea da Ciência da Informação e nível.
+
+Nesta seção serão considerados dados relacionados a distribuição das bolsas segundo critérios ainda não demonstrados: região geográfica do país, nível e subárea da Ciência da Informação, relativos ao ano de 2002. Vale lembrar que os valores das bolsas concedidas pelo CNPq aos pesquisadores/bolsistas diferem segundo uma classificação baseada no curriculum vitae do pesquisador agraciado. Os critérios principais são titulação, produtividade, e senioridade ou anos de formado. São dois níveis, I e II, os quais são divididos em três categorias, A, B e C, sendo o nível IA o mais alto.
+
+A Tabela 2 mostra a distribuição por regiões do País e nível de bolsas de produtividade em vigência no segundo semestre de 2002. Nota-se a concentração de benefícios na região Sudeste, onde estão situados o curso mantido pelo convênio IBICT/UFRJ e a UFMG. A segunda região mais agraciada é o Centro Oeste, mas o número de bolsas é bem menor.
+
+
+
+Tabela 2 - Bolsas de produtividade em pesquisa ciência da informação - distribuição por nível/categoria e região - vigentes em 2002
+
+Nível/
+
+Categoria N NE CO SE S TOTAL
+
+I-A 0
+
+0
+
+1
+
+1
+
+0
+
+2
+
+
+
+I-B 0
+
+0
+
+0
+
+2
+
+0
+
+2
+
+
+
+I-C 0
+
+0
+
+0
+
+3
+
+0
+
+3
+
+
+
+II-A 0
+
+0
+
+1
+
+3
+
+0
+
+4
+
+
+
+II-B 0
+
+0
+
+0
+
+2
+
+0
+
+2
+
+
+
+II-C 0
+
+1
+
+2
+
+6
+
+1
+
+10
+
+
+
+TOTAL 0
+
+1
+
+4
+
+17
+
+1
+
+23
+
+
+
+
+
+Fonte: relatório Operacional - CNPq - (/09/2002) A Tabela 3 mostra a distribuição das mesmas bolsas de produtividade em pesquisa retratados na Tabela 2, mas agora por subárea da Ciência da Informação e nível. A Ciência da Informação é considerada no CNPq como área ampla que apresenta algumas subáreas. Essas subáreas, no entanto, não exercem influência na distribuição de bolsas, isto é, não há esforço em manter equilíbrio entre elas na distribuição benefícios. Os critérios que nortearam a escolha dessas subáreas não são conhecidos ou divulgados. Alguns pesquisadores usuários do sistema CNPq talvez não estejam conscientes dessa divisão que, na verdade, pode ser questionada. Segundo os dados da Tabela 2 e 3 havia 23 pesquisadores recebendo bolsas no semestre retratado. Entre os agraciados com bolsas de produtividade, há 2 pesquisadores IA e 10 pesquisadores IIC.
+
+
+
+Tabela 3 - Bolsas de produtividade em pesquisa ciência da informação - Distribuição de bolsas vigentes em 2002 por sub-área e nível/categoria - vigentes em 2002
+
+ÁREA/SUBÁREAS NÍVEL/CATEGORIA
+
+I
+
+NÍVEL/CATEGORIA
+
+II TOTAL
+
+A
+
+B C
+
+A
+
+B
+
+C
+
+
+
+CIÊNCIA DA INFORMAÇÃO 2
+
+1
+
+2
+
+3
+
+-
+
+5
+
+13
+
+
+
+TEORIA DA INFORMAÇÃO 0
+
+0
+
+1
+
+0
+
+1
+
+3
+
+5
+
+
+
+PROCESSOS DA INFORMAÇÃO 0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+
+
+BIBLIOTECONOMIA 0
+
+0
+
+0
+
+1
+
+1
+
+2
+
+3
+
+
+
+TEORIA DA CLASSIFICAÇÃO 0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+
+
+MÉTODOS QUANT. BIBLIOMETRIA 0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+
+
+TEC. DE REC. DA INFORMAÇÃO 0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+
+
+PROC. DE DISSEM. DA INFORMAÇÃO 0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+
+
+TOTAL 2
+
+2
+
+3
+
+4
+
+2
+
+10
+
+23
+
+
+
+
+
+3.1 Situação da Ciência da Informação em relação ao conjunto de áreas
+
+Conforme já mencionado, na classificação de áreas do CNPq, a Ciência da Informação é uma das Ciências Sociais Aplicadas. Em relação ao conjunto de todas as áreas financiadas pela agência, as áreas classificadas como Ciências Sociais Aplicadas - Comunicação, Ciência da Informação, Artes e Turismo - ocupam um espaço relativamente pequeno no orçamento.
+
+2.3.1 Bolsas de Formação no Exterior - 2002
+
+A Figura 8 e Tabela 4 mostram a situação de bolsas de formação no exterior vigentes no primeiro semestre de 2002, para todas as áreas e parcela que coube às ciências Sociais Aplicadas e à Ciência da Informação. Devido ao contingenciamento orçamentário imposto pelo governo em 2002, houve limitação de concessões para essas modalidades.
+
+
+
+
+
+Figura 8 - Formação no Exterior - Quantidade de bolsas por modalidade, 1º semestre 2002: Todas as áreas, Ciências Sociais Aplicadas e Ciência da Informação
+
+
+
+
+
+Tabela 4 - Formação no Exterior - Quantidade de Bolsas Vigentes por Modalidade /área - Referente: 2002
+
+
+
+MODALIDADES DE BOLSAS
+
+TODAS AS ÁREAS
+
+CIÊNCIAS SOCIAIS APLICADA
+
+CIÊNCIA DA INFORMAÇÃO
+
+
+
+QTD
+
+%
+
+QTD
+
+%
+
+QTD
+
+%
+
+
+
+ESTAGIO SENIOR 2
+
+0,32
+
+1
+
+50
+
+0
+
+0
+
+
+
+TREIN. NO EXTERIOR (LONGA DURAÇÃO) 3
+
+0,48
+
+0
+
+0
+
+0
+
+0
+
+
+
+APERFEIÇOAMENTO 7
+
+1,12
+
+1
+
+14,29
+
+0
+
+0
+
+
+
+DOUTORADO PLENO 382
+
+61,12
+
+45
+
+11,78
+
+-
+
+0
+
+
+
+DOUT. SANDUÌCHE 70
+
+11,2
+
+6
+
+8,57
+
+0
+
+0
+
+
+
+PÓS-DOUTORADO 161
+
+25,76
+
+8
+
+4,97
+
+0
+
+0
+
+TOTAL 625 100,00
+
+61
+
+9,79
+
+0
+
+0
+
+
+
+
+
+Fonte: PROSSIGA - 10/02- mestrado e doutorado/ -
+
+2.3.2 Bolsas de Formação no País - 2002
+
+A Tabela 5 e a Figura 9 mostram dados referentes a quantidade de Bolsas de Formação vigentes em 2002 para formação no País, para todas as áreas, e os recortes para Ciências Sociais Aplicadas e Ciência da Informação.
+
+
+
+Tabela 5 - Bolsas de Formação no País - Quantidade de Bolsas Vigentes por Modalidade / área- Referente: 2002
+
+Modalidade de bolsas
+
+Todas as áreas
+
+Ciências Sociais aplicadas
+
+Ciência da Informação
+
+
+
+QTD
+
+%
+
+QTD
+
+%
+
+QTD
+
+%
+
+
+
+Mestrado 5442
+
+18,25
+
+479
+
+8,80
+
+9
+
+1,88
+
+
+
+Doutorado 5675
+
+19,03
+
+241
+
+4,25
+
+3
+
+1,24
+
+
+
+Pós-Doutorado 60
+
+19,03
+
+1
+
+1,67
+
+0
+
+0
+
+
+
+Aperfeiçoamento 12
+
+0,2
+
+0
+
+0
+
+0
+
+0
+
+
+
+Iniciação científica em AI 4,718
+
+0,04
+
+375
+
+7,95
+
+27
+
+7,2
+
+
+
+Iniciação científica em PIBIC 13041
+
+15,82
+
+1016
+
+7,79
+
+55
+
+5,41
+
+
+
+Iniciação Tecnológica e Industrial 846
+
+43,76
+
+120
+
+4,18
+
+1
+
+0,83
+
+
+
+Treinamento no País Longa Duração 28
+
+2,89
+
+1
+
+3,57
+
+0
+
+0
+
+
+
+Total 29822
+
+100
+
+2245
+
+7,527
+
+95
+
+0,318
+
+
+
+
+
+Fonte: PROSSIGA - 10
+
+
+
+
+
+Figura 9 - Pesquisa no País - Bolsas vigentes em 2002 por modalidade e área
+
+2.3.3 Bolsas de Pesquisa no País vigentes em 2002
+
+A duração de bolsas de pesquisa concedidas pelo CNPq é normalmente de 2 anos, renovável. A Tabela 6 mostras a quantidade de bolsas de pesquisa no País por modalidades, vigentes no 1ºsemestre de 2002, para todas as áreas e recorte para as Ciências Sociais Aplicadas e Ciência da Informação. Os percentuais se referem a relação do segmento ao total de todas as áreas. A Figura 10 mostra os recortes.
+
+
+
+Tabela 6 - Bolsas de Pesquisa vigentes por modalidade e área: todas as áreas, Ciências Sociais Aplicadas e Ciência da Informação. Primeiro semestre de 20002
+
+Modalidade de bolsas
+
+Todas as áreas Ciências Sociais Aplicadas Ciência da Informação
+
+QTD
+
+%
+
+QTD
+
+%
+
+QTD
+
+%
+
+
+
+Recém Doutor 318
+
+2,66
+
+13
+
+4,09
+
+0
+
+0
+
+
+
+Produtividade em pesquisa 7747
+
+64,92
+
+162
+
+5,96
+
+23
+
+4,98
+
+
+
+Pesquisador Visitante 127
+
+1,06
+
+7
+
+5,51
+
+1
+
+14,29
+
+
+
+Desenvolvimento Científico Regional 157
+
+1,32
+
+3
+
+1,91
+
+0
+
+0
+
+
+
+Apoio Técnico à Pesquisa 2070
+
+17,35
+
+121
+
+5,85
+
+10
+
+8,26
+
+
+
+Desenvolvimento técnico e industrial 1451
+
+12,16
+
+500
+
+34,46
+
+0
+
+0
+
+
+
+Especialista visitante 63
+
+0,53
+
+15
+
+23,81
+
+0
+
+0
+
+
+
+Total 11933
+
+100
+
+1121
+
+0,992
+
+34
+
+0,284
+
+
+
+
+
+Fig. 10-a
+
+
+
+
+
+Fig. 10-b
+
+
+
+
+
+Fig. 10-c
+
+
+
+
+
+Figura 10 - Bolsas de Pesquisa vigentes em 2002, pesquisadores - Todas as Áreas, Ciências Sociais Aplicadas e Ciência da Informação, - Percentagem
+
+
+
+2.3.4 Auxílios à Pesquisa no País vigentes em 2002
+
+Os auxílios à pesquisa são aqui mostrados em três modalidades: Pesquisador Visitante, Auxílio Individual à Pesquisa e Auxílio Integrado à Pesquisa. A Figura 11 e Tabela 7 mostram o financiamento à pesquisa por modalidade de projetos de pesquisa vigentes no primeiro semestre de 2002, isto é, novos e em andamento, sob três perspectivas: todas as áreas, Ciências Sociais Aplicadas e Ciência da Informação em relação a todas as áreas.
+
+
+
+
+
+Figura 11- Projetos de pesquisa, modalidades vigentes em 2002: Todas as Áreas, CiÊncias Siciasi aplicadas e Ciência da Informação
+
+
+
+
+
+Tabela 7 - Distribuição de auxílios por modalidade de projeto de pesquisa em 2002 Todas as áreas, Ciências Sociais Aplicadas e Ciência da Informação
+
+
+
+Modalidade de auxílio
+
+Todas as áreas
+
+Ciências Sociais Aplicadas em relação a todas ás áreas
+
+Ciência da Informação em relação a todas as áreas
+
+
+
+QTD % QTD % QTD %
+
+Pesquisador Visitante 28 0,82 2 7,14 - -
+
+Auxílio individual à pesquisa 2898 84,16 99 3,42 6 O,20
+
+Auxílio integrado à pesquisa 517 15,02 19 3,68 7 1,35
+
+TOTAL 3443 100 120 3,48 13 0,38
+
+
+
+4. Resumo dos Dados e Discussão
+
+O levantamento realizado mostrou que o CNPq, no que diz respeito à Ciência da Informação, tem direcionado seus esforços de fomento para dois alvos: formação de recursos humanos para pesquisa e auxílio aos pesquisadores. Assim, o levantamento foi organizado segundo esses dois aspectos, tendo sido coletados dados relacionados á quantidade de bolsas ou auxílios e ao dispêndio relacionado a essas bolsas ou auxílios. Na verdade, há uma certa sobreposição entre os dois aspectos, visível, por exemplo, em bolsas do tipo pós-doutoramento ou iniciação à pesquisa concedidas por quota ao pesquisador. Na verdade, todas as ações de fomento dirigidas à formação de recursos humanos envolvem pesquisa.
+
+Com relação ao fomento destinado á formação de recursos humanos, foram apresentados dados de bolsas para estudo no exterior e no país. Os cursos de doutorado, nas área de Ciência da Informação, são relativamente recentes no Brasil, datando, quase todos, da década de 90. Os dados mostraram que as concessões para estudo no exterior, para esse nível, sobem um pouco de 1994 para 1995, mas, daí em diante, apresentam queda vertiginosa atingindo zero em 1999 e 2000. Em 1995 começam a aparecer as bolsas de doutorado "sanduíche", uma forma mais barata de estudar no exterior e talvez também mais conveniente para quem não pode se ausentar do país por quatro anos. Atingem o auge em 1997, caindo para zero em 1999 e 2000. Bolsas de pós-doutorado no exterior foram concedidas nos anos de 1994, 1995 e 1996. Esses dados levantam preocupações quanto a formação de pesquisadores. É importante para uma área com as características da Ciência da Informação manter contatos com os países mais desenvolvidos. Além das vantagens advindas do estágio mais adiantado em que o país hospedeiro certamente está (se não se justificaria a concessão da bolsa), a prática têm demonstrado que do contato entre orientador e orientando e entre esse e seus colegas internacionais nascem parcerias interessantes para o recém doutor e para sua área, no Brasil. Acesso mais fácil a espaço para publicação em periódicos de primeira linha, convites para participação em comitês editoriais, colaboração em pesquisas, convênios entre instituições, entre outros, têm sido registrados em várias áreas do conhecimento e também em Ciência da Informação.
+
+Os dados relacionados às bolsas para formação de recursos humanos no Brasil mostram aspectos interessantes, entre os quais o crescimento de bolsas de iniciação científica. Este é um investimento para o futuro, promissor em termos de quantidade - resta esperar que vingue. Já as bolsas de doutorado se mantiveram estáveis entre 1995 a 2000. Tem sido possível observar na prática dos cursos, especialmente em Brasília, que a exigência, em relação ao bolsista, da não existência de vínculos trabalhistas de nenhuma espécie, limita a solicitação a essas bolsas. De um lado, sozinhas elas não são suficientes para sustentar o bolsista e sua família, principalmente quando os estudos exigem mudança para outra cidade. De outro lado, a renda familiar do bolsista, sem a bolsa, nem sempre é suficiente. Não se pode inferir do numero limitado de bolsas que a demanda pelos cursos tenha caído. Mas, dado que os cursos de pós-graduação não são todos iguais, privilegiando áreas específicas de concentração e linhas de pesquisa distintas, a dificuldade de mobilidade do estudante impede que a escolha do curso seja baseada em interesse e se torne questão de conveniência.
+
+O dispêndio registrado para todos os tipos de bolsa de formação de recursos humanos entre 1994 e 2000 apresentou aumento desproporcional à quantidade, apesar de ter sido um período de relativa estabilidade financeira, especialmente nos anos iniciais. Esse fato provavelmente teve influência no decréscimo do volume de auxílios concedidos.
+
+Enquanto a formação de recursos humanos para á área de Ciência da Informação tem recebido apoio de outras entidades, especialmente da CAPES, mas também de instituições com as quais os alunos mantém vínculos trabalhistas, o financiamento de pesquisas tem sido mais dependente do CNPq. Os dados coletados sobre fomento á pesquisa considerou sobretudo a concessão de bolsas aos pesquisadores e auxílios vinculados aos projetos. Houve um decréscimo no volume em todas as modalidades e aumento nos dispêndios, como no caso das bolsas de formação de recursos humanos. O dados mostraram uma pequena elevação no volume de auxílio, para o ano 2000 em relação ao ano 1999, mas ainda insuficiente para caracterizar uma tendência.
+
+Os dados para o ano de 2002 mostram o retrato atual da área. Havia, em 2002, 23 bolsas de produtividade vigentes. Se considerado em termos absolutos, em relação ao conjunto de áreas e mesmo em relação às Ciências Sociais Aplicadas, entre as quais se insere a Ciência da Informação, seu o espaço é bastante reduzido. Segundo Pinheiro, havia em 2000 pelo menos 913 pesquisadores potenciais na área de Ciência da Informação, número que corresponde aos formados nos programas brasileiros em nível de mestrado (848) e doutorado (65). A mesma autora informa ainda serem, na época, 179 os sócios da ANCIB, a sociedade científica que congrega os pesquisadores da área. Mas, considerando apenas o tamanho da comunidade de pesquisadores atuantes em 2000, que poderia ser estimada, grosso modo, em cerca de 60 a 120 pesquisadores[2], o número de bolsas concedidas representaria entre um terço a um sexto da comunidade, proporção que, ainda que longe de ser satisfatória, também não é insignificante.
+
+Por outro lado, a estagnação do número de bolsas e auxílios preocupa bastante. A área teve um crescimento significativo no início da década de 90. O Relatório de Atividades do CNPq, referente ao ano de 1993 (anterior portanto do período aqui considerado), na seção Sumário sobre a área de Ciência da Informação, apontava a insipiência da atividade de pesquisa na área. Seu estágio de desenvolvimento justificou a concentração de esforços para a capacitação de recursos humanos para atender as demandas dos cursos de pós-graduação então emergentes. Os dados levantados mostraram o resultado do esforço, um aumento no número de bolsas de mestrado e especialmente doutorado concedidos em 1994 e 1995.
+
+Com relação à pesquisa, em 1990, segundos fontes do CNPq, o sistema de bolsas de produtividade em pesquisa (PQ) contemplava apenas cinco pesquisadores. Em três anos houve um aumento significativo, tendo sido concedidas bolsas a 23 pesquisadores. Os dados apresentados demonstram a estabilidade deste número até o presente e,ainda assim tem conseguido atender a mais ou menos 50% de sua demanda bruta, segundo informações obtidas na própria agência. Essa fato preocupa mais que a dimensão do financiamento à área em relação às demais áreas.
+
+
+
+6. Referências bibliográficas
+
+Miranda, A, Barreto, A. Pesquisa em Ciência da Informação no Brasil, síntese e perspectiva. Revista de Biblioteconomia de Brasília, v.23/24, n.3, p. 277-292, 1999-2000.
+
+Mueller, S P M, Miranda, A., Suaiden, E J. A pesquisa em Ciência da Informação no Brasil: análise dos trabalhos apresentados no IV ENANCIB, Brasília, 2000. Revista de Biblioteconomia de Brasília, v.23/24, n.3, p. 293-308, 1999-2000.
+
+Pinheiro, L V. R. Infra-estrutura da pesquisa em Ciência da Informação no Brasil. Revista de Biblioteconomia de Brasília, v.23/24, n.3, p. 367-392, 1999-2000.
+
+Schwartzman, Simon. Um espaço para a ciência: a formação da comunidade científica no Brasil. Brasília: Ministério de Ciência e Tecnologia, Conselho Nacional de Desenvolvimento Científico e Tecnológico, Centro de Estudos Estratégicos. 2001. 357p.
+

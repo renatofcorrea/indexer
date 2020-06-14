@@ -1,0 +1,410 @@
+As relações entre ciência, Estado e sociedade: um domínio de visibilidade para as questões da informação
+
+
+RESUMO
+
+Se a origem da ciência da informação está marcada pelas alianças de pós-guerra entre ciência, Estado, sociedade, a pesquisa em questões da informação recebe hoje as demandas de articulação dos três principais eixos de integração e avaliação dos conhecimentos, no Brasil e na América latina: o eixo paradigmático, o eixo corporativo e o eixo territorial.
+
+Palavras-chave: Recuperação da informação; Inteligência científica; Integração dos conhecimentos; Estado; Ciência; Sociedade; Informação.
+
+
+INTRODUÇÃO
+
+Para Giorgio Agamben, a época atual seria aquela em que é dada ao ser humano a oportunidade de ter acesso à experiência de seu próprio ser lingüístico; não de seu ser produtor de tais proposições ou tais textos, mas a experiência radical da dimensão lingüística de sua existência simbólica (Agamben, 1998).
+
+O que estaria hoje em jogo não seria já a apropriação ou distribuição do excedente social, como uma forma histórica entre outras de manejo de oportunidades, meios ou recursos. O que estaria em jogo hoje, em todas as esferas do agir e do fazer, em todas as esferas das relações de poder, seria a linguagem e a natureza comunicativa da humanidade. Mas a apropriação alienante daquilo que nos é comum de modo universal, a palavra e a fala (o que os gregos, como Heráclito, denominavam logos), não equivale à privação de um bem comum entre outros bens comuns ou privados; equivale, antes, a privar-nos das condições e possibilidades humanas de estabelecimento daquilo que em comum se designará como bem: o princípio de constituição do que é bem e é comum.
+
+A política é então em geral a definição do bem comum pela reconstituição da condição de sua definição em comum: o cuidado com a comunicação, que é o cuidado com nossa condição humana em suas possibilidades coletivas de dignidade e de felicidade.
+
+A leitura deste acontecimento histórico e existencial pode se fazer desde Desbord e seu conceito de "sociedade do espetáculo" – radicalizando o momento de alienação – ou como Paulo Freire, Habermas, Lazaratto, que, em posições quiçá bem distantes entre sim, acreditam, porém, que, no mesmo ponto do risco radical de alienação – ou de uma comunicação sistematicamente distorcida –, estariam a instalar-se a possibilidade, o desejo e o esforço pela emancipação.
+
+Não é banal, de fato, a força estrutural e estruturante dos dispositivos contemporâneos de comunicação e informação – dos mediáticos aos pós-mediáticos – sobre nossas possibilidades de realização pessoal e coletiva, em situação de compartilhar ações e significados em intersubjetividades ancoradas em tempos e espaço específicos.
+
+Para nos referirmos a essa dimensão estrutural, que produz um ex ante a toda ação de transferência de informação, independente de nossos desejos e competências singulares, elaboramos o conceito de "regime de informação"2. "Regime de informação" seria o modo de produção informacional dominante em uma formação social, o qual define quem são os sujeitos, as organizações, as regras e as autoridades informacionais e quais os meios e recursos preferenciais de informação, os padrões de excelência e os modelos de sua organização, interação e distribuição, vigentes em certo tempo, lugar e circunstância, conforme certas possibilidades culturais e certas relações de poder. Um "regime de informação" se desdobra, logo, em um conjunto mais ou menos estável de redes formais e informais nas quais as informações são geradas, organizadas e transferidas de diferentes produtores, por muitos e diversos meios, canais e organizações, a diferentes destinatários ou receptores de informação, sejam estes usuários específicos ou públicos amplos.
+
+Um regime de informação se reconhece por suas linhas de força dominantes; gera formas próprias de autoridade, assim como a autoria no "regime" do livro, o editor, no regime do periódico científico, autoridades que mudam de figura, alcance e jurisdição quando muda o regime de informação.
+
+Consideramos, anteriormente, que:
+
+"A sociedade da informação poderia ser entendida como aquela em que o regime de informação caracteriza e condiciona todos os outros regimes sociais, econômicos, culturais, das comunidades e do Estado. Nesse sentido, a centralidade da comunicação e da informação produziria a maior dispersão das questões políticas da informação, perpassada e interceptada por todas as outras políticas: as públicas e as informais, as tácitas e as explícitas, as diretas ou indiretas" (González de Gómez, 1999).
+
+Para reconstruir o horizonte de desenvolvimento da pesquisa em ciência da informação, podemos afirmar, agora, que essa centralidade histórica da comunicação e da informação produz a maior dispersão das questões da informação nos diferentes domínios e áreas de geração de conhecimento científico-tecnológico e entre as diversas instituições e agências com interesses nesse campo.
+
+Na década de 90, assim como o Estado e a universidade são questionados acerca de seu papel de atores únicos ou protagônicos na construção de um sujeito institucional da pesquisa, de modo similar a ciência da informação terá de partilhar muitas de suas questões com outros saberes que lidam com a linguagem, o conhecimento e a comunicação. Será necessária uma análise mais cuidadosa para esclarecer melhor quando e como podemos reconhecer uma autêntica transversalidade, onde o encontro transdisciplinar produz uma junção irreversível de questões e saberes, e quando se trata de uma intervenção hegemonizadora, que busca recodificar todos os plurais aportes conceituais e informacionais em uma linguagem paradigmática privilegiada.
+
+É à luz destes acontecimentos e perguntas que, a nosso ver, retomaríamos a reflexão acerca da pesquisa e a ciência da informação3, bem como acerca da singularidade de sua voz nas novas polifonias transdisciplinares.
+
+
+
+PRINCIPAIS FATORES QUE LEVARIAM À CONSTITUIÇÃO DO DOMÍNIO DE PESQUISA
+
+Nem sempre é fácil diferenciar, seja em forma conceitual ou factual, a política em ciência e tecnologia (PCT), a política de informação científico-tecnológica (PICT) e as políticas de pesquisa em ciência da informação: além de seu caráter geralmente implícito e de sua configuração como políticas tácitas e indiretas, elas foram constituídas em processos e domínios de relações intrínsecas e de influências recíprocas, ainda que não necessariamente assumidas e intencionais.
+
+A enunciação de uma política de informação científica e tecnológica, no contexto das políticas de ciência e tecnologia, teria aberto um novo espaço para as questões informacionais no desenho institucional do Estado ocidental de pós-guerra, questões estas que estariam ligadas aos projetos de desenvolvimento ou de segurança e desenvolvimento.
+
+Seria à luz dessa problematização abrangente que se abre uma nova frente de pesquisa em torno da informação – um conceito quase metafórico para designar uma pluralidade de produtos, insumos, relações e dispositivos constituídos nas mais longas e complexas cadeias das atividades científico-tecnológicas, as investigativas e as decisórias, as heurísticas e as disseminadoras.
+
+È importante lembrar que em diferentes momentos e circunstâncias, as relações entre a ciência, a sociedade e o Estado adquirem diferentes figuras; não é de fato uma relação atemporal e absoluta. Em conseqüência, serão igualmente reformulados a definição dos regimes de informação e o lugar que nele ocupam as autoridades, as regras e os recursos destinados à formação de memórias científicas e de redes de transferência de informação, assim como as diferentes instituições e agências que vão intervir na mediação e monitoramento das relações entre as esferas de geração e de destinação da produção científica.
+
+Ao final da década de 30, uma concepção social da ciência, sob a pressão estrutural das forças produtivas e a interpretação "universalizadora" do Estado, projetada pela revolução soviética, teve influência significativa sobre as comunidades científicas ocidentais, colocando em pauta a responsabilidade dos cientistas. Entre os que se assumem defensores dessa proposta, teríamos o cientista inglês e historiador da ciência John D. Bernal4, que em 1939 publica The social function of science: what science is and what science could do. O cientista seria um dos principais participantes da Conferência da Royal Society of Science, Londres, 1948, na qual teve destaque a questão informacional. Nela teria colocado suas preocupações com a comunicação científica, para ele ineficaz e caótica, considerando, entre outras medidas corretivas, que o intercâmbio de pré-prints deveria tomar o lugar do periódico científico. Bernal considerava que a comunicação científica seria o cenário ideal da aplicação da engenharia da comunicação, ainda que contradissesse as tradições vigentes no campo.
+
+Interessa-nos destacar que, nesta visão da ciência em sua função social, coloca-se a ênfase na comunicação científica, ficando o conhecimento associado ao conhecedor, de maneira indissociável. Acentua-se assim a potência de transformação da ciência enquanto formadora de competências, incorporadas logo nos sujeitos individuais ou coletivos.
+
+Na década do 60, veríamos a emergência de uma outra abordagem, que enfatizará os produtos da atividade científica e desenvolverá uma representação objetivadora da produção de conhecimentos científicos, plausível de leituras e intervenções externas e quantitativas.
+
+É nessa conjuntura, coincidente com a reformulação do papel da ciência conforme o modelo estratégico da "big science", que aumentará o papel da gestão científica no processo de geração e aplicação dos conhecimentos. Será assim, em função da intervenção político-administrativa em planejamento, gestão, monitoramento e avaliação das atividades e dos resultados de empreendimentos científicos – complexos e em grande escala –, que começará a ganhar vulto a leitura "científica" dos parâmetros externos e observáveis da produção científica, das instituições de pesquisa e dos pesquisadores. A "inteligência científica" (Weinberg, 1963) não seria agora uma objetivação das competências dos cientistas, mas a expressão de uma "filosofia administrativa" (Weinberg, 1995) que vai enfatizar esse olhar objetivador sobre as comunidades de pesquisa.
+
+Sem pretender uma leitura histórica, apontaremos alguns fatos e idéias que contribuem para ilustrar esta releitura da emergência e valorização das questões informacionais. Colocaremos como limite do olhar retrospectivo os anos de pós-guerra (Pinheiro, 2002) e o desenvolvimento dos modelos de política e gestão que foram projetados sobre o mundo ocidental a partir da nova hegemonia dos Estados Unidos. Esses modelos terão forte influência – por meio de suas realizações intelectuais e tecnológicas, assim como de organizações de cooperação internacional, como a Unesco – sobre a Europa e a América Latina, de modo que seria pertinente lembrar alguns fatos principais.
+
+Dois relatórios, o de Vannevar Bush, em 1945, e o de Weinberg, em 1963, estabelecem algumas das premissas conforme as quais se pretendia reformular o contrato que, no período da guerra, tinha causado uma relação intensa entre a geração de conhecimentos científicos e o Estado, contrato a ser traduzido primeiro em termos da Guerra-Fria, e as metas de segurança e desenvolvimento, e, nas últimas décadas, no escopo e abrangência preferencial da economia de mercado. Trata-se, porém, de propostas e momentos diferentes.
+
+Bush, engenheiro do MIT e então diretor da Office of Scientific Research and Development, do governo federal, apoiando-se no sucesso do Programa Nuclear e no papel que a pesquisa em física, de forte teor experimental e teórico, teve no seu desenvolvimento, sustentava que os investimentos em pesquisa redundavam em benefícios estratégicos para o país e, pelo tanto, era responsabilidade do Estado manter a oferta de recursos que teriam fluído em abundância durante a guerra.
+
+Considerava, ao mesmo tempo, que deveria manter-se a independência da ciência na definição das agendas de pesquisa, dos procedimentos de sua realização e autonomia e liberdade da comunicação científica, como garantia de obtenção de resultados de qualidade, mantendo-se os critérios científicos de excelência. Tratava-se, assim, de sustentar:
+
+"...o livre jogo dos intelectos livres, trabalhando em assuntos de sua própria escolha, na maneira que lhes for ditado pela sua curiosidade para explorar o desconhecido". (Bush, 1945)5
+
+A publicação do relatório de Vannevar Bush, Science: The Endless Frontier, em 1945, teria influenciado para que, em 1950, fosse criada a National Science Foundations (NSF), agência que assumiria a oferta de estímulo e recursos à pesquisa básica.
+
+Das idéias de Bush, o que ficaria mais fortemente registrado na história da política científica seria o paradigma da autonomia da pesquisa básica6, como em si mesma valiosa e necessária para o desenvolvimento tecnológico e industrial de um país.
+
+Para Crow (CSPO,1996), as teses de Vannebar Bush só seriam "aparentemente" contraditórias. Por um lado, defende a autonomia da ciência em relação aos processos políticos, a auto-regulação da atividade científica pelos cientistas, conforme regras incorporadas à cultura do grupo. Afirma aliás que o modo acadêmico de produção de conhecimentos assenta-se nas realizações individuais dos cientistas e no desempenho "individual" de cada disciplina. Por outro lado, sustentaria que a busca de objetivos próprios da ciência não impede a obtenção de benefícios em contextos de resolução de problemas.
+
+O ethos individual do cientista e as iniciativas autônomas de pesquisas verticais e altamente especializadas convergem para Bush em uma figura unificada e nacional da ciência, tal como por obra da "mão invisível" que Polanyi trasladaria da economia de mercado para a produção de conhecimentos científicos.
+
+Um outro momento significativo aconteceria na década de 60, quando era visível e intensa a revisão do contrato da ciência com o Estado e a sociedade. De maneira desordenada, poderíamos lembrar a respeito desde os críticos da escola de Frankfurt – em especial Marcusse e seu "One dimensional man" – aos novos estudos da história e sociologia da ciência, entre eles os dos chamados pós-empiricistas, com nomes da importância de Kuhn, Lakatos, Feyerabend, Toulmin, Polanyi.
+
+Pode-se dizer que encontros, números temáticos de periódicos reconhecidos, como o Minerva7, assim como relatórios oficiais dos governos mais envolvidos com os programas de ciência e tecnologia testemunhavam o alcance e relevância da questão.
+
+É nesse período que ficará estabelecida uma relação íntima e problemática entre a inovação no domínio das atividades e tecnologias de informação e o desenvolvimento científico-tecnológico, formulando-se um modelo de políticas de informação científico-tecnológica, já clássico nos estudos da ciência da informação.
+
+Como narrador desse momento, buscaremos agora Alvin Weinberg, físico nuclear, ideólogo da "big science" e de uma nova burocracia de gestão da ciência pelas agências do Estado.
+
+O termo "big science" seria cunhado pelo físico na introdução de um ensaio denominado Impacto da Ciência em grande escala nos Estados Unidos, publicado na revista Science, 1961. A nova expressão referir-se-ia não só à mudança de escala do empreendimento científico, mas também à pluralidade de parcerias e filiações institucionais dos atores e comunidades participantes. Pela mudança de escala, por transpor as dicotomias entre ciência pura e aplicada e pela definição teleológica ou orientação finalística, a "big science" ficaria próxima do que no Manual Frascatti, no horizonte da Comunidade Européia, denominar-se-ia "pesquisa estratégica".
+
+Trata-se de um novo modelo de organização da produção dos conhecimentos, em grandes programas de pesquisa "orientados por missão", os quais, para serem viabilizados, requerem a participação de mais de um grupo e instituição de pesquisa, assim como a coordenação efetiva entre o governo federal, a universidade e o setor privado, interagindo de modo cooperativo.
+
+Confiava-se assim que a "big science", na qual desapareceriam as fronteiras entre as já velhas categorias de ciência pura e ciência aplicada, poderia resolver os dois grandes dilemas da sociedade: a carência de suficientes recursos de energia e os crescentes desequilíbrios e complexidade entre a capacidade humana de entendimento e a expansão desmedida e crescente de seu meio ambiente semântico, o "dilema informacional", conforme Weinberg.
+
+Podemos pensar que o dilema da energia e o dilema da absorção de informações em um ambiente semântico complexificado, juntamente, irão gerar linhas paralelas de problematização e pesquisa, assim como demandas de informação visando à obtenção de respostas e resultados.
+
+Nesse contexto, as ações de pesquisa e as ações de informação integrarão um mesmo domínio de orientações estratégicas e, em conseqüência, a política e gestão da informação formarão parte do mesmo plano decisional e prospectivo ao qual pertence a política e gestão da ciência e da tecnologia – agora reunidos em um só paradigma epistêmico-administrativo.
+
+Entre as medidas adotadas na direção proposta naquele relatório, estaria a criação de 300 centros de informação científico-tecnológica e, posteriormente, o Committee on Scientific and Technical Information (Cosati), visando a atender à demanda de coordenação de uma rede descentralizada de centros e sistemas de ICT independentes e cooperativos.
+
+Weinberg considerava que o modelo da "big science" poderia resolver tanto as questões referentes à insuficiência de fontes de energia quanto as referentes ao desajuste (imbalance) entre a capacidade individual de entendimento e a 'proliferação' do ambiente semântico (semantic environment) (Weinberg, 1961, citado em Bicalho).
+
+As respostas aos problemas próprios dos dilemas da informação, porém, serão diversas. No segundo capítulo do relatório intitulado Atributes and Problems of the Information Transfer Chain and of Information Systems (1963), Alvin Weinberg começa por destacar a heterogeneidade e multiplicidade dos problemas da transferência de informação, já que, além de estar constituída por muitos processos separados e por diversos sistemas de informação, cada sistema deverá ser desenhado para atender a uma comunidade diferente.
+
+São em princípio três os atores principais que participam, com papéis e demandas específicos, da comunicação científica, gerando diferentes "cadeias de transferência de informação": pesquisadores, tecnólogos e administradores.
+
+De fato, o dilema informacional colocaria em evidência, por sua exacerbação, dois movimentos constantes da produção do conhecimento: um caracterizado pela tendência à crescente especialização, com a emergência de um número cada vez maior de especialidades com poucas relações entre si – o que tende a fragilizar as potencialidades da ciência para debruçar-se sobre o mundo natural –; outro, a tendência à conectividade, buscando enfeixamento de pontos de vista e competências, estabelecendo pontos de contato entre as especialidades.
+
+Para o pesquisador que se ocupa da pesquisa básica, seria predominante o princípio da especialização, mantendo seu campo de fontes de informação dentro de seu domínio específico de competências e familiaridade; quanto mais difícil lhe for obter mais e novas informações, mais tenderá a encaixar sua pesquisa naquelas zonas onde tem maior controle da informação. Assim, o cientista da pesquisa básica não percebe "o dilema informacional" em toda sua magnitude.
+
+Nesse sentido, o relatório Weinberg enfatiza o papel da literatura científica como um domínio objetivado dos conhecimentos mais diversos e de acesso aberto. Constituída em um corpus significativo de textos e dados, a literatura permitiria estabelecer e ainda antecipar relações entre conhecimentos ainda quando opacos ao olhar singular do pesquisador especializado e distante de suas esferas de interlocução8.
+
+De fato, ao mesmo tempo em que os pesquisadores desenvolvem especialidades cada vez mais estreitas e seletivas, o desenvolvimento da produtividade científica demanda figuras de maior interconexão entre as áreas do conhecimento, sendo as possibilidades de relação incrementadas pela constante expansão dos espaços textuais e temáticos, oferecidos pela literatura científica9.
+
+Os tecnólogos buscariam maior conectividade de múltiplos saberes e competências, já que o limite de suas fontes de informação temáticas ou procedimentais nunca poderia limitar seu campo de interesse, orientados ao desenho de um reator ou uma rede telefônica. O acesso transdisciplinar à informação seria um problema mais premente em áreas tecnológicas e de engenharia que nas áreas da pesquisa dita "básica"10. Nessas áreas, logo, seria mais premente a demanda pela otimização das "cadeias de transferência de informação", com a superação do "dilema informacional": a geração de informação conforme especialidades e sua demanda "não-disciplinada" pelos programas orientados por missão.
+
+O administrador de ciência e tecnologia, por sua vez, deveria examinar e incluir as necessidades informacionais dos pesquisadores da ciência básica e da tecnologia, mas com diferentes ênfases e abordagem. Trata-se de outro critério de agregação e ponto de vista dirigido a configurar a tomada de decisão "inteligente" e informada:
+
+"....o gestor necessita não só dos resultados técnicos de uma pesquisa, mas também precisa conhecer o que está sendo feito por quem, e quem está disponível para fazer aquilo. (...) Em qualquer nível da administração, seja no governo ou numa organização de pesquisa, a inteligência científica é usada pelo administrador quando elabora um programa de pesquisa, propõe um novo projeto ou decide terminar com um antigo projeto" (Weinberg, 1963, p.12)11.
+
+Com esse fim, o relatório formula duas linhas de intervenção informacional: uma, por meio da formalização de estruturas técnico-semânticas de tratamento e recuperação de informação – os "sistemas de informação" – e outra, por meio de mapas metainformacionais, onde, utilizando indicadores de informação como instrumentos de monitoramento e de diagnóstico, serão reconstruídas as estruturas intelectuais e institucionais da ciência, os perfis e a produtividade de cientistas e instituições de pesquisa.
+
+As bases de dados referenciais ofereceriam material para essas "cartografias administrativas", permitindo, mediante conjuntos organizados de informações cadastrais e bibliográficas, diferentes leituras de tendências estruturais da produtividade científica – de uma área do conhecimento, de um pesquisador, de uma instituição, de um país.
+
+A "inteligência científica" poderia assim racionalizar as condições de controle, acesso e uso da informação científico-tecnológica, ainda quando não estiver nas mãos das agências gestoras a redefinição imediata das condições de sua geração pelas próprias práticas de produção dos conhecimentos científicos.
+
+A informação, enquanto objeto de uma ação de informação sobre a informação, gerava assim um domínio aberto à gestão simbólica ou semiótica de uma ciência que não conseguia manter sua unificação espontânea, visivelmente materializada em práticas heterogêneas, dissociadas desde o ponto de vista de seu recorte epistemológico, de sua vinculação institucional, de sua finalidade e de seu espaço de realização e disseminação.
+
+Um mesmo trabalho de pesquisa poderia ser publicado em periódicos especializados ou interdisciplinares e orientados por problemas, ou um trabalho especializado poderia ficar encoberto em uma publicação corporativa, de uma agência que reunisse diversas áreas do conhecimento e diversas competências em torno de sua missão e objetivos.
+
+Os efeitos resultantes de duplicação e justaposição (overlap) de informações aumentariam a "sobrecarga de informação" (overload), adicionando redundância à já explosiva expansão demográfica dos produtores e dos programas de pesquisa. A duplicação, a justaposição e a expansão demográfica geravam assim uma crescente opacidade, em uma ciência que ainda sustentava suas demandas de validade e sua busca de apoio governamental em seu caráter de 'pública'.
+
+Os sistemas intermediários de informação, as bases de dados referenciais e as representações cartográficas e estatísticas de grandes territórios semânticos e institucionais pareciam outorgar novos fundamentos de racionalidade às formas contemporâneas de produção de ciência e tecnologia: a) por meio dos dispositivos de recuperação da informação; b) por meio de dispositivos de monitoramento e de controle metainstitucional e metadisciplinar, que agora forneciam instrumentos de acompanhamento e avaliação às agências encarregadas da administração e política científica.
+
+Em uma entrevista, em 1995, então com 80 anos, Weinberg afirmava que sua contribuição principal para o desenvolvimento científico norte-americano seria ter desenvolvido uma filosofia da administração científica12, orientada a estabelecer critérios seletivos para decisões estratégicas. Conforme já fora destacado, a "inteligência científica" (Weinberg, 1963) seria assim a tese principal dessa "filosofia da administração" (Weinberg, 1995).
+
+Olhar a ciência como resultado de práticas plurais e heterogêneas requeria de fato buscar uma fórmula de racionalidade e um plano de integração de atores, práticas e produtos, pois o que estaria ameaçado não seria só a "governabilidade" da ciência, mas também seu desempenho e eficácia. A "ciência das ciências", de Derek de Solla Price, poderia considerar-se a enunciação conceitual e argumentativa dos dispositivos de gestão gerados para atender a problemas e demandas colocados pelas práticas científicas e administrativas das agências regulatórias.
+
+A busca de um metanível de percepção, reflexão e intervenção dos processos e objetos de informação estaria relacionada, conforme a narrativa Weinberg, às necessidades de uma mobilização dos conhecimentos entre instâncias de diferenciação e especialização e instâncias de conectividade e cooperação.
+
+O plano da política e gestão da informação científico-tecnológica e sua produção de conhecimentos e soluções ficariam geminados aos programas de política científico-tecnológica, sendo que esse enfeixamento de perspectivas e ações teria como ponto de engate as figuras e dispositivos de integração de questões, saberes e recursos. Para Weinberg, esse é o principal "recado de seu relatório", quiçá não sempre compreendido com a devida ênfase nos problemas de vinculação entre o conhecimento e seus contextos de produção e uso.
+
+Tal seria a importância do que Weinberg denomina a "cadeia de transferência de informação – Information Transfer Chain –, em que a principal intervenção informacional é de switching13, de operações de relação, compatibilização e tradução.
+
+Cabe lembrar que, neste momento, trata-se de operações relacionais14 metassemânticas ou paralingüísticas. Tais o papel dos tesauros e as terminologias, os dispositivos de buscas booleanas em bases de dados digitais ou os mecanismos de busca metassintática, baseados no processamento automático da linguagem natural.
+
+Em síntese, poderíamos afirmar que uma das primeiras construções paradigmáticas da ciência da informação reunia já duas vertentes de questões constituídas em um mesmo horizonte de problematização: em torno da "inteligência científica" e da recuperação e busca da informação, utilizando-se para isso tanto das disponibilidades técnicas e procedimentais da década do 60 – muitas construídas em outros ambientes e em períodos anteriores, tais como a computação e as formas iniciais de processamento da palavra –, quanto das novas abordagens, tais como a teoria da informação, as fórmulas e as leis bibliométricas e cientométricas e outras obtidas da leitura de regularidades lingüísticas.
+
+Nos anos 90, três décadas depois, a "inteligência organizacional" e "inteligência competitiva" projetariam aquele paradigma "metainformacional", elaborado em função de uma "inteligência científica", sobre outros domínios organizacionais, tais como as empresas e conforme os novos horizontes estratégicos dos empreendimentos econômicos. O projeto da "ciência das ciências" seria assim traduzido nos termos da "inteligência organizacional", "inteligência competitiva" e da "gestão do conhecimento".
+
+No Brasil, o Estado terá um papel principal no desenvolvimento de programas, recursos e serviços de informação e documentação, seja como dispositivos de modernização da administração pública, na época de Vargas, seja como fator causal da produção científico-tecnológica, na concepção da ciência como fator de desenvolvimento ou de segurança e desenvolvimento15.
+
+Schwartzmann (1991) fala-nos de uma mudança de perspectiva, a partir da pós-guerra, acerca do papel da ciência nas mudanças socioeconômicas e do surgimento de um novo ativismo das elites de cientistas, almejando uma responsabilidade maior em domínios relevantes da vida de seus países.
+
+No Brasil, a relação entre o desenvolvimento científico-tecnológico e sua associação a ações promotoras de informação científico-tecnológica tem um marco de referência, na década de 50, com a criação do Conselho Nacional de Pesquisa (CNPq) e do Instituto Brasileiro de Bibliografia e Documentação (IBBD),
+
+"... o início de um processo de institucionalização e intervenção direta do Estado na formulação de uma política de C&T e de ICT no país; a Lei 1.310, de 1951, que criava o CNPq, atribuíam a este instituto a manutenção de contatos com instituições nacionais e internacionais para o intercâmbio de documentação técnico-científica" (Contribuição de Políticas de ICT, 2001).
+
+A partir da década de 60, será intensificada a intervenção da Unesco16 na promoção de políticas e ações de informação científico-tecnológica, visando a superar o "informational gap" entre países ricos e países pobres em ciência e tecnologia.
+
+Consideramos, porém, (Gonzalez de Gómez, 1992) que o denominado "informational gap" seria manifestação de um "hiato informação: comunicação" – resultante da distribuição desigual das possibilidades de gerar e acessar informações em contextos recíprocos de comunicação –, hiato que, em lugar ser superado, pareceria ter-se aprofundado e expandido pelos processos de modernização conservadora.
+
+Nas últimas duas décadas, aconteceria a mudança de uma concepção setorial das atividades referentes à informação para uma visão da informação imersa nos contextos múltiplos das atividades sociais, mudança tematizada – com maior ênfase na década do 90 – nos programas da Sociedade da Informação.
+
+É nessa passagem que a celeridade das mudanças e a complexidade dos novos cenários tendem a dificultar ainda mais o olhar estratégico, as tendências de longo prazo das conjunturas. Isto vale, de fato, tanto no campo das atividades e recursos de informação científico-tecnológica como para todas as áreas da comunicação e da telecomunicação.
+
+Não seria, porém, a questão tecnológica isolada a que altera hoje condições e metodologias para a enunciação de políticas: outras variáveis intervirão na definição dos novos cenários socioeconômicos. Vários fatores levarão a uma reformulação e maior complexidade das cadeias decisórias: desde o ponto de vista mundial à subsistência de premissas neoliberais e orientadas pelo mercado – hoje interceptadas pela irrupção de um horizonte bélico de efeitos sempre imprevisíveis –; desde o ponto de vista local à nova repartição das responsabilidades e das iniciativas entre a esfera privada e a pública, junto à pluralidade institucional gerada pelos desdobramentos jurisdicionais do Estado e seus níveis geopolíticos (federal, estadual, municipal) – efeitos dispersivos intensificados pelas políticas de descentralização promovidas após 88, junto a certo desconforto dos subsistemas funcionais do Estado na criação e aceitação de dispositivos intersetoriais (Knocke, Habermas, Gonzalez de Gómez, Malin, entre outros).
+
+Por outro lado, a passagem das propostas de modernização que outorgavam ao Estado um papel importante de promoção, para os modelos de inovação que priorizam o mercado, não pareceria ter alterado a situação analisada por Darcy Ribeiro – naquele momento, como conseqüência da urbanização acelerada e a migração rural massiva, mas que pode homologar-se em suas conseqüências com a situação atual, caraterizada pela intensiva informacionalização dos processos de trabalho e dos múltiplos aspetos da vida cotidiana:
+
+"Obrigamos o povo a atualizar essa visão arcaica por seu próprio esforço, a partir de fontes tão precárias de informação".
+
+Tudo isto coloca em pauta, quiçá como problema central, a necessidade de articulação de atores, ações e recursos, e gera um novo "dilema informacional": a integração de conhecimentos, projetos e informações não agora pela gestão administrativa baseada exclusivamente em representações estatísticas, mas mediante uma política participativa e baseada em evidências, que reúna ao mesmo tempo a comunicação e a informação.
+
+
+
+MODELOS DE GESTÃO DA CIÊNCIA E DA TECNOLOGIA NOS FINS DO SÉCULO XX
+
+De fato, o desenvolvimento ocidental da ciência, desde a modernidade, como espaço institucional e diferenciado de atividades e práticas sociais, respondia a dois princípios aparentemente contraditórios, mas historicamente complementares. Por um lado, teríamos o princípio de autonomia, ao qual ficariam atrelados critérios seletivos e diferenciais de inclusão e permanência dos participantes nas "comunidades científicas", com processos regulares de avaliação e mecanismos sociocognitivos formalizados de aferimento de produtividade e excelência. Por outro lado, este princípio coexistia junto a um princípio de conversão pelo qual aquilo que no interior das atividades e práticas científicas se define como dotado de excelência e de valor seria considerado de valor por outros domínios da atividade social, de onde a pesquisa obtém recursos institucionais e materiais: o Estado, o governo, as esferas da produção e dos negócios, a sociedade civil e suas organizações. Essa operação de equivalência17, que dá origem ao que muitos denominam o "contrato social da ciência" (Guston & Keniston, 1994), tem sido reformulada muitas vezes ao longo dos dois últimos séculos e reaparece com freqüência, na década de 90, como reflexão acerca de modelos alternativos de organização e gestão da pesquisa.
+
+Nessa década e nos países que lideram os fluxos de informação intensificados nos cenários da mundialização, ao mesmo tempo em que as prioridades e questões científico-tecnológicas são transferidas nos termos e domínios de uma "economia do conhecimento", as questões da reformulação das figuras organizacionais da pesquisa serão agregadas na pergunta pela nova "governança" da ciência e da tecnologia. Nessas circunstâncias, enquanto o princípio de autonomia da ciência manteria sua relevância e vigência nas comunidades de pesquisa, os processos de estabelecimento de equivalência e o que denominamos critérios de conversão (validade versus valor) ganham espaço nas arenas deliberativas e decisórias das agências de fomento e avaliação das ciências.
+
+Nesse contexto, serão construídos e experimentados os novos modelos de gestão da ciência e da tecnologia, cada um dos quais afetará não só o "ambiente semântico" da geração, organização e transmissão de conhecimentos, quanto as próprias alternativas de construção de uma ciência da informação nessas perspectivas.
+
+Recuperaremos rapidamente alguns estudos que ilustram esse processo, tal como os de Stokes e Gibbons.
+
+Stokes partiria da "revisão" do modelo de Bush. Se o relatório Bush transformou o conceito de "pesquisa básica" em um "termo corrente", seu "modelo" organizacional para o desenvolvimento científico-tecnológico deve considerar um conjunto de aforismos:
+
+a) a ciência básica é aquela que intencionaliza alcançar as leis físicas e naturais mais gerais, levando além as fronteiras do entendimento dos fundamentos (fundamental understanding);
+
+b) a pesquisa básica é quem "marca o passo" do desenvolvimento tecnológico, de modo que a interrupção da pesquisa básica para obter um resultado prático poderia abortar suas potencialidades inovadoras;
+
+c) uma nação recupera seu investimento em pesquisa básica a partir de seus benefícios tecnológicos, já que "um país sem pesquisa básica perde sua posição competitiva na indústria e nos negócios" (Bush, citado por Stokes, p.6).
+
+Enquanto o progresso da ciência como tal era considerado fator direto de desenvolvimento econômico e segurança militar, a política de investimentos deveria favorecer a distribuição regular dos recursos entre todas as áreas das ciências, sendo que a tecnologia apareceria no final da cadeia ciência-tecnologia como uma das conseqüências necessárias.
+
+Esse não seria, porém, o rumo constante da política e gestão da ciência. Para Stokes, o desenvolvimento da ciência e da tecnologia no Ocidente pareceria ter seguido algumas figuras paradigmáticas principais, conforme a definição de critérios seletivos em torno de duas variáveis de avaliação: a) a preocupação heurística, visando a aprofundar o entendimento de questões fundamentais de um domínio do saber; b) as considerações teleológicas ou finalísticas, visando a maiorizar a utilização dos conhecimentos.
+
+Em uma matriz simples de cruzamento das variáveis, Stokes analisa três quadrantes significativos:
+
+O quadrante de Edison, que seria a representação de uma aplicação de uma descoberta – a energia elétrica –, sem preocupação maior com as questões e o quadro teórico-conceitual em que se inscreve.
+
+O quadrante Bohr, que, de maneira oposta, seria a preocupação com o entendimento das questões, sem preocupação com o uso dos resultados da pesquisa.
+
+O programa de pesquisa de Pasteur18 e o surgimento da microbiologia no século XIX oferecem boa ilustração de uma dupla intencionalidade: buscar o "entendimento fundamental" de determinadas questões e promover o uso eficiente dos resultados para obtenção de benefícios econômicos e sociais.
+
+
+
+
+
+Outros autores retomam o modelo de Stokes, com algumas variações. Entre eles, Lewis M. Branscomb, Gerald Holton e Gerhard Sonnert enfatizam a importância do quadrante de Pasteur, que vão reformular como o quadrante da "ciência jefferssoneana". Ele permitiria alocar um tipo de produção de conhecimentos científicos que Holton teria definido como "um trabalho que ancora o centro da pesquisa em uma área básica de "ignorância científica" situada no coração de um problema social" (Branscombe, Holton & Sonnert, 2000).
+
+O projeto jefferssoneano teria como diferencial a referência à ciência como um instrumento para a resolução de problemas de caráter público19. Um diferencial do quadrante Pasteur-Jeffersson é que, além de reunir uma justificativa cultural e uma justificativa pragmática, requer algumas condições de planejamento do programa de pesquisa, como um período de duração maior de apoio das instituições de pesquisa e das agências de fomento.
+
+O modelo sustentado por Holton, entre outros, inclui a política científica no contexto das políticas públicas, considerando três fases principais no processo de inclusão: a formação de uma agenda de políticas públicas; a implementação da agenda; o monitoramento da realização da agenda.
+
+Uma outra abordagem do que se denomina um "novo modo de produção dos conhecimentos" é o apresentado por Gibbons, junto a outros autores, partilhando ao menos uma característica com os modelos anteriores: a demanda de orientação teleológica das novas produções do conhecimento e a relação da pesquisa com seu contexto de aplicação.
+
+É de nosso interesse destacar a mudança de plano e figura da informação e da comunicação como instâncias de integração dos conhecimentos.
+
+Na década de 60, as ações de informação e as tecnologias de informação dirigiam-se a facilitar e otimizar essa integração por meio de processos e mecanismos metainformacionais, que operavam por um sobrevôo das representações da literatura e dos registros do conhecimento, tais como representados nas grandes bases de dados referenciais. Seja em relação à recuperação e busca da informação ou à construção de mapas estratégicos da produtividade científica, a informação/metainformação fornecia insumo para o que seria chamada uma "ciência da ciência".
+
+
+
+
+
+A partir da década de 90, as instâncias de integração são colocadas no nível infra-estrutural, nas tecnologias de redes de comunicação e outros procedimentos que habilitam novas formas de colaboração e compartilhamento da produção intelectual, tal como as formas do conhecimento distribuído ou a formação de "colaboratórios", que, ao mesmo tempo em que alteram as relações entre trabalho e pesquisa, modificam as relações entre a literatura científica e o laboratório ou pesquisa de bancada.
+
+Cada vez mais, definir o escopo e abrangência do domínio de constituição de um problema implica estabelecer o contexto e o domínio onde poderiam ser obtidos recursos e soluções, o que significaria também definir o conjunto dos parceiros (stakeholders) que partilham e assumem a situação problemática e, por isso, assumem também a busca de uma solução.
+
+Nas atuais circunstâncias, muitas vozes demandam, da pesquisa e dos pesquisadores, o cuidado com a definição da matriz intersubjetiva dos envolvidos na definição de um problema e, conseqüentemente, em sua solução, colocando atenção não só nos previamente envolvidos por relações paradigmáticas, mas também em todos aqueles incluídos nos contextos mais amplos de problematização, com os quais deverão iniciar-se processos de negociação de interesses e recursos, procurando estabelecer-se processos e estruturas de comunicação adequadas (Nowotny-Gibbons,2001).
+
+Esta impossibilidade de completeza da pesquisa isolada em um grupo ou instituição, em uma esfera estritamente gnosiológica, impõe, aliás, o reconhecimento da heterogeneidade essencial dos conhecimentos e das competências a serem incluídas no processo de pesquisa. A multiplicidade de parceiros reúne, no processo de solução de problemas, uma pluralidade de habilidades e "perícias", tanto as práticas, as próprias de saberes locais, quanto as científicas.
+
+Por sua vez, o sucesso de um empreendimento dessa natureza requer a revisão das figuras organizacionais, parecendo ser mais favoráveis as frouxas e não hierárquicas.
+
+Para alcançar todas estas condições, será preciso modificar o modo como nos referimos aos empreendimentos intelectuais e às linguagens com que os objetivamos. Gibbons usará o conceito de "transdisciplinaridade", na procura de uma denominação adequada às mudanças em andamento.
+
+Helga Nowotny considera a transdisciplinaridade como uma forma de transgressão, já que não respeita as fronteiras disciplinares nem as fronteiras institucionais. E, na medida em que existe uma homologia entre o que acontece nas esferas de produção dos conhecimentos e em todas as outras esferas culturais e institucionais, trata-se de movimentos transgressores que estariam processando-se em todos os contextos da atividade social.
+
+Para Nowotny, existiriam relações de homologia entre a transdiciplinaridade no campo da produção dos conhecimentos, que, entre outras coisas, colocam de manifesto uma mudança no papel protagônico e exclusivo das universidades e outras instituições científicas e a mudança do papel do Estado, que, de modo semelhante, retrocederia em seu papel hegemônico de definição dos principais parâmetros de toda atividade e interação social – para ser, após seu retrocesso, um ator entre outros atores "não-governamentais".
+
+Cabe perguntar-nos, novamente, até onde a questão da "governança" da ciência expressa hoje uma tendência progressiva e de alcance universal, ou se é um sintoma e uma descrição de uma conjuntura política, que teria descrições e ofertas alternativas, olhando-se dos Estados Unidos, da Europa ou da América Latina.
+
+As abordagens de Gibbons e Nowotny merecem, em qualquer caso, uma atenção especial.
+
+A definição do "Modo 2" de conhecimento incorpora uma condição emergente e particularmente significativa para a atividade científica: a demanda de prestação de contas (accountability) colocada aos produtores de conhecimentos científicos e o controle de qualidade (quality control), a ser diferenciado do julgamento de excelência nas comunidades de pares.
+
+A "prestação de contas"20 difere do ethos científico, já que o ethos é definido como responsabilidade individual dos pesquisadores ou como atributo abstrato de uma esfera ideal da ciência, e a "prestação de contas" refere-se a uma figura eminentemente social, ancorada em conjuntos de atores e instituições que assumem responsabilidade pelas potências inovadoras em campos específicos da vida coletiva. A pesquisa ficaria logo sujeita às demandas de resultados, visibilidade, acuidade e transparência, vindas dos sujeitos e domínios sociais em que adquire relevância e pertinência.
+
+O mais interessante na análise de Nowotny é que saber a quem se deve prestar contas equivale a reconhecer quais os modos de dar visibilidade aos processos de produção dos conhecimentos, seus produtos e suas conseqüências (para quem, como, que) (Nowotny, in Nowotny-Gibbons,2001).
+
+Outro critério seria o de "controle de qualidade". Se a avaliação científica tem como um objetivo principal a excelência científica e a validade dos conhecimentos científicos enquanto tais, o controle de qualidade se refere a um plus de excelência, que não seria definido nem segundo as áreas do conhecimento nem conforme uma medida única de valor que completaria a formulação aceita de excelência. Trata-se de um valor social agregado ao que seja a definição de uma "boa ciência".
+
+Se em outros trabalhos que nos participara Gibbons o conhecimento do Modo 2 parece se aproximar da "triple-hélice" (ciência-Estado-indústria), na versão de Nowotny ficaria claro que o "modo 2" não designa uma estrutura única e fixa de relações e parcerias com qualidades e valores preestabelecidos. Sem uma autoridade centralizadora legitimando cada domínio de atividades conforme uma autoridade e padrão único e sem a sobredeterminação exclusiva de um mercado concebido como competição permanente, certamente poderiam constituir-se muitas e diversas figuras de vinculação de atores, saberes e perspectivas capazes de ancorar a produção de conhecimento no obscuro fundo de dúvidas e necessidades da vida social, atentos assim a plurais e diversas demandas de valor e de prestação de contas21. Os problemas da comunicação entre a ciência e a sociedade deveriam ser, assim, profundamente reformulados.
+
+No cenário contemporâneo, estar-se-ia experimentando a passagem da ontologia baconiana de controle do mundo pelo Homo sapiens (ênfases na relação do sujeito com o objeto), segundo a qual a ciência é valorizada por seu poder em um domínio de aplicação, à ênfase em uma ontologia das relações sujeito-sujeito, em que o controle do mundo se realiza como controle da linguagem, a comunicação e a informação.
+
+Em uma concepção democrática de socialização dos conhecimentos, seria assim fundamental o reconhecimento dos sujeitos envolvidos em um programa de pesquisa, desde os objetivos e pontos de partida às estratégias metodológicas, os resultados e as conseqüências. A potência e direção do saber, que se constitui nessa série implicativa de sujeitos individuais e coletivos, seria inseparável, segundo um ponto de vista ético-político, do quantum de poder em jogo no campo de aplicação.
+
+Consistente com essa orientação, o conceito de "contextualização" dos conhecimentos remete às redes de sujeitos individuais e coletivos, formais e informais, que compõem a matriz intersubjetiva na junção de um programa de pesquisa e um programa de ação.
+
+A extensão do contexto da pesquisa resulta assim da resposta a esta pergunta: Quem são os sujeitos envolvidos neste conhecimento? Trata-se da passagem do contexto de aplicação ao contexto de implicação22, em que a transformação do mundo pelo conhecimento (relação sujeito-objeto) estaria subordinada à transformação das relações entre sujeitos e, desse modo, de todas suas possibilidades de ser em comum – incluindo nelas seu ser em um mundo. À pergunta acerca de "qual é o lugar das pessoas em nosso conhecimento?", poderiam ser dadas três respostas principais (Nowotny, 1999): as pessoas reais, com as quais cruzamos nas ruas todos os dias, as quais sustentam a produção dos conhecimentos científicos, de modo direto ou indireto, na medida em que pagam impostos, participam de associações voluntárias, fazem doações; os movimentos associativos e outras organizações de ativismo, os quais influenciam, com seus movimentos de apoio ou de contestação, a produção e orientação da pesquisa e da inovação, agindo constantemente como os antagonistas na narrativa da ciência e da tecnologia; as diversas figuras intersubjetivas que assumem os processos de geração de conhecimentos, nos quais os por definição "não-cientistas" participam como interlocutores e ainda como co-produtores em campos cada vez mais amplos da pesquisa, tal como acontece nas ciências ambientais e na ecologia.
+
+
+
+
+
+Trata-se de que esses não-cientistas já não seriam puras estatísticas, mas sujeitos de vontade e de desejo, além de sujeitos de palavra e de razão.
+
+Para Helga Nowotny, o pesquisador deveria preocupar-se em construir uma ciência que, além de um conhecimento confiável (reliable), fosse um conhecimento socialmente robusto (socially robust knowledge), tal como aconteceria nos conhecimentos necessários para fazer prédios à prova de terremotos, o que teria a ver com a escolha do solo, do lugar onde se constrói. Esse lugar social onde se constrói um conhecimento faria dele, também, um conhecimento mais ou menos sólido.
+
+
+
+AUTONOMIA E CONVERSÃO: PARADIGMAS, SETORES, TERRITÓRIOS
+
+Enfim, como um dos resultados e complemento desta primeira revisão das abordagens predominantes na década de 90 e outros estudos em andamento, podemos especificar algumas direções atuais da pesquisa, no Brasil.
+
+Em linhas gerais, as atividades de ciência e tecnologia podem ser mapeadas a partir de três princípios organizadores: o princípio paradigmático, o princípio corporativo e o princípio territorial. Eles tanto se complementam como se justapõem, ou ainda entram em conflito – muitas vezes por falta de visibilidade de suas diferenças, de compreensão de sua interdependência e da extensão de seus foros jurisdicionais – pela definição de seu escopo e abrangência.
+
+O princípio paradigmático é aquele que coloca a ênfase nas estruturas intelectuais e epistemológicas da produção dos conhecimentos, estruturas estas que são representadas como grandes áreas e subáreas do conhecimento. O princípio paradigmático tem ocupado maior espaço nas zonas de interface entre a produção dos conhecimentos e os sistemas educacionais e, em particular, nas estruturas epistêmico-administrativas do ensino universitário, da pós-graduação e dos procedimentos e instrumentos de acompanhamento e avaliação, de agências como a Capes e o CNPq.
+
+Desde o ponto de vista da agregação paradigmática dos saberes, as linhas de vinculação pareceriam acompanhar a emergência e desdobramento de "famílias de questões" mantidas em relação produtiva pela memória científica, ancorada nas comunidades e instituições de pesquisa e suas redes de formação e transmissão: instituições de ensino e pesquisa, fóruns de socialização especializada dos saberes, arquivos científicos, publicações, bases de dados referenciais, entre outros.
+
+O princípio setorial ou corporativo é aquele que estabelece, como domínio de produção dos conhecimentos, de definição de seus objetos e de seus objetivos, dimensões significativas da vida e do ser social, junto à rede complexa de agentes, relações, atividades, meios e recursos que intervêm em sua realização: saúde, transporte, educação, meio ambiente, cadeias produtivas, entre outras. A geração, reunião, organização, utilização e reutilização de conhecimentos e de competências acompanham assim os interesses, objetivos e atividades do domínio que serão assumidos e colocados em ação, em cada caso, por um conjunto ao mesmo tempo heterogêneo e interligado de organizações públicas e privadas, com suas definições singularizadas de objetivos e metas corporativas.
+
+Poderíamos dizer que, conforme este princípio, os conhecimentos se organizam por "famílias de interesses".
+
+O princípio territorial, local ou situacional, quiçá o menos tematizado e diferenciado, organiza conhecimentos e competências a partir de uma singularidade espaço-temporal que tanto afeta o domínio de construção do objeto de pesquisa quanto de suas redes de implicação e aplicação. Trata-se, assim, de um conhecimento que, mesmo sendo proveniente de ações impulsionadas pelo princípio paradigmático ou o princípio corporativo, fica ancorado em um território que exige a translação semântico-cultural de seus modelos conceituais a uma situação singular, com coordenadas espaço-temporais concretas que articulam os diversos contextos locais e distantes. A referência situacional demanda assim tanto transformações epistêmicas quanto a superação sociopolítica de intenções corporativas, para compor um novo tipo de unidades, dinâmicas, provisórias, em constante mutação.
+
+O princípio local poderia ser, usando de modo provisório os exemplos da ciência e tecnologia em saúde, o espaço sociofísico de um hospital que demanda a reunião de competências diversas para o diagnóstico e a prestação de serviços. A solidez ou esfacelamento do tecido informacional urbano, que ficaria (ou não) estabelecido entre as bibliotecas, os museus, os arquivos, as casas de cultura, as escolas, as secretarias municipais e a mídia local, seria outra exemplificação do modo territorial de organizar a produção, transmissão e uso dos conhecimentos especializados e os outros saberes culturais, articulando os diferentes atores e atividades de um município ou de uma região, compondo, assim, uma verdadeira ecologia informacional local. De fato, nesse tecido semântico-territorial as figuras organizacionais da ciência e da tecnologia veriam reformulados seus arranjos paradigmáticos e corporativos, conforme "famílias de problemas".
+
+
+
+A PESQUISA EM CIÊNCIA DA INFORMAÇÃO: QUEM, COMO, DESDE ONDE?
+
+Nesta abordagem, a ciência da informação ficaria constituída em um novo movimento de apercepção visando à objetivação do meio ambiente semântico , como um dos jogos do conhecimento a ser jogado justamente no lugar onde hoje estão embaralhados a linguagem e o mundo. Colocamos nesse domínio, em que são tematizadas as possibilidades e formas de "pôr em comum" quando acontecem pela mediação da significação e o uso da linguagem, em um primeiro momento, as letras, a lingüística, a biblioteconomia, a arquivologia, a museologia, e, em um segundo momento – desde o ponto de vista de sua emergência formal e institucional enquanto saberes que cuidam com autonomia de seu objeto próprio –, a comunicação, as ciências da computação, a ciência da informação, as ciências do conhecimento.
+
+A ciência da informação se nos apresenta, assim, como uma formação discursiva tardia, e não necessariamente final – como não deverão sê-lo, seguramente, outras das anteriormente apresentadas, fadadas, por sua origem e finalidade, a manterem-se em constante movimentação e transversalidade além de suas margens.
+
+No seu percurso, a ciência da informação incorpora e generaliza alguns dos conhecimentos e competências dos que poderíamos chamar os primeiros cartógrafos intelectuais – trançadores de mapas de saberes e memórias culturais aos quais pretendem outorgar visibilidade e acessibilidade, colocando-os em domínios públicos; engenheiros intelectuais de pontes verbais e de estradas transtextuais. Uma operação aparentemente singela, como catalogar e classificar, aproveita e reformula a potência relacional da indexicalidade, para construir paralinguagens que apontam, por um lado, universos lexicais ou terminológicos e, por outro, os nossos primeiros objetos-multimodais: livros, artigos, audiovisuais, abertos a leituras lineares e interpretações plurais.
+
+Não faltariam esforços, a partir da década de 80, para ampliar o programa de pesquisa da ciência da informação, incorporando novos sujeitos de geração, transmissão e uso de informação, novos problemas, novas soluções. Temas como a socialização da informação e do conhecimento, da comunicação e busca de informação em redes sociais e tecnológicas, a demanda de modalização das ações, serviços e sistemas de informação, a inclusão da significação no trípode categorial formado pela informação, o conhecimento e os padrões de comunicação, a transferência do princípio da indexicalidade a um olhar abrangente, configurando o monitoramento e controle de grandes recortes ambientais, reconhecendo ecologias do conhecimento, prefigurando espaços pós-mediáticos.
+
+Por um dos tantos paradoxos modernos, buscou-se na racionalidade técnica um auxílio aos problemas e entraves que constrangiam o exercício coletivo de uma racionalidade comunicativa: as condições comunica-cionais, porém, seriam habitualmente subordinadas à preocupação com a conectividade mediática e tecnológica – idealmente ilimitadas e concretamente regidas pelos mecanismos de mercado.
+
+Sendo que a informação/ações de informação tem um papel importante na forma de vinculação dos conhecimentos e de seus geradores e destinatários, levando em conta as considerações anteriores, poder-se-iam formular algumas perguntas pertinentes acerca da pesquisa em ciência da informação:
+
+1) Quais são as intersubjetividades ou os processos de singularização subjetiva considerados nas pesquisas científicas e tecnológicas dos domínios da informação e nas formas de sua geração e transmissão?
+
+2) Em que consistiria um quadrante Pasteur/Jefferson na ciência da informação? Qualquer seja a reflexão a respeito, caberia indagar de que maneira a pesquisa da área é afetada pelo que podemos chamar o "desvio conjuntural", que, ao mesmo tempo em que nos caracteriza como uma área atenta à emergência de assuntos e questões, contribui para dispersão das competências e impede a consolidação progressiva de "famílias de questões" originais e relevantes;
+
+3) Qual seria expressão, em nosso campo de pesquisa, dos princípios paradigmático, corporativo e local ou situacional? Qual é a leitura dos arranjos corporativos e territoriais de saberes e competências informa-cionais e quais suas vinculações com as construções teóricas-conceituais?
+
+Consideramos, assim, que esse aprofundamento das questões dentro de uma visão orientada por fins – não alheios à ética e à política – deveria acontecer, ao mesmo tempo, pela superação do "desvio conjuntural" da pesquisa em ciência e tecnologia de informação. As considerações finalistas, mas não imediatistas, abririam novo espaço de autonomia relativa, permitindo a abordagem heurística das agendas de questões institucionais, a consolidação e atualização de competências, favorecendo ao mesmo tempo a orientação à resolução de problemas que afetam a sociedade local, com efeitos inclusivos sobre as maiorias sem acesso a ofertas e recursos tecnológicos e informacionais.
+
+Na leitura e análise das diferentes abordagens acerca das formas contemporâneas de organização social da produção de conhecimentos científicos, foi configurando-se, para nós, o desenho de uma ecologia dos conhecimentos, exigindo maior cuidado com as relações entre setores e subsistemas de ciência e tecnologia. Relações estas às vezes não visíveis, mas igualmente vigentes. Quiçá o que deveria ser priorizado são justamente os elos e os modos de vinculação que desenham as configurações e os movimentos dos conhecimentos na sociedade: relações entre o sistema de pós-graduação e o sistema de ciência e tecnologia; relações conjuntas dessas esferas de produção de conhecimentos especializados com a produção e demanda de conhecimentos da educação, do trabalho, da produção e do Estado e da administração pública. O horizonte da pesquisa em ciência da informação deveria estar imerso nesses entrançados inquietantes do mundo contemporâneo.
+
+
+
+REFERÊNCIAS
+
+ABRASCO (Brasília, DF). Comissão de Ciência e Tecnologia. Política Nacional de Ciência, Tecnologia e Inovação em Saúde: uma proposta. [Brasília], 2002. 
+
+_______. Manifesto da ABRASCO sobre a política de pesquisa para o setor saúde, com vistas ao plenário da Conferência Nacional de Ciência, Tecnologia e Inovação. Brasília, 2001. 
+
+AGAMBEN, Giorgio. The comming community: theory out of bounds. 3. ed. Neapolis, London : University of Minnesota, 2001. 
+
+AMARAL, Marise B. A disciplina da natureza e a natureza das disciplinas: a ciência como produção cultural - relatos de um encontro com Timothy Lenoir. Episteme, Porto Alegre, v. 2, n. 4, p. 117-126, 1997. 
+
+AUN, Marta. A construção de políticas de informação no cenário de uma sociedade informacional crescentemente globalizado. 2001. Tese (Doutorado em Ciência da Informação) - IBICT, UFRJ, Rio de Janeiro, 2001. 
+
+BERNAL, J. D. The world, the flesh & the devil. Disponível em: < http://www.marxists.org/archive/bernal/index.htm>. Acesso em: 28 out. 2002. 
+
+BOWKER, Geoffrey; STAR, Susan Leigh. Social theoretical issues in the design of collaboratories: customized software for community support versus large-scale infrastructure. Disponível em: http://www.weber.ucsd.edu/~gbowker>. Acesso em: 11 dez. 2002. 
+
+BRANSCOMB, L.; HOLTON, G.; SONNERT, G. Science for society. 2002 AAAS Yearbook. Disponível em: <http://www.aaas.org/spp/yearbook/2002/ch36.pdf>. Acesso em: 11 nov. 2002. 
+
+CAWKELL, Tony. British personalities:part 2.Post-1948. Aslib Notes, v. 12, n. 6, Jul./Aug. 1999. Disponível em: < http://www.aslib.co.uk/notes/1999/jul-aug/articles>. Acesso em: 11 nov. 2002. 
+
+COLLINS, H. M.; KUSCH, M., The shape of actions: what humans and machines can do. Cambridge, Mass : MIT, 1998. 
+
+CUSSIUS, Adrian. Norms, networks and trails. In: KEELE CONFERENCE 1997. (Pre-print). 
+
+FOUCAULT, M. Microfísica do poder. Rio de Janeiro : Graal, 1984. 
+
+FROHMANN, Bernard. Taking policy beyond information science: applying the actor network theory for connectedness: information, systems, people, organizations. In: ANNUAL CONFERENCE CANADIAN ASSOCIATION FOR INFORMATION SCIENCE, 23., 1995, Edmond, Alberta. Disponível em: <www.instruct.uwo.ca/faculty/Frohmann.> .Acesso em: 31 dez. 1999. 
+
+GARFIELD, E. The ISI-VINITI connection: remarks on the 50th Anniversary of VINITI. Disponível em: <http://garfield.library.upenn.edu>. Acesso em: 17 nov. 2002. 
+
+GIBBONS, M. Innovation and the developing system of knowledge production. Disponivel em: <http://edie.cprost.sfu.ca/summer/papers/Michael.Gibbons.html> . Acesso em: 06 nov. 2001. 
+
+GONZALEZ DE GOMEZ, M. N. Novos cenários políticos para a informação. Ciência da Informação, Brasília, v. 31, n. 1, p. 27- 40, 2002. 
+
+_______. Além do Estado e do mercado: a busca de novos parâmetros de institucionalização da informação. Revista do Serviço Público, Brasília, v. 118, n. 3, p. 150 - 153, 1994. 
+
+_______. Informação, inovação e democratização: a transferência de conhecimento e o movimento associativo. 1992. Tese. IBICT, UFRJ, 1992. 
+
+_______; et al. A universidade e as bibliotecas na era de sua virtualização: trajetórias e estratégias. In: SEMINÁRIO NACIONAL DE BIBLIOTECAS UNIVERSITÁRIAS, 1998, Fortaleza. Fortaleza : UFCE, 1998. 
+
+_______; CANONGIA, Claudia. (Org.). Contribuição de políticas em ICT. Documento de base do Projeto de Consultas Contribuição de Políticas de ICT. Brasília : IBICT, 2001. Disponível em: <http://www.ibict.br>. 
+
+GUSTON, D. H. ; KENISTON, K. Introduction: the social contract for science. In: GUSTON, D. H.; KENISTON, K. (Ed.). The fragile contract. University Science and the Federal Government. Cambridge : MIT, 1994. 
+
+HABERMAS, Jurgen. Lifeworld and system: a critique of funtionalist reason. In: –––––––. The theory of communicative action. Boston : Beacon, 1987. v. 2 
+
+_______. Direito e democracia: entre faticidade e validade. Rio de Janeiro: Tempo Brasileiro, 1997. 2 v. 
+
+HART, David et al. Design area six: the organization, management, and funding of federal science and technology. In: –––––––. Science: the endless frontier 1945-1995: learning from the past, designing for the future. [S. l. : s. n.], 1996. Part 3. 
+
+JARDIM, José Maria. Os arquivos (In)visíveis: a opacidade informacional do Estado Brasileiro. 1998. Tese (Ciência da Informação) - IBICT, UFRJ, Rio de Janeiro, 1998. 
+
+KNOKE, D. et al. Comparing policy networks: labor politics in the US, Germany, and Japan. Cambridge : Cambridge University, 1996. 
+
+LATOUR, B. Ciência em ação: como seguir cientistas e engenheiros sociedade fora. São Paulo : UNESP, 2000. 
+
+LENOIR, Thimoty. Registrando a ciência: os textos científicos e as materialidades da comunicação. Episteme, Porto Alegre, v. 2, n. 4, p. 55-72, 1997. 
+
+MALIN, Ana. Estado e Sociedade de Informação no Brasil: uma investigação sobre o papel da informação na gestão política. 2003. Tese (Doutorado em Ciência da Informação) - IBICT, UFRJ, Rio de Janeiro, 2003. 
+
+MARCONDES, Carlos Henrique. Informação e desenvolvimento: políticas e pragmáticas de informação governamental e contexto social. 1998. 252 f. Tese (Doutorado em Ciência da Informação) - IBICT, UFRJ, Rio de Janeiro, 1998. 
+
+MAYNTZ, Renate. New challenges to governance theory. Disponível em: <http://www.iue.it/RSC/Mayntz.htm>. Acesso em: 30 abr. 2001. 
+
+MIKHAILOV, A. I.; CHERNY, I.; GILYARESKI, R. S. Estrutura e principais propriedades da informação científica. In: GOMES, H. E. (Org.). Ciência da informação ou informática? Rio de Janeiro : Calunga, 1980. p. 71-80. 
+
+MORIN, E. A articulação dos saberes. In: ALVES, Nilda: LEITE, Regina Leite. (Org.). O sentido da escola. Rio de Janeiro : DP&A, 2002. 
+
+NOWOTNY, Helga. The place of people in our knowledge: towards local objectivity and socially robust knowledge. European Review, v. 7 , n. 2, p. 247-262, 1999. Disponível em: <http://www.wiss.ethz.ch/pub/helga> . 
+
+PINHEIRO, Lena Vania Ribeiro. Gênese da ciência da informação ou sinais anunciadores da nova era. In: AQUINO, Miriam Albuquerque de. (Org.). O campo da ciência da informação: gênese, conexões e especificidade. João Pessoa : UFPb, 2002. 
+
+POLANYI, Michael. The republic of science, Minerva, v. 1, p. 54-73, 1962. 
+
+SCIENCE, the endless frontier 1945-1995. In: CONFERENCES, 1., 1994, 2. 1995, 3. 1996 : Learning from de past, designing for the future. Columbia, Ill. : Columbia University, 1996. 
+
+SCHEMENT, Jorge Reina. Porat, Bell and the Information Society reconsidered: the growth of information work in the early twentieth century. Information Processing and Management, v. 26, n. 4, p. 449-465, 1990. 
+
+SCHWARTZMANN, Simon. A space for science: the development of the scientific community in Brazil. [S. l.] : Pennsylvania State University, 1991. Disponível em: <www.airbrasil.org.br>. Acesso em: 12 out. 2002. 
+
+STOKES, D. E. Pasteur's quadrant. Disponível em: <www.cspo.org/products/conference/Bush>. Acesso em 12 out. 2002. 
+
+TOULMIN, Stephen. The complexity of scientific choice: a stocktaking. Minerva, v. 2, p. 343-359, 1964. 
+
+UNITED STATES. Congress. Office of Technology Assesment. The regulatory environment for science: a technical memorandum. Washington, DC : Government Printing Office, 1986. 
+
+_______. President's Science and Advisory Committee. Science, Government and Information. The responsabilities of the technical community and the government in the transfer of information. Washington, D.C. Government Printing Office, 1963. 52 p. (The Weinberg Report). 
+
+WEINBERG, Alvin M. Criteria for scientific choice 2: the two cultures. Minerva, v. 3, p. 3-14, 1964. 
+
+_______. Entrevista. Entrevistadores: Bill Cabage e Carolyn Krause. ORNL Review, Apr. 1995. 
+
+WERSIG, Gernot ; WINDEL, G. Information science needs a theory of 'Information action. Social Science Information Studies, v. 5, p. 11-23, 1985. 
+
+WITTGENSTEIN, L. Investigações filosóficas. Petrópolis : Vozes, 1996. 
+

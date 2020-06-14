@@ -1,0 +1,252 @@
+Popularização do Conhecimento Científico
+
+
+Resumo: A questão da popularização da ciência é apresentada como um tema de interesse para estudos da comunicação científica pela ciência da informação. A participação da sociedade no processo de criação e divulgação da ciência por meio de pressões sociais e econômicas vêm se tornando fator importante na formulação de políticas científicas, especialmente em países com alto grau de educação. A opinião pública sobre fatos científicos, no entanto, depende em grande medida da atuação de intermediários, que traduzam a linguagem científica, especialmente a mídia imprensa e televisiva. As questões da distorção do sentido da notícia científica inerente ao processo, mas às vezes intencional, e o tratamento de notícias sobre fatos científicos que contém risco potencial à sociedade são exemplos usados para mostrar as dificuldades do processo de popularização e argumentar que o assunto, pouco estudado pela ciência da informação, é parte integrante e cada vez mais influente no processo de comunicação científica.
+
+Palavras chave: Popularização da Ciência; Comunicação Científica
+
+
+
+Introdução
+
+O conhecimento científico é cada vez mais necessário ao cidadão comum, um recurso ao qual todos recorremos para obter orientação em nossas decisões diárias. O conhecimento científico aqui referido é, naturalmente, produto da popularização da ciência. São notícias que chegam a nós, não cientistas, de várias maneiras, por vários canais. Como leigos, não estamos preparados para ler os textos originais, escritos por pesquisadores e dirigidos a outros pesquisadores, incompreensíveis para quem não tem o treinamento necessário. Dependemos de intermediários, pessoas e entidades que fazem usos de vários canais de comunicação e linguagens para transmitir as novidades científicas aos diversos segmentos da sociedade.
+
+Esse processo de transposição das idéias contidas em textos científicos para os meios de comunicação populares é chamado de popularização da ciência. Cientistas, educadores, governantes e a sociedade em geral percebem a necessidade de desenvolver em cada cidadão a capacidade de entender a diferença entre conhecimento científico e outros tipos de conhecimento, o que os americanos chamam de science literacy. A sua a falta é chamada de analfabetismo científico, que na explicação de Sabbatini (1999) é "a ignorância sobre os conhecimentos mais básicos de ciência e tecnologia que qualquer pessoa precisa ter para "sobreviver" razoavelmente em uma sociedade moderna." A preocupação dos cientistas, educadores e outros é que a ignorância de fatos básicos da ciência produz cidadãos ingênuos, propensos a acreditar facilmente em fatos pseudo-científicos, potencialmente prejudiciais a si próprio e à sociedade. Por outro lado, acredita-se que um cidadão bem informado seria capaz não só de orientar melhor a sua vida mas também influir, como membro da sociedade, nos rumos da própria ciência. Em países com alto grau de educação, a comunidade exerce esse poder de influência, por meio do voto e de hábitos de consumo, como fazem americanos e europeus por exemplo, ao boicotarem determinados produtos, protestarem contra a localização de indústrias poluentes e elegerem representantes que defendem ou são contra certas pesquisas.
+
+As dificuldades inerentes ao processo de popularização
+
+O processo da popularização do conhecimento científico não é tarefa fácil. Além de tecnicamente complexo, há freqüentemente muitos interesses em jogo. Há até quem duvide que a popularização da ciência seja possível sem que no processo ocorram problemas de distorção e manipulações. Como nota Nelkin (1995), os indivíduos de uma sociedade não estão equipados para julgar o que lêem - geralmente a notícia científica, citando autoridades e fontes aparentemente confiáveis, é tida como merecedora de crédito: prevalece a noção de que as descobertas científicas são verdades incontestáveis, produtos de pesquisas sérias realizadas por cientistas cuja única motivação é o saber, que ao longo do tempo vêm revelando a real natureza das coisas e contribuindo para nossa segurança, conforto e progresso. A visão dominante na sociedade "leiga" é de que os cientistas fazem descobertas importantes e verdadeiras sobre nosso corpo, nossa sociedade, nosso universo e nosso mundo, que são depois passadas para todos nós pelos meios de comunicação, talvez em versões simplificadas, mas ainda assim versões fiéis e confiáveis, livres de outros interesses que não o de divulgar conhecimento e fornecer informações úteis, capazes de orientar nossas decisões. As pessoas comuns, em geral, não têm experiência própria em pesquisa nem educação adequada em ciência, e dependem inteiramente de intermediários tanto para tomar conhecimento de novos fatos científicos quanto para avaliar possíveis implicações desses fatos em sua vida. No entanto, há freqüentemente mais do que uma versão de um fato científico, e às vezes nem os cientistas parecem estar de acordo.
+
+A verdade é que o processo de popularização do conhecimento científico nada tem de simples. Sob o ponto de vista estritamente técnico, a dificuldade mais visível está em reduzir conceitos complexos, que demandam domínio de conhecimento e linguagem especializada, a uma linguagem compreensível para pessoas sem treinamento específico. Na transposição, que com frequência é feita com o uso de metáforas e analogias, a possibilidade de ocorrência de algum tipo de distorção involuntária é grande. Como toda tradução, nunca será inteiramente fiel ao original. Alguns cientistas consideram impossível a popularização sem algum tipo de distorção.
+
+Mas há ainda um problema maior. A natureza da tarefa permite distorções intencionais, conforme os interesses de quem intermedia. Desde as últimas décadas do século 20, as parcerias entre as indústrias e as universidades vem se intensificando. Em uma época em que a ciência e as indústrias mantêm ligação economicamente significativas, nem sempre convêm aos interessados esclarecer riscos potenciais de suas pesquisas, atividades e produtos. Pois pesquisas têm alto custo e os cientistas necessitam de financiamentos que já não são fáceis de obter junto a governos.
+
+Hilgartner (1990) aponta ainda outra dificuldade, a questão da autenticidade da fonte: o conhecimento científico é divulgado em muitas fontes e em vários níveis de complexidade. Para esse autor, o conceito de popularização seria uma questão de grau: textos mais próximos às origens, como os apresentados em encontros científicos e seminários técnicos, artigos científicos e revisões da literatura, entre outros, estariam seriam "mais científicos", e textos dirigidos anão cientistas, tais como projetos de pesquisa apresentados a agências de financiamentos, editoriais de periódicos, notícias sobre pesquisas, livros textos, e notícias divulgadas pelos meios de comunicação de massa seriam, "mais populares" Quanto mais próximo ao origens, supõe-se, mais puros os textos e menos distorcidos seriam os conteúdos. Quanto mais afastados, mais compreensível o texto mas maior o risco de distorção.
+
+Os problemas envolvidos no processo de popularização do conhecimento científico são tão complexos que, segundo alguns autores, seria utópico pensar que seja possível (Cornelis, 1998). Parece haver, na comunidade científica, consenso sobre a necessidade dos cientistas se dedicarem a produzir "simplificações apropriadas" do resultado de suas pesquisas, ao nível do cidadão comum. No entanto, apesar desta atividade educacional ser considerada muito necessária, é também vista como uma atividade de baixo status para um cientista, um desvio do esforço do pesquisador, cujo interlocutor ideal é outro cientista, capaz de dar-lhe o crédito e o reconhecimento, e não o leigo, incapaz de entendê-lo.
+
+A utopia da tarefa emerge de uma contradição: expressar em linguagem simples e compreensível conceitos complexos que demandam linguagem especializada, sem perder nada de importante no processo. Segundo Hilgartner (1990), entre os cientistas haveria o consenso de que a popularização da ciência é um mal necessário. Mal porque os resultados são questionáveis, às vezes insignificantes e até perigosos, servindo a outros interesses. A visão desses cientistas seria de que o conhecimento científico é puro e verdadeiro, e em comparação com ele, qualquer versão simplificada seria uma grosseira distorção. A distorção seria então inerente à popularização da ciência, distorção que alguns cientistas a chegam a comparar com "poluição" causada por 'gente de fora" da ciência, tanto pelos jornalistas, que a divulgam, quanto pelo público, que entende mal o que lê. Essa visão confere aos cientistas o poder de estabelecer o que é genuíno e o que é falso. Mas o quadro fica complicado pelo fato que especialmente em assuntos mais sensíveis nem sempre há consenso já no nível dos cientistas.
+
+A popularização da ciência é assunto que levanta muitas questões. Mas neste texto, apenas dois aspectos serão comentados: o problema da distorção do conhecimento científico na trajetória percorrida rumo à popularização, e a questão do conceito de risco inerente a algumas notícias. O objetivo é argumentar a favor da adoção do tema pelos estudiosos da comunicação científica na área de ciência da informação.
+
+O problema da distorção
+
+Nesta seção o ponto a ressaltar é a distorção que pode sofrer a notícia científica no processo de popularização. No caso que será descrito, resumido de um texto de Hilgartner (1990), nota-se não apenas a distorção inevitável no processo de simplificação, mas também a possibilidade de distorção intencional.
+
+Em 1981, dois epidemiologistas britânicos, Sir Richard Doll e Richard Peto publicaram um artigo na revista Journal of the National Cancer Institute com o título "The causes of cancer: quantitative estimates of avoidable risks of cancer in the United States today". O artigo é uma revisão da relatos e estudos sobre casos de mortes por câncer causados por diversos fatores evitáveis. Com bases nessa literatura, os autores montaram tabelas de estimativas do número de mortes ocorridas por câncer por fator de risco evitável, nos Estados Unidos, no período estudado. A tabela reproduzida abaixo (copiada do texto de Hilgartner) é importante para se entender a questão. Nela estão listados, na segunda coluna, 12 fatores ou classes de fatores/causas; a terceira coluna, encabeçada pelo título best estimate, mostra a percentagem considerada média ou mais significativa; e a quarta coluna mostra o intervalo de estimativas aceitáveis. Essa quarta coluna é importante porque situa a melhor estimativa em um intervalo, mostrando sua confiabilidade. Por exemplo, o fator dieta aparece como a causa de morte por câncer (evitável) mais freqüente entre americanos, com a melhor estimativa de 35, intervalo de 10-70, e o cigarro (tabaco) em segundo lugar, com a melhor estimativa de 30, intervalo de 25-40. Depois disso, os demais fatores apresentam melhor estimativa igual ou abaixo de 10. No caso da dieta, a melhor estimativa de 35% está qualificada pelo enorme intervalo de 10%-70%, mostrando que o dado deve ser tomado com cautela. Há várias notas na base da tabela, fazendo ressalvas e qualificando os resultados.
+
+
+Proportions of Cancer Deaths Attributed to Various Different Factors*
+
+
+
+
+
+Text section no.
+
+
+
+
+
+Factor or class of factors
+
+Percent of all cancer deaths
+
+
+
+
+
+Best estimate
+
+Range of acceptable estimates
+
+
+
+5.1
+
+Tobacco
+
+30
+
+25-40
+
+
+
+5.2
+
+Alcohol
+
+3
+
+2-4
+
+
+
+5.3
+
+Diet
+
+35
+
+10-70
+
+
+
+5.4
+
+Food additives
+
+<1
+
+-5a-2
+
+
+
+5.5
+
+Reproductiveb and sexual behaviour
+
+7
+
+1-13
+
+
+
+5.6
+
+Occupation
+
+4
+
+2-8
+
+
+
+5.7
+
+Pollution
+
+2
+
+<1-5
+
+
+
+5.9
+
+Industrial products
+
+<1
+
+<1-2
+
+
+
+5.9
+
+Medicines and medical procedures
+
+1
+
+0.5-3
+
+
+
+5.10
+
+Geophysical factorsc
+
+3
+
+2-4
+
+
+
+5.11
+
+Infection
+
+10?
+
+1-?
+
+
+
+5.12
+
+Unknown
+
+?
+
+?
+
+
+
+
+
+a Allowing for a possibly protective effect of antioxidants and other preservatives
+
+b See section 5.5 for intended meaning
+
+c Only about 1%,not 3%, could reasonably be described as 'avoidable' (see text). Geophysical factors also cause a much greater proportion of non-fatal cancers (up to 30% of all cancers, depending on ethnic mix and latitude) because of the importance of UV light in causing relatively non fatal basal cell and squamous cell carcinimas of sunlight- exposed skin.
+
+Source: Doll and Peto, op.cit. note 8, 1256
+
+Tabela original publicada por Doll and Peto's. Apud Hilgartner, 1995.
+
+
+
+Hilgartner comenta que na introdução de seu artigo, os dois autores britânicos discutem problemas conceituais e empíricos que enfrentaram no cálculo que fizeram, e que fazem vários alertas sobre as estimativas apresentadas, como por exemplo o fato de terem levado em conta apenas um fator/causa para cada caso, quando a conjunção de fatores talvez seja mais importante (por exemplo, fumantes que também trabalham em indústrias que lidam com material cancerígeno). Em todo o trabalho há alertas sobre limitações de várias naturezas, inclusive sobre a compatibilidade dos dados que utilizaram, o período e outros aspectos. Eles enfatizam o fato que em suas estimativas há muito de palpite e especulação, mas dizem que assim mesmo consideram que o resultado retrata de maneira útil certos fatos.
+
+O trabalho de Doll e Peto se tornou importante no debate sobre políticas para combater o câncer e seus dados foram usadas como forte argumento no debate sobre questões tais como a necessidade de modificações na dieta americana, na política de regulamentação de produtos, na definição de prioridades para a pesquisa sobre câncer. A tabela de percentagens foi muito usada também em seminários e conferências em que houvesse interesses que pudessem se beneficiar dela. Por exemplo, para defender indústrias potencialmente poluentes alegando-se que os fatores dieta e o cigarro seriam mais perigosos como agentes cancerígenos que a atividade industrial. Mas a medida que a tabela foi sendo reproduzida ou citada em publicações e palestras, a coluna "intervalo de estimativas aceitáveis" e as notas de alerta na sua base foram desaparecendo, e as "melhores estimativas" se transformaram em fatos. Frases como " o consenso hoje é de que 35% das mortes por câncer pode ser atribuído à dieta" ou "resultados de pesquisa atribuem à dieta e ao cigarro cerca de 65% das mortes por câncer" ficaram comuns na literatura científica e popular. As salvaguardas dos autores originais desapareceram.
+
+Hilgartner informa ainda que o trabalho original foi intensamente citado nos periódicos científicos, tendo recebido mais de 490 citações no Science Citation Index entre os anos 1981-1986. As estimativas de Doll e Peto foram também muito citadas em publicações não propriamente científicas, como documentos sobre política governamental em relação ao câncer, relatórios do National Cancer Institute, jornais e revistas populares, artigos na área jurídica e legal, panfletos sobre dietas, e publicações de grupos ativistas.
+
+Hilgartner comenta que os autores, ao incluírem o "intervalo de estimativas aceitáveis" na tabela original, estavam caracterizando a pouca confiabilidade dos dados. Mas que a afirmação que fizeram de que apesar disso os dados seriam úteis para retratar certos fatos, de certa forma volta a confer confiabilidade aos seus dados. O caso ilustra como é difícil entender a notícia científica e complicado manter a fidelidade à notícia científica original, que às vezes já contem ambigüidades em sua origem, e como as diversas versões podem ser manipuladas.
+
+Problemas com as questões que envolvem risco
+
+Os avanços da ciência às vezes trazem ameaças para a humanidade e para o meio ambiente. A consciência popular sobre os riscos inerentes a certas descobertas científicas parece ter aumentado muito nas últimas décadas, graças ao trabalho de agências governamentais, organizações não governamentais - ongs, jornalistas, e também cientistas. Mas apesar do aumento do volume de notícias sobre a ciência e da maior grau de consciência científica da sociedade, freqüentemente há versões conflitantes na mídia sobre os riscos, que levam à incerteza e insegurança.
+
+Nelkin (1995) comenta que noticiar o risco é uma tarefa difícil, pois sempre há interesses e pressões. A seleção das notícias que aparecem com destaque na imprensa, segundo seu comentário, é muitas vezes ditada não pelo interesse científico, mas pelo valor de atração como drama. Assim, as matérias em jornais e revistas privilegiam eventos catastróficos ou apocalípticos, carregando nas cores de forma a chamar mais a atenção. Além disso, ainda segundo Nelkin, os jornalistas se vêem obrigados a lidar com informações técnicas complexas e incertas, interpretações científicas conflitantes e interesses sociais, éticos, econômicos nem sempre evidentes que afetam as percepções do risco. Para exemplificar o efeito na popularização do conhecimento pelo tratamento dado ás noticias e fatos científicos que envolvem risco para a sociedade seguem abaixo o resumo de três episódios relatados pela aquela autora, em que a notícia sobre risco foi manipulada por interesses de vários tipos.
+
+O primeiro episódio relata a controvérsia sobre o que ficou conhecido como o buraco na camada de ozônio. A controvérsia começou na década de 70, e atraiu muita atenção da mídia. Em resumo, cientistas britânicos haviam descoberto que o uso do gás CFC, usados nos sprays de aerossol e no isolamento térmico de geladeiras e outros aparelhos era danoso para a camada de ozônio, causando "buracos" que deixam passar raios solares prejudiciais à saúde, aumentando os riscos de câncer de pele. A notícia científica foi publicada na Nature em 1973 e reproduzida primeiro por algum jornalista na Suécia, mas não teve repercussão nos Estados Unidos. Em 1974, cientistas americanos anunciaram em um congresso da American Chemical Society que haviam conseguido resultados semelhantes ao estudo britânico (que havia servido de fonte ao jornalista sueco). O New York Times pescou a notícia e a publicou em artigo de primeira página, explicando as dimensões do problema. A partir daí, o assunto passou rapidamente a ser notícia em todos os jornais e meios de comunicação dos Estados Unidos, com vários graus de sensacionalismo. As indústrias químicas interessadas reagiram imediatamente criticando a imprensa e os ambientalistas, que também haviam reagido, chamando-os de ignorantes, e distribuindo amplamente para imprensa folhetos e informações que desacreditavam os dados dos cientistas. A confusão da imprensa era alimentada pelos interesses conflitantes das indústrias e das organizações ambientalistas e de proteção ao consumidor. Mas os dados científicos foram confirmando o aprofundamento de problema e em 1978 o governo americano impôs restrições ao uso do CFC. A partir daí a imprensa perdeu interesse pelo caso, embora o uso do gás ainda fosse permitido para certos usos até a década de 90.
+
+Outro caso relatado por Nelkin se refere aos adoçantes, especialmente à sacarina e aos ciclamatos . Nesse caso, os cientistas haviam feito experiências com ratos, que adquiriam câncer depois de ingerir doses extremamente elevadas daquelas substâncias. Duas questões dominaram as discussões: como estabelecer evidência conclusiva sobre o risco e deveria o governo ou não banir imediatamente toda a venda de produtos que contivessem os adoçantes. A noticia sobre sacarina havia sido publicada inicialmente em 1977 e sobre os ciclamatos em 1969. O custo potencial que a suspensão desses adoçantes iria causar à indústria de alimentos dietéticos fez com que o assunto se tornasse uma ruidosa disputa pública. Os relatórios das agências governamentais eram ambíguos. Na visão da sociedade leiga, os cientistas seriam os capacitados de fazer julgamentos científicos e dirimir as dúvidas, não os políticos ou administradores. Mas neste caso, as declarações dos próprios cientistas eram conflitantes, muitos deles acusados de terem interesses pessoais em jogo. A ambigüidade dos relatórios e cientistas refletia na mídia. Um dos pontos levantados pelos que defendiam o uso dos adoçantes argumentava que a dose ministrada aos ratos havia sido enorme, equivalente a 50 vezes a quantidade máxima permitida para humanos, o que desqualificaria os resultados obtidos. Mas não se explicava ser aceitável e prática comum na ciência, por causa do custos, substituir o uso de centenas de animais durante tempo prolongado alimentados com doses baixas da substância em teste, por aumentos na dosagem de maneira a conseguir resultados estatísticos válidos em prazos mais curtos e extrapolar desses resultados os efeitos de uma dosagem mais baixa. Em resumo, a mídia valorizou aspectos sensacionais e que chamavam a atenção, mas não deu muito espaço para os argumentos mais técnicos da questão.
+
+O terceiro relato se refere a diversos casos de lixo tóxico, especialmente dioxin, semelhantes ao recente episódio que ocorreu no interior de São Paulo, com uma fábrica de fertilizantes da Shell, que contaminou toda a área afetando a saúde do moradores da região. O desenvolvimento é sempre parecido: informações conflitantes que refletem interesses de indústrias, autoridades e mesmo cientistas. A mídia em geral procurando explorar a notícia mais que informar.
+
+
+
+Discussão
+
+Lievrouw (1992) propôs um modelo interessante de representação do ciclo da informação científica, que contrasta com o modelo de Garvey e Griffith (Garvey 1979), mais conhecido pelos estudiosos da ciência da informação: nesse último, a atividade de comunicação da pesquisa é representada com detalhes apenas enquanto os interlocutores são cientistas ou especialistas. No modelo de Lievrouw a atividade de pesquisa é considerada em três etapas: a etapa da criação do conhecimento científico, da documentação e da popularização desse conhecimento. A ciência da informação tem estudado bastante as etapas propostas por Garvey e Griffith, mas no modelo de Lievrouw, é a segunda etapa, documentação, que já era também assunto da biblioteconomia, que tem merecido maior atenção. A popularização do conhecimento científico tem sido estudada com mais assiduidade pela ciência da comunicação, mas freqüentemente o interesse desses estudos está no texto e na mídia, e não no processo de comunicação visto como um contínuo desde seu início. O que se propõe aqui, para a ciência da informação, é um olhar mais prolongado para a comunicação científica, para incluir também a etapa da popularização como parte integrante e influente do processo de criação do conhecimento e divulgação científica.
+
+A proposta se fundamenta na evolução do processo: a medida que a tecnologia aumenta a facilidade para publicar e buscar informação científica na Web, as três etapas descritas por Lievrouw perdem a clareza de limites. A compreensão do fenômeno da comunicação científica, sob a ótica da ciência da informação, ao meu ver, deve incluir todo o processo. E a etapa da popularização tem implicações muito grandes na definição dos rumos da pesquisa e na compreensão que a ciência da informação busca do processo.
+
+A dependência crescente da ciência por financiamentos cada vez mais difíceis de obter aumentou a dependência dos cientistas da aprovação pública - a obtenção de financiamentos tanto oficiais quanto oriundos em outras fontes é influenciada pela opinião pública, que por sua vez é influenciada pela mídia, formando um verdadeiro ciclo em que forças nem sempre muito visíveis tentam canalizar simpatias e apoios para as suas causas e interesses. Para estudar as questões aqui discutidas, propõem-se um modelo em que três atores principais afetam a notícia científica: o cientista, as indústrias e os representantes dos governos.
+
+Os cientistas tiveram que mudar seu comportamento tradicional e adaptar-se aos tempos: há agora a preocupação em manter uma boa imagem da ciência e deles próprios para o público e para os agentes que decidem política científica, de maneira a garantir o apoio para as suas pesquisas. Algumas vezes dependem de financiamentos de fontes com interesses específicos. Para isso usam a mídia, tentando repassar notas que os favoreçam ou pelo menos não os prejudiquem.
+
+Os responsáveis pelas políticas científicas são também responsáveis pela saúde e bem estar do povo e pela integridade do meio ambiente. E devem considerar ainda aspectos econômicos de descobertas científicas e suas consequências na sociedade. Portanto, também tenderão a apresentar algum viés nas suas decisões e comunicados. Os casos relatados por Nelkin (1995) e outros tantos, noticiados na mídia, mostram isso com clareza.
+
+As indústrias estão ocupando um lugar de crescente importância nesse jogo. Cada vez mais dependentes da ciência, têm feito parcerias produtivas com universidades e institutos de pesquisa, ocupando lugar que antes era do Estado, no financiamento de pesquisas. Mas se o Estado suportava financiamentos a fundo perdido, as indústrias investem para obter lucro. É fácil imaginar que todo caminho que puder ser abreviado para chegar ao produto final tem chance de ser escolhido, mesmo que signifique aumento de riscos potenciais.
+
+Os três atores sofrem influências oriundas da reação da sociedade às notícias científicas, que por sua vez são moldadas pela mídia. E a mídia tem suas fontes nos cientistas, mas também nas indústrias e nos órgãos oficiais do governo. O processo de popularização envolve então um risco grande de interferência e manipulação, que afeta potencialmente todo o processo de comunicação científica, inclusive os rumos da ciência. É claramente assunto para a ciência da informação.
+
+
+
+Referências Bibliográficas
+
+CORNELIS, Gustaaf C. Is popularization possible? Paideia, http://www.bu.edu/wcp/Papers/Scie/ScieCorn.htm (paper presentet at the 20th World congress of Philosophy, Boston, Massachussets, august, 10-15 1998. (Acessado em 3/4/2002)
+
+GARVEY, W D. Communication: the essence of science: facilitating information exchange among librarians, scientists, engineers and students. New York: Pergamon Press, 1979.
+
+HILGARTNER, Stephen. The dominant view of popularization: conceptual problems, political uses. Social Studies of Science, Sage, London, v.20, p.519-139, 1990.
+
+LIEVROUW Leah A. Communication, representation and scientific knowledge: a conceptual framework and case study. Knowledge and Policy, v.5, n.1, Spring, p.:6-28, 1992.
+
+NELKIN, Dorothy. Selling science: how the press covers science and technology. 2nd ed. New York: W H Freemann and Company, 1995.
+
+SABBATINI, Renato. Analfabetismo científico. Jornal Correio Popular, Campinas, 28/5/99.
+

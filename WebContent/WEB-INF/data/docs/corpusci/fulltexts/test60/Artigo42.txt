@@ -1,0 +1,295 @@
+Informação para negócios: os novos agentes do conhecimento e a gestão do capital intelectual
+
+
+Resumo
+
+A evolução das características e necessidades dos diferentes usuários de informação em empresas vem determinando, ao longo do tempo, não apenas a criação de diversos tipos de sistemas de informação para atendê-los, como também uma constante adaptação do perfil de formação acadêmica e de atuação dos profissionais da informação. Ao primeiro e tradicional modelo de biblioteca técnica de empresa seguiram-se os centros de documentação, os centros de informação, as bibliotecas virtuais, os sistemas de inteligência competitiva e, atualmente, os programas de gestão do conhecimento.
+
+O reconhecimento da importância estratégica da administração do conhecimento e do capital intelectual das empresas configura-se como a mais recente fase de evolução na gestão da informação. Os diferentes modelos de sistemas de informação para empresas já surgidos, apesar de distintos, não se excluem e convivem, ainda que parcela significativa dos profissionais da informação não venha acompanhando e se adaptando a essa evolução e esteja perdendo espaço de atuação para profissionais de outras áreas.
+
+Palavras-chave
+
+Gestão do conhecimento; Capital intelectual; Informação para negócios; Sistemas de informação para negócios; Agentes do conhecimento.
+
+
+
+Qualidade, produtividade e competitividade. Estes são os três conceitos sinalizadores dos atuais desafios das empresas que, nos últimos anos, passaram a constituir a trilogia do sucesso empresarial. Nas três últimas décadas, as empresas alcançaram avanços consideráveis nos processos de manufatura, nas áreas financeira, administrativa e de marketing, bem como no desenvolvimento e utilização de novos materiais.
+
+Recentemente, as empresas experimentaram expressivas transformações na gestão dos negócios em conseqüência da automação industrial e de escritórios, de modo que o uso da tecnologia da informação se transformou em passaporte para entrada em um mundo de mercados globalizados.
+
+Reduzir custos e ganhar vantagem competitiva passa a ser o resultado não só do "quanto", mas também de "como" serão feitos investimentos em tecnologia, e esse resultado será proporcionalmente maior para as empresas que responderem de modo mais rápido às mudanças de necessidades e de demandas do mercado e da sociedade como um todo, antecipando-se em alternativas inovadoras.
+
+Gerenciar de maneira inteligente as informações obtidas e o conseqüente conhecimento gerado e incorporado pela empresa a partir dos seus processos de inovação passa a ser diferencial estratégico. Assim, cada vez mais as empresas passam a ter, em seu quadro de pessoal, não apenas especialistas técnicos, mas também especialistas em trabalhar a informação de maneira criativa. É nesse contexto que surgem, dentro das empresas, os novos agentes do conhecimento.
+
+
+
+OS AGENTES DO CONHECIMENTO E A INFORMAÇÃO
+
+Ao longo da sua trajetória, as empresas vêm incorpo-rando, em suas estruturas, diferentes profissionais, cujos perfis de atuação dependem diretamente do uso e interpretação da informação.
+
+Agentes criativos
+
+São os profissionais que utilizam a informação na solução de problemas, ou como insumo gerador de idéias que irão fundamentar novas tecnologias e conceitos que, por sua vez, irão proporcionar vantagem competitiva.
+
+Os agentes criativos da empresa são os profissionais das áreas de desenvolvimento e criação para os quais a informação necessária pode estar em catálogos comerciais, notícias, textos literários, imagens, artigos de revista, livros, como também em complexas análises de engenharia, de logística, de equipamentos ou de formulações químicas e seus efeitos.
+
+O atendimento das demandas de informação destes profissionais tem sido realizado por meio dos diferentes tipos de sistemas de informação, criados nas últimas décadas. O modelo mais antigo é o da tradicional biblioteca técnica de empresa, representada, em geral, por uma sala com acervos de livros, periódicos e normas técnicas mantidos, na maioria das vezes, com limitados recursos orçamentários, e que, freqüentemente, acabava se transformando em um depósito de livros e revistas, recebidos na empresa. Tais bibliotecas atuavam como microespelhos de bibliotecas especializadas e universitárias, tendo como foco de atuação o acúmulo de acervo com o objetivo de atender às demandas internas da empresa.
+
+Em seguida, viveu-se a fase dos centros de documentação, que nada mais eram do que as mesmas bibliotecas de empresa, porém de menor tamanho e que tentavam ser mais seletivos quanto à abrangência de seus acervos. Ao mesmo tempo, surgiram os centros de informação, cuja proposta, em alguns casos, ia além de simplesmente guardar livros e publicações, para se arriscar em primitivas seleções e análises de conteúdo, embriões dos atuais sistemas de inteligência competitiva.
+
+No início dos anos 90, viveu-se o boom das bibliotecas virtuais de empresa, cujo foco de atuação é o acesso à informação em vez do acúmulo de acervos. Mais do que armazenar informação em pilhas de publicações e documentos e despender recursos com isso, compreende-se que ser estratégico é saber onde encontrar a informação certa, de maneira rápida e custo-efetiva (Rezende & Marchiori, 1994).
+
+Agentes intérpretes
+
+São os profissionais que interpretam o contexto de atuação da organização, utilizando a informação como ferramenta de prospecção e identificação de novos negócios, mercados e tecnologias. São os especialistas em análise e planejamento econômico, comercial ou tecnológico, cuja missão é identificar ameaças e oportunidades, antecipando mudanças de cenários.
+
+Para suprir suas necessidades de informação, surgiram os sistemas especialistas em inteligência competitiva, que se valem principalmente dos sistemas virtuais de acesso a informações para obter dados que serão analisados e reinterpretados à luz do negócio e, posteriormente, divulgados às esferas decisórias da empresa.
+
+Agentes intermediários
+
+São os especialistas em intermediar o acesso à informação, cujo processo se inicia com a identificação e interpretação das demandas de informação do negócio, seguida da identificação das fontes de informação, da seleção e pesquisa propriamente dita, da organização que torna as informações acessíveis e, por fim, da sua divulgação para os agentes do conhecimento existentes na empresa.
+
+Essa categoria de agentes foi quase que exclusivamente formada por bibliotecários em sua mais tradicional função de organizadores e mantenedores dos acervos das bibliotecas internas de empresas. Atualmente, o perfil de formação e atuação profissional dessa categoria de agentes vem sofrendo constantes e significativas mudanças.
+
+Em conseqüência do natural amadurecimento por que passam todas as empresas, seja em relação às suas crenças e modos de gestão, seja quanto aos seus processos internos, esse profissional foi ganhando um novo papel de intermediário entre as demandas de informação da empresa e o universo de informações acessíveis e acessáveis. Atualmente, constata-se a participação cada vez maior de profissionais de diversas especialidades atuando nesse tipo de atividade. São os chamados infomediários ou information brokers.
+
+Agentes gestores do conhecimento
+
+É uma nova categoria de profissionais, cujo papel é a administração do capital intelectual da empresa, também chamado de QI empresarial.
+
+Antes de se proceder a uma análise mais detalhada sobre esses profissionais e seu papel dentro das modernas organizações, é necessário assinalar a distinção sobre o que é inteligência empresarial e QI ou conhecimento empresarial.
+
+
+
+INTELIGÊNCIA EMPRESARIAL PARA FORMULAÇÃO ESTRATÉGICA
+
+A formulação estratégica de qualquer negócio sempre é feita a partir das informações disponíveis e, portanto, nenhuma estratégia consegue ser melhor que a informação da qual é derivada. Chama-se inteligência competitiva o processo de monitorar o ambiente competitivo e não apenas o ambiente mercadológico, prática há mais tempo consolidada por meio de pesquisas de mercado ou marketing.
+
+Sapiro (1993) define inteligência empresarial como o processo de "transformar dados em sabedoria, através de um sistema informacional que tem como objetivo melhorar a posição competitiva. Antes o relacionamento com o mercado caracterizava-se por uma troca simples, "[...] . Hoje, a troca é essencialmente baseada em informações". Pode-se ainda definir inteligência competitiva como o processo de monitorar o ambiente competitivo.
+
+Partindo dessas definições, será a habilidade com que a empresa coleta, organiza, analisa e implementa mudanças a partir de informações, integrando-as ao processo de melhoria contínua de suas atividades, que irá determinar a sua excelência. Para isso, principalmente nos últimos cinco anos, muitas empresas passaram a contar, internamente, com sistemas de inteligência, onde os agentes interpretes desempenham papel fundamental.
+
+Para estes, a produção inteligente de informações deve começar com a identificação das necessidades do negócio, seguida da escolha das fontes, da coleta, classificação, organização e análise de dados e pela edição e difusão constante das informações geradas para os níveis decisórios da empresa. Iniciativas que se limitem a coletar e disseminar dados pela empresa não garantem, por si só, a criação e sustentação de vantagens competitivas.
+
+Fuld (1994) lembra que a informação nunca anda em linha reta e que informações valiosas podem passar despercebidas e por isso é preciso constância e método para trabalhá-la. Segundo a Society of Competitive Intelligence Professionals (SCIP), 80% das informações sobre os concorrentes estão dentro da própria empresa.
+
+O trabalho de inteligência não se constitui mais em novidade. Nos últimos anos, essa atividade tem sido formalizada, departamentalizada e organizada em nível mundial. Prova da sua valorização, bem como a de seus profissionais, é o crescimento no número de filiados a essa mesma associação, que de 1.800 membros em 1995 saltou para 6 mil em 1999, com uma média de 200 novas adesões por mês. Das 500 maiores empresas listadas pela revista Fortune, 90% têm processos de inteligência estabelecidos. A NutraSweet, tradicional empresa do ramo de dietéticos, afirma obter ganhos de até US$ 50 milhões anuais graças a esse trabalho.
+
+Para Gilad & Gilad, apud Sapiro (1993), a atividade de inteligência deveria até mesmo ser institucionalizada nas empresas à maneira de uma rede, onde diversos funcionários seriam responsáveis pela coleta de dados e alimentariam uma central de inteligência, que os interpretariam e divulgariam. Seja qual for a extensão da rede interna e externa de inteligência de uma empresa, para que o sistema seja bem-sucedido é importante determinar se a sua abrangência é extensiva a todo o ambiente ou limitada apenas a uma parte dele.
+
+
+
+CAPITAL INTELECTUAL: MAIS MENTE, MENOS MÚSCULOS
+
+Novas e importantes percepções emergem quando as empresas passam a ser vistas também sob a ótica do conhecimento. No antigo modo de se conceber as empresas como um agregado de recursos para gerar produtos e serviços, as pessoas eram consideradas fatores permutáveis na equação da produção e o conhecimento era tido apenas como uma condição desejável.
+
+Hoje, as inovações tecnológicas, cada vez mais acessíveis a todos os setores econômicos, reduziram a distância diferenciadora entre as empresas, que passaram a ter possibilidade de acesso às novidades e evoluções surgidas em qualquer parte do mundo.
+
+O diferencial entre as empresas não é mais as máquinas utilizadas no processo produtivo, mas sim o somatório do conhecimento coletivo gerado e adquirido, as habilidades criativas e inventivas, os valores, atitudes e motivação das pessoas que as integram e o grau de satisfação dos clientes. São os chamados ativos intangíveis os conhecimentos tácitos ou explícitos que geram valor econômico para a empresa e cuja origem está diretamente relacionada aos agentes criativos da empresa.
+
+O principal foco gerador de riqueza não é mais o trabalho manual, e sim o intelectual. Empresas pobres de bens, mas ricas de cérebros, passam a ser as mais valorizadas, como as consultorias, as agências de publicidade e criação, as empresas de auditoria, as empresas criadoras de softwares e de novas soluções informatizadas, bem como as empresas "ponto com.". Na sociedade pós-industrial, o último estágio é a sociedade do conhecimento, na qual a criação, distribuição e manipulação da informação constituem a principal fonte de geração de riquezas.
+
+Se a nova riqueza é o conhecimento, capital e trabalho passam a ser menos antagônicos. Capital é cada vez mais o capital intelectual, capital de relacionamento, capital de marca e identidade. E trabalho é cada vez mais a capacidade de gerar e gerir idéias, de conectar-se, comunicar-se e relacionar-se com pessoas, sejam elas clientes, parceiros, outros profissionais e até mesmo o círculo familiar e de amigos, já que qualidade de vida influencia o resultado final do trabalho. Por mais de um século, o homem mais rico do mundo foi associado ao petróleo. Hoje, está associado ao conhecimento.
+
+Para Stewart (1998), o capital intelectual constitui a matéria intelectual, como o conhecimento, a informação, a propriedade intelectual e experiências que podem ser utilizadas para gerar riqueza.
+
+Capital intelectual é, enfim, o conhecimento existente em uma organização e que pode ser usado para criar uma vantagem diferenciada. Quanto mais inteligente, sofisticada e integrada à nova economia, caracterizada por um alto grau de diversificação, velocidade e complexidade, mais chances a empresa terá em sobreviver e crescer.
+
+
+
+OS ATIVOS INTANGÍVEIS DO CAPITAL INTELECTUAL
+
+Os ativos intangíveis que compõem o capital intelectual de uma empresa podem ser divididos em três categorias:
+
+Ativos de mercado
+
+São os bens intangíveis que guardam relação com o mercado, tais como carteira de clientes e respectiva fidelidade, relações com acionistas, bancos e fornecedores, acordos de cooperação, alianças estratégicas e tecnológicas de produção ou comerciais, marcas registradas e respectiva imagem no mercado, canais de distribuição, as licenças e franquias. Esta categoria de ativos é importante à medida que proporciona vantagem competitiva à empresa, assegurando aos seus clientes melhor conhecimento de sua identidade e ações.
+
+Ativos de competência individual
+
+Compreende o conhecimento, o expertise, a perícia, as habilidades, a capacidade criativa e de liderança dos funcionários da empresa. São as qualidades intrínsecas ao ser humano enquanto indivíduos e, portanto, não pertencem à empresa. Mais que recursos humanos, são o capital humano.
+
+Ativos de estrutura
+
+É a estrutura organizacional formal e informal da empresa. O conjunto das tecnologias, ferramentas, processos e metodologias responsáveis pelo funcio-namento do negócio. Nesta categoria, incluem-se os softwares e redes de comunicação utilizados, as bases de dados, os sistemas de direção e gestão, as atividades de pesquisa e desenvolvimento, os segredos de fabricação e know-how, as patentes e copyrights. Esta categoria confere qualidade, segurança, correção e ordem à empresa.
+
+
+
+INTELECTO: O MELHOR ABANDONADO
+
+Capital intelectual é o capital que reside na cabeça das pessoas, proveniente do trabalho e criação do intelecto e, no contexto da empresa, é a experiência acumulada pelo esforço de pesquisa de novos produtos e métodos de trabalho, pelo desenvolvimento e domínio de tecnologias emergentes e aprimoramento das relações e parcerias. É, enfim, o talento e o nível de eficiência atingidos.
+
+Alto grau de eficiência pode ser obtido em uma balanceada combinação de bons desempenhos das áreas operacionais, administrativas e técnicas da empresa. Já o talento, sendo inerente à condição humana, e não genético, pode ser aprendido.
+
+O reconhecimento do valor do capital intelectual apresenta uma nova perspectiva de como as empresas devem organizar seu futuro ao investir na renovação de seus ativos intangíveis, principalmente, as pessoas. E o que deve ser feito para que pessoas possam desenvolver talentos e atingir excelência em seus intelectos ? Segundo Ludwig (1997), "uma revolução da educação e pela educação. Por exemplo, nas escolas, proíbem-se as crianças de falar, quando na realidade, hoje os maiores salários são justamente de quem fala".
+
+Para empresas atentas em gerar valor a partir do seu capital intelectual, o cenário de escassez na oferta de profissionais criativos, inovadores, intuitivos, líderes e com espírito empreendedor e de equipe só não é maior do que a escassez de profissionais com boa formação cultural e educacional.
+
+Na escolha do perfil de quem serão os agentes do conhecimento das empresas, não se discute mais saber ou não inglês e espanhol, isso é obrigatório. Assim como dominar novas tecnologias de ponta, como Internet, Intranets e computadores em geral. Pessoas que não sabem nem usar um forno de microondas e querem arrumar um bom emprego, isso não vai mais existir. Hoje, já não basta ler três jornais por dia, ou passar horas navegando em sites noticiosos, ou mesmo ler montanhas de livros, se o conteúdo aprendido não for empreendido na geração de algum tipo de valor, seja ele pessoal, comunitário ou empresarial. É a supremacia da qualidade perante a quantidade.
+
+Vive-se, em uma sociedade cuja única certeza é a mudança. E onde tudo muda a toda hora é impossível existir uma receita de sucesso. Os paradoxos que se apresentam aos profissionais desses novos tempos são vários: pensar a longo prazo, mas mostrando resultados imediatos; inovar sem perder eficiência; colaborar, mas também competir; trabalhar em equipe, sendo cobrado individualmente; ser flexível, sem romper padrões; conviver com o real cada vez mais virtual; manter a liberdade, mas estar cada vez mais conectado e em rede; estar focado, sem perder noção do que os cerca; buscar a perfeição em meio a rapidez; ser agressivo, sem perder a emoção; agir rápido e por impulso, mas com consciência; estabelecer-se, mas mudando e inovando sempre; dividir para poder multiplicar.
+
+Hoje, mais do que nunca, a criatividade é fundamental para surpreender e conquistar clientes, e, para que isso aconteça, é preciso ter inovação para a realização de um trabalho espetacular que só se concretiza quando se adora o que faz.
+
+Liderança é outro pressuposto do perfil daqueles que serão os novos agentes do conhecimento da empresa. Não existe enpowerment sem conhecimento. Líder é aquele que abre caminhos para seus liderados, e não o chefe que passa o dia assinando papéis, que é a primeira coisa que se aprende na alfabetização, ou seja, assinar o nome.
+
+Ser empreendedor, por sua vez, significa "correr riscos, tomar iniciativa, ser obsessivo com resultados [...], mas, se você chega a uma empresa e pergunta a um funcionário quanto ele custa para a empresa [...] ele vai calcular um custo X. Mas, se você perguntar quanto ele rende à empresa, ele não sabe responder. Isso significa que falta muito para esse funcionário ser um empreendedor". (Ludwig, 1997)
+
+Sobre as atuais equipes de trabalho, Ludwig (1997) é ainda mais crítico: "Empresa tem que ser um time, e não um grupo de trabalho. No time você pode até odiar o outro, mas trabalha com ele sem boicotar, já que o objetivo é o resultado do trabalho da empresa [...]. Hoje o que vale é o nível de conhecimento do time, e com isso a hierarquia se torna reverencial. Quando empresas implantam apenas um espírito de time, a hierarquia destrói o time" [...]. Ter um time "é dizer que existe um objetivo comum, e não existe caso de que essa não é a minha função, quem quiser que faça". As atuais equipes têm que ter postura relacional, e a qualidade do desempenho individual é função da interação, comunicação e coordenação entre os membros. A ênfase dada no trabalho em equipe passa a ser o conhecimento trabalhado, e não o trabalho do conhecimento.
+
+Com a transição da Era da Informação para a Era do Conhecimento, compreende-se que a informação, por si só, não gera novos conhecimentos. Informação gera conhecimento quando algo de novo for criado a partir das suas possíveis interpretações. Quando a empresa identifica e adquire os conhecimentos que estão lhe faltando e compartilha esses conhecimentos com os outros, aí sim o seu capital humano começa a crescer em competência e conhecimento.
+
+
+
+O VALOR DO CAPITAL INTELECTUAL
+
+Com o desenvolvimento das telecomunicações e da informática, na empresa voltada para o conhecimento, a informação passa a assumir realidade e valor próprios, separados dos bens físicos. Paradoxalmente, porém, essa nova realidade é bastante tangível, materializando, assim, o imaterial. Ao mesmo tempo, experimenta-se um novo renascimento da importância do ser humano como principal personagem da economia, pois é ele quem detém o principal recurso competitivo das organizações: o conhecimento.
+
+"A informação passa, portanto, a figurar como principal bem econômico na medida em que é o ingrediente fundamental na geração do conhecimento" [...]. "As empresas passam a valer mais pelo conhecimento que detêm ou comercializam do que pelo patrimônio físico" [...]. Com o advento da civilização digital, o intangível passa a compor a parte de maior valor de uma empresa". (Ludwig, s.d.)
+
+Quantificar esse valor intangível, que é a lacuna existente entre o balanço patrimonial de uma empresa e o seu valor de mercado, é um dos grandes desafios da atualidade, especialmente para as empresas que detêm elevado conhecimento técnico. O mercado avalia que o patrimônio intelectual de uma empresa vale de três a quatro vezes o seu valor contábil. Metodologias para cálculo do capital intelectual de uma empresa foram estudadas por Edvinsson (1998), Graef (s.d.), Malone (1997), Stewart (1998), entre outros.
+
+
+
+GESTÃO DO CONHECIMENTO
+
+Uma vez reconhecido o capital intelectual como um dos principais geradores de riqueza das empresas, atenção especial passa a ser dada à sua gestão, pois, uma vez formalizado, capturado e alavancado, pode produzir ativos de ainda maior valor. "Gerenciar o capital intelectual é uma tarefa complexa, até porque está incluso neste conceito a gestão do conhecimento (parte do capital intelectual) e a gestão da informação (parte da gestão do conhecimento), exigindo, portanto, da função de administrá-lo, esforço multidisciplinar". (Ludwig, s.d.)
+
+Uma das questões que se coloca é de que forma as empresas podem conciliar o conhecimento que se encontra na cabeça dos seus funcionários com as informações existentes em suas bases de dados, nos papéis, planilhas e relatórios por ela gerados, transformando-os em ferramenta geradora de vantagem estratégica para o negócio. Outra questão diz respeito a como reter esse conhecimento para que ele se torne propriedade da empresa, isto é, capital estrutural.
+
+O desafio da gestão baseada em conhecimento é também entender como a empresa funciona enquanto inteligência coletiva, para atingir plenamente os seus objetivos. A própria natureza intangível dos ativos do conhecimento dificulta a escolha de soluções e torna relativos os resultados já alcançados por algumas empresas.
+
+Stewart (1998) relata experiências de empresas que já investiram consideráveis somas, identificando, reunindo, organizando, avaliando e disseminando o seu capital intelectual com o objetivo de atribuir-lhe valor perante a possibilidade de vendê-lo, evitar retrabalhos, agilizar trocas de informação e experiências e melhor aproveitar os especialistas da empresa e suas idéias.
+
+De qualquer maneira, capital intelectual é, antes de mais nada, capital e, como todo capital, pode ser gerenciado em termos de estoques e fluxos que, neste caso, são os estoques e fluxos de conhecimento existentes na empresa. Parte desse estoque de conhecimento tem direitos legais de propriedade, como as tecnologias e produtos desenvolvidos, as marcas criadas e os direitos autorais. Outra parte compõe-se da estratégia, cultura, sistemas, rotinas e procedimentos organizacionais e há também uma parte que é pura ciência de vanguarda. Fluxos são todos e quaisquer caminhos por onde o conhecimento trafega, desde as redes eletrônicas até o comparti-lhamento entre pessoas. Conhecimento deve fluir rápido e facilmente entre as diversas funções da empresa.
+
+Uma vez identificados estoques e fluxos, o próximo passo é integrá-los, organizando-os e divulgando-os, e esta tarefa pode, ela própria, tornar-se capital intelectual, pois sistemas criados a partir do uso da tecnologia da informação também são ativos de estrutura.
+
+Percebe-se, assim, o surgimento de mais um diferente segmento na administração da informação - a gestão do conhecimento gerado dentro da empresa -, que, assim como a informação gerada fora da empresa, precisa ser identificado, compilado, organizado, avaliado e disponibilizado, porém sob a nova perspectiva do capital intelectual.
+
+Pode-se, portanto, dizer que a gestão do conhecimento é o processo de criar valor pelo uso dos ativos intangíveis da empresa. É a transformação da informação em conhecimento e do conhecimento em negócio.
+
+
+
+TECNOLOGIAS PARA ADMINISTRAÇÃO DO CONHECIMENTO
+
+Existem dois tipos de conhecimento: ou conhecemos um assunto ou sabemos onde encontrar informações sobre ele. Assim como vem ocorrendo nos demais âmbitos gestores das empresas, a tecnologia da informação tem papel relevante na preservação e administração do capital intelectual da empresa, principalmente visando a alavancar os processos de inovação.
+
+Os estoques da empresa voltada para o conhecimento são basicamente compostos de informação, e os novos processos automatizados, que passaram a coletar e distribuir esse novo tipo de informação, aniquilaram os antigos e lentos sistemas de informação vertical hierarquizada.
+
+Algumas empresas já experimentaram recompensas financeiras por investirem em tecnologia para gestão do conhecimento. A criação de bancos de dados de conhecimento, além de facilitar e democratizar o acesso ao conhecimento, ajuda as empresas a trabalhar de forma global e independente da sua localização, possibilitando maior controle do conhecimento envolvido no cresci-mento e rotatividade de pessoal. "Cada indivíduo que sair da empresa levará consigo conhecimentos que vale a pena reter, e cada novo funcionário trará conhecimentos que merecem ser compartilhados". (Stewart, 1998)
+
+As experiências mais comuns até o momento referem-se à criação de bancos de dados de cadastros do tipo páginas amarelas de especialistas e respectivos expertises, de processos e soluções desenvolvidos e respectivas customizações (também chamados de receitas ou lições aprendidas), de sistemas voluntários de perguntas e respostas assim como de sistemas de inteligência do concorrente com respectivo perfil financeiro (balanços), comercial (carteira de clientes, canais de distribuição, marcas registradas, portfólio de produtos, market-share, ações na mídia, entre outros) e tecnológico (patentes, listas de especialistas e respectivos papers técnicos etc.).
+
+A escolha da tecnologia de administração do conhecimento deve levar em conta os âmbitos técnico e conceitual do sistema de informação a ser criado, à luz da capacidade cognitiva da empresa. Não deve se limitar, portanto, a uma mera escolha de software.
+
+O âmbito técnico do sistema é o que oferece soluções no nível das tecnologias da informação propriamente ditas, no nível do conhecimento aplicado e modelos de negócio. A análise do âmbito conceitual permite discernir as condições intrínsecas e extrínsecas ao sistema que também podem gerar resultados efetivos. Capacidade cognitiva é a aptidão para registrar, armazenar, usar e dotar de sentido dados compilados, possibilitando melhor embasamento na tomada de decisões e aplicação de recursos.
+
+Para que seja efetiva, qualquer tecnologia de administração do conhecimento escolhida deve servir a um objetivo estratégico claro.
+
+
+
+UMA HISTÓRIA DE CASTELOS DE LIVROS
+
+Rápidas e significativas têm sido as mudanças experimentadas pelas empresas nos últimos anos, com relação à criação e gestão de sistemas de informação. Sistemas com propósitos distintos e diferentes modus operandi foram surgindo e se aperfeiçoando ao longo do tempo, e hoje esses diversos sistemas coexistem.
+
+O cenário é de convivência: existem muitas empresas cuja gestão da informação se dá apenas no nível da informação vinda de fora, sem ainda se darem conta da importância estratégica da gestão do conhecimento interno, gerado a partir dessas informações. Assim, para algumas empresas o núcleo de informação segue ainda o tradicional modelo de biblioteca técnica interna ou do centro de documentação ou de informação, sendo que estes últimos nada mais são do que um misto de biblioteca, por possuírem acervo, acrescidos de alguns serviços, como os de seleção, análise e divulgação de informações.
+
+Por outro lado, crescem em número e importância os sistemas de informação conjugados, nos quais bibliotecas virtuais sem acervo e com foco de atuação no acesso e pesquisa de informações suprem centros de inteligência competitiva, de maneira rápida e custo-efetiva.
+
+Recentemente, estudos e análises sobre capital intelectual, seu valor e gestão passam a dar uma nova interpretação à informação, como sendo apenas insumo gerador de conhecimento, dentro do contexto de negócios. Essa nova abordagem trata a informação, de maneira mais objetiva, como sinônimo de dado imbuído de significado, que só terá valor se gerar valor. Tal pressuposto revoluciona não apenas a maneira como é vista e entendida a informação, como traz uma nova perspectiva para aqueles que trabalham direta ou indiretamente com ela.
+
+O atual reconhecimento da importância da gestão do capital intelectual, somado à possibilidade, que apenas agora se oferece, de se analisar todo o cenário histórico-evolutivo dos diferentes tipos de sistemas de informação para negócios já experimentados, começa a desmistificar e redimensionar o valor intrínseco da informação e dos modelos de sistemas até hoje experimentados para administrá-la, dentro do ambiente de negócios.
+
+No âmbito estratégico-empresarial, a informação terá mais ou menos valor não só dependendo da sua aplicação, mas, principalmente, da maneira que for interpretada, gerando novos conhecimentos que irão agregar valor ao negócio. A evolução da gestão da informação para algo mais amplo e complexo, que é a gestão do conhecimento, impacta e traz conseqüências diversas no âmbito dos chamados profissionais da informação.
+
+Dentro do contexto empresarial, o termo e a função de bibliotecário foram usados e ainda continuam sendo, em alguns casos, para designar o profissional cuja responsabilidade era a de ordenar, disponibilizar e resguardar documentos e, consequentemente, as informações neles contidas. O termo, assim como a função, foi importado, diretamente do universo das bibliotecas públicas, escolares, universitárias e especializadas, para o âmbito da gestão de negócios, algo com objetivos e funções, certamente, bastante diferentes de uma biblioteca.
+
+Com a crescente complexidade e abrangência da gestão de negócios, esse profissional passa a se mostrar limitado não apenas em sua formação acadêmica, mas também quanto à própria denominação. As bibliotecas técnicas de empresa, com seus pesados acervos, não mostravam agilidade de resposta suficiente para acompanhar o ritmo veloz das mudanças dos focos de interesse da empresa. Além disso, passam a ter cada vez mais dificuldade em manter a atualização desses acervos a um baixo custo, o que impactava diretamente na competitividade do negócio como um todo.
+
+Na tentativa de manter e até mesmo expandir as possibilidades de atuação dos profissionais bibliotecários, que começam a perder espaço no mercado de trabalho em empresas, denominações profissionais mais abrangentes, porém ambíguas, passaram a ser usadas, tais como profissionais, administradores, cientistas e gestores da informação; assim como a sua área de atuação deixou de ser chamada de biblioteconomia para ser ciência da informação.
+
+Talvez porque essa transformação tenha se dado apenas no nível da denominação, e não no nível das ações. Certo é que esta nova nomenclatura pouco ou nada mudou no âmbito da gestão da informação para negócios. A denominação biblioteca também foi mudada para centro de documentação ou centro de informação, sem que, no entanto, o foco de atuação fosse alterado.
+
+A conseqüência dessa sucessiva miscelânea de nomes para uma imutável realidade, que fora importada do contexto das bibliotecas de fato para o cenário de negócios, foi a crescente descrença dos empresários com relação a manter núcleos de informação nas estruturas de suas empresas. Esta situação, aliada às freqüentes crises econômicas ocorridas no país, fizeram com que essas bibliotecas e centros desmoronassem dentro das empresas, como castelos de livros que eram.
+
+Era o início de uma revolução de fato, e não mais uma mera troca de nomenclatura; era questão de sobrevivência, tanto do conceito de biblioteca no âmbito empresarial, quanto dos profissionais que nela atuavam. Quebrava-se, assim, dentro das empresas, o paradigma do castelo de livros ou acervo e do respectivo guardador de livros ou bibliotecário.
+
+Aos poucos, a biblioteca em seu sentido tradicional vai perdendo espaço dentro das empresas para as bibliotecas virtuais, que passaram a cumprir com as funções e objetivos do que seria uma biblioteca, sem que para isso fosse necessário possuir acervos centralizados.
+
+A redução dos acervos físicos parece mesmo ter proporcionado às empresas uma visão mais ampla, que lhes possibilitou compreender que elas precisavam de informação, e não necessariamente de livros e acervos.
+
+Essa nova compreensão permite que as empresas busquem um perfil mais adequado para o profissional que irá gerir esse novo sistema. Mais que um organizador, este profissional deve ser um agente intermediário na busca, seleção, divulgação e gestão dos fluxos de informação dentro da empresa. Essa atividade passou a ser chamada de brokerage, e esse novo profissional hoje é conhecido como infomediário ou information broker .
+
+Ocorreu, em paralelo, um aumento significativo do número de profissionais de outras áreas e especialidades, que passam a atuar dentro das empresas como intermediários nos processos de gestão da informação, devido, principalmente, ao fato de que a formação acadêmica oferecida pelas escolas de biblioteconomia ou ciência da informação já não atendia plenamente às necessidades das empresas.
+
+A evolução e o amadurecimento da própria atividade de gestão empresarial em face da nova ordem econômica e tecnológica, somados ao aumento qualitativo e quantitativo de informação que as empresas passam a ter acesso através das atividades de brokerage, fizeram com que naturalmente as empresas percebessem que, para a superação dos seus atuais desafios, exigiam-se sistemas de informação ainda mais flexíveis e eficientes, os quais pudessem triar e digerir rapidamente crescentes quantidades de informação.
+
+Em um mundo de competitividade global, não basta somente ter ou saber onde encontrar ou acessar a informação. É necessário analisá-la, interpretando-a à luz dos cenários econômico, tecnológico e de mercado, entre outros. Assim, o modelo de sistema de informação plenamente voltado para negócios passa a ser o de um sistema que combina acesso, análise e interpretação da informação, que, na seqüência, irá se transformar em conhecimento a ser utilizado nos diversos processos de tomada de decisão e planejamentos estratégicos da empresa.
+
+Sob essa perspectiva, surgiram os centros de inteligência que, a partir da análise da informação, em sua maior parte obtida por meio do acesso a redes de informação, começam a gerar novos conhecimentos, exclusivos da empresa e, portanto, de grande valor: o capital intelectual.
+
+Este é o momento atual em que se encontram as empresas: elas começam a se dar conta da importância de se administrar o conhecimento produzido, visto que ele agrega valor ao negócio. Em conseqüência, essas empresas passam a ter uma nova perspectiva da gestão da informação, onde não basta somente gerir informações. Hoje, o mais importante é a administração da informação que gera conhecimento, além da própria administração do conhecimento criado.
+
+A evolução da biblioteca técnica interna para centro de documentação, seguida do centro de informação, da biblioteca virtual, do centro de inteligência e, agora, o centro de conhecimento, mostra de maneira flagrante que, ao longo do tempo, os sistemas de informação para negócio foram perdendo valor enquanto ativo físico ou acervos. Ao mesmo tempo, esses sistemas passam a ter valor pela expertise em acessar, analisar e interpretar a informação, pois é desta maneira que o conhecimento adquire tanto ou mais valor que a informação propriamente dita com a qual o sistema trabalha.
+
+No curso dos diversos modelos vividos pelos sistemas de informação para negócio, os bibliotecários, que no passado inauguraram essa nova frente de atuação dentro das empresas, estão sucessivamente perdendo espaço para outros profissionais, quando na realidade poderiam ter se beneficiado com isso. Se, por um lado, cada novo sistema surgido exigia mais conhecimento, criatividade e adaptabilidade a novas realidades, por outro, aumentava sobremaneira o leque de possibilidades de trabalho especializado na área de informação.
+
+Resta saber se a história a ser contada pelos bibliotecários sobre as transformações que novamente estão ocorrendo no âmbito dos sistemas de informação para negócio serão mais uma vez as eternas estórias de lutas de heróis pela defesa de castelos de livros.
+
+
+
+Artigo aceito para publicação em 20-09-2000
+
+
+
+REFERÊNCIAS
+
+CASTELLS, Manuel. A sociedade em rede. São Paulo : Paz e Terra, 1999. 617 p. 
+
+COMPETITIVE intelligence: the real knowledge management. Knowledge Management, London, v. 3, n. 3, p. 33-35, Nov. 1999. 
+
+DE MASI, Domenico. Futuro do trabalho: fadiga e ócio na sociedade pós-industrial. Rio de Janeiro : José Olympio/Brasília : UnB, 1999. 354 p. 
+
+DOCUMENT management versus knowledge management. Knowledge Management, London, v. 3, n. 5, p. 26-35, Feb. 2000. 
+
+DRUCKER, Peter F. The coming of the new organization. Harvard Business Review, Boston, v. 66, n. 1, p. 45-53, Jan./Feb. 1988. 
+
+EDVINSSON, Leif ; MALONE, Michael S. Capital intelectual. São Paulo : Makron, 1998. 214 p. 
+
+FULD, Leonard M. The new competitor intelligence. New York : John Wiley, 1994. 512 p. 
+
+GILAD, Benjamin. The role of organized competitive intelligence in corporate strategy. Columbia Journal of World Business, Columbia, v. 24, n. 4, p. 29-35, Winter 1989. 
+
+GRAEF, Jean. Measuring intellectual assets: 12 techniques used to value intangible assets. Disponível em: <http://www.montague.com/le/le1096.html>. Acesso em: 9 fev. 2000. 
+
+KLEIN, David A. A gestão do capital intelectual. Rio de Janeiro : Qualitymark, 1998. 360 p. 
+
+LUDWIG, Waldez Luiz. Entrevista. In: PROGRAMA CONTA CORRENTE DO GLOBO NEWS. 13 dez.1997. Disponível em: <http://www.visualbook.com.br/entrevi/waldez/waldez.htm> Acesso em: 12 jan. 2000. 
+
+__________. Gestão do capital intelectual: o que muda nas relações? Disponível em: <http://www.racional.com.br/confi6b.html>. Acesso em: 12 jan. 2000. 
+
+MALONE, Michael S. New metrics for a new age. Asap Forbes, Supplement on the Information Age, n. 7, Apr. 1997. Disponível em: < http://www.forbes.com/asap/97/0407/040.htm>. Acesso em: 9 fev. 2000. 
+
+PORTER, Michael E.; MILLAR, Victor E. How information gives you competitive advantage. Harvard Business Review, Boston, v. 63, n. 4, p. 149-160, Jul./Aug. 1985. 
+
+REZENDE, Yara. A falsa utilidade da biblioteca de empresa. O Estado de São Paulo, São Paulo, 25 mar. 1992. Caderno Empresas, p. 2. 
+
+__________. Natura Cosméticos: quando é virtuoso ser virtual. Ciência da Informação, Brasília, v. 26, n. 2, p. 154-158, maio/ago. 1997. 
+
+__________. Sistemas de informação: concepção lógica. Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 25, n. 3/4, p. 11-17, jul./dez. 1992. 
+
+__________; MARCHIORI, Patricia Zeni. Do acervo ao acesso: a perspectiva da biblioteca virtual em empresas. Ciência da Informação, Brasília, v. 23, n. 2, p. 254-257, maio/ago.1994. 
+
+SANCHES, Oswaldo M. Estratégias para a implantação e gerência de sistemas de informação de apoio à tomada de decisões. Revista de Administração Pública, São Paulo, v. 31, n. 4, p. 68-100, jul./ago. 1997. 
+
+SAPIRO, Arão. Inteligência empresarial: a revolução informacional da ação competitiva. Revista de Administração de Empresas, São Paulo, v. 33, n. 3, p. 106-124, maio/jun. 1993. 
+
+STEWART, Thomas A. Capital intelectual: a nova vantagem competitiva das empresas. Rio de Janeiro : Campus, 1998. 237 p. 
+
+SVEIBY, Karl E. O valor do intangível. HSM Management, São Paulo, v. 4, n. 22, p. 66-69, Set./Out. 2000. 
+
+UMA idéia capital. HSM Management, São Paulo, v. 4, n. 22, p. 72-78, Set./Out. 2000. 
+
+UNIVERSIDADE DE BRASÍLIA (Brasília). Centro de Apoio ao Desenvolvimento Tecnológico. Inteligência competitiva: estratégias para pequenas empresas. Brasília : GH Comunicação, 1999. 
+

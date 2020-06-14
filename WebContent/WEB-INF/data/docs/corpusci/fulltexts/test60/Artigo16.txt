@@ -1,0 +1,210 @@
+Educação para a Informação: desafios contemporâneos para a Ciência da Informação
+
+
+
+Resumo: O artigo situa os desafios para a formação de profissionais de informação no contexto das mudanças no ensino superior no Brasil. Aborda a consolidação do campo da Ciência da Informação e as influências recebidas por via das literaturas americana e francesa. Discute as especificidades da Ciência da Informação em contraponto com a Biblioteconomia. Partindo destas referências apresenta o projeto de formação de analistas de informação conforme implementado na PUC Minas; destacando o perfil do profissional visado, os eixos temáticos do curso, as estratégias de ensino/aprendizagem.
+
+Palavras chave: Ciência da Informação - Formação profissional, Educação Superior no Brasil, Sociedade da Informação - educação, Ciência da Informação e Biblioteconomia, Ciência da Informação - curso de graduação
+
+
+
+A perspectiva de observação
+
+A promulgação da Lei de Diretrizes e Bases da Educação - LDB (lei n.9.394 de 20/12/1996) deu início a um processo inusitado de transformação no cenário da educação superior em nosso país: alteração das instâncias de regulação e controle sobre a educação superior, com mudanças na composição e no papel do Conselho Nacional de Educação; diversificação das instituições de ensino superior, com graus diferentes de autonomia; implantação de procedimentos regulares e amplos de avaliação das condições de oferta dos cursos superiores, sob a jurisdição do MEC e seus institutos, notadamente CAPES para a pós-graduação e INEP para a graduação.
+
+Paralelamente a este processo reformador, orquestrado pelo governo federal, temos assistido também a um crescimento vertiginoso na pressão social por vagas no ensino de terceiro grau em todas as regiões do país, decorrentes principalmente de dois fatores interligados: alterações na composição do mercado de trabalho numa economia globalizada - que exige maior e melhor capacitação profissional - e aumento no número de egressos do ensino médio.
+
+A conjunção destes fatores dentro de um quadro propício - seja em termos de regulação, seja em termos de receptividade social - produziu uma situação bastante interessante com a expansão quantitativa e diversificada (embora, infelizmente, nem sempre também qualitativa) da oferta de vagas em cursos superiores.
+
+A flexibilização curricular, permitida e incentivada pela LDB, libertou as instituições e os cursos para exercerem sua autonomia e criatividade na elaboração de propostas específicas, capazes de articular as demandas locais e/ou regionais de formação profissional com os recursos humanos, físicos, e materiais disponíveis. A singularidade de cada nova proposta é reconhecida e legitimada nos marcos das Diretrizes Curriculares, que definem como parâmetro de modelagem o perfil do profissional pretendido. Assim, de acordo com as características sócio-culturais locais, a vocação econômica e as demandas regionais, o número de egressos do ensino médio, as IES desenham novos formatos de cursos em que possam otimizar os seus recursos.
+
+Nestas circunstâncias, torna-se impossível limitar a proliferação de novos e diferentes modelos de formação profissional, com a conseqüente repercussão sobre as profissões. Indicativo destas mudanças radicais é a dificuldade de atualização e posterior publicação da Classificação Brasileira de Ocupações   CBO   tabela mantida pelo Ministério do Trabalho, cuja última edição data de 1994, com o cadastro de 2.356 profissões, das quais grande parte já é considerada como extinta ou em extinção, enquanto verbetes recentes não cessam de ser adicionados[1].
+
+De um outro ponto de observação, assistimos também à implantação e consolidação de uma forma de organização social que tem sido identificada por inúmeros autores como Sociedade da Informação. A discussão acerca da pertinência desta designação, seu caráter ideológico ou não, sua abrangência e outros elementos de sua discussão sociológica fogem ao objetivo deste texto. Em princípio, podemos concordar com o seu uso como uma forma simples e direta de nomear o fenômeno, vigente em âmbito mundial, da incorporação contínua de novos conhecimentos nos processos de reprodução social[2].
+
+São inegáveis a repercussão e o impacto do modo de organização da Sociedade da Informação sobre as profissões, que têm na informação seu objeto de estudo e/ou trabalho, fenômeno este que tem sido explorado exaustivamente tanto na literatura de cunho acadêmico quanto naquela de divulgação científica e de cunho noticioso, razão portanto para não nos determos neste particular. Basta estarmos atentos para o fato de que este artigo tem como referências as transformações delimitadas por esse conceito.
+
+Acredito ser importante, também, destacar que a Sociedade da Informação tem como uma de suas características fundantes a incorporação da velocidade, em todas as dimensões das relações e processos sociais. De modo que, ao estudo das instituições, em seu aspecto de consolidação, é imprescindível adicionar a observação das tendências demonstradas pela emergência de fatos novos em seu processo de institucionalização, sob pena de proceder a uma análise obsoleta e fragmentada. Com isto quero reforçar a necessidade de se refletir sobre qualquer objeto em estudo, pela ótica de sua consolidação histórica, sem descurar dos indícios presentes no fenômeno instituinte. É o que tentarei fazer nas seções seguintes, discutindo aspectos da formação em informação, o lugar da Ciência da Informação e algumas de suas particularidades, para finalmente, apresentar a proposta que levou à implantação do curso de graduação em CI na Pontifícia Universidade Católica de Minas Gerais   PUC Minas. É importante destacar que o foco da análise é a formação profissional desenvolvida na graduação; embora a pós-graduação seja eventualmente mencionada, sua análise mais substantiva escaparia ao escopo deste artigo.
+
+
+
+A Educação na Sociedade da Informação
+
+Dentre as características da Sociedade da Informação, destaca-se a importância atribuída à formação das novas gerações. É fácil entender isto: diante das mudanças aceleradas e amplas que a mundialização ensejou, cresce a incerteza quanto ao futuro, a tradição não representa mais o farol que aponta o caminho, o fluxo de pessoas e idéias entre as diferentes regiões mescla culturas, importa hábitos, modifica valores. Neste cenário, a formação das novas gerações tem recebido crescente atenção na busca de métodos e procedimentos que eduquem para a tolerância, a criatividade, a flexibilidade, a curiosidade intelectual, a ética, a ecologia, sem abrir mão dos valores humanos, da cultura e do conhecimento até aqui acumulados. Na concepção de Edgar Morin,  a educação é ao mesmo tempo transmissão do antigo e abertura da mente para receber o novo [3].
+
+Também o já muito conhecido Relatório Delors sobre a Educação[4] enfatiza, como condição necessária para as próximas gerações, quatro saberes fundamentais: aprender a aprender, aprender a fazer, aprender a ser e aprender a conviver. Estas concepções demarcam um novo olhar sobre a função educativa: não mais a transmissão de conteúdos, e sim a formação de sujeitos cognitivos com competências e habilidades para enfrentar situações inesperadas, solucionar problemas inéditos, acompanhar o desenvolvimento do conhecimento em suas áreas de interesse e respeitar a pluralidade cultural planetária.
+
+Neste contexto, o direito à informação, assim como a garantia de acesso a ela, adquirem relevância nunca igualada. Ressurge a importância das bibliotecas, arquivos e museus, reais ou virtuais, como fontes inesgotáveis de conhecimentos registrados. A internet, por sua vez, tem realçada sua função de mídia   canal de comunicação, tornando disponível para todos (desde que conectados!) o imenso acervo da inteligência coletiva, conforme as idéias entusiasmadas de Pierre Levy[5].
+
+
+
+Formação em Informação: o lugar da CI
+
+Dada a importância adquirida pela informação nos processos sociais da Sociedade da Informação, notadamente por sua relevância como recurso econômico e insumo produtivo, este objeto   intangível, imponderável e idiossincrático  constituiu-se em fonte de interesse para inúmeros campos de estudo e de aplicações: a informática ocupa-se com seu processamento veloz e o armazenamento de grandes quantidades; a comunicação tem como foco os processos de transmiti-la; com as engenharias, permitiu-se o aparecimento das telecomunicações (transmissão a longa distância); na administração possibilitou a emergência de sub-áreas específicas como gestão estratégica, inteligência competitiva, etc.; sem deixar de mencionar outras ligações, menos diretas mas igualmente importantes, com as ciências cognitivas e seus desdobramentos; com a semiótica e a lingüística, com a biologia. Ou seja, o conceito informação tem vantagens e desvantagens em ser polissêmico: é atraente e se presta à aplicação para múltiplos interesses; é de delimitação e precisão quase impossíveis; demanda saberes e procedimentos multifacetados para sua compreensão; foge ao aprisionamento pela noção de propriedade.
+
+Nesta direção, pode-se argumentar que o tratamento dado a este conceito é, necessariamente, fragmentado, uma vez que a cada um dos campos interessam tão somente determinadas particularidades, ou seja, o conceito é instrumentalizado segundo a necessidade ditada por sua aplicabilidade.
+
+A Ciência da Informação, campo que nos interessa particularmente aqui, tem como especificidade estudar as características conceituais da informação em sua dimensão circular de produção, captação, análise e organização, recuperação e disseminação para (novamente) produção.....etc., etc., sucessivamente. Recorrendo a SARACEVIC (1996) podemos identificar suas origens pela conjugação das demandas postas pela explosão informacional com as soluções trazidas pelo desenvolvimento tecnológico. Este autor atribui ao desenvolvimento das técnicas de recuperação de informações (information retrieval) o incremento do avanço da CI nos Estados Unidos, com repercussões mundiais.
+
+Ora, independentemente da origem estabelecida, parece ser consensual a atribuição à CI de um caráter interdisciplinar, haja visto o recurso ao conhecimento sistematizado por outras áreas (economia, computação, sociologia, psicologia, filosofia, administração, biblioteconomia, arquivologia, estatística) para a compreensão do seu objeto e solução de sua problemática.
+
+Neste sentido, pode ser dito que a CI procura compreender seu objeto em seus múltiplos aspectos, de forma a possibilitar uma percepção menos fragmentada, ainda que para isto tenha que recorrer a inúmeros campos, com os quais deve, necessariamente, estabelecer interfaces, reconhecendo as singularidades de cada um, além da sua própria.
+
+
+
+A formação em CI: o caso brasileiro
+
+A introdução da Ciência da Informação no Brasil deu-se, no início dos anos 70, no âmbito de duas mudanças significativas: a primeira foi a evolução do curso de especialização (lato sensu) em Documentação, oferecido pelo IBBD, para pós-graduação (stricto sensu)   mestrado em Ciência da Informação; a segunda, refere-se à mudança do próprio Instituto Brasileiro de Bibliografia e Documentação para Instituto Brasileiro de Informação em Ciência e Tecnologia   IBICT   nome atual da instituição.
+
+A conjuntura nacional da época exigia a criação de estruturas de apoio informacional e a capacitação de recursos humanos para a pesquisa e o desenvolvimento científico e tecnológico, necessários às estratégias de soberania econômica implantadas pelos governos militares. Com esta mudança processa-se uma cisão: de um lado, a Biblioteconomia e a Documentação, que até então desempenhavam as funções informativas; e de outro, a CI, que começa a incorporar o discurso teórico, a problemática de pesquisa e as metodologias de investigação via docentes e literatura anglo-saxônicos.
+
+É interessante destacar que, por mais de uma década, esta cisão predominou, com a formação de  cientistas da informação  em nível de pós-graduação, enquanto a de bibliotecários era feita em nível de graduação. Socialmente, as funções destes dois tipos de profissionais eram distintas: aos bibliotecários eram reservadas as bibliotecas públicas, universitárias, escolares (casos raros) e os centros de documentação de empresas. Estas últimas também recorriam aos arquivistas, embora os cursos de formação destes profissionais fossem, como ainda são, em número bem menor no país. Os cientistas da informação eram aproveitados sobretudo em centros/institutos de pesquisa ou como professores em universidades federais que, então, estruturavam as carreiras docentes incentivando a pesquisa e, em razão disto, demandavam mestres e doutores.
+
+Em Biblioteconomia continuaram a ser formados profissionais seguindo um modelo que buscava sempre maior padronização, em cursos que se disseminaram largamente por todo o país. CASTRO (2002) relata a evolução do ensino da Biblioteconomia, as disputas entre as correntes humanista e tecnicista, as marchas e contramarchas na elaboração das propostas de currículos para homogeneizar a formação profissional em âmbito nacional, até a aprovação pelo Conselho Federal de Educação do segundo currículo mínimo em 1982. A década de 80 presenciou, assim, a implantação de um padrão praticamente único para formação de bibliotecários em todo o país. Entretanto, a diversidade de condições de oferta, de demandas locais, de oportunidades de interação com outros campos de conhecimento, determinaram que a formação segundo o padrão mínimo fosse sendo acrescida de disciplinas diversas na composição dos currículos plenos, nas diferentes escolas. É naquela década também que ganha maior relevância a influência das áreas e técnicas de gestão e administração, inicialmente através de cursos de especialização e em seguida, pela inclusão de conteúdos específicos nas disciplinas de graduação.
+
+Se tomarmos como referência a concepção francesa, a origem das Ciências da Informação (no plural, como é entendido lá), seria resultante da aglutinação de três áreas inicialmente separadas: Biblioteconomia, Arquivologia e Museologia[6]. Esta concepção que, atualmente, encontra boa repercussão na área, não se sustenta, efetivamente, no caso brasileiro. Em nosso país, a formação de arquivologistas recebeu menos incentivo do que a de bibliotecários, até mesmo como reflexo da precariedade no trato da documentação pública por parte dos governos. Embora importantes universidades tenham implantado cursos que serviram como modelo para outras instituições, como o curso de especialização da Universidade de São Paulo ou os de graduação das universidades federais de Santa Maria e Fluminense, estas experiências não lograram uma expansão numerosa   o interesse pela área esteve, muitas vezes, ligado a departamentos ou cursos de História. A Museologia, por sua vez, apenas muito recentemente conseguiu estabelecer-se como ensino de terceiro grau e faltam profissionais em número suficiente para enfrentar os embates políticos voltados para a regulamentação de qualquer profissão.
+
+Os anos 90 foram palco de uma ação persistente e forte em direção à consolidação do campo da CI no Brasil, aglutinando as três áreas, ainda que de forma artificial, pois não corresponde à uma identificação construída historicamente entre elas. Esta consolidação escapou aos limites da pós-graduação, e adentrou o campo profissional   não sem que se instalasse uma forte resistência por parte de grupos profissionais, dos órgãos de classe e de muitas escolas.
+
+É importante relembrar que estas ações se passam no contexto de implantação da política neoliberal, com o encolhimento do Estado, diminuição de investimentos em políticas sociais, a flexibilização do emprego, o aumento das taxas de desemprego, e repercutem entre nós a situação dos anos 80 na Europa e nos Estados Unidos, em que escolas/departamentos de Biblioteconomia foram fechados e várias bibliotecas viram minguar seus recursos. A resistência dos profissionais bibliotecários à CI   apropriada, segundo meu entendimento - foi em parte decorrente da compreensão errônea de que a Biblioteconomia seria subsumida pela CI.
+
+Quanto à Arquivologia e à Museologia, ambas se mantiveram distanciadas das polêmicas, até porque não se identificavam muito   nem se identificam ainda - com a CI, ou porque, dispondo de uma força social menor, ainda se encontram no processo de construção de identidades e de fortalecimento. De modo que restou à Ciência da Informação a representação dicotômica Biblioteconomia/Ciência da Informação, demonstrando a inexistência de uma identidade forte por parte de qualquer das duas, além de grande imprecisão quanto ao seus objetos de estudo/trabalho.
+
+É minha opinião que a persistência desta aglutinação impede a consolidação de ambas as áreas como campos autônomos de conhecimento, dotados de práticas complementares porém diferentes, voltados para problemáticas diversas e com funções sociais bem delimitadas, - elementos fundamentais para o pleno reconhecimento e legitimidade sociais. Mantida esta forma híbrida não se atende à demanda social, não se fortalecem os cursos de graduação e pós, além de não se constituírem como profissões reconhecidas.
+
+Acredito ser necessário substituir a barra ( / ) pela conjunção ( e ) e deixar de tratar as duas áreas como equivalentes, reconhecendo a singularidade de cada uma. O caminho para a construção desta relação passa, necessariamente, pela explicitação desta singularidade na construção de projetos pedagógicos para formação de novos profissionais, adequando-se às demandas locais e/ou regionais, com o perfil do profissional necessário para atender tais demandas e as condições das instituições de ensino superior para ofertar os cursos. Não basta alterar a denominação dos cursos, seja de graduação ou de pós-graduação, buscando uma modernidade que não corresponde à realidade. O campo da CI não se ocupa das bibliotecas como tal; se todos os cursos forem CI, o que vai suceder com as bibliotecas, mais do que nunca necessárias para formar e atender os sujeitos do conhecimento, que a educação contemporânea visa preparar, em suas buscas e na educação continuada? Quem vai se encarregar da composição de acervos e de sua disponibilização para acesso real ou virtual? Ao mesmo tempo, a alteração de denominação sem que esta esteja acompanhada de alteração nos conteúdos, na metodologia de ensino/aprendizagem, nos métodos de promover as habilidades e competências exigidas no exercício da profissão, apenas contribui para o enfraquecimento da área, tanto acadêmica quanto profissionalmente.
+
+
+
+A CI na PUC Minas
+
+A elaboração da proposta do curso de graduação em Ciência da Informação, da PUC Minas, nasceu da identificação da demanda social latente, em Minas Gerais, especialmente em Belo Horizonte, por um profissional que soubesse unir:
+
+* o entendimento das relações humanas e sociais nos processos de produção e comunicação de conhecimentos,
+
+* a compreensão do ambiente sócio-econômico de circulação de informações,
+
+* a competência para analisar e organizar informações, com vistas à ampliação do acesso a elas,
+
+* as habilidades para aplicação de instrumentos de tecnologia informática na realização das tarefas de busca, análise, organização, recuperação e disseminação de informações.
+
+
+
+Definido o perfil do profissional a ser formado, foi elaborado o projeto pedagógico do curso, por comissão designada pelo Reitor, composta por professores com formação em cursos de graduação diferentes: Economia, Biblioteconomia, Computação e Engenharia[7] e todos com pós-graduação em CI.
+
+O curso é integralizado em 8 semestres, com 159 créditos, perfazendo o total de 2.895 horas/aula, das quais 2.385 teóricas e 510 práticas, incluindo aulas em laboratórios, estágios e atividades complementares extra-classe[8]. As atividades do curso foram iniciadas em fevereiro de 2000 e a primeira turma será graduada em dezembro de 2003.
+
+O fato de o curso de CI compor, juntamente com Sistemas de Informação e Ciência da Computação, o conjunto de cursos oferecidos pelo Instituto de Informática da PUC Minas criou condições de definir uma grade curricular que contemplasse conteúdos de Informática, ao longo de todo o percurso do estudante. Embora este fato se constitua em um diferencial importante, não é suficiente para indicar a concepção interdisciplinar do curso e outras estratégias foram desenhadas, com este objetivo.
+
+A distribuição dos conteúdos estudados entre diferentes áreas de conhecimento pode ser observada através do gráfico seguinte:
+
+
+
+A composição do corpo docente do curso reflete a mesma concepção interdisciplinar: os professores são oriundos de várias áreas de graduação, alguns deles pertencentes a outros institutos ou faculdades, como ocorre com Filosofia, Matemática, Teoria da Comunicação, Estatística, Economia, Administração, Inglês, e, preferencialmente - mas não obrigatoriamente - com pós-graduação em CI. Reuniões periódicas procuram garantir o planejamento coletivo das atividades, inclusive com indicação de tarefas pluridisciplinares e com avaliação conjunta a serem cumpridas pelos estudantes.
+
+A integração horizontal das disciplinas é promovida por sua articulação em torno de eixos temáticos que norteiam o objetivo formativo das ações pedagógicas de cada período, como indicado abaixo:
+
+
+
+Período Eixos temáticos
+
+1º
+
+Formação do sujeito acadêmico
+
+2º
+
+Conhecimento e informação
+
+3º
+
+Organização da informação
+
+4º
+
+Instituições sociais e informação
+
+5º
+
+Teoria e sistemas de informação
+
+6º
+
+Disseminação e uso da informação
+
+7º
+
+Disseminação e uso da informação
+
+8º
+
+Atividades profissionais
+
+
+
+Já a integração vertical se faz pela articulação em núcleos de disciplinas que constituem as grandes linhas de formação:
+
+* Visão social da Informação (informação e sociedade)
+
+* Processamento e gestão da informação
+
+* Arquitetura da informação
+
+* Instrumental
+
+
+
+No que diz respeito aos métodos de ensino, procura-se desenvolver a habilidade de trabalhar em equipe, com execução de tarefas conjuntas; incentivar o interesse pela investigação, através de disciplinas específicas (teórica e prática) e da participação em projetos de pesquisa dos professores; estes, por sua vez, são estimulados a, sempre que possível, adotar técnicas de ensino/aprendizagem baseadas na resolução de problemas.
+
+Como existe muito pouca literatura pedagógica disponível em CI (a maior parte dos textos disponíveis são escritos para os pares pós-graduados, ou são em outra língua) procura-se incentivar a produção de textos didáticos pelos professores com o envolvimento de alunos, ou a tradução pelos estudantes - sob orientação docente - de textos importantes, bem como a divulgação interna de trabalhos feitos nas disciplinas, desde que apresentem qualidade suficiente. Os professores do curso podem fazer uso de ferramentas de apoio pedagógico à distância para complementar as atividades didáticas e disponibilizar esquemas de aulas, exercícios, textos, agenda de tarefas, esclarecer dúvidas, etc.
+
+A estrutura acadêmica da PUC Minas possibilitou a criação de curso de especialização (lato sensu) em Arquitetura de Informação (já com a oferta para a terceira turma em 2003), seguindo a concepção de permitir e incentivar a atualização e a formação continuada para os egressos dos cursos de graduação da Universidade. Este fato facilita a interação graduação/pós-graduação com estratégias como circulação de material produzido, seminários ou exposições dos estudantes mais adiantados para os iniciantes, participação em projetos conjuntos, materializando para os graduandos perspectivas de atuação profissional.
+
+
+
+Para Finalizar...
+
+O modelo de curso desenhado e implementado pela PUC Minas pretende atender a uma demanda social e, ao mesmo tempo, contribuir para a consolidação do campo da CI em nosso país.
+
+Nesse sentido, as opiniões apresentadas, ainda que polêmicas, têm o objetivo de suscitar reflexões e posicionamentos dos profissionais da área. Muitas páginas foram escritas acerca da formação do bibliotecário em décadas passadas; igualmente muito tem sido escrito e debatido acerca da formação do profissional da informação nos últimos anos. Vale destacar o excelente trabalho desenvolvido pela ABECIN (Associação Brasileira de Escolas de Ciência da Informação) visando a orientar os inúmeros centros de formação universitários sobre os procedimentos atuais definidos pelo INEP na aplicação das regras definidas na LDB, quanto aos projetos pedagógicos e à avaliação na graduação[9].
+
+Entretanto, acredito que a elaboração de projetos pedagógicos condizentes com as concepções atuais de educação para a Sociedade da Informação passa, necessariamente, pela definição efetiva das demandas sociais e do perfil do profissional, aliados às reais condições existentes nas instituições de ensino. Uma vez contemplada a diversidade destes aspectos nas várias regiões e cidades do país, veremos aflorar o profissional de informação adequado para suas funções sociais, não importando ser ele bibliotecário, tecnólogo, gestor, arquivista, museólogo, analista, ou o nome que tiver.
+
+E para finalizar, faço minhas as palavras de Edgar Morin:
+
+
+
+Nossa realidade não é outra senão
+
+nossa idéia da realidade 
+
+
+
+Referências Bibliográficas
+
+ABECIN. Avaliação da graduação em Biblioteconomia e Ciência da Informação: bases conceituais, metodológicas e princípios do processo avaliativo. In: Oficina Regional de Trabalho Sudeste/Centro-Oeste. Vitória, 2002. 20p. (Documentos ABECIN, 2). Disponível no site: www.abecin.org.br
+
+________. Diretrizes para a construção de indicadores de qualidade para a avaliação de cursos de graduação de Biblioteconomia/Ciência da Informação. In: Oficina Regional de Trabalho Sul/São Paulo. Florianópolis, 2002. 32p. (Documentos ABECIN, 3). Disponível no site: www.abecin.org.br
+
+________. Avaliação do processo formativo na área de Biblioteconomia/Ciência da Informação: documento referencial. In: Oficina Regional de Trabalho Norte/Nordeste. Fortaleza, 2002. 24p. (Documentos ABECIN, 4). Disponível no site: www.abecin.org.br
+
+ABECIN/FORGRAD. Projeto pedagógico e avaliação da graduação: referências para a renovação e resignificação do ensino em Biblioteconomia/Ciência da Informação. In: Oficina Regional de Trabalho de São Paulo. São Paulo, 2001. 29p. (Documentos ABECIN, 1). Disponível no site: www.abecin.org.br
+
+AQUINO, M.A. O campo da Ciência da Informação: gênese, conexões e especificidades. João Pessoa, Editora Universitária, 2002.
+
+CASTELLS, M. A sociedade em rede. São Paulo: Paz e Terra, 1999. 3v.
+
+CASTRO, C.A . Histórico e evolução curricular na área de Biblioteconomia no Brasil. In: VALENTIM,M.L.P.(org) Formação do profissional de informação. São Paulo: Polis, 2002.
+
+HARVEY, D. Condição pós-moderna. São Paulo: Loyola, 1994.
+
+KUMAR, K. Da sociedade pós-industrial à pós-moderna. Rio de Janeiro: Jorge Zahar, 1997.
+
+LE COADIC, Y.F. A Ciência da Informação. Brasília: Briquet de Lemos/Livros, 1996.
+
+MOORE, N. A sociedade da informação. In: A informação: tendências para o novo milênio. Brasília: IBICT, 1999. p.94-108.
+
+PINHEIRO, L.V.R. (org) Ciência da Informação, ciências sociais e interdisciplinaridade. Brasília; Rio de Janeiro: IBICT, 1999.
+
+SARACEVIC, T. Ciência da informação: origem,evolução e relações. Perspectivas em Ciência da Informação.v.1,n.1,p.41-62. jan/jul.1996.
+
