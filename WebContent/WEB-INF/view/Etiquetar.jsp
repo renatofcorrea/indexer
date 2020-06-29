@@ -28,6 +28,9 @@
 			font-family: arial;
 			color: white;
 		}
+		table {
+			color: white;
+		}
 		.center {
 			margin: auto;
 			width: 50%;
@@ -36,7 +39,7 @@
 			background-color: #128C7E;
 			padding: 50px;
 		}
-		.indexing_results {
+		.whitebox {
 			margin: auto;
 			border: 10px solid teal;
 			padding: 20px;
@@ -77,7 +80,7 @@
         }
         pageContext.setAttribute("topicsList", topics);
      %>
-        <table border="1">
+        <table class= "center" border="1">
     	<thead>
     		<tr>
     			<th>Palavra-Chave</th>
@@ -102,7 +105,9 @@
     		candidates += it.next().getTitle() + ", \n";
     	}
     %>
-    	<p>Candidatos do Vocabulário: </p> <%=candidates%><br/>
+    	<div class="whitebox">
+    		<b> Candidatos do Vocabulário: </b> <%=candidates%>
+    	</div>
     <%
     }
     
@@ -155,7 +160,7 @@
 				marcados += " " + JOgma.substituiContracoes(PC[0]).replace("_"," ").replace("+"," ").replace("="," ")+" ";
 		}
     %>
-    <div class="indexing_results">
+    <div class="whitebox">
 	    <b>Texto etiquetado: </b> <%=etq%><br/><br/>
 		<b>Texto com SNs marcados: </b> <%=marcados%><br/><br/> 
 	    <b>Sintagmas nominais relevantes: </b> <%=sns%><br/><br/>
