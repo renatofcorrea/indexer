@@ -1,6 +1,5 @@
 <%@page import="br.ufpe.logic.analyzers.*"%>
-<%@page import="java.util.List"%>
-<%@page import="java.util.ArrayList"%> 
+<%@page import="java.util.*"%>
 <%@page import="java.text.DecimalFormat"%>
 <%@page import="java.math.RoundingMode"%>
 <%@page import="org.apache.commons.math3.util.Precision" %>
@@ -69,6 +68,7 @@
         if (obj instanceof ModelWrapper) model = (ModelWrapper) obj;
         MauiCore.setModel(model);
         MauiCore.setVocabPath(vocabPath);
+        
         ArrayList<Topic> topics = MauiCore.runMauiWrapperOnString(texto);
         Topic t = null;
         for (int i = 0; i < topics.size(); i++) {
@@ -95,10 +95,17 @@
     	</table>
     	<br/>
     <%
+    	Collection<Candidate> c = model.getFilter().getCandidates(texto).values();
+    	Iterator<Candidate> it = c.iterator();
+    	String candidates = "";
+    	while (it.hasNext()) {
+    		candidates += it.next().getTitle() + ", \n";
     	}
     %>
-    
+    	<p>Candidatos do Vocabulário: </p> <%=candidates%><br/>
     <%
+    }
+    
     String stopFile = caminho + "/res/sn_stoplist.txt";
     if (texto == null || texto.trim().length() == 0) {
     	%> <p>Digite e submeta algum texto para visualizar as marcações.</p><br> <%
