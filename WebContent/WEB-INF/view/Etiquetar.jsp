@@ -1,8 +1,12 @@
+<%@page import="org.apache.commons.lang.CharSet"%>
 <%@page import="br.ufpe.logic.analyzers.*"%>
 <%@page import="java.util.*"%>
+<%@page import="java.io.File"%>
+<%@page import="java.nio.charset.Charset"%>
 <%@page import="java.text.DecimalFormat"%>
 <%@page import="java.math.RoundingMode"%>
 <%@page import="org.apache.commons.math3.util.Precision" %>
+<%@page import="org.apache.commons.io.FileUtils" %>
 <%@page import="javax.servlet.http.HttpServletResponse"%>
 <%@page import="com.entopix.maui.core.*" %>
 <%@page import="com.entopix.maui.utils.*" %>
@@ -59,30 +63,53 @@
       	</p>
     	</form>
 	</div> <br/>
-	<%
-		String caminho = this.getServletContext().getRealPath("/WEB-INF");
-	   	String texto = request.getParameter("texto");
-	   	
-	    Object obj = MauiFileUtils.deserializeObject(caminho + "/data/models/standard_model");
-	    ModelWrapper model = null;
-	    if (obj instanceof ModelWrapper) model = (ModelWrapper) obj;
-	    else throw new Exception("Invalid model class");
-	    MPTCore.setModel(model);
-	    MPTCore.setVocabPath(caminho + "/data/vocabulary/TBCI-SKOS_pt.rdf");
+<%
+
+	boolean evaluate = true;
+	
+	String caminho = this.getServletContext().getRealPath("\\WEB-INF");
+	String stopFile = caminho + "/res/sn_stoplist.txt";
+	
+	if (evaluate) {
+		String docsPath = caminho + "\\data\\docs\\corpusci";
+		String abs30Path = docsPath + "\\fulltexts\\test30";
 		
-	    String stopFile = caminho + "/res/sn_stoplist.txt";
-	    if (texto == null || texto.trim().length() == 0) {
-			%> <p>Digite e submeta algum texto para visualizar as marcações.</p><br> <%
-	 	} else { //else 1
-      	
-      	//INDEXING
-      	texto = texto.replaceAll("[ \n\t\r]{2,}"," ");
-      	String texto_etq = JTreeTagger.getInstance(caminho + "/res/TreeTagger/").etiquetar(texto);//get texto etiquetado
-      	String[] palavras = texto_etq.split(" ");
-  		String palavra = null;
-  		String etq= "";
-  		for (int i = 0; i < palavras.length; i++)//foreach (String palavra in palavras)
-  		{
+		List<String> abs30 = MauiFileUtils.readAllTextFromDir(abs30Path);
+		
+		
+		List<String> snss = SNAnalyser.extrairSintagmasNominais(new SNAnalyser(stopFile), abs30.get(0));
+		
+		System.out.println(abs30.get(0));
+		
+		/*
+		List<List<String>> abs30SNS = new ArrayList<>();
+		for (String docText : abs30) {
+			abs30SNS.add(SNAnalyser.extrairSintagmasNominais(new SNAnalyser(stopFile), docText)); //extrai SNS a partir do texto
+		}
+		for (List<String> docSNS : abs30SNS) System.out.println(docSNS.toString()); 
+		*/
+	}
+	
+	String texto = request.getParameter("texto");
+	Object obj = MauiFileUtils.deserializeObject(caminho + "/data/models/standard_model");
+	ModelWrapper model = null;
+	if (obj instanceof ModelWrapper) model = (ModelWrapper) obj;
+	else throw new Exception("Invalid model class");
+	MPTCore.setModel(model);
+    MPTCore.setVocabPath(caminho + "/data/vocabulary/TBCI-SKOS_pt.rdf");
+    
+    if (texto == null || texto.trim().length() == 0) {
+	%> <p>Digite e submeta algum texto para visualizar as marcações.</p><br> <%
+	} else { //else 1
+    	
+    	//INDEXING
+    	texto = texto.replaceAll("[ \n\t\r]{2,}"," ");
+    	String texto_etq = JTreeTagger.getInstance(caminho + "/res/TreeTagger/").etiquetar(texto);//get texto etiquetado
+    	String[] palavras = texto_etq.split(" ");
+		String palavra = null;
+		String etq= "";
+		for (int i = 0; i < palavras.length; i++)//foreach (String palavra in palavras)
+		{
 		  	palavra = palavras[i];
 		  	String[] PC = palavra.split("/");
 		  	//cores lawngreen (DET) gray(PL CJ) black(PN) blueviolet (NP) olivedrab (NC)
@@ -94,17 +121,17 @@
 		  		else if (PC[1].equals("VB")) etq += " <font color=\"blue\"><b>" + PC[0].trim()+"</b><sub><small>/"+PC[1].trim()+ "</small></sub></font>";
 		  		else etq+= " " + PC[0].trim()+"<sub><small>/"+PC[1].trim()+ "</small></sub>";
 		  	}
-  		}
-      	
-      	List<String> sns = SNAnalyser.extrairSintagmasNominais(new SNAnalyser(stopFile), texto); //SNS
-      	String resultado = JOgma.identificaSNTextoEtiquetado(texto_etq);
-      	//codigo abaixo adaptado de JOgma.extraiSNIdentificado()
-      	palavras = resultado.split(" ");
-  		palavra = null;
-  		String SN="";
-  		String marcados="";
-  		for (int i = 0; i < palavras.length; i++)//foreach (String palavra in palavras)
-  		{
+		}
+	    	
+    	List<String> sns = SNAnalyser.extrairSintagmasNominais(new SNAnalyser(stopFile), texto); //<------------------------ SNS
+    	String resultado = JOgma.identificaSNTextoEtiquetado(texto_etq);
+    	//codigo abaixo adaptado de JOgma.extraiSNIdentificado()
+    	palavras = resultado.split(" ");
+		palavra = null;
+		String SN="";
+		String marcados="";
+		for (int i = 0; i < palavras.length; i++)//foreach (String palavra in palavras)
+		{
 		  	palavra = palavras[i];
 		  	String[] PC = palavra.split("/");
 		  	if (PC.length > 1) {
@@ -114,30 +141,30 @@
 		  			marcados += " <font color=\"maroon\"><b><i>" + SN.trim()+ "</i></b></font>";
 		  		} else marcados += " " + JOgma.substituiContracoes(PC[0]).replace("_"," ").replace("+"," ").replace("="," ") + " ";
 		  	}
-  		}
-  		
-  		//KEYWORD EXTRACTION
-      	ArrayList<Topic> topics = MPTCore.runMauiWrapperOnString(texto);
-  		ArrayList<Topic> snTopics = MPTCore.runMauiWrapperOnString(String.join("/n", sns)); //concatena sns
-  	    List<String> candidates = null;
-        Topic t = null;
-        for (int i = 0; i < topics.size(); i++) {
-        	t = topics.get(i);
-        	topics.set(i, new Topic(t.getTitle(),t.getId(), Precision.round(t.getProbability(), 3)));
-        }
-        for (int i = 0; i < snTopics.size(); i++) {
-        	t = snTopics.get(i);
-        	snTopics.set(i, new Topic(t.getTitle(),t.getId(), Precision.round(t.getProbability(), 3)));
-        }
-        pageContext.setAttribute("topicsList", topics);
-        pageContext.setAttribute("SNtopicsList", snTopics);
-          
-      	Collection<Candidate> c = model.getFilter().getCandidates(texto).values();
-      	Iterator<Candidate> it = c.iterator();
-      	candidates = new ArrayList<String>();
-      	while (it.hasNext()) {
-      		candidates.add(it.next().getTitle());
-      	}
+		}
+			
+	//KEYWORD EXTRACTION
+	ArrayList<Topic> topics = MPTCore.runMauiWrapperOnString(texto);
+	ArrayList<Topic> snTopics = MPTCore.runMauiWrapperOnString(String.join("/n", sns)); //concatena sns
+	List<String> candidates = null;
+	Topic t = null;
+	for (int i = 0; i < topics.size(); i++) {
+		t = topics.get(i);
+		topics.set(i, new Topic(t.getTitle(),t.getId(), Precision.round(t.getProbability(), 3)));
+	}
+	for (int i = 0; i < snTopics.size(); i++) {
+		t = snTopics.get(i);
+		snTopics.set(i, new Topic(t.getTitle(),t.getId(), Precision.round(t.getProbability(), 3)));
+	}
+	pageContext.setAttribute("topicsList", topics);
+	pageContext.setAttribute("SNtopicsList", snTopics);
+        
+	Collection<Candidate> c = model.getFilter().getCandidates(texto).values();
+	Iterator<Candidate> it = c.iterator();
+	candidates = new ArrayList<String>();
+	while (it.hasNext()) {
+		candidates.add(it.next().getTitle());
+	}
  %>
     <table class= "center" border="1">
 	<thead>
@@ -165,7 +192,7 @@
 	</thead>
 	<tbody>
 		<c:forEach items="${SNtopicsList}" var="v">
-			<tr>
+			<tr> 
 				<td>${v.title}</td>
 				<td>${v.probability}</td>
 			</tr>
