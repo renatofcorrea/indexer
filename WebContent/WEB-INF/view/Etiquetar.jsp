@@ -11,6 +11,8 @@
 <%@page import="com.entopix.maui.core.*" %>
 <%@page import="com.entopix.maui.utils.*" %>
 <%@page import="com.entopix.maui.util.*" %>
+<%@page import="com.entopix.maui.tests.*" %>
+<%@page import="weka.core.stemmers.*" %>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1"%>
 
@@ -63,90 +65,178 @@
       	</p>
     	</form>
 	</div> <br/>
+	
+<%!
+
+	public List<String> extractSNSFromText(String texto, String caminho, String filename) {
+		String texto_etq = null;
+		texto_etq = JTreeTagger.getInstance(caminho + "/res/TreeTagger/").etiquetar(texto);//get texto etiquetado
+		
+	   	String resultado = JOgma.identificaSNTextoEtiquetado(texto_etq);
+	   	List<String> sns2 = new ArrayList<String>();
+	   	String[] frases = resultado.split(" ");
+	   	String palavra = null;
+	   	String SN = "";
+	   	for(int i=0; i < frases.length; i++)//foreach (String palavra in palavras)
+	   	{
+	    	palavra = frases[i];
+	    	String[] PC = palavra.split("/");
+	    	if (PC.length>1)
+	    	if (PC[1].equals("SN")) {
+		    	PC[0]= JOgma.substituiContracoes(PC[0]);
+		    	SN = " "+PC[0].replace("_"," ").replace("+"," ").replace("="," ")+" ";
+		    	sns2.add(SN.trim());
+	    	}
+	   	}
+	   	return sns2;
+	}
+
+	/* Extracts SNS from all .txt files in a directory. */
+	public List<List<String>> extractSNSFromDir(String dirPath, String stopFile, String caminho) throws Exception {
+		File dir = new File(dirPath);
+		File[] docList = MauiFileUtils.filterDir(dir, ".txt");
+		List<List<String>> allSNS = new ArrayList<>();
+		List<String> sns = null;
+		String docText = null;
+		for (File doc : docList) {
+			docText = FileUtils.readFileToString(doc, "UTF-8");
+			docText = docText.replaceAll("[ \n\t\r]{2,}"," ");
+			sns = extractSNSFromText(docText, caminho, doc.getAbsolutePath());
+			
+			if (sns.isEmpty()) throw new Exception("[ERROR]: No sns extracted from file '" + doc.getName() + "' located at " + doc.getAbsolutePath());
+			allSNS.add(sns);
+		}
+		return allSNS;
+	}
+	
+	public void saveSNSOnFiles(List<String> sns, String outDir, int startNum) throws Exception {
+		String filename = outDir + "\\Artigo";
+		
+		for (String str : sns) {
+			if (startNum < 10) FileUtils.write(new File(filename + "0" + startNum + ".txt"), str);
+			else FileUtils.write(new File(filename + startNum + ".txt"), str);
+			startNum++;
+		}
+	}
+%>
 <%
 
 	boolean evaluate = true;
+	boolean extractSNStoFile = true;
 	
-	String caminho = this.getServletContext().getRealPath("\\WEB-INF");
+	String caminho = this.getServletContext().getRealPath("/WEB-INF");
+	System.out.println(caminho);
 	String stopFile = caminho + "/res/sn_stoplist.txt";
+	JTreeTagger.getInstance(caminho + "/res/TreeTagger/");
+	MPTCore.loadModel(caminho + "/data/models/standard_model");
+	MPTCore.setVocabPath(caminho + "/data/vocabulary/TBCI-SKOS_pt.rdf");
 	
 	if (evaluate) {
-		String docsPath = caminho + "\\data\\docs\\corpusci";
-		String abs30Path = docsPath + "\\fulltexts\\test30";
+		//Path init
+		String absPath = caminho + "\\data\\docs\\corpusci\\abstracts";
+		String ftPath = caminho + "\\data\\docs\\corpusci\\fulltexts";
+		String[] paths = new String[4];
+		paths[0] = absPath + "\\sns30";
+		paths[1] = absPath + "\\sns60";
+		paths[2] = ftPath + "\\sns30";
+		paths[3] = ftPath + "\\sns60";
 		
-		List<String> abs30 = MauiFileUtils.readAllTextFromDir(abs30Path);
-		
-		
-		List<String> snss = SNAnalyser.extrairSintagmasNominais(new SNAnalyser(stopFile), abs30.get(0));
-		
-		System.out.println(abs30.get(0));
-		
-		/*
-		List<List<String>> abs30SNS = new ArrayList<>();
-		for (String docText : abs30) {
-			abs30SNS.add(SNAnalyser.extrairSintagmasNominais(new SNAnalyser(stopFile), docText)); //extrai SNS a partir do texto
+		if (extractSNStoFile) {
+			//Extract all SNS from dir
+			List<String> abs30SNS = MPTUtils.flattenString(extractSNSFromDir(absPath + "\\test30", stopFile, caminho));
+			List<String> abs60SNS = MPTUtils.flattenString(extractSNSFromDir(absPath + "\\test60", stopFile, caminho));
+			List<String> ft30SNS = MPTUtils.flattenString(extractSNSFromDir(ftPath + "\\test30", stopFile, caminho));
+			List<String> ft60SNS = MPTUtils.flattenString(extractSNSFromDir(ftPath + "\\test60", stopFile, caminho));
+
+			//Save all SNS
+			saveSNSOnFiles(abs30SNS, paths[0], 31);
+			saveSNSOnFiles(abs60SNS, paths[1], 1);
+			saveSNSOnFiles(ft30SNS, paths[2], 31);
+			saveSNSOnFiles(ft60SNS, paths[3], 1);
 		}
-		for (List<String> docSNS : abs30SNS) System.out.println(docSNS.toString()); 
-		*/
+		
+		//Structured Test setup and run
+		StructuredTest.setModelsDir(caminho + "\\data\\models\\ST models");
+		StructuredTest.setTestPaths(paths);
+		StructuredTest.setSaveCSVFile(false);
+		StructuredTest.setFullTextsMinOccur(1);
+		StructuredTest.runAllTests();
 	}
 	
 	String texto = request.getParameter("texto");
-	Object obj = MauiFileUtils.deserializeObject(caminho + "/data/models/standard_model");
-	ModelWrapper model = null;
-	if (obj instanceof ModelWrapper) model = (ModelWrapper) obj;
-	else throw new Exception("Invalid model class");
-	MPTCore.setModel(model);
-    MPTCore.setVocabPath(caminho + "/data/vocabulary/TBCI-SKOS_pt.rdf");
     
     if (texto == null || texto.trim().length() == 0) {
 	%> <p>Digite e submeta algum texto para visualizar as marcações.</p><br> <%
 	} else { //else 1
     	
-    	//INDEXING
-    	texto = texto.replaceAll("[ \n\t\r]{2,}"," ");
-    	String texto_etq = JTreeTagger.getInstance(caminho + "/res/TreeTagger/").etiquetar(texto);//get texto etiquetado
-    	String[] palavras = texto_etq.split(" ");
-		String palavra = null;
-		String etq= "";
-		for (int i = 0; i < palavras.length; i++)//foreach (String palavra in palavras)
-		{
-		  	palavra = palavras[i];
-		  	String[] PC = palavra.split("/");
-		  	//cores lawngreen (DET) gray(PL CJ) black(PN) blueviolet (NP) olivedrab (NC)
-		  	if (PC.length > 1) {
-		  		if (PC[1].equals("NP")||PC[1].equals("SU")) etq += " <font color=\"maroon\"><b>" + PC[0].trim()+"</b><sub><small>/"+PC[1].trim()+ "</small></sub></font>";
-		  		else if (PC[1].equals("AJ")) etq += " <font color=\"red\"><b>" + PC[0].trim()+"</b><sub><small>/"+PC[1].trim()+ "</small></sub></font>";
-		  		else if (PC[1].equals("AV")) etq += " <font color=\"darkorange\"><b>" + PC[0].trim()+"</b><sub><small>/"+PC[1].trim()+ "</small></sub></font>";
-		  		else if (PC[1].equals("VP")) etq += " <font color=\"darkgreen\"><b>" + PC[0].trim()+"</b><sub><small>/"+PC[1].trim()+ "</small></sub></font>";
-		  		else if (PC[1].equals("VB")) etq += " <font color=\"blue\"><b>" + PC[0].trim()+"</b><sub><small>/"+PC[1].trim()+ "</small></sub></font>";
-		  		else etq+= " " + PC[0].trim()+"<sub><small>/"+PC[1].trim()+ "</small></sub>";
-		  	}
-		}
+   	//INDEXING
+   	
+   	texto = texto.replaceAll("[ \n\t\r]{2,}"," ");
+
+   	//Begin indexer processing
+   	long start = System.currentTimeMillis();
+
+   	String texto_etq = JTreeTagger.getInstance(caminho + "/res/TreeTagger/").etiquetar(texto);//get texto etiquetado
+   	String resultado = JOgma.identificaSNTextoEtiquetado(texto_etq);
+   	List<String> sns2 = new ArrayList<String>();
+   	String[] frases = resultado.split(" ");
+   	String palavra = null;
+   	String SN = "";
+   	for(int i=0; i < frases.length; i++)//foreach (String palavra in palavras)
+   	{
+    	palavra = frases[i];
+    	String[] PC = palavra.split("/");
+    	if (PC.length>1)
+    	if (PC[1].equals("SN")) {
+	    	PC[0]= JOgma.substituiContracoes(PC[0]);
+	    	SN = " "+PC[0].replace("_"," ").replace("+"," ").replace("="," ")+" ";
+	    	sns2.add(SN.trim());
+    	}
+   	}
+   	
+   	long finish = System.currentTimeMillis();
+   	long timeElapsed = finish - start;
+    	
+   	String[] palavras = texto_etq.split(" ");
+	String etq= "";
+	for (int i = 0; i < palavras.length; i++)//foreach (String palavra in palavras)
+	{
+	  	palavra = palavras[i];
+	  	String[] PC = palavra.split("/");
+	  	//cores lawngreen (DET) gray(PL CJ) black(PN) blueviolet (NP) olivedrab (NC)
+	  	if (PC.length > 1) {
+	  		if (PC[1].equals("NP")||PC[1].equals("SU")) etq += " <font color=\"maroon\"><b>" + PC[0].trim()+"</b><sub><small>/"+PC[1].trim()+ "</small></sub></font>";
+	  		else if (PC[1].equals("AJ")) etq += " <font color=\"red\"><b>" + PC[0].trim()+"</b><sub><small>/"+PC[1].trim()+ "</small></sub></font>";
+	  		else if (PC[1].equals("AV")) etq += " <font color=\"darkorange\"><b>" + PC[0].trim()+"</b><sub><small>/"+PC[1].trim()+ "</small></sub></font>";
+	  		else if (PC[1].equals("VP")) etq += " <font color=\"darkgreen\"><b>" + PC[0].trim()+"</b><sub><small>/"+PC[1].trim()+ "</small></sub></font>";
+	  		else if (PC[1].equals("VB")) etq += " <font color=\"blue\"><b>" + PC[0].trim()+"</b><sub><small>/"+PC[1].trim()+ "</small></sub></font>";
+	  		else etq+= " " + PC[0].trim()+"<sub><small>/"+PC[1].trim()+ "</small></sub>";
+	  	}
+	}
 	    	
-    	List<String> sns = SNAnalyser.extrairSintagmasNominais(new SNAnalyser(stopFile), texto); //<------------------------ SNS
-    	String resultado = JOgma.identificaSNTextoEtiquetado(texto_etq);
-    	//codigo abaixo adaptado de JOgma.extraiSNIdentificado()
-    	palavras = resultado.split(" ");
-		palavra = null;
-		String SN="";
-		String marcados="";
-		for (int i = 0; i < palavras.length; i++)//foreach (String palavra in palavras)
-		{
-		  	palavra = palavras[i];
-		  	String[] PC = palavra.split("/");
-		  	if (PC.length > 1) {
-		  		if (PC[1].equals("SN")) {
-		  			PC[0]=JOgma.substituiContracoes(PC[0]);
-		  			SN = " "+PC[0].replace("_"," ").replace("+"," ").replace("="," ")+" ";
-		  			marcados += " <font color=\"maroon\"><b><i>" + SN.trim()+ "</i></b></font>";
-		  		} else marcados += " " + JOgma.substituiContracoes(PC[0]).replace("_"," ").replace("+"," ").replace("="," ") + " ";
-		  	}
-		}
+   	//List<String> sns = SNAnalyser.extrairSintagmasNominais(new SNAnalyser(stopFile), texto); //<------------------------ SNS
+   	String marcados = "";
+   	//codigo abaixo adaptado de JOgma.extraiSNIdentificado()
+   	palavras = resultado.split(" ");
+	palavra = null;
+	for (int i = 0; i < palavras.length; i++)//foreach (String palavra in palavras)
+	{
+	  	palavra = palavras[i];
+	  	String[] PC = palavra.split("/");
+	  	if (PC.length > 1) {
+	  		if (PC[1].equals("SN")) {
+	  			PC[0]=JOgma.substituiContracoes(PC[0]);
+	  			SN = " "+PC[0].replace("_"," ").replace("+"," ").replace("="," ")+" ";
+	  			marcados += " <font color=\"maroon\"><b><i>" + SN.trim()+ "</i></b></font>";
+	  		} else marcados += " " + JOgma.substituiContracoes(PC[0]).replace("_"," ").replace("+"," ").replace("="," ") + " ";
+	  	}
+	}
 			
 	//KEYWORD EXTRACTION
 	ArrayList<Topic> topics = MPTCore.runMauiWrapperOnString(texto);
-	ArrayList<Topic> snTopics = MPTCore.runMauiWrapperOnString(String.join("/n", sns)); //concatena sns
+	ArrayList<Topic> snTopics = MPTCore.runMauiWrapperOnString(String.join("\n\n", sns2)); //concatena sns
 	List<String> candidates = null;
+	ModelWrapper model = MPTCore.getModel();
 	Topic t = null;
 	for (int i = 0; i < topics.size(); i++) {
 		t = topics.get(i);
@@ -165,6 +255,8 @@
 	while (it.hasNext()) {
 		candidates.add(it.next().getTitle());
 	}
+	
+	System.out.println("Server running location: " + caminho);
  %>
     <table class= "center" border="1">
 	<thead>
@@ -186,7 +278,7 @@
 	<table class= "center" border="1">
 	<thead>
 		<tr>
-			<th>Palavra-Chave (SNS)</th>
+			<th>Palavra-Chave (SN)</th>
 			<th>Probabilidade</th>
 		</tr>
 	</thead>
@@ -206,7 +298,7 @@
     	<b>Candidatos do Vocabulário: </b> <%=candidates%><br/><br/>
 	    <b>Texto etiquetado: </b> <%=etq%><br/><br/>
 		<b>Texto com SNs marcados: </b> <%=marcados%><br/><br/> 
-	    <b>Sintagmas nominais relevantes: </b> <%=sns%><br/><br/>
+	    <b>Sintagmas nominais relevantes: </b> <%=sns2%><br/><br/>
     </div>
     <a href="../esn">Tentar novamente?</a>
     
