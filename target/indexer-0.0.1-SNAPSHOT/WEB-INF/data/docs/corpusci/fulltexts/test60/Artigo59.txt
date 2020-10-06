@@ -1,0 +1,147 @@
+A produção científica da Anped e da Intercom no GT da Educação e Comunicação
+
+
+
+RESUMO
+
+Analisa as literaturas publicadas no período 1994-2001 nos grupos de trabalho da Sociedade Interdisciplinar para os Estudos da Comunicação (Intercom) e da Associação Nacional de Pesquisa em Educação (Anped) no tema da comunicação educativa, em que foram analisadas respectivamente 1.023 e 1.049 citações bibliográficas presentes nos trabalhos apresentados. O objetivo da pesquisa foi perguntar quais autores nacionais e internacionais constituem a frente de pesquisa (autores mais influentes) nas duas literaturas e, se possível, visualizar tendências epistemológicas na produção científica.
+
+Os resultados apontam o humanismo e as teorias críticas da recepção na Intercom, enquanto na Anped o pós-estruturalismo parece ser a tendência dominante.
+
+Palavras-chave: Comunicação científica; Bibliometria; Comunicação e Educação; Estudo de citações; Cientometria.
+
+
+INTRODUÇÃO
+
+As citações epistemológicas no campo da educomunicação (Mostafa, 2002) podem ser identificadas na análise da produção científica em congressos nacionais. Espera-se que a literatura de congressos nacionais seja mais abrangente do que a literatura periódica especializada, ainda que as revistas possam ser classificadas como de âmbito internacional, nacional ou regional. As revistas são sempre produções locais, ainda que tenham âmbito e abrangência internacionais. Já a literatura de congressos nacionais reúne de fato representantes de todas as instituições, podendo revelar, com maior nitidez, a questão paradigmática das áreas em questão.
+
+Assim, essa pesquisa apresenta a literatura das duas associações científicas, a Sociedade Interdisciplinar para os Estudos da Comunicação (Intercom) e a Associação Nacional de Pesquisa em Educação (Anped), nos dois grupos de trabalho da inter-relação entre comunicação e educação, no período 1998-2001, de um ponto de vista bibliométrico, mas apontando para a dialética da consciência sempre que ela se materializa em discursos.
+
+A bibliometria é uma área da ciência da informação que grosso modo "mede" a ciência; baseia-se no pressuposto da cumulatividade/dispersão da ciência, o que leva também a desdobramentos socioculturais, se pensarmos que a produção científica é sempre uma produção cultural e coletiva. Dentre os vários pontos de vista com que podemos analisar a ciência, a ciência da informação e sua subárea chamada bibliometria escolhem uma abordagem empírico-analítica da produção científica. A abordagem empírico-analítica apenas aponta indicadores da produção científica; sua utilidade pode ser comparada com um catálogo de biblioteca; ninguém espera que um catálogo possa explicar mais do que sua lógica permite: autores relacionados a suas produções dentro de uma determinada ordem. Em que pesem essas marcações serem semióticas em essência e reveladoras de certas epistemologias, a contribuição da bibliometria está em revelar as relações internas à produção do conhecimento. Se essas relações revelarem pontes com as externalidades da ciência, tanto melhor, mas a ciência da informação tem construído seu objeto de forma preferencialmente empírico-analítica.
+
+Ter as citações como objeto de estudo provoca algumas perplexidades. Argumenta-se que as razões para citar autores em uma produção intelectual é muito variada: cita-se para concordar ou para discordar, cita-se para fins de reconhecimento ou por razões de desconhecimento, para dar créditos ou para obter créditos. Enfim, em vez de analisar o artigo citante, escolhe-se analisar os artigos citados, em uma espécie de análise de trás para frente. Quando se trata de analisar produção de conhecimento, acredita-se que a ordem dos fatores não altera o resultado, mas ajuda a mapear redes cognitivas. Isto porque a ciência pode ser vista como uma rede cognitiva. Os nós da rede são cientistas e seus escritos. Os nós podem ser relacionados de várias maneiras para mapear áreas do conhecimento.
+
+A área de bibliometria nasceu com o surgimento dos bancos de dados, e seu desenvolvimento é tal que já existe dicionário para definir seus termos, a exemplo do Dicionário Enciclopédico de Bibliometría, Cientometría e Infometría (Spinak, 1996).
+
+Há também departamentos de bibliometria em centros de documentação científica e tecnológica como no caso espanhol (http://www.cindoc.csic.es/info/biliometcyt.html ), em que a literatura científica e tecnológica é analisada, resumida, indexada, enfim, 'tratada' em formas compendiadoras como catálogos, listas ou diretórios. Nada disso é simples: as avaliações de periódicos científicos que estamos vivenciando no Brasil nas várias áreas de conhecimento são um exemplo da complexidade que envolve o "tratamento" da literatura científica e tecnológica.
+
+
+
+BIBLIOMETRIA E DIALÉTICA DA CONSCIÊNCIA
+
+A abordagem propiciada pela ciência da informação é uma abordagem claramente quantitativa (positivista). Por isso mesmo, é muito produtiva, já que provoca muitos efeitos. A combinação de dados que as abordagens empírico-analíticas proporcionam depende apenas da criatividade dos pesquisadores, pois sempre é possível mais uma correlação, mais uma tabela, mais uma comparação.
+
+Já a abordagem dialética da consciência na produção do conhecimento iria tematizar a produção científica com a noção ampliada de autor. O autor não seria visto como fundador isolado de idéias e práticas, mas sim com a noção menos moralista de área de conhecimento. Trata-se de domínios epistemológicos, de campos de saber, de disciplinas, ou comunidades anônimas, como prefere Ryder (1999). Documentos, índices e listas são mais do que mecanismos de representação do conhecimento. São, para o autor, 'estratégicas semióticas', marcações que podem ser vistas como dispositivos de construção de uma comunidade acadêmica virtual:
+
+"... using semiotic strategies, we reveal these shared aspirations with our intended community...when other people make connectins to our work, it pleases us as a sing of community acceptance… once a community has formed around the artifact, the process os mediation transforms from a single-handed effort to a community funcion" (idem, 1999).
+
+Ao falar em comunidade, o autor quer demonstrar que o processo de produção de conhecimento não é um processo isolado, mas de outros indivíduos, os quais utilizam dispositivos (instrumentos) técnicos e sociais (estratégicos) de produção e apropriação, mormente em relação aos artefatos do ciberespaço. O autor está se referindo às suas páginas Web, que, ao serem linkadas (citadas) em outras páginas, possibilitaram a criação de ampla plataforma cognitiva que, após organizada por ele com índices, resumos, títulos e subtítulos, passou a funcionar como uma biblioteca virtual no tema da escola de Vygotsky. Plataforma construída socialmente, e sem a interferência dos autores envolvidos, com apenas um critério de seleção: as páginas Web que haviam linkado as páginas de Ryder. Exatamente como é o processo de citar autores em referências bibliográficas, ou construir bibliotecas virtuais mediante processo de linkagem na Web.
+
+Na abordagem histórico cultural, as citações seriam compreendidas como unidade de análise por representarem a 'visita' ou a 'consulta' ou o 'detour' que todo pesquisador faz ao produzir conhecimento. É preciso ir ao outro, porque, como nos elucida Vygotsky: "Nós nos tornamos nós mesmos através dos outros..." (apud Pino, 2000, p.54).
+
+Essa ida ao outro é a base da produção do conhecimento. O outro na dialética hegeliana seria a negação momentânea de si para o reencontro em si com o outro no caminho de volta. O outro nos acompanha no caminho de volta sempre que o citamos em nossas referências (bibliográficas). Nós nos referimos ao outro para produzir conhecimento, no mesmo movimento em que nos oferecemos a ele.
+
+As citações foram compreendidas como unidade de análise, por representarem a "visita", ou a "consulta", ou o "detour" que todo pesquisador faz ao produzir conhecimento.
+
+
+
+PERGUNTAS DE PESQUISA
+
+1) Quais autores nacionais e internacionais constituem a frente de pesquisa dos trabalhos apresentados na Intercom no período 1998-2001 no GT Comunicação educativa ?
+
+2) Quais autores nacionais e internacionais constituem a frente de pesquisa dos trabalhos apresentados na Anped no período 1998-2001 no GT Educação e Comunicação?
+
+3) Há concentração de autores que poderíamos chamar de frente de pesquisa que seriam os autores mais produtivos e influentes? Em outras palavras, a área já possui maturidade teórica para possibilitar uma concentração de autores ?
+
+4) Há concentração de autores oriundos de uma das áreas, comunicação ou educação?
+
+5) Seriam clássicos os autores mais influentes na área, ou uma massa de jovens autores brasileiros se enuncia, ampliando o "colégio invisível" com a proliferação dos congressos e dos cursos de pós-graduação no Brasil ?
+
+6) É possível visualizar tendências epistemológicas na produção científica das associações científicas na área da comunicação e educação?
+
+
+
+METODOLOGIA
+
+Foram contabilizadas 1.023 citações presentes nos trabalhos apresentados à Intercom e 1.049 citações presentes nos trabalhos apresentados à Anped, no mesmo período de 1998-2001, nos respectivos grupos de trabalho de comunicação educativa e educação e comunicação.
+
+Quando o mesmo autor citante cita várias vezes o mesmo trabalho, este é contado apenas uma vez. Quando as citações referem-se a trabalhos distintos do mesmo autor, este é contado tantas vezes quantas forem os seus trabalhos distintos. Consideraram-se o autor citado, o título do trabalho e as fontes bibliográficas nas quais os trabalhos citados foram publicados. Com o decorrer da coleta, a análise das fontes foram sendo desprezadas diante da imensidão de análise que o cômputo dos autores citados, per se, exigiria. As autocitações foram desprezadas para a análise, pois elas não representam o impacto de um trabalho sobre o outro (tabela 1).
+
+
+
+
+
+RESULTADOS
+
+Dentre os 64 autores mais citados na Intercom, há um núcleo de autores brasileiros que podem ser considerados à frente de pesquisa na área, por estarem trabalhando mais diretamente na relação entre comunicação e educação. São eles Soares, Citelli, Moran, Penteado, Pretto, Baccega, Belloni, Ferreira J. e Guimarães G, os dois últimos omitidos na tabela 1, por estarem com três citações.
+
+É importante ressaltar, em termos epistemológicos, a presença conjunta de autores latino-americanos compondo uma corrente de pensamento: Martin-Barbero, Orozco, Canclini, Kaplun (com Freire integrando esse conjunto). São os chamados homens das mediações. Especialmente Martin-Barbero, liderando o grupo com tão expressiva pontuação. Martin-Barbero, o espanhol-colombiano, na sua compreensão que vai 'dos meios às mediações' (esse é o título do seu livro mais citado), é a referência latino-americana mais importante entre os autores da Intercom. Vejamos como se apresentam os autores citados na Anped (tabela 2)
+
+
+
+
+
+A produção da Anped traz algumas novidades em relação à literatura da Intercom: 1) a presença de Foucault como o autor mais citado no campo; 2) a liderança de Giroux Vygotsky como suporte para as teorias pedagógicas em contraposição a Piaget e Wallon, preferidos pelos autores da Intercom; 3) os autores brasileiros constituintes do campo são Silva, Louro, Fischer, Lopes, Veiga-Neto, Porto, Costa, Penteado, Alves e Belloni. Juntam-se a esses educadores autores que, com outras formações, estão contribuindo para a constituição do campo na informática educativa com participação expressiva na formação de professores: Cysneiros, Moran e Valente.
+
+Das posturas epistemológicas
+
+Pode-se dizer que a produção científica da Anped está se constituindo, nos últimos quatro anos, na interseção de algumas correntes de pensamento: 1) o pós-estruturalismo encabeçado por Foucault e por autores brasileiros como os já citados; 2) pelos estudos tradicionalmente críticos como faz entender a presença fortemente pontuada de Adorno; se consideradas as co-autorias, Adorno se posiciona como o terceiro intelectual mais citado na Anped. Na corrente pós-estruturalista, estão presentes as categorias de gênero, saber-poder, identidade, subjetividade, sexualidade e as relações entre as esferas públicas e privadas. Entre as teorias críticas flexibilizadas, encontram-se, por exemplo, as clássicas categorias da classe social, da conscientização, alienação, emancipação, ideologia. Mas também 'hegemonia' e 'resistência', explorada ainda por Canclini (e demais autores latinos da Intercom que trabalharam com mediadores como família, bairro ou grupo de trabalho na produção/recepção dos produtos culturais).
+
+Note-se que, na produção científica da Intercom, prevalecem as teorias críticas da recepção.
+
+Em ambas as associações científicas, a análise da cultura se coloca como a principal mediação na constituição do campo. Porém, a compreensão da cultura para os pesquisadores que se apresentam na Intercom está mais próxima da tradição dos estudos de recepção da América Latina, enquanto os pesquisadores que se apresentam na Anped aproximam-se mais dos estudos culturais via Hall ou Giroux, ambos com alta pontuação, sem esquecer Foucault como uma espécie de matriz teórica nas análises da "materialidade discursiva" das linguagens. Poderíamos falar, talvez, em um marxismo crítico gramsciano na Intercom e em um pós-marxismo (pós-estruturalismo) na Anped. Se tivéssemos de estender as classificações, diríamos que na Anped o pós-marxismo pede passagem em meio a um marxismo crítico, com a presença de Canclini, e um mais tradicional, reprodutivista e forte na presença de Adorno.
+
+
+
+BIBLIOMETRIA E ARQUEOLOGIA DO SABER
+
+A dispersão dos discursos sobre o campo nas duas associações, bem como a dispersão dentro do mesmo grupo de trabalho, faz lembrar as palavras de Foucault (1995 p. 43) na Arqueologia do Saber, em que os discursos de uma formação não são "ilhas de coerência", mas "sistemas de dispersão".
+
+Alguns traços de identidade e diferença teórico-metodológicos entre a bibliometria e a arqueologia do saber foram encaminhados por Alvarenga (1998), o que nos deu subsídios para pensar a questão da dispersão discursiva da área de comunicação e educação. A ciência da informação também lida com a categoria da dispersão, mas sempre visando à unificação, à identificação de núcleos de concentração (os mais lidos, os mais citados, os mais produtivos, as revistas nota A, B, C – a qualidade vista por uma abordagem gerencial, capitalista, bem na mão da universidade operacional e produtiva).
+
+Sendo a arqueologia do saber um método histórico que considera o discurso como saber, e não como ciência, uma das primeiras distinções que Foucault nos pediria para fazer é a distinção entre domínios científicos e territórios arqueológicos, pois seus princípios de organização são completamente diferentes (Foucault, p.207).
+
+"... o saber não está investido somente em demonstrações, pode estar também em ficções, reflexões, narrativas, decisões políticas..." (idem, p.208). Ademais, o campo discursivo não se caracteriza pelos objetos que estuda, pelas modalidades de enunciação, pelos conceitos ou pelas temáticas privilegiados, mas sim pela maneira pela qual se formam seus objetos.
+
+Tal como os autores da abordagem sociocultural, Foucault também reconhece que "... todo discurso manifesto repousa sobre um já dito ... as margens de um livro jamais são nítidas ou rigorosamente contadas: além do título, as primeiras linhas e o ponto final, além de sua configuração interna e a forma que o autonomiza está preso em um sistema de remissões a outros livros, outros textos, outras frases: nó em uma rede (idem, p. 26).
+
+Porém, como parte daquela distinção entre ciência e saber, o autor convidaria os estudiosos da produção discursiva (já não seria mais produção científica) a explicar a dispersão 'não calcada em princípios de seleção', como esclarece Alvarenga (idem). Para que não se constituam grupos a partir somente de privilégios (autores mais produtivos, periódicos mais citados), seríamos convidados a considerar os excluídos das seleções.
+
+A análise dos excluídos identificaria nas próprias revistas acadêmicas, em seções com as relativas a experiências, serviços ou entrevistas, autores que não chegam a compor as listas dos mais citados simplesmente porque a narrativa própria a essas seções não seguem as regras dos artigos em que as referências são mandatórias. São as regras do jogo da ciência; são seus imperativos.
+
+Da mesma forma, percebe-se na tabela 1 a existência de centenas de autores que não aparecem aqui porque um mecanismo de seleção não permitiria: os espaços de visibilidade são disputados no interior das práticas acadêmicas nas quais as regras editoriais de revistas ou congressos nacionais ou regionais ditam de 10 a 15 páginas com resumo de 180 e 200 palavras em espaço simples. Os mesmos congressos nacionais e regionais ditam que não aceitam textos de caráter descritivo, relatos de experiências, projetos ou planos de pesquisa, ou similares a estas modalidades. Vemos aí os contratos da comunidade científica sendo firmados acerca do que é pesquisa e de como os pesquisadores devem se apresentar à comunidade científica. Assim, um conjunto de discursos contextuais da prática científica vem se somar à obrigatoriedade de fazer referências bibliográficas em textos que serão visíveis pela publicação em revistas e congressos, ficando visível também, pelo ordenamento, o que essas publicações receberão nas bibliotecas.
+
+A abordagem pós-estruturalista não se satisfaria com a lógica hegeliana das relações entre o sujeito e o objeto refinadas nas teorias da aprendizagem históricas e culturais; a história que ela quer contar tem a ver, tanto quanto a abordagem marxista, com o modo de produção das práticas sociais; o modo de produção na ciência tem nas referências bibliográficas um imperativo categórico que cerca o sentido dos enunciados dentro do paradigma em questão, tanto quanto as normas e regras dos congressos e revistas cercam o sentido do dictum disciplinarmente.
+
+Na área de comunicação e educação, esse sentido está cercado por paradigmas que os autores constroem e confirmam dependendo da associação científica com a qual eles se identificam, seja a comunicação, seja a educação.
+
+As tabelas 1 e 2, analisadas separadamente ou em conjunto, podem subsidiar estudos na abordagem arqueológica do saber para a área da inter-relação entre comunicação e educação. No interior de cada uma das associações científicas, há uma espécie de diversificação de discursos em cuja repartição pode-se notar três conjuntos de famílias discursivas referidas ao mesmo campo discursivo da comunicação e educação: humanismo (por exemplo, Soares, Penteado, Porto ou Moran), criticismo (trazido pelos homens das mediações da Intercom) e pós-criticismo (Silva, Louro, Fischer, Veiga-Neto ou Costa, por exemplo). Vários outros autores presentes nas duas associações podem ser aproximados na composição das repartições discursivas aqui descritas de forma empírica-analítica, mas visando a subsidiar análises de discurso na área.
+
+Agradecimento
+
+Os autores agradecem a Rafael Lopes Sousa, bolsista Pibic/CNPq, 2002 pela coleta dos dados.
+
+
+
+REFERÊNCIAS
+
+ALVARENGA, Lídia. Bibliometria e arqueologia do saber de Michel Foucault : traços de identidade teórico-metodológica. Ciência da Informação, Brasília, v. 27, n. 3, 1998. Disponível em: <http://www.ibict.br/cionline/270398/27039802.pdf>. 
+
+FREITAS, Maria H. Oito anos de Transinformação. Transinformação, Campinas, v. 9, n. 3, 1997. Disponível em: < http://www.puccamp.br/~biblio/transinformacao/old/vol9n3/su93.html>. 
+
+FOUCAULT, Michel. A arqueologia do saber. 4. ed. Rio de Janeiro : Forense Universitária, 1995. 
+
+MOSTAFA, Solange P. Citações epistemológicas na educomunicação. Comunicação & Educação, São Paulo, v. 8, n. 24, p. 15-28, 2002. 
+
+_______; MÁXIMO, Luis F. As três formas de analizar o campo da comunicação e educação. [S. l.] : ANPED–SUL, 2002. (Eixo temático Comunicação e Educação). 
+
+PINO, Angel . A escola de Vygotsky. Educação & Sociedade , Campinas, v. 21, n. 69, 2000. 
+
+RYDER, Martin. Spinning webs of significance; considering anonymous communities in activity systems. [S. l. : s. n.], 1998. Disponível em: <http://carbon.cudenver.edu/~mryder/iscrat_99.html> . Acesso em: 01 jun. 2002. 
+
+__________;The World Wide Web and the dialetics of consciousness. [S. l. : s. n.], 1999. Disponível em: <www.cudenver.edu/~mryder/iscrat_99.html> . Acesso em: 01 jun. 2002. 
+
+SILVA, T. T. Documentos de identidade: uma introdução às teorias do currículo. Belo Horizonte : Autêntica, 1999. 
+
+SPINAK, Ernesto. Diccionario enciclopédico de bibliometría, cientometría e infometría. Venezuela : UNESCO, 1996. 245 p. 
+

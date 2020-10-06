@@ -1,0 +1,2738 @@
+Bolsas de Pesquisador do CNPq: informações sobre política de C&T a partir da base que contém os dados cadastrais dos bolsistas
+
+
+
+
+Resumo: As bolsas de pesquisador concedidas pelo CNPq são aqui analisadas a partir das bases de dados da agência de fomento que contém o cadastro dos pesquisadores bolsistas. Destaca-se inicialmente a relevância deste objeto de estudo em função das características destas bolsas e, também, em função da riqueza de informações e possibilidades de análises que se apresentam através da transformação dessa base de dados gerada com fins administrativos para uma base com a finalidade de gerar indicadores científicos e tecnológicos. As análises aqui apresentadas focalizando apenas algumas das informações contidas nestas bases de dados   área acadêmica, estado e instituição do trabalho do bolsista   mostram que muitas informações podem ser geradas e revelar algumas características e desequilíbrios que podem ser úteis para subsidiar políticas de governo e o monitoramento da C&T no país.
+
+Palavras-chave: Indicadores Científicos, Política Científica e Tecnológica, Gestão de Ciência e Tecnologia
+
+
+
+1. Introdução
+
+A Visando contribuir para a geração de indicadores científicos nacionais e para a gestão das informações na área de política científica e tecnológica, as análises desenvolvidas neste texto têm como objeto de estudo os auxílios concedidos pelo CNPq, diretamente a pesquisadores de alto nível, nas diversas áreas de conhecimento. Estas análises referem-se, basicamente, às  bolsas de produtividade em pesquisa , muito conhecidas no meio acadêmico no país. Como será justificado adiante, pode-se considerar que este tipo de auxílio reflete o que está sendo pesquisado pela liderança da pesquisa nas diversas áreas do conhecimento e que, das informações sobre estes projetos, pode-se gerar tanto visões panorâmicas quanto informações específicas sobre a situação atual e as perspectivas de desenvolvimento da ciência e da tecnologia no Brasil.
+
+Utilizando informações contidas na base de dados construída a partir dos formulários de cadastro dos bolsistas, relativas às bolsas concedidas no período de um ano, algumas análises descritivas iniciais são desenvolvidas mostrando a sua distribuição por grandes áreas acadêmicas, região e instituição. Num segundo momento apresentam-se análises com tabelas cruzadas que focalizam a equilíbrio regional e institucional das bolsas dentro das grandes áreas.
+
+
+
+2. Relevância e características do objeto de estudo
+
+Indicadores científicos e tecnológicos são informações de diversos tipos que servem para produzir conhecimento sobre a política de governo nessas áreas e, assim, subsidiar a descrição e a avaliação de programas governamentais. Na definição de Barré, os indicadores de C& T são:
+
+
+
+ conhecimentos quantitativos sobre parâmetros da atividade científica, tecnológica e de inovação em diversos níveis: institucional, disciplinar, setorial, regional, nacional ou plurinacional (Barré, 1997, p.5).
+
+
+
+
+
+Este conhecimento responde a indagações e demandas que podem ser formuladas por agências governamentais ou pela academia e pode ser gerado através de dados obtidos de diversas maneiras. Podem estes dados, por exemplo, ser produzidos por pesquisas de tipo levantamento (surveys) que são geralmente realizadas sob a responsabilidade de órgãos governamentais. Entretanto, uma tendência recente nesta área de estudos aplicados parece ser a procura da diversificação desses indicadores a partir da utilização de dados já existentes em diversos tipos de fontes, especialmente bases de dados originárias da gerência de financiamento da atividade de pesquisa. Tais bases podem ser transformadas em bases adaptadas para a produção de indicadores devido à disponibilidade atual de mecanismos de registro e de recuperação, cada vez mais sofisticados e integrados, para o controle dos recursos que se destinam a atividades de pesquisa científica e tecnológica. Somam-se a estas facilidades os recursos de análise de dados disponíveis em pacotes estatísticos, também cada vez mais adaptados para a absorção deste tipo de informação e dispondo de múltiplos recursos.
+
+A importância de se maximizar as informações disponíveis em bases de dados de agências de fomento e outros órgãos para a produção de indicadores de C&T tem sido destacada em países desenvolvidos (Barré, 1997), mas é provavelmente ainda mais relevante em países em desenvolvimento, pois é nestes que a adequação das informações disponíveis para o monitoramento das atividades científicas e tecnológicas é mais freqüentemente questionado.
+
+No Brasil são especialmente questionadas as fontes de dados disponíveis para a análise da produção bibliográfica nacional. Isto se dá, em primeiro lugar, devido à precariedade das bases bibliográficas elaboradas no país que não poderiam ser consideradas como abrangentes no controle do que é aqui produzido (Pereira, 99). Ligado a este problema tem havido também, segundo alguns analistas, um uso indevido das bases de dados internacionais para a avaliação do que aqui é produzido, pois estas bases tenderiam a gerar interpretações que subestimam a produção nacional, assim como o impacto dessa produção sobre a comunidade científica e tecnológica (Velho, 1987; 1998).
+
+Existem no Brasil outros tipos de iniciativas que contribuem para a descrição e avaliação das atividades de C&T no país que não partem de bases bibliográficas mas de levantamentos. É o caso do Projeto Diretório, do CNPq. Trata-se de um levantamento periódico que permite descrição dos grupos de pesquisa em andamento e a realização de estudos longitudinais especialmente voltados para a análise de produtividade desses grupos. Os dados obtidos através deste projeto contém, no entanto, as limitações intrínsecas a um levantamento, ou seja, tratam-se de informações solicitadas aos órgãos de pesquisa, sujeitas à boa vontade e às interpretações pessoais dos respondentes. Além disso, este levantamento toma como unidade básica de análise não o pesquisador mas o  grupo de pesquisa . Esta ênfase no grupo tem o mérito de destacar a pesquisa em colaboração que vem sendo considerada internacionalmente como o tipo de pesquisa mais produtiva (Price, 70). Esta mesma ênfase pode, entretanto, resultar em distorções na representação da pesquisa brasileira, pois algumas áreas são mais afeitas ao trabalho em equipe do que outras (Gupta, 97). Além disso, ou talvez por causa disso, a identificação do que é um grupo de pesquisa é às vezes arbitrária, podendo gerar grupos artificialmente criados e, por outro lado, alijar pesquisadores da contabilidade nacional.
+
+O questionamento das fontes de registro e de avaliação das atividades científicas no país tem levado os analistas a sugerir a diversificação dos indicadores nacionais. E, na geração desses números, a análise das bases de dados cadastrais das agências de fomento pode adquirir fundamental importância. Segundo Velho (1999), a procura de indicadores científicos que sejam mais adequados à realidade nacional faz-se necessária diante da precariedade dos indicadores existentes e deve caminhar paralelamente a esforços para gerar diferentes tipos de informações sobre a nossa atividade científica. Para essa autora, a solução para os indicadores científicos não é definitiva nem para os países avançados, portanto o essencial é iniciar o processo e seguir  caminhos combinados .
+
+A base de dados relativa às Bolsas de Pesquisador do CNPq constitui-se em fonte informações que deve ser especialmente valorizada, pois nestas bolsas está concentrada parte substancial do apoio à produção científica no país. Destinadas a apoiar e incentivar projetos desenvolvidos por pesquisadores que apresentam produção científica destacada em suas respectivas áreas acadêmicas, para esse tipo de bolsa se dirige a liderança da pesquisa acadêmica do país. A relevância deste tipo de apoio está bem caracterizada em trabalho recente de Mueller e Santana (2003) que apresenta a distribuição de bolsas pelas agências de fomento no país mostrando que 12366 de um total de 13783 bolsas de pesquisa, ou seja quase 90% são concedidas pelo CNPq.
+
+As bolsas de pesquisador destacam-se também entre os gastos do CNPq relativos a todos os tipos de bolsas de auxílio. Este destaque pode ser evidenciado na tabela a seguir, que apresenta o total de dispêndio do CNPq por tipo de bolsa.
+
+
+
+Tabela 2: Dispêndio em bolsas por tipo de bolsa.
+
+CNPq, 1998.
+
+
+
+Tipo de Bolsa
+
+Dispêndio
+
+em R$ mil
+
+Percentual
+
+
+
+Bolsa de formação 189755
+
+54,4
+
+
+
+Bolsa de pesquisador 101000
+
+29,0
+
+
+
+Bolsa de apoio à pesquisa 14471
+
+4,1
+
+
+
+Outros tipos 43430
+
+12,5
+
+
+
+Total 348656
+
+100,0
+
+
+
+
+
+Fonte: CNPq. Tabelas de dispêndio
+
+Como podemos observar pela tabela acima, parte substancial do apoio financeiro à pesquisa por parte do CNPq, em 1998, foi destinado a bolsas de pesquisador. Essa relevância da bolsa de pesquisador fica ainda mais destacada se considerarmos os seus efeitos indiretos que se dão através do financiamento das bolsas de formação e de apoio à pesquisa, pois a bolsas de pesquisador podem estar atrelados vários tipos de bolsas de formação de recursos humanos e bolsas de apoio à pesquisa. Além da Bolsa destinada ao coordenador do projeto, podem ser concedidas diversas outras bolsas chamadas  bolsas vinculadas  ao projeto do pesquisador bolsista, a maioria das quais destinadas a estudantes de graduação (Iniciação Científica) e a jovens recém formados (Apoio Técnico e Aperfeiçoamento). Além destas bolsas diretamente vinculadas, envolvem-se nestes projetos os estudantes de pós-graduação (Mestrado e Doutorado), que recebem bolsas de estudo, pois estes participam, até por determinação do próprio CNPq, nas atividades de pesquisa dos programas de pós-graduação. Assim, direta ou indiretamente, esse tipo de projeto congrega uma quantidade significativa dos Recursos Humanos apoiados pelo CNPq, o que confere a esses projetos um papel destacado no subsídio e na formação de recursos humanos para a pesquisa.
+
+
+
+3. Metodologia
+
+Os dados aqui apresentados podem, à primeira vista, ser confundidos com alguns daqueles contidos nas séries estatísticas apresentadas no site do CNPq. De fato muitas informações que revelam se assemelham àquelas regularmente divulgadas pela instituição, especialmente quando as análises estão apresentadas em percentuais. Mostra-se aqui, por exemplo, tabelas com número de bolsas de pesquisador segundo algumas características como região ou área de conhecimento. Informações aparentemente equivalentes estão disponíveis nas tabelas do CNPq, onde se podem observar gastos com bolsas por região geográfica, por área de conhecimento, instituição, etc. E até o número de bolsas concedidas por modalidades, que incluem as bolsas de pesquisador aqui focalizadas, são identificáveis nas tabelas do CNPq. As diferenças entre os dois tipos de dados são, entretanto, claras.
+
+As tabelas do CNPq, procurando refletir corretamente as bolsas concedidas ao longo de cada ano focalizado, utilizam a uma medida específica, as  bolsas-ano  que refletem  a média aritmética do número de mensalidades pagas de janeiro a dezembro . Assim, o número de bolsas segundo modalidades que aparecem nas tabelas, entre as quais estão as modalidades que compõem a bolsa de pesquisador, são baseados em gastos realizados num determinado ano. Pode-se ver, por exemplo, que o número de bolsas em cada categoria é um número fracionário que reflete a metodologia utilizada, conforme especificado em nota técnica[1].
+
+Nas análises aqui desenvolvidas um outro tipo de fonte de informação é utilizada: a bases de dados cadastral, baseada no formulário de submissão de pedidos bolsas ao CNPq. Esta base contém todas as bolsas em andamento no ano de 1998. Construída com a finalidade precípua de controle administrativo, esta base é aqui transformada numa base de dados voltada para análises estatísticas. Este procedimento é previsto neste processo de geração de indicadores científicos, isto é, a  necessidade de ´reconstruir` as bases de dados fonte de forma a torná-las adequadas para a computação de indicadores  (Barré, 1997, p.60). As principais etapas realizadas no processo são descritas a seguir.
+
+Num primeiro momento foram identificados os campos, da base de dados cadastral de bolsas de pesquisador em andamento no ano de 1998, considerados relevantes para as análises aqui desenvolvidas e para outras análises que ainda poderão ser realizadas visando a caracterização da pesquisa financiada[2]. Num segundo momento foram desenvolvidas atividades de programação que visaram à transposição dessa base para uma matriz de dados dentro de um pacote estatístico[3]. As etapas subsequentes referem-se às análises realizadas a partir desta matriz de dados[4]. Alguns aspectos básicos destas bolsas são aqui submetidos a descrições univariadas (tabelas simples) e bivariadas (tabelas cruzadas). Análises de outros tipos poderão ser realizadas focalizando outras áreas ou subáreas acadêmicas ou informações ainda não consideradas, como o tema das pesquisas financiadas.
+
+As várias descrições das bolsas de pesquisador aqui apresentadas, levam em consideração apenas três tipos de informação: a área acadêmica, a região onde se desenvolve a pesquisa, a instituição à qual se vincula o pesquisador que submete e tem aprovado o seu pedido de bolsa de produtividade em pesquisa, acompanhando o encaminhamento do projeto de pesquisa ao CNPq. Este coordenador é portanto a unidade de análise deste estudo.
+
+
+
+4. Análise dos dados
+
+A base de dados do CNPq que contém as Bolsas de Pesquisador congrega várias modalidades de bolsas que incluem as bolsas ligadas ao programa de Desenvolvimento Científico Regional (DCR), as bolsas pós-doutoramento (PD), de pesquisador visitante (PV) e de recém doutor (RD), mas é nas bolsas de produtividade (PQ) em pesquisa que se concentra, proporcionalmente, a grande parte deste tipo de apoio.
+
+
+
+Tabela 1: Modalidades de bolsa do pesquisador
+
+CNPq, 1998
+
+
+
+Modalidade
+
+Freqüência
+
+Percentual
+
+
+
+CR
+
+208
+
+2,5
+
+
+
+PD
+
+46
+
+,6
+
+
+
+PQ
+
+7.608
+
+92,8
+
+
+
+PV
+
+148
+
+1,8
+
+
+
+RD
+
+187
+
+2,3
+
+
+
+Total 8.197
+
+100,0
+
+
+
+
+
+Conforme mostra a tabela, quase 93% das bolsas se referem à modalidade  produtividade em pesquisa  que indica a complementação salarial recebida pelos coordenadores de duas modalidades de projetos: os projetos integrados e projetos individuais. Os projetos integrados (3344 em 1998) envolvem apenas uma bolsa de produtividade em pesquisa pois, ao contrário do que o nome sugere, esses projetos raramente integram pesquisadores de alto nível, ou seja, são poucos os que envolvem bolsas de  produtividade em pesquisa  para mais de um bolsista. A integração se dá verticalmente, através da responsabilização pelas bolsas de formação, conforme já foi mencionado. Os projetos individuais são concedidos apenas ao coordenador do projeto e congregam a grande parte das bolsas de  produtividade em pesquisa . As demais modalidades de bolsas de pesquisador absorvem poucos bolsistas como mostra a tabela acima. Assim sendo, pode-se considerar que as descrições feitas a seguir a respeito da bolsa de pesquisador, são basicamente descrições sobre as bolsa de  produtividade em pesquisa .
+
+
+
+4.1 Descrição das bolsas de pesquisador: área de conhecimento, região e instituição.
+
+Apresentando informações sobre como se distribuem as bolsas de pesquisa no país por área de conhecimento, região e instituição, gera-se subsídios para que o próprio governo e a comunidade científica avaliem até que ponto o governo consegue ser equânime no financiamento às diferentes áreas acadêmicas e também responder à qualidade e à quantidade de esforços em andamento nas diferentes instituições e regiões do país. Numa outra perspectiva, ainda, o estudo da distribuição do financiamento à pesquisa de alto nível pode trazer evidências a respeito da eficiência dos mecanismos de política científica que têm o caráter de indução ou compensatório, de uma  discriminação positiva , contribuindo para reduzir, por exemplo, os desequilíbrios regionais. Já se observa em análises evolutivas, disponíveis no site do CNPq, que a proporção de investimento em pesquisa nas regiões menos favorecidas tem crescido proporcionalmente ao longo do tempo[5]. É de interesse verificar, portanto, o quanto esta política tem abrangido a bolsa de pesquisador de alto nível, o que poderá ser feito através do cotejo das informações extraídas das bolsas concedidas com as informações sobre os investimentos totais nas categorias selecionadas para análise.
+
+O primeiro aspecto a ser aqui considerado é a distribuição das bolsas de pesquisador de acordo com as áreas de conhecimento. É o que aparece na tabela que se segue, quando agrupamos os bolsistas segundo a grande área acadêmica a que se filia:
+
+
+
+Tabela 3: Área de conhecimento   Bolsa de pesquisador
+
+CNPq, 1998
+
+
+
+Área de Conhecimento
+
+Freqüência
+
+Percentual
+
+
+
+Exatas 1.972
+
+24,1
+
+
+
+Biológicas 1.414
+
+17,3
+
+
+
+Engenharias 1.167
+
+14,2
+
+
+
+Saúde 706
+
+8,6
+
+
+
+Agrárias 1.139
+
+13,9
+
+
+
+Sociais Aplicadas 495
+
+6,0
+
+
+
+Humanas 957
+
+11,7
+
+
+
+Linguagem e Arte 347
+
+4,2
+
+
+
+Total 8.197
+
+100,0
+
+
+
+
+
+Por esta tabela vê-se que as bolsas de pesquisador - basicamente as bolsas de produtividade em pesquisa, como já foi anteriormente especificado - estão mais concentradas nas áreas exatas, vindo em segundo lugar as ciências biológicas, seguidas estas pelas engenharias. Observa-se, portanto, a valorização relativa das áreas chamadas  hard  no financiamento á pesquisa no país, o que acompanha a tendência internacional e também pode refletir a tendência histórica do CNPq, uma agência  que foi criada para amparar a pesquisa nas ciências físicas, biológicas e outras ciências naturais, as chamadas hard sciences  (Mueller e Santana, 2003, p.2).
+
+Comparando estas proporções com aquelas que se referem aos gastos totais com bolsas e fomento à pesquisa no ano de 1998 divulgadas no site do CNPq[6] , pode-se ver que o quinhão das diferentes áreas acadêmicas se mantém equivalente se considerado os gastos nas diferentes áreas como um todo ou definindo o foco nas bolsas de pesquisador. Observa-se, entretanto, algumas alterações notórias de posição: as Ciências Exatas recebem uma proporção maior de recursos quando focalizamos as bolsas (24,1%) do que quando o foco é o investimento em reais na área como um todo (16,6%). O inverso ocorre com as Engenharias e a Computação que sobressaem mais no investimento total de recursos do que quando (22,86%) as bolsas de pesquisador são consideradas (14,0%).
+
+A seguir apresenta-se a distribuição das bolsas de pesquisador segundo as regiões do país:
+
+
+
+Tabela 4: Região da instituição de trabalho do pesquisador
+
+Bolsa de pesquisador CNPq, 1998
+
+
+
+Região
+
+Freqüência
+
+Percentual
+
+Percentual Acumulado
+
+
+
+Sudeste 5.606
+
+68,4
+
+68,4
+
+
+
+Sul 1.229
+
+15,0
+
+83,4
+
+
+
+Nordeste 877
+
+10,7
+
+94,1
+
+
+
+Norte 119
+
+1,5
+
+95,5
+
+
+
+Centro-oeste 365
+
+4,5
+
+100,0
+
+
+
+Total 8.196
+
+100,0
+
+
+
+Obs: Sem informação - 1 caso
+
+
+
+Na tabela acima fica evidente que este tipo de fomento à produtividade científica está concentrado na região Sudeste que absorve 68,4% das bolsas de pesquisador, mais especificamente estas se destinam a São Paulo e Rio de Janeiro. Somente estes dois estados congregam 58,4% das bolsas de pesquisador, sendo que as informações obtidas da análise feita em nível estadual mostra que apenas 10% do financiamento para o pesquisador na região Sudeste é alocada fora do eixo Rio-São Paulo. Estes dados ficam ainda mais contundentes quando se considera que o Estado de São Paulo é um grande agente financiador da pesquisa científica e que, portanto, a concentração do financiamento público à pesquisa nesta região é provavelmente ainda maior do que os 68,4% acima apresentados. Se for considerado, entretanto, o número de bolsistas de cada região relativo ao número de pesquisadores em atividade nas mesmas esta distribuição apareceria como equilibrada, como sugerem algumas análises feitas pelo próprio CNPq.
+
+No cotejo da distribuição de bolsas de pesquisador com os investimentos totais (bolsas e auxílio financeiro) nas regiões segundo informações do CNPq, fica sugerida a presença de uma política compensatória aos estados atuando especialmente através do auxílio financeiro à pesquisa. Em outras palavras, as diferenças regionais são maiores quando a distribuição das bolsas de pesquisador é considerada do que quando os investimentos totais são considerados[7].
+
+Uma informação complementar à anterior refere-se á distribuição das bolsas de pesquisador em relação à instituição a que se vinculam. Estes dados aparecem na próxima tabela em que se considera nominalmente as instituições com mais de 100 bolsas de pesquisador, m ordem decrescente de número de bolsas.
+
+
+
+Tabela 5: Instituições com mais de 100 bolsistas.
+
+Bolsas de pesquisador CNPq, 1998
+
+
+
+Instituição
+
+Freqüência
+
+Percentual
+
+Percentual Acumulado
+
+
+
+USP 1.395
+
+17,0
+
+17,0
+
+
+
+UFRJ 794
+
+9,7
+
+26,7
+
+
+
+UNICAMP 585
+
+7,1
+
+33,8
+
+
+
+UFRGS 460
+
+5,6
+
+39,4
+
+
+
+UFMG 396
+
+4,8
+
+44,2
+
+
+
+UNESP 356
+
+4,3
+
+48,5
+
+
+
+UFPE 250
+
+3,0
+
+51,5
+
+
+
+UFSC 229
+
+2,8
+
+54,3
+
+
+
+UNB 229
+
+2,8
+
+57,1
+
+
+
+UFF 189
+
+2,3
+
+59,4
+
+
+
+Fiocruz 186
+
+2,3
+
+61,7
+
+
+
+Embrapa 185
+
+2,3
+
+64,0
+
+
+
+PUC/RJ 162
+
+2,0
+
+66,0
+
+
+
+FUFV 146
+
+1,8
+
+67,8
+
+
+
+UNIFESP 140
+
+1,7
+
+69,5
+
+
+
+UFSCAR 137
+
+1,7
+
+71,2
+
+
+
+UFBA 132
+
+1,6
+
+72,8
+
+
+
+UFC 123
+
+1,5
+
+74,3
+
+
+
+UFPR 120
+
+1,5
+
+75,8
+
+
+
+UFPB 111
+
+1,4
+
+77,2
+
+
+
+INPE 109
+
+1,3
+
+78,5
+
+
+
+Outras 1.763
+
+21,5
+
+100,0
+
+
+
+Total 8.197
+
+100,0
+
+
+
+
+
+Acima vê-se novamente a concentração do apoio à pesquisa no país, tendo agora como objeto de análise as suas principais instituições que mostram o destaque das universidades paulistas, encabeçadas pela USP e as universidades federais com destaque para a UFRJ. As três maiores presenças são a USP, a UFRJ e a UNICAMP que aglutinam 33,8% das bolsas de pesquisador. Se for feita uma agregação das universidades paulistas observa-se que aí estão 31,8% dos casos analisados.
+
+Sob a perspectiva do monitoramento da atividade científica no país obtém-se, através análise deste tipo de registro de dados, uma visão clara dos principais centros de pesquisa no país e da sua localização.
+
+A presença reduzida do apoio ao pesquisador de ponta nos estados menos desenvolvidos, especialmente do nordeste e do norte do país, revelam as dificuldades atuais de superação dos desequilíbrios regionais com relação à pesquisa científica. Por outro lado, algumas proporções surpreendentes, como o percentual relativo à da Universidade Federal de Pernambuco sugerem que estes dados ora apresentados devem ser cotejados com informações complementares sobre áreas de pesquisa em destaque e número de pesquisadores presentes nas instituições focalizadas.
+
+De um modo geral estas análises descritivas da bolsa de pesquisador do CNPq mostram a prevalência de algumas áreas de pesquisa, um já esperado elevado grau de concentração da pesquisa na região Sudeste, especialmente no em São Paulo e Rio, e num conjunto relativamente pequeno de instituições de pesquisa.
+
+
+
+4.2 Focalizando concentrações regionais e institucionais das grandes áreas acadêmicas.
+
+Através de alguns cruzamentos de informações, a partir da matriz de dados disponível, pode-se fazer indagações específicas que ajudam a aprofundar o mapeamento e a diagnóstico do estágio atual da ciência brasileira.
+
+Em primeiro lugar considera-se, nesta fase, o quanto a distribuição regional das bolsas, que acusou grandes concentrações nos estados do sudeste, se mantém em proporções equivalentes quando se analisa a distribuição regional por área acadêmica. A questão que se coloca é se a concentração no Sudeste e os percentuais de outras regiões permanecem equivalentes quando a análise é feita dentro de cada uma das grandes áreas acadêmicas definidas pelo CNPq. É o que mostra a próxima tabela:
+
+
+
+Tabela 8: Grande área acadêmica por região do país
+
+Bolsas de pesquisador, CNPq, 1998
+
+
+
+Áreas
+
+Região
+
+Total
+
+
+
+Sudeste
+
+Sul
+
+Nordeste
+
+Norte
+
+Centro-Oeste
+
+
+
+Exatas 67,6% (1.334)
+
+
+
+14,8% (291)
+
+
+
+13,0% (256)
+
+
+
+1,1% (22)
+
+
+
+3,5% (69)
+
+
+
+100% (1.972)
+
+
+
+
+
+Biológicas 72,1% (1.019)
+
+
+
+12,3% (174)
+
+
+
+7,9% (111)
+
+
+
+3,6% (51)
+
+
+
+4,1% (58)
+
+
+
+100% (1.413)
+
+
+
+
+
+Engenharias 73,5% (858)
+
+
+
+14,1% (164)
+
+
+
+9,4% (110)
+
+
+
+0,4% (5)
+
+
+
+2,6% (30)
+
+
+
+100% (1.167)
+
+
+
+
+
+Saúde 77,5% (547)
+
+
+
+11,5% (81)
+
+
+
+8,6% (61)
+
+
+
+0,3% (2)
+
+
+
+2,1% (15)
+
+
+
+100% (706)
+
+
+
+
+
+Agrárias 61,6% (702)
+
+
+
+21,6% (246)
+
+
+
+9,0% (103)
+
+
+
+1,9% (22)
+
+
+
+5,8% (66)
+
+
+
+100% (1.139)
+
+
+
+
+
+Soc. Aplicadas 61,2% (303)
+
+
+
+14,5% (72)
+
+
+
+16,4% (81)
+
+
+
+0,4% (2)
+
+
+
+7,5% (37)
+
+
+
+100% (495)
+
+
+
+
+
+Humanas 62,5% (598)
+
+
+
+14,4% (138)
+
+
+
+13,2% (126)
+
+
+
+1,5% (14)
+
+
+
+8,5% (81)
+
+
+
+100% (957)
+
+
+
+
+
+Ling. e Arte 70,6% (245)
+
+
+
+18,2% (63)
+
+
+
+8,4% (29)
+
+
+
+0,3% (1)
+
+
+
+2,6% (9)
+
+
+
+100% (347)
+
+
+
+
+
+Total 68,4% (5.606)
+
+
+
+15,0% (1.229)
+
+
+
+10,7% (877)
+
+
+
+1,5% (119)
+
+
+
+4,5% (365)
+
+
+
+100% (8.196)
+
+
+
+
+
+Obs: Sem informação sobre a região - 1 caso
+
+
+
+Conforme o esperado, centralizando a atenção na primeira coluna da tabela acima, que corresponde à região Sudeste, vê-se que esta região mantém uma concentração alta de projetos em quase todas as áreas acadêmicas. Entretanto, pode-se observar também que a representação percentual desta região, que é de 68,4% dos projetos como um todo, sofre algumas oscilações em áreas específicas: cresce a sua participação relativa, quando as áreas mais  hard  estão em questão (exatas, biológicas, engenharia), e decresce a sua participação nas sociais e humanas. Outra característica da região Sudeste é apresentar uma concentração excepcional de pesquisadores na área de Saúde (77,5%). Esta última constatação é especialmente preocupante, considerando-se esta seria uma área a receber atenção especial de uma política compensatória por parte da agência de fomento.
+
+Quando se passa a focalizar a região Sul, que congrega perto de 15 % das bolsas, vê-se que a sua participação é relativamente destacada no setor agrícola, evidenciando a clara vocação da região para este setor. Nas regiões Nordeste e Centro-Oeste, menos desenvolvidas, observa-se, de um modo geral, um crescimento da participação proporcional das áreas  soft  (sociais aplicadas e humanas), com exceção da presença destacada da área de Exatas no Nordeste. Mais uma vez chama atenção o fato de que a presença de pesquisadores financiados na área de Saúde, para essas regiões, ainda é menor do que a sua participação proporcional, já reduzida, para projetos como um todo. Para a região Norte, tão pouco representada, não faz muito sentido a comparação de percentuais mas observa-se aí um investimento destacado, em termos relativos, nas área biológica e agrária, provavelmente representado pela presença de determinados centros de pesquisa que novas análises podem mostrar.
+
+Quando se deixa a região como foco de análise e passa-se a verificar como as grandes áreas se distribuem, em termos relativos, dentro das principais instituições financiadas, passa-se a verificar o que se pode chamar de vocações institucionais. É o que mostra a tabela a seguir:
+
+
+
+Tabela 9: Instituições com mais de 100 bolsistas, segundo as áreas de conhecimento
+
+Bolsas de pesquisador, CNPq, 1998
+
+
+
+Instituição
+
+Grandes áreas
+
+Total
+
+
+
+Exatas
+
+Biol.
+
+Eng.
+
+Saúde
+
+Agr.
+
+Soc. Aplic.
+
+Hum.
+
+Ling. e Artes
+
+
+
+USP 27,2% (380)
+
+
+
+19,9% (277)
+
+
+
+10,6% (148)
+
+
+
+14,8% (207)
+
+
+
+8,2% (115)
+
+
+
+4,4% (62)
+
+
+
+11,4% (159)
+
+
+
+3,4% (47)
+
+
+
+100% (1.395)
+
+
+
+
+
+UFRJ 20,2% (160)
+
+
+
+21,2% (168)
+
+
+
+25,6% (203)
+
+
+
+3,5% (28)
+
+
+
+0,5% (4)
+
+
+
+10,3% (82)
+
+
+
+12,1% (96)
+
+
+
+6,7% (53)
+
+
+
+100% (794)
+
+
+
+
+
+UNICAMP 34,2% (200)
+
+
+
+9,7% (57)
+
+
+
+16,9% (99)
+
+
+
+8,0% (47)
+
+
+
+5,6% (33)
+
+
+
+4,6% (27)
+
+
+
+12,8% (75)
+
+
+
+8,0% (47)
+
+
+
+100% (585)
+
+
+
+
+
+UFRGS 27,0% (124)
+
+
+
+15,7% (72)
+
+
+
+13,3% (61)
+
+
+
+7,2% (33)
+
+
+
+10,4% (48)
+
+
+
+8,3% (38)
+
+
+
+13,5% (62)
+
+
+
+4,8% (22)
+
+
+
+100% (460)
+
+
+
+
+
+UFMG 22,5% (89)
+
+
+
+17,9% (71)
+
+
+
+13,1% (52)
+
+
+
+11,4% (45)
+
+
+
+9,8% (39)
+
+
+
+7,3% (29)
+
+
+
+10,6% (42)
+
+
+
+7,3% (29)
+
+
+
+100% (396)
+
+
+
+
+
+UNESP 17,1% (61)
+
+
+
+19,1% (68)
+
+
+
+5,3% (19)
+
+
+
+14,3% (51)
+
+
+
+27,5% (98)
+
+
+
+2,5% (9)
+
+
+
+9,0% (32)
+
+
+
+5,1% (18)
+
+
+
+100% (356)
+
+
+
+
+
+UFPE 40,4% (101)
+
+
+
+9,2% (23)
+
+
+
+13,6% (34)
+
+
+
+5,6% (14)
+
+
+
+4,0% (10)
+
+
+
+10,8% (27)
+
+
+
+14,8% (37)
+
+
+
+1,6% (4)
+
+
+
+100% (250)
+
+
+
+
+
+UFSC 20,5% (47)
+
+
+
+8,3% (19)
+
+
+
+32,3% (74)
+
+
+
+4,8% (11)
+
+
+
+4,4% (10)
+
+
+
+5,7% (13)
+
+
+
+16,2% (37)
+
+
+
+7,9% (18)
+
+
+
+100% (229)
+
+
+
+
+
+UNB 21,4% (49)
+
+
+
+12,7% (29)
+
+
+
+10,5% (24)
+
+
+
+4,4% (10)
+
+
+
+4,4% (10)
+
+
+
+13,5% (31)
+
+
+
+30,1% (69)
+
+
+
+3,1% (7)
+
+
+
+100% (229)
+
+
+
+
+
+UFF 30,2% (57)
+
+
+
+5,3% (10)
+
+
+
+13,8% (26)
+
+
+
+4,8% (9)
+
+
+
+2,6% (5)
+
+
+
+9,0% (17)
+
+
+
+27,5% (52)
+
+
+
+6,9% (13)
+
+
+
+100% (189)
+
+
+
+
+
+Fiocruz 1,1% (2)
+
+
+
+68,3% (127)
+
+
+
+1,6% (3)
+
+
+
+26,3% (49)
+
+
+
+1,6% (3)
+
+
+
+1,1% (2)
+
+
+
+
+
+100% (186)
+
+
+
+
+
+Embrapa 1,6% (3)
+
+
+
+11,9% (22)
+
+
+
+0,5% (1)
+
+
+
+
+
+83,8% (155)
+
+
+
+0,5% (1)
+
+
+
+1,6% (3)
+
+
+
+100% (185)
+
+
+
+
+
+PUC/RJ 27,2% (44)
+
+
+
+42,6% (69)
+
+
+
+
+
+9,3% (15)
+
+
+
+17,9% (29)
+
+
+
+3,1% (5)
+
+
+
+100% (162)
+
+
+
+
+
+FUFV 3,4% (5)
+
+
+
+10,3% (15)
+
+
+
+2,1% (3)
+
+
+
+1,4% (2)
+
+
+
+76,7% (112)
+
+
+
+6,2% (9)
+
+
+
+
+
+100% (146)
+
+
+
+
+
+UNIFESP 47,1% (66)
+
+
+
+51,4% (72)
+
+
+
+
+
+0,7% (1)
+
+
+
+0,7% (1)
+
+
+
+100% (140)
+
+
+
+
+
+UFSCAR 35,8% (49)
+
+
+
+13,1% (18)
+
+
+
+29,2% (40)
+
+
+
+4,4% (6)
+
+
+
+2,9% (4)
+
+
+
+0,7% (1)
+
+
+
+13,9% (19)
+
+
+
+100% (137)
+
+
+
+
+
+UFBA 26,5% (35)
+
+
+
+6,1% (8)
+
+
+
+3,8% (5)
+
+
+
+12,9% (17)
+
+
+
+0,8% (1)
+
+
+
+18,9% (25)
+
+
+
+18,2% (24)
+
+
+
+12,9% (17)
+
+
+
+100% (132)
+
+
+
+
+
+UFC 30,1% (37)
+
+
+
+16,3% (20)
+
+
+
+10,6% (13)
+
+
+
+7,3% (9)
+
+
+
+17,1% (21)
+
+
+
+8,1% (10)
+
+
+
+10,6% (13)
+
+
+
+100% (123)
+
+
+
+
+
+UFPR 21,7% (26)
+
+
+
+33,3% (40)
+
+
+
+6,7% (8)
+
+
+
+5,8% (7)
+
+
+
+20,8% (25)
+
+
+
+5,0% (6)
+
+
+
+5,0% (6)
+
+
+
+1,7% (2)
+
+
+
+100% (120)
+
+
+
+
+
+UFPB 24,3% (27)
+
+
+
+16,2% (18)
+
+
+
+25,2% (28)
+
+
+
+4,5% (5)
+
+
+
+14,4% (16)
+
+
+
+1,8% (2)
+
+
+
+9,0% (10)
+
+
+
+4,5% (5)
+
+
+
+100% (111)
+
+
+
+
+
+INPE 69,7% (76)
+
+
+
+23,9% (26)
+
+
+
+6,4% (7)
+
+
+
+
+
+100% (109)
+
+
+
+
+
+Outras 22,7% (400)
+
+
+
+16,2% (286)
+
+
+
+13,1% (231)
+
+
+
+4,8% (84)
+
+
+
+24,0% (423)
+
+
+
+5,1% (90)
+
+
+
+10,7% (189)
+
+
+
+3,4% (60)
+
+
+
+100% (1.763)
+
+
+
+
+
+Total 24,1% (1.972)
+
+
+
+17,3% (1.414)
+
+
+
+14,2% (1.167)
+
+
+
+8,6% (706)
+
+
+
+13,9% (1.139)
+
+
+
+6,0% (495)
+
+
+
+11,7% (957)
+
+
+
+4,2% (347)
+
+
+
+100% (8.197)
+
+
+
+
+
+Sobre a tabela acima as observações irão se dirigir ao que se observa nas grandes universidades paulistas e nas grandes universidades federais pois nestas estão representados os diversos campos do conhecimento. Focalizando a área de exatas esta tabela mostra uma representação proporcionalmente destacada   em relação à representação total desta área entre bolsistas que é de 24,1% - de algumas universidades, como UFPE(40,4%), UNICAMP(34,3%), UFF(30,2%), USP (27,2%). Estes percentuais podem ser considerados indicadores de que estas universidades têm um desenvolvimento proporcionalmente maior destas áreas em relação às outras áreas acadêmicas, concentrando nestas os seus esforços de pesquisa. Já nas disciplinas da área biológica a vocação institucional maior aparece com a UFRJ (21,2%), entre as grandes universidades, sendo seguida de perto pela USP e pela UNESP. Nas engenharias destacam-se a UFSC e a UFRJ. Considerando-se a área de Saúde, pode-se observar que apenas a USP e a UNESP mantém uma proporção próxima a 14% que é a proporção do total de bolsas destinado a esta área. Para as demais grandes universidades é proporcionalmente pequena a representação da área de saúde. Na área agrícola o destaque aparece para a UNESP e na área social aplicada sobressaem a UNB, a UFRJ e UFPE. Por fim as humanas são excepcionalmente bem aquinhoadas novamente na UNB e também na UFF.
+
+Os dados da tabela acima que serviram para indicar as vocações institucionais também podem também servir, numa inversão da percentualização da mesma tabela, para mostrar onde está localizada a pesquisa nas várias áreas acadêmicas. O que será feito aqui para as grandes áreas poderá ser repetido, utilizando o mesmo conjunto de dados, para sub-áreas ou atividades específicas que forem do interesse do pesquisador.
+
+
+
+Tabela 10 : Instituições com mais de 100 bolsistas, segundo as áreas de conhecimento
+
+Bolsas de pesquisador, CNPq, 1998
+
+Instituição
+
+Grandes áreas
+
+Total
+
+
+
+Exatas
+
+Biol.
+
+Eng.
+
+Saúde
+
+Agr.
+
+Soc. Aplic.
+
+Hum.
+
+Ling.
+
+e
+
+Artes
+
+
+
+USP
+
+19,3% (380)
+
+
+
+19,6% (277)
+
+
+
+12,7% (148)
+
+
+
+29,3% (207)
+
+
+
+10,1% (115)
+
+
+
+12,5% (62)
+
+
+
+16,6% (159)
+
+
+
+13,5% (47)
+
+
+
+17,0% (1395)
+
+
+
+
+
+UFRJ
+
+8,1% (160)
+
+
+
+11,9% (168)
+
+
+
+17,4% (203)
+
+
+
+4,0% (28)
+
+
+
+0,4% (4)
+
+
+
+16,6% (82)
+
+
+
+10,0% (96)
+
+
+
+15,3% (53)
+
+
+
+9,7% (794)
+
+
+
+
+
+UNICAMP
+
+10,1% (200)
+
+
+
+4,0% (57)
+
+
+
+8,5% (99)
+
+
+
+6,7% (47)
+
+
+
+2,9% (33)
+
+
+
+5,5% (27)
+
+
+
+7,8% (75)
+
+
+
+13,5% (47)
+
+
+
+7,1% (585)
+
+
+
+
+
+UFRGS
+
+6,3% (124)
+
+
+
+5,1% (72)
+
+
+
+5,2% (61)
+
+
+
+4,7% (33)
+
+
+
+4,2% (48)
+
+
+
+7,7% (38)
+
+
+
+6,5% (62)
+
+
+
+6,3% (22)
+
+
+
+5,6% (460)
+
+
+
+
+
+UFMG
+
+4,5% (89)
+
+
+
+5,0% (71)
+
+
+
+4,5% (52)
+
+
+
+6,4% (45)
+
+
+
+3,4% (39)
+
+
+
+5,9% (29)
+
+
+
+4,4% (42)
+
+
+
+8,4% (29)
+
+
+
+4,8% (396)
+
+
+
+
+
+UNESP
+
+3,1% (61)
+
+
+
+4,8% (68)
+
+
+
+1,6% (19)
+
+
+
+7,2% (51)
+
+
+
+8,6% (98)
+
+
+
+1,8% (9)
+
+
+
+3,3% (32)
+
+
+
+5,2% (18)
+
+
+
+4,3% (356)
+
+
+
+
+
+UFPE
+
+5,1% (101)
+
+
+
+1,6% (23)
+
+
+
+2,9% (34)
+
+
+
+2,0% (14)
+
+
+
+0,9% (10)
+
+
+
+5,5% (27)
+
+
+
+3,9% (37)
+
+
+
+1,2% (4)
+
+
+
+3,0% (250)
+
+
+
+
+
+UFSC
+
+2,4% (47)
+
+
+
+1,3% (19)
+
+
+
+6,3% (74)
+
+
+
+1,6% (11)
+
+
+
+0,9% (10)
+
+
+
+2,6% (13)
+
+
+
+3,9% (37)
+
+
+
+5,2% (18)
+
+
+
+2,8% (229)
+
+
+
+
+
+UNB
+
+2,5% (49)
+
+
+
+2,1% (29)
+
+
+
+2,1% (24)
+
+
+
+1,4% (10)
+
+
+
+0,9% (10)
+
+
+
+6,3% (31)
+
+
+
+7,2% (69)
+
+
+
+2,0% (7)
+
+
+
+2,8% (229)
+
+
+
+
+
+UFF
+
+2,9% (57)
+
+
+
+0,7% (10)
+
+
+
+2,2% (26)
+
+
+
+1,3% (9)
+
+
+
+0,4% (5)
+
+
+
+3,4% (17)
+
+
+
+5,4% (52)
+
+
+
+3,7% (13)
+
+
+
+2,3% (189)
+
+
+
+
+
+FIOCRUZ
+
+0,1% (2)
+
+
+
+9,0% (127)
+
+
+
+0,3% (3)
+
+
+
+6,9% (49)
+
+
+
+0,3% (3)
+
+
+
+0,0% (0)
+
+
+
+0,2% (2)
+
+
+
+0,0% (0)
+
+
+
+2,3% (186)
+
+
+
+
+
+EMBRAPA
+
+0,2% (3)
+
+
+
+1,6% (22)
+
+
+
+0,1% (1)
+
+
+
+0,0% (0)
+
+
+
+13,6% (155)
+
+
+
+0,2% (1)
+
+
+
+0,3% (3)
+
+
+
+0,0% (0)
+
+
+
+2,3% (185)
+
+
+
+
+
+PUC/RJ
+
+2,2% (44)
+
+
+
+0,0% (0)
+
+
+
+5,9% (69)
+
+
+
+0,0% (0)
+
+
+
+0,0% (0)
+
+
+
+3,0% (15)
+
+
+
+3,0% (29)
+
+
+
+1,4% (5)
+
+
+
+2,0% (162)
+
+
+
+
+
+FUFV
+
+0,3% (5)
+
+
+
+1,1% (15)
+
+
+
+0,3% (3)
+
+
+
+0,3% (2)
+
+
+
+9,8% (112)
+
+
+
+1,8% (9)
+
+
+
+0,0% (0)
+
+
+
+0,0% (0)
+
+
+
+1,8% (146)
+
+
+
+
+
+UNIFESP
+
+0,0% (0)
+
+
+
+4,7% (66)
+
+
+
+0,0% (0)
+
+
+
+10,2% (72)
+
+
+
+0,0% (0)
+
+
+
+0,2% (1)
+
+
+
+0,1% (1)
+
+
+
+0,0% (0)
+
+
+
+1,7% (140)
+
+
+
+
+
+UFSCAR
+
+2,5% (49)
+
+
+
+1,3% (18)
+
+
+
+3,4% (40)
+
+
+
+0,8% (6)
+
+
+
+0,4% (4)
+
+
+
+0,2% (1)
+
+
+
+2,0% (19)
+
+
+
+0,0% (0)
+
+
+
+1,7% (137)
+
+
+
+
+
+UFBA
+
+1,8% (35)
+
+
+
+0,6% (8)
+
+
+
+0,4% (5)
+
+
+
+2,4% (17)
+
+
+
+0,1% (1)
+
+
+
+5,1% (25)
+
+
+
+2,5% (24)
+
+
+
+4,9% (17)
+
+
+
+1,6% (132)
+
+
+
+
+
+UFC
+
+1,9% (37)
+
+
+
+1,4% (20)
+
+
+
+1,1% (13)
+
+
+
+1,3% (9)
+
+
+
+1,8% (21)
+
+
+
+2,0% (10)
+
+
+
+1,4% (13)
+
+
+
+0,0% (0)
+
+
+
+1,5% (123)
+
+
+
+
+
+UFPR
+
+1,3% (26)
+
+
+
+2,8% (40)
+
+
+
+0,7% (8)
+
+
+
+1,0% (7)
+
+
+
+2,2% (25)
+
+
+
+1,2% (6)
+
+
+
+0,6% (6)
+
+
+
+0,6% (2)
+
+
+
+1,5% (120)
+
+
+
+
+
+UFPB
+
+1,4% (27)
+
+
+
+1,3% (18)
+
+
+
+2,4% (28)
+
+
+
+0,7% (5)
+
+
+
+1,4% (16)
+
+
+
+0,4% (2)
+
+
+
+1,0% (10)
+
+
+
+1,4% (5)
+
+
+
+1,4% (111)
+
+
+
+
+
+INPE
+
+3,9% (76)
+
+
+
+0,0% (0)
+
+
+
+2,2% (26)
+
+
+
+0,0% (0)
+
+
+
+0,6% (7)
+
+
+
+0,0% (0)
+
+
+
+0,0% (0)
+
+
+
+0,0% (0)
+
+
+
+1,3% (109)
+
+
+
+
+
+OUTRAS
+
+20,3% (400)
+
+
+
+20,2% (286)
+
+
+
+19,8% (231)
+
+
+
+11,9% (84)
+
+
+
+37,1% (423)
+
+
+
+18,2% (90)
+
+
+
+19,7% (189)
+
+
+
+17,3% (60)
+
+
+
+21,5% (1763)
+
+
+
+
+
+TOTAL
+
+100% (1972)
+
+
+
+100% (1414)
+
+
+
+100% (1167)
+
+
+
+100% (706)
+
+
+
+100% (1139)
+
+
+
+100% (495)
+
+
+
+100% (957)
+
+
+
+100% (347)
+
+
+
+100% (8197)
+
+
+
+
+
+Nesta nova tabela com os mesmos dados da tabela anterior mas com o cálculo dos percentuais feito a partir de cada coluna podemos identificar para cada área acadêmica, onde estão localizados proporcionalmente os pesquisadores bolsistas. Vê-se aí que o ranking das universidades apresentado anteriormente, na tabela 5, se altera para algumas áreas como engenharia, ciências sociais aplicadas e línguas e artes em que a UFRJ se posiciona em primeiro lugar. Por outro lado a prevalência de São Paulo, especialmente da USP, nas áreas exatas e na área de Saúde fica mais destacada nesta tabela: quase 30% das bolsas de pesquisa na área de Saúde estão na USP, seguindo-se UNESP, FIOCRUZ e UNICAMP. Selecionando as universidades paulistas e acrescentando o percentual destacado da UNIFESP observa-se que mais de 50% dos projetos de pesquisa da Saúde apoiados pelo CNPq estão localizados nas quatro universidades paulistas acima mencionadas.
+
+Os dados disponíveis nesta base de dados poderão ser utilizados para que este mesmo tipo de análise seja feita dentro de um campo disciplinar especifico, ou dentro de temas específicos para observar a concentração projetos de pesquisa, numa tipo de análise que se aproxima do que atualmente é denominado que inteligência competitiva ou inteligência organizacional (Canogia, Antunes, Pereira, Caves, Maffia, 1999). Esta área de estudos visa o monitoramento de campo de interesses específicos para a rápida identificação de informações com a finalidade de dar apoio estratégico a ações ou para avaliação de ações de organizações públicas e privadas.
+
+
+
+5. Conclusões
+
+As análises aqui desenvolvidas procuram gerar descrições da pesquisa brasileira de alto nível e novos indicadores a respeito do que está sendo produzido no país a partir de programas de apoio do governo.
+
+Pode-se também considerar que outro objetivo visado foi o de mostrar que é possível fazer um uso diversificado das informações contidas nas bases de dados geradas pelas agências de fomento com o objetivo específico de acompanhamento administrativo de projetos em andamento. O que foi feito a partir de apenas de uma das modalidades de registro - bolsas de produtividade em pesquisa - pode ser expandido para outros tipos de fomento governamental[8]. Além disso, outras analises podem ser desenvolvidas com outras informações disponíveis nesta mesma base de dados utilizada para o presente estudo.
+
+Por fim, pode-se ainda mencionar que, além das excelentes inovações realizadas, em anos recentes, por parte do CNPq, relativas à visibilidade e recuperação de dados visando ao acompanhamento regular da pesquisa científica financiada, ainda outras formas de concepção e de integração de bases de dados podem ser planejadas para gerar novos indicadores da produção científica e para mostrar as tendências existentes no financiamento à pesquisa, conforme revelam alguns dados aqui destacados.
+
+
+
+
+Referências Bibliográficas
+
+APPENZELLER,T. Science points of light in Latin America. Science, v.267, Fev. 1995, pp. 807-808.
+
+BARRÉ, R. European Perspective on S & T Indicators. Scientometrics, v.38, n. 1, 1997, pp. 57-70.
+
+BARRÉ, R. , LAVILLE, F., PAPON, P. Quelques indicateurs de la compétitive technologique de la France. Paris: Observatoire des Sciences et des Techniques, 1998.
+
+CANONGIA, Claudia; ANTUNES, Adelaide; PEREIRA, Maria de Nazare Freitas; CHAVES, Hélia; MAFFIA, Sueli (1999). Automatic Treatment of Information - a case study on the brazilian theses databases. Colloque Ile Rousse´99 - Les Systèmes d´Information Élaborée. Córsega, França: CRRM, 1999.
+
+CARPENTER, M.P. & NARIN, F. The adequacy of science citation index (SCI) as an indicator of international scientific activity. Journal of the American Society for Information Science, vol. 32, 1981, pp. 430-439.
+
+CNPq. Séries Históricas. 1996-2001. http://www.cnpq.br
+
+CNPq. Diretório dos Grupos de Pesquisa. Tabulações Básicas, Brasília, 1994 e 1997.
+
+COLLINS, H.M. The possibilities of science policy. Social Studies of Science, vol. 15, n. 3, 1985.
+
+DOU, H. Velle. Technologique et Compétitivé. Dunod, Paris,1995.
+
+GARRISON, S.; HERMAN, S.; LIPTON. A. Measuring, characteristics of scientific research: a comparison of bibliographic and survey data. Scientometrics, v. 24, 1992, p. 359-370.
+
+GLANZEL, W. A bibliometric approach to the social sciences. National research performance in 6 selected social science areas. Scientometrics, v. 35, n.3, 1996, pp. 291-307.
+
+GUIMARÃES, Maria Cristina Soares. Avaliação em Tecnologia: Um estudo prospectivo em Química. Dissertação de Mestrado, Escola de Comunicação, UFRJ, 1992.
+
+GUIMARÃES, R. et alii. A pesquisa no Brasil, Ciência Hoje, vol. 19, n. 110, 1995.
+
+GUPTA, B.M.; KUMAR, C.R. & KARISIDAAPA, C.R. Collaboration Profile of Theoretical Population Genetics Speciality. Scientometrics, v.39, n.3, Jul-Ago, 1997, pp. 293-314.
+
+KOSTOFF, R. N. Performance measures for government-sponsored research: overview and background. Scientometrics, v. 36, n.3, 1996, pp. 281-292.
+
+LETA, J.; DEMEIS, L. A profile of science in Brazil. Scientometrics, v. 35, n.1, 1996, pp. 33-34.
+
+LEWISON, G; FAWCETT-JONES, A; KESSLER, C. Latin American Scientific Output (1986-1991) and International Co-authorship Patterns. Scientometrics, v. 27, n.3, 1993, pp. 317-336.
+
+______. Organizational context and scientific productivity. American Sociological Review, v. 46 (ago), 1981, pp. 422-442.
+
+LYDESDORFF, L. Problems with measurement of national scientific performance. Science & Public Policy, vol 15, n. 3, 1988.
+
+MCGINNIS, R; ALLISON, P. LONG. J.S. Post doctoral training in Bioscience: allocation and outcomes. Social Forces, v. 60, n.3, 1982, pp. 701-721.
+
+MENEGUINI, R. The key role of collaborative work in the growth of Brazilian science in the last ten years. Scientometrics, v. 35, n.3, 1996, pp. 367-373.
+
+______. Indicadores alternativos de avaliação de desempenho científico: aplicação a uma instituição. Ciência e Cultura, vol 40, n. 6, 1988.
+
+miranda, Roberto C. da R. O uso da Informação na formulação estratégica pelas empresas. Ciência da Informação, vol. 28, n. 3, 1999.
+
+MUELLER,S. & SANTANA, M.G. A Ciência da Informação no CNPq   fomento à formação de recursos humanos e á pesquisa entre 1994-2002. DataGramaZero   Revista de Ciência da Informação, v.4, n,1, fev, 2003. http://www.dgz.org.br/fev03/art_04.html.
+
+OLINTO, G. Análise da produtividade científica no Brasil:: geração de indicadores e utilização de modelo explicativo. Relatório. CNPq, 2000.
+
+OLIVEIRA, João Batista de A. Ilhas de competência. Carreiras científicas no Brasil. São Paulo, Brasiliense, 1985.
+
+PEREIRA, Maria de Nazaré Freitas et alii. Bases de Dados na economia do conhecimento: a questão da qualidade. Ciência da Informação, vol. 28, n. 2, 1999.
+
+PRESCOTT, J. E. & GIBBONS, P. T. Global perspectives on competitive intelligence. Alexandria, VA: SCIP, 1993.
+
+PRICE, D.J. de S. Citation measures of hard science, soft science, technology and non-science. In: Nelson, C. et al.: Communication among scientists and engineers, 3-22. Lexington, Mass, D.C. Heath, 1970.
+
+PRIPC, K. Characteristics and determinats of eminent scientists productivity. Scientometrics, v. 36, n.2, 1996, pp. 185-206.
+
+SCHWARTZMAN, S. & MOURA CASTRO, C. de. Pesquisa universitária em questão. São Paulo, Icone, 1986.
+
+SILVA, Eduardo Orozco. La inteligencia organizacional en la industria biofarmacéutica. Ciência da Informação, vol. 28, n. 1, 1999.
+
+STOLTE-HEISKANEN, V. Evaluation of scientific performance on the periphery. Science & Public Policy, vol 13, n. 1.2, 1992.
+
+VELHO, Lea. indicadores de c&t no brasil: antecedentes e estratégia. Documento produzido por solicitação da Secretaria de Acompanhamento e Avaliação do Ministério de Ciência e Tecnologia (SECAV/MCT), como subsídio para a elaboração de uma estratégia geral de desenvolvimento e aperfeiçoamento de indicadores de C&T, 1999. Disponível no site da RICYT.
+
+_____. Validade e legitimidade dos Indicadores Bibliométricos para Política Científica. Taller de obtención de indicadores bibliométricos. Madrid, 23, 24 e 25 de fevereiro de 1998.
+
+_____. Indicadores de Ciência e Tecnologia e seu uso em política científica. Sociedade e Estado, vol. 7, n. 1.2, 1992.
+
+_____. Indicadores científicos: em busca de uma teoria. Interciência, vol. 15, n. 3, 1990.
+
+_____. Avaliação acadêmica. A hora e a vez do baixo clero. Ciência e Cultura, vol. 41, n. 10, 1989.
+
+_____. The author and the beholder: how paradigm commitments can influence the interpretation of research results. Sociometrics, vol 11, 1987.
+
+VESSURI, H.M.C The social study of science in Latin America. Social Studies of Science, vol. 17, n. 3, 1987.
+
+ZHU, Donghua et alii. A process for mining science & tecnology documents databases, ilustrated for the case of "knowledge discovery and data mining". Ciência da Informação, vol. 28, n. 1, 1999.
+
+_____. Nobel Laureates productivity, collaboration and authorship. American Sociological Review, v. 32, n.3, 1967.
+

@@ -1,0 +1,292 @@
+Informação e competitividade: a contextualização da gestão do conhecimento nos processos organizacionais
+
+
+Resumo
+
+No âmbito das organizações empresariais, este artigo se propõe a discutir a visualização da gestão do conhecimento na organização em três níveis diferentes, mas fortemente inter-relacionados: o estratégico, o tático e o operacional.
+
+O primeiro nível trata da ligação entre competitividade da empresa e o trabalho com os conhecimentos para a criação de competências organizacionais. O segundo nível destaca a importância de se considerar a gestão de conhecimentos na organização como sendo parte relevante de seus processos de negócio e não somente de suas áreas departamentais. E finalmente, em um terceiro nível, está o lado operacional da gestão do conhecimento ligado à aprendizagem, aos formatos que o conhecimento assume e ao papel desempenhado pela tecnologia da informação. Este artigo, baseado principalmente em um estudo diversificado de várias referências bibliográficas, procura trazer algumas contribuições iniciais para esta discussão.
+
+Palavras-chave
+
+Gestão do conhecimento; Informação e competitividade; Processos organizacionais.
+
+
+INTRODUÇÃO
+
+A percepção da importância do conhecimento nas atividades que uma organização deve realizar, bem como o fato de que se trata de uma habilidade inerentemente ligada a pessoas, faz parte do pensamento administrativo desde quando se iniciou a articulação desta área de estudo.
+
+Nos anos 80, este tema tornou-se mais presente, devido ao advento das abordagens teóricas relacionadas à sociedade do conhecimento, ao aprendizado organizacional e às competências essências na gestão estratégica. Nos dias atuais, o impacto causado pela acentuada evolução da tecnologia da informação na sociedade, bem como as modificações resultantes de um modelo econômico que prega uma competitividade intensa, tem causado significativas mudanças na forma com que as organizações devem se estruturar e trabalhar com o conhecimento para desenvolver novos produtos, novos processos e novas formas organizacionais.
+
+As empresas que adotam abordagens bem-sucedidas à administração do conhecimento "selecionam seus alvos" identificando processos de alto retorno para os quais uma melhor administração do conhecimento é capaz de render resultados empresariais significativos (por exemplo, no processo de desenvolvimento do produto). Em muitos casos, é preciso modificar os processos da empresa para poder acrescentar valor por meio de uma melhor administração do conhecimento.
+
+Este artigo pretende expor diversas visões ligadas à gestão do conhecimento, buscando entender o impacto deste tema na inovação dos processos organizacionais. Inicia com algumas considerações sobre o valor do conhecimento para a competitividade empresarial. Continua apresentando uma imagem da organização como uma entidade constituída de processos orientados pelo conhecimento. Em seguida, analisa a criação e transferência do conhecimento nestes processos empresariais, dando especial atenção a questões relativas à aprendizagem, criatividade, formatos do conhecimento e influência da tecnologia da informação. As considerações finais mostram como as principais áreas funcionais da empresa estão mudando para uma postura de maior inserção e integração com o todo organizacional, visando a melhor apoiar esta gestão do conhecimento nos processos empresariais.
+
+
+
+PENSANDO ESTRATEGICAMENTE E BUSCANDO O CONHECIMENTO PARA O INCREMENTO DA COMPETITIVIDADE EMPRESARIAL
+
+Na sociedade atual e futura, o conhecimento cada vez mais assume um papel central. Os recursos econômicos básicos passam a contar, além do capital, dos recursos naturais e da mão-de-obra, com o aporte dos conhecimentos necessários aos processos produtivos e de negócios.
+
+Segundo Drucker1, o valor é criado pela produtividade e pela capacidade de inovar, aplicando o conhecimento ao trabalho, criando os `trabalhadores do conhecimento', fazendo com que novos desafios se façam presentes: a produtividade do trabalho com o conhecimento e a formação deste novo trabalhador.
+
+Para Stair2, conhecimento significa aplicar um conjunto de regras, procedimentos e relações a um conjunto de dados para que este atinja valor informacional. Uma informação idêntica, da mesma forma que um recurso físico, terá diferente valor para pessoas, locais e tempos diferentes, variando então seu valor econômico conforme o contexto existente.
+
+O compartilhamento de informação significa então repassar às pessoas, ou obter delas algum conjunto de dados com valor econômico variável. Compartilhar conhecimento, na opinião de Gibson3, é algo fundamentalmente diferente e ocorre quando as pessoas estão genuinamente interessadas em ajudar umas às outras a desenvolver novas capacitações para a ação e em criar processos de aprendizagem.
+
+O desenvolvimento do trabalho com o conhecimento em uma organização está diretamente relacionado ao desenvolvimento estratégico de suas competências / capacidades essenciais (core competence / core capabilities), como propõe Leonard4. Esta autora enfatiza a importância da realização de quatro atividades inter-relacionadas (tendo como uma forte preocupação a inovação de produtos e processos na empresa) que são chave para a construção do conhecimento organizacional (figura 1).
+
+
+
+
+
+A primeira destas atividades é o compartilhamento da tarefa de solução de problemas, que se preocupa em reunir visões diferentes para sua análise. Um único indivíduo apresenta uma certa especialização profissional, um estilo cognitivo preferido (por exemplo, uma preferência por fatos e experiência versus uma preferência por imagens e especulações) e uma preferência por certas ferramentas e metodologias que já sabe usar. Isso precisa ser balanceado com a participação de outros indivíduos com características diferentes em uma atividade denominada creative abrasion, ou confrontação construtiva, que requer um ambiente que não coloque barreiras a especializações, estilos cognitivos e metodologias diferentes, bem como possua líderes com habilidades para conduzir esta atividade.
+
+A segunda atividade, implementação e integração da solução em desenvolvimento no ambiente em que será utilizado, foca o grau e o tipo de envolvimento do cliente durante o projeto, desde um modo de nenhum envolvimento (delivery mode), um modo de consultas periódicas ao cliente (consultancy mode), um modo em que os clientes são parte integrante do time de desenvolvimento e influenciam fortemente o projeto (codevelopment), até um modo em que os clientes assumem todas as responsabilidades, ficando os projetistas apenas como tutores (apprenticeship mode). Estas alternativas são mais ou menos viáveis conforme o tipo de projeto em desenvolvimento. Representam possibilidades diferentes de intercâmbio de conhecimentos, talvez sendo o codevelopment a alternativa mais interessante de forma geral.
+
+Uma terceira atividade é a existência de um clima que tolere e mesmo encoraje a experimentação e a visualização de soluções por intermédio da criação de protótipos, desenvolvendo mecanismos para assegurar que a organização aprenda com estas atividades. É necessário distinguir as falhas "inteligentes", resultados de experimentos criativos que estavam em busca de uma inovação e que precisam ser repensados, e não descartados. Há também a necessidade de se ficar atento aos erros detectados pelas "bad practices" e aos ensinamentos provenientes dos experimentos não previstos e que naturalmente ocorrem no cotidiano da empresa. A realização de uma análise crítica ao final do projeto ou de suas etapas (postproject audit) é a melhor forma de avaliar estas atividades e registrar os conhecimentos adquiridos.
+
+A quarta e talvez mais extensa atividade refere-se a importar e absorver conhecimentos tecnológicos e de mercado.
+
+Em termos de mecanismos de acesso a fontes de conhecimentos tecnológicos, pode-se pensar desde a observação informal de alguma fonte, a realização de benchmarking, até a realização de alianças e joint-ventures. As principais fontes externas de conhecimentos tecnológicos são as empresas (competidores ou não), universidades, fornecedores, clientes, consultores e órgãos governamentais de pesquisa. São fontes que tanto geram publicações como contam com pessoas que podem ser contatadas por e-mail, telefone ou por visitas in loco.
+
+Em termos de obtenção de conhecimentos da demanda do mercado consumidor, três possibilidades básicas estão presentes:
+
+- técnicas de pesquisa de mercado convencionais, quando se trata de um desenvolvimento voltado a necessidades bem conhecidas e articulado ao emprego de tecnologias amadurecidas;
+
+- uso de técnicas em que há maior imersão do projetista no ambiente do cliente em potencial (empathic design), defendido por Leonard & Rayport5, nos casos em que ou as necessidades ou as tecnologias não são bem conhecidas e articuladas;
+
+- técnicas de experimentação, cenários para o futuro e extrapolação de tendências, quando tanto as necessidades como as tecnologias apresentam um grau de incerteza muito elevado.
+
+Em outra abordagem estratégica relevante sobre o conhecimento empresarial, Davenport & Prusak6 propõem que este conhecimento deve ser analisado sob uma perspectiva de mercado, sendo que as pessoas executam alternadamente o papel de vendedores, compradores e corretores de conhecimentos, e os tipos de pagamentos são, em ordem decrescente de importância, a reciprocidade, a reputação e o altruísmo. Há alguns sinais de mercado que indicam onde o conhecimento pode estar mais presente na organização e como obter acesso a ele: a posição e a educação formal das pessoas; as redes informais entre pessoas; as comunidades de práticas de algum tipo de habilidade. Como todo mercado, aqui também podem ocorrer algumas distorções como monopólios, escassez artificial e barreiras aos negócios.
+
+Há cinco modos que estes últimos autores descrevem como formas de se gerar conhecimentos: aquisição (comprar outra empresa, contratar uma pessoa etc.) ou aluguel (financiar pesquisas em uma universidade, por exemplo); dedicar recursos (montar um grupo para pesquisar alguns conhecimentos, por exemplo grupo de P&D); fusão (criar um ambiente de redundância ou "criação abrasiva", em que vários grupos independentes disputam para encontrar a solução de um mesmo problema); adaptação (instalar um sentido de crise na empresa); criar redes de trabalho (networks). Todos estes modos devem ser valorizados pela organização e ocorrer de forma coordenada.
+
+Como recomendações estratégicas gerais, pode-se mencionar um conjunto de regras ou indicadores de sucesso em projetos de gestão do conhecimento elaborados por Davenport, DeLong & Beers7:
+
+- não deve ser o projeto de um indivíduo, mas sim da organização;
+
+- desenvolver uma definição de conhecimento na empresa;
+
+- enfatizar o conhecimento como estoque e fluxo;
+
+- o conhecimento está dentro e fora da mente das pessoas;
+
+- criar ambientes para que o mercado de conhecimentos possa florescer (incentivado pela confiança e reconhecimento);
+
+- dar a mesma importância ao conhecimento em diferentes formatos;
+
+- contextualizar o conhecimento;
+
+- incentivar o aprendizado e a criatividade;
+
+- focalizar o passado / presente e também o futuro;
+
+- reconhecer a importância da experimentação;
+
+- dar a mesma importância para a interface humana e tecnológica;
+
+- procurar formas de avaliação das iniciativas de conhecimento realizadas, tanto pela mensuração quantitativa como qualitativa.
+
+
+
+IMAGEM DA ORGANIZAÇÃO COMO UMA ENTIDADE CONSTITUÍDA DE PROCESSOS ORIENTADOS PELO CONHECIMENTO
+
+Como entidade onde ocorrem fenômenos complexos, as organizações podem ser compreendidas e visualizadas de muitas maneiras diferentes. Pode-se fazer uso de diferentes metáforas para compreender o caráter complexo e paradoxal da vida organizacional, como pioneiramente proposto por Morgan8, propondo-se assim novas formas de se pensar e administrar uma organização. Algumas destas metáforas, como as apresentadas em seguida, relacionam-se diretamente com o conceito de conhecimento na empresa.
+
+Uma metáfora possível é visualizar a organização como um cérebro destacando-se a importância do processamento de informações, aprendizagem e inteligência e apontando-se para um conjunto de princípios que maximizam essas qualidades.
+
+Duas metáforas principais podem ser usadas. A primeira trata o cérebro como um tipo de computador que processa informações (capaz de aprender a aprender). A Segunda, como um holograma (registra informação de maneira a armazenar o todo em todas as partes), sendo essas metáforas, especialmente a última, motivadoras de uma auto-organização para concepção da organização na qual um alto grau de flexibilidade e inovação é necessário.
+
+A questão que Morgan8 coloca é se realmente existe a possibilidade de se planejarem organizações que sejam tão flexíveis, resistentes e engenhosas como o funcionamento do cérebro, criando novas formas de organização que difundam capacidades semelhantes às do cérebro por toda a empresa, em lugar do que tem sido feito ao visualizarem-se o conhecimento e a inteligência como um recurso confinado a unidades especiais da corporação.
+
+A metáfora do cérebro, apesar de seus méritos, tem também seus pontos fracos. O aumento na autonomia devotada à auto-organização e o grau de abertura e autocrítica do processo de aprendizagem podem resultar em sérios conflitos com a realidade de poder e controle das maneiras tradicionais de administração, caso não exista uma grande habilidade de negociação entre os membros da organização. Além disso, alerta este último autor que a aprendizagem e a auto-organização geralmente pedem reenquadramento de atitudes, enfatizando a importância de uma ação ativa, autônoma, flexível e colaborativa, o que para muitas organizações pode significar uma "mudança de personalidade" a ser obtida somente após longo período de tempo.
+
+Em outra metáfora, a organização é percebida como fluxo e transformação, sendo esta uma perspectiva relacionada a três lógicas diferentes de mudança. A primeira enfatiza que as organizações são sistemas autoprodutores criados em suas próprias imagens, conforme a concepção de Maturana & Varela citado em Morgan8. Sob esta lógica, as organizações estão sempre tentando atingir uma forma de confinamento auto-referencial em relação aos seus ambientes, interpretando esses últimos como projeções das suas próprias identidades ou auto-imagem. Uma segunda lógica enfatiza as mudanças como produzidas enquanto resultado de fluxos circulares de feedback positivo e negativo. Uma terceira lógica sugere que as mudanças são o produto de uma lógica dialética por meio da qual todos os fenômenos tendem a gerar o seu oposto. A análise dialética demonstra que a gerência das organizações envolve, em última análise, a gerência da contradição.
+
+Tendo-se como referência qualquer uma destas metáforas ou imagens da organização, nota-se uma orientação no sentido de, ao invés de uma tecnologia de produção estável e formas organizacionais permanentes, as empresas mudarem para um formato mais flexível e descentralizado que possa ser rapidamente adaptado a diferentes situações. Esse formato pode ser alcançado com o suporte das novas tecnologias de informação e de comunicação, que levam a mudanças fundamentais nos parâmetros internos e externos da decisão empresarial, como salientado por Wigand, Picot & Reichwald9.
+
+Como estes autores defendem, neste novo formato empresarial a divisão do trabalho deve ser crescentemente dominada por aspectos cognitivos ao invés de aspectos técnicos. O valor será originado por meio da transformação da informação em conhecimento e sua aplicação na empresa. Esta abordagem será concretizada pela execução das diferentes atividades de um trabalho de forma simultânea pelas pessoas na empresa, requerendo uma abordagem mais holística nesta execução.
+
+Esta abordagem ou visão holística na empresa significa ter em uma única imagem todos os elementos da empresa. As pessoas de uma empresa deveriam ter esta visão do todo na execução de seu trabalho específico. Esta visão tem diferentes dimensões e graus de abstração. As dimensões são as estratégias, informações, atividades de negócio, recursos e organização, assim como suas inter-relações.
+
+Desenvolvendo-se uma visão holística, torna-se mais seguro desenvolver decisões relativas a uma dimensão, já que as conseqüências desta decisão nas outras dimensões são consideradas. Se esta visão holística está formalizada, pode-se discutir problemas específicos sem perder a compreensão do todo, e o conhecimento pode ser equalizado entre todos os participantes da discussão. Entretanto, é impossível representar o todo em uma forma completa. Este todo é alguma coisa abstrata, sendo uma junção de todas as áreas que estão na mente das pessoas relacionadas à empresa. Neste sentido, visualizar a empresa como uma coleção de BP (business process) é a melhor maneira de formalizar a representação desta visão holística, segundo exposto em Silva & Rozenfeld10 (figura 2).
+
+
+
+
+
+Um BP é constituído por um grupo de atividades manipuladas e conectadas por meio de informações. Estas atividades utilizam-se dos recursos da empresa e de sua organização. O BP forma uma unidade coesa e deve ser focado em um negócio. Este negócio, por sua vez, é geralmente focado em um mercado ou cliente específico, com os respectivos fornecedores.
+
+Em algumas empresas, a existência de BP não é concebida. Porém, com os novos requisitos dos clientes, o incremento da competição e a maior flexibilidade dada pela Tl, é necessário identificar os BP existentes. Assim, pode-se gerenciar os negócios de uma forma mais efetiva, com o foco nas necessidades do cliente, como defendido por Garvin11.
+
+Toda a empresa deveria ser pensada em termos de BP. O mapeamento destes BP é essencial como uma referência para discussões, com o objetivo de sistematicamente obter-se uma visão holística da empresa. Os processos empresariais envolvem o trabalho com a aquisição, a interpretação, a disseminação e a retenção do conhecimento, cada um destes envolvendo distintas técnicas, sistemas e propriedades, como assegura Garvin12.
+
+
+
+TRABALHANDO COM OS CONHECIMENTOS NOS PROCESSOS EMPRESARIAIS: APRENDIZAGEM, CRIATIVIDADE, FORMATOS DO CONHECIMENTO E O PAPEL DA TECNOLOGIA DA INFORMAÇÃO
+
+Aprender com a experiência, aplicar o conhecimento adquirido da experiência, tratar situações complexas, resolver problemas quando faltam informações importantes, determinar o que é importante, ter capacidade para raciocinar e pensar, reagir rápida e corretamente a novas situações, compreender imagens visuais, processar e manipular símbolos, ser criativo e imaginativo, utilizar heurística (normas práticas advindas da experiência) são algumas das características de um comportamento inteligente a ser otimizadas na execução de qualquer atividade funcional em uma empresa e são também características em que se observa uma nítida correlação entre conhecimento, aprendi-zagem e criatividade, conforme aponta Stair2.
+
+A tomada de decisão para a solução de problemas, realizada em qualquer atividade organizacional, requisitará pelo menos algumas das características mencionadas. Analisando os paralelos entre a tomada de decisão humana e a tomada de decisão organizacional, Simon (citado por Morgan8) argumentou que as organizações nunca podem ser perfeitamente racionais, porque os seus membros têm habilidades limitadas de processamento de informações.
+
+Entretanto, a questão realmente importante é se as organizações também se tornarão mais inteligentes. Para que isto ocorra, serão fundamentais os tipos de habilidades de aprendizagem construídas dentro das organizações, sendo requerido que estas sejam mais do que obrigatoriamente competentes na aprendizagem de circuito único (que se apóia em uma habilidade de detectar e corrigir o erro com relação a um dado conjunto de normas operacionais), também possuindo habilidades em termos de aprendizagem de circuito duplo (que depende de ser capaz de olhar de forma multifacetada uma dada situação, questionando a relevância das normas em funcionamento), conforme defendido por Morgan8.
+
+Pode-se dizer que a aprendizagem organizacional ocorre quando seus membros experimentam uma situação problemática e questionam / investigam / refletem em favor da organização. Experimentam um desafio entre o esperado e os resultados atuais das ações. Respondem a este desafio por meio de um processo de pensamento e ação subseqüente que conduz à modificação de suas imagens da organização, de suas compreensões sobre os fenômenos organizacionais, bem como à reestruturação de suas atividades de modo a tornar evidentes os resultados e as expectativas.
+
+O produto de tais aprendizagens pode assumir várias formas e inclui:
+
+a. interpretações das experiências passadas de sucesso ou fracasso;
+
+b. inferências sobre as conexões causais entre as ações e resultados e suas implicações para ações futuras;
+
+c. descrições do ambiente organizacional em mudança e as demandas quanto ao desempenho futuro;
+
+d. análise dos limites e potencialidades de estratégias, de estruturas, técnicas e de sistemas informacionais e de incentivo alternativos;
+
+e. descrição de visões e interesses conflitantes que surgem na organização sob condições complexas e incertas;
+
+f. imagens de realizações futuras e invenção de meios para atingi-los;
+
+g. reflexão crítica sobre as teorias de ação em uso e propostas para a sua reestruturação;
+
+h. descrição e análise das experiências da organização.
+
+Um mesmo ambiente organizacional propício ao aprendizado também é favorável à criatividade, conforme destacam os trabalhos de Sternberg, O'Hara & Lubart13 e Alencar14: uma motivação para o trabalho motivado pelo prazer e satisfação, um conhecimento e experiência abrangente, uma cultura organizacional que inclua valores predominantes para a inovação e, de especial relevância, a disposição para correr riscos e aprender com os próprios erros, já que a criatividade implica lidar com o desconhecido.
+
+Além das maneiras tradicionais de aprendizagem, uma das formas de melhorar a aprendizagem das pessoas envolvidas em um determinado fenômeno é procurar levá-las a vivenciar as ocorrências que normalmente constituem este fenômeno. Este processo de vivência tem sido abordado de diferentes formas em diferentes organizações. Gibson3 apresenta o desenvolvimento de "laboratórios de aprendizagem", cuja idéia básica é redesenhar determinados ambientes operacionais para que a aprendizagem e o trabalho sejam integrados. Este laboratório representa um conjunto de ferramentas e métodos generalizáveis, um `campo de treino' ou espaço onde pessoas que trabalham juntas podem testar novas idéias e aprender a investigar juntas os assuntos relevantes.
+
+Em termos de formato, o conhecimento apresenta tanto um componente tácito quanto um componente explícito e, em conseqüência disso, pode ser mais ou menos "ensinável". Analisada em termos de incremento do sucesso empresarial, uma crescente vantagem competitiva de uma empresa está diretamente relacionada à dificuldade com que outras possam copiar seu conhecimento. O conhecimento não está entranhado somente nos indivíduos ou nas rotinas de trabalho das organizações, mas está cada vez mais presente nas redes de conhecimentos que ligam as organizações, e o desafio está exatamente em perceber e enfrentar as limitações das novas tecnologias de informação que permitem a existência desta rede, uma vez que estas tecnologias têm se orientado mais no sentido de mover a informação de "uma cabeça para outra", em vez de permear as rotinas organizacionais, segundo alerta feito por Cole15.
+
+A diferenciação dos dois formatos mencionados situa-se no fato de que o conhecimento explícito pode ser articulado na linguagem formal, inclusive em afirmações gramaticais, expressões matemáticas, especificações, manuais e assim por diante, enquanto o conhecimento tácito é difícil de ser articulado na linguagem formal, sendo um conhecimento pessoal incorporado à experiência individual envolvendo fatores intangíveis, como, por exemplo, crenças pessoais, perspectivas e sistemas de valor, conforme bem explica a obra de Nonaka & Takeuchi16. A interação entre essas duas formas complementares de conhecimento resulta na principal dinâmica da criação do conhecimento na organização (figura 3).
+
+
+
+
+
+Segundo estes autores, três características-chave ocorrem na criação do conhecimento em relação à transformação do conhecimento tácito em explícito, sendo particularmente interessante quando analisados no contexto da inovação de produtos e processos empresariais:
+
+- deposita-se grande confiança na linguagem figurada e no simbolismo (metáfora e analogia) - por meio de metáforas as pessoas reúnem o que conhecem em novas formas e começam a expressar o que sabem, mas que ainda não são capazes de dizer. Como tal, a metáfora é altamente eficaz no sentido de promover o compromisso direto para com o processo criativo nos primeiros estágios da criação do conhecimento;
+
+- o conhecimento pessoal de um indivíduo deve ser compartilhado com os outros - o conhecimento pode ser amplificado ou cristalizado em nível de grupo, através de discussões, compartilhamento de experiências e observação, o que mostra o papel central desempenhado pelas equipes no processo de criação do conhecimento, proporcionando um contexto comum em que os indivíduos podem interagir entre si. Os membros de uma equipe criam novas perspectivas mediante o diálogo e o debate, que podem envolver consideráveis conflitos e divergências, sendo exatamente isso que impulsiona os funcionários a questionar as premissas existentes e a compreender suas experiências de uma nova forma. Esse tipo de interação dinâmica facilita a transfor-mação do conhecimento pessoal em conhecimento organizacional;
+
+- nascem novos conhecimentos em meio a ambigüidade e redundância - a ambigüidade pode vir a ser útil algumas vezes, não apenas como fonte de um novo senso de direção, mas também como fonte de significados novos e de uma forma diferente de pensar. A redundância é importante porque estimula o diálogo freqüente e a comunicação. Isso ajuda a criar uma "base cognitiva comum" entre os funcionários, facilitando assim a transferência do conhecimento tácito.
+
+Normalmente na visão ocidental, influenciada sobretudo pelos EUA, muitas das práticas entendidas como conhecimento focam-se na coleta, distribuição, reutilização e mensuração do conhecimento e da informação codificada existente. As pessoas envolvidas com estas práticas geralmente enxergam a tecnologia da informação como uma melhor forma de capturar e distribuir este conhecimento explícito, sendo esta visão medida pelo retorno destes investimentos em resultados econômicos de curto prazo.
+
+Na visão oriental, notadamente influenciada pelo Japão, a criação do conhecimento recebe mais atenção, com uma ênfase no desenvolvimento de condições que favoreçam o intercâmbio do conhecimento tácito dos indivíduos em um processo social através do qual novos conhecimentos são desenvolvidos. O sucesso é medido pela capacidade de gerar inovações a longo prazo. Há, então, uma radical diferença entre a ênfase norte-americana, dada a distribuição e reutilização do conhecimento explícito, enquanto o foco principal no Japão é estabelecer condições que encorajem a criação do conhecimento por meio do compartilhamento social direto do conhecimento tácito, conforme destaca o trabalho de Cohen17.
+
+Percebe-se nesta diferença de pensar o que é o conhecimento, até mesmo em termos de vocabulário. Nonaka (citado em Cohen17) indica que existe uma significativa diferença entre knowledge e knowing. A primeira palavra implica que o conhecimento é uma coisa, um recurso, que pode ser localizado, capturado, distribuído, manipulado, estocado, mensurado e gerenciado. Já o gerúndio knowing sugere um processo no qual conhecimento e pessoas são inseparáveis, sendo plausível que esta relação seja promovida, motivada, encorajada, criada e guiada, enquanto neste caso as idéias de capturado, distribuído, ou medido soam sem sentido. Falar de knowledge significa uma separação artificial entre criação e disseminação, enquanto knowing ocorre entre pessoas.
+
+O conhecimento tácito tem um importante papel tanto em estimular a diversidade de requisitos de idéias como na convergência que permite focar os passos necessários ao processo de inovação. Segundo Leonard & Sensiper18, a criatividade necessária para a inovação deriva não somente das habilidades óbvias e visíveis, mas também dos reservatórios invisíveis de experiências.
+
+Os gerentes e usuários do conhecimento podem categorizar, descrever, mapear, modelar, simular e envolver os conhecimentos em regras e receitas. O grande desafio, porém, está em como realizar isso (codificação) sem perder as propriedades distintas do conhecimento que acaba ocorrendo, caso este se transforme em dados e informações menos vibrantes.
+
+Uma proposta defendida por Davenport & Prusak6 para enfrentar este desafio é o emprego do conceito de mapas de conhecimentos (algo como "páginas amarelas") que apontam para onde o conhecimento está e como obtê-lo, mas não contêm o conhecimento. Trata-se de um guia (ou inventário), não de um repositório (ou biblioteca). Tanto serve para encontrar o conhecimento tácito (pessoas), como o conhecimento explícito (documentos e bases de dados).
+
+A montagem deste mapa organizacional é feita pela combinação de vários "minimapas" de conhecimentos que normalmente todo empregado já tem em sua cabeça. Isso pode ser feito utilizando-se questionários para perguntar aos empregados quais conhecimentos eles têm e onde obtêm os conhecimentos necessários para realizar seu trabalho. Mapear quem conhece o que na organização resulta em um inventário de conhecimentos valioso, mas isso não significa a garantia de disponibilidade do conhecimento, já que este aspecto está sujeito às regras de mercado mencionadas anteriormente.
+
+Para a montagem organizada, tanto de um mapa de conhecimentos, quanto de um repositório, Davenport & Prusak6 enfatizam a importância de se criar um certo vocabulário controlado, já que as pessoas não vão compartilhar conhecimentos se não falarem uma linguagem comum (em alguns pontos mínimos). Uma ação importante neste sentido é a montagem de um tesaurus (controle de palavras-chave, que visa à compatibilização de diferentes tipos de linguagens, do que está relacionado com o que, padronizando as formas de busca), conectando-se, assim, os termos usados para codificar o conhecimento com os termos que as pessoas usarão em suas buscas.
+
+Quanto ao suporte que pode ser dado pelas tecnologias de informação, deve-se considerar inicialmente qual o grau de interatividade que pode ser exigido do usuário que vai estar codificando ou buscando conhecimentos pelo intermédio do sistema.
+
+Segundo Davenport & Prusak6, o conhecimento com um conteúdo estruturado e quantitativo pode ser mais bem armazenado em uma base de dados relacional, com acesso feito por computadores pessoais conectados em rede e usando um apropriado programa de busca. O conhecimento com um conteúdo não estruturado e qualitativo pode ser mais bem representado pelo uso de páginas web. Sistemas especialistas, redes neurais e sistemas de inteligência artificial têm por enquanto um papel limitado no trabalho com o conhecimento. São pouco flexíveis e ainda muito difíceis de se utilizar para a codificação do conhecimento tácito, podendo ser aplicados em ferramentas de busca automatizada ou cruzamento de dados em grandes bases de dados (data warehousing e data mining), ou na internet, ou em sistemas para simulação de situações de mercado, análise de risco e groupware, mas isso para segmentos de negócios e situações bem específicas, e de forma complementar as tecnologias de informação convencionais.
+
+Uma interessante discussão motivada pela importância de se lidar com a questão conhecimento nas empresas é a diferença de importância que alguns autores atribuem ao fator humano e ao fator tecnologia da informação. O que se observa, independentemente desta disputa, é que a importância do conhecimento nas organizações tem forçado os setores na empresa tradicionalmente relacionados a estes fatores a ampliar seus limites de atuação, segundo apontado por Amidon19 e Coombs & Hull20. Exemplos desta tendência ocorrem quando a função recursos humanos fica também com a responsabilidade de medir o capital intelectual da empresa, ou quando a função ligada à tecnologia da informação precisa prover uma infra-estrutura voltada a facilitar o fluxo e armazenamento do conhecimento, e não somente de dados e informações.
+
+Como afirma um executivo de uma empresa modelo na gestão do conhecimento (Prokesch21), a tecnologia da informação é "fantástica" porque possibilita ricas trocas humanas sem o intermédio da estrutura formal. Talvez pensando desta forma, muitos autores (Fleck22, Nicoletti & Nicolo23, Junnarkar24), com um foco inicial voltado à tecnologia da informação, têm reconhecido a necessidade de considerar o fator humano em seus métodos, técnicas e ferramentas para a gestão do conhecimento. Propõem que o essencial na criação destes conhecimentos é que pessoas possam se encontrar e trocar experiências com outras que detêm ou trabalharam com algum tipo de conhecimento, e a tecnologia da informação deve suportar, e não delimitar isso.
+
+Neste sentido Davenport & Prusak6 afirmam que, com os recursos multimídia e a capacidade hipertexto das intranets, fica facilitada a descrição de forma mais dinâmica de como uma determinada ocorrência aconteceu, que é uma forma rica de descrever o conhecimento explícito resultante de um evento ou situação, situando-o em um contexto e facilitando, assim, a criação de conhecimento tácito a partir deste aprendizado. A dinâmica de consultar a memória organizacional com as facilidades e interatividade permitida pela tecnologia proposta, fazer uma análise do conteúdo consultado, procurar as pessoas ou conhecimentos registrados e, em seguida, tomar decisões com base nos conhecimentos obtidos e registrar estas decisões incrementando assim a memória organizacional forma um perfeito e contínuo ciclo de conversão de conhecimentos explícitos / tácitos / explícitos.
+
+Como críticas ou limitações associadas a estas propostas, há o perigo do apego ao passado, se esta memória acumulada for pensada como um repositório de soluções prontas, e não com a visão de um repositório de idéias a serem adaptadas para criar soluções e oportunidades novas para problemas futuros, como alerta Teece25. Há também o trabalho demorado (mas não tão complexo e demorado como na montagem de um sistema especialista) e que deve ser realizado continuamente para constituir esta memória organizacional, também sujeito a esquecimentos verdadeiros ou propositais pelas pessoas quando fazem seu registro e interpretação de uma ocorrência, como aponta Hargadon26. Além disso, pode não ser dada atenção suficiente em meio a tantas ocorrências para a seleção de quais conhecimentos são mais importantes para a estratégia de longo prazo da empresa. Os recursos da Tl também podem apresentar algumas limitações em termos de eficácia e eficiência na transmissão do conhecimento, como descreve Stair2, tais como a falta de interação social, a perda de sugestões não-verbalizadas e a menor probabilidade de interação informal.
+
+Em resumo, a administração do conhecimento é algo feito por pessoas. A Tl pode ajudar, mas o foco principal deve ser as mudanças necessárias nos processos da empresa (que precisam mudar para incorporar atividades de coleta e utilização do conhecimento), os papéis e responsabilidades na organização (por exemplo, quem capta e quem conserva as informações) e os incentivos (por exemplo, o que fazer para que as pessoas contribuam com seus conhecimentos). Os mais bem-sucedidos projetos organizacionais focando o conhecimento devem dar atenção a uma sinergia significativa entre os fatores humanos, organizacionais, técnicos e estratégicos. Sintetizando as palavras de Cohen17, a visão explícita americana e a visão tácita dos japoneses devem ser trabalhadas conjuntamente, criando assim valor dentro de uma abordagem multifacetada.
+
+
+
+CONSIDERAÇÕES FINAIS
+
+Nesta visão coesa e integrada da gestão do conhecimento com os processos empresariais da organização, as tradicionais áreas ou departamentos funcionais da empresa continuam existindo, mas com novos desafios e propósitos. Cada vez mais devem deixar sua postura isolada e procurar contribuir efetivamente na formação de linguagens comuns com outros departamentos, em especial naqueles processos em que atuam conjuntamente. Neste sentido, pode ser mencionado o que deverá ocorrer com as seguintes áreas funcionais:
+
+• Finanças: enfrentando cada vez mais o desafio de contabilizar ou medir também os recursos intangíveis (conhecimentos) presentes nos processos de negócios empresariais;
+
+• Recursos Humanos: trabalhando cada vez mais com a influência na gestão do conhecimento de fatores tais como a liderança, cultura corporativa, relações inter-funcionais e gestão por competências;
+
+• Qualidade: focando cada vez mais nos processos empresariais, do fornecedor até a entrega ao cliente, e também com a busca do conhecimento externo à empresa pelo aprimoramento dos procedimentos de benchmarking de melhores práticas;
+
+• Tecnologia da Informação: implementando nos processos de negócios as novas ferramentas de Tl para a gestão do conhecimento, levando-se em consideração a visão estratégica que a empresa emprega nestes temas e os aspectos humanos e comportamentais ligados ao uso destas ferramentas;
+
+• Engenharia: pela visão do desenvolvimento de produtos como um processo coordenado pelo uso da engenharia simultânea, que, por meio do envolvimento de pessoas de diferentes áreas funcionais, do envolvimento de clientes no projeto e da realização de experimentações, contribui, com as atividades ligadas à formação de competências centrais da empresa, para a criação de novos conhecimentos e inovações;
+
+• Manufatura ou fabricação (área de produção da fábrica): contribuindo com mais espaços de conversão de conhecimentos tácito / explícito, mediante oportunidade dada por recursos como a produção enxuta, que incentiva o agrupamento de visões diferentes para a análise e solução de problemas da produção;
+
+• Marketing: trabalhando de forma mais abrangente com as fontes de conhecimentos externos à empresa, por meio da mudança de foco que incorpora, além dos retratos da realidade atual (pesquisas de mercado convencionais), o desenvolvimento de sofisticados mecanismos de construção de cenários para analisar tendências futuras;
+
+• Vendas e serviços: criando diversos espaços de incorporação de conhecimentos externos à empresa, com a acumulação de dados e informações sobre os clientes em tempo real, que depois podem ser trabalhados por ferramentas de Tl voltadas à construção de conhecimentos mediante análises estatísticas e cruzamentos destes dados e informações.
+
+Se ainda há muitos desafios para um perfeito entendimento da gestão do conhecimento, como aponta o trabalho de Gomes & Barroso27, há, no entanto, uma certeza: a implementação coordenada de todos os aspectos que sustentam uma bem-sucedida gestão do conhecimento, que se procurou explorar no presente trabalho, cria uma vantagem competitiva flexível e de difícil imitação, pois está enraizada na empresa, e não somente em recursos físicos, rígidos e mais facilmente imitáveis pelos concorrentes.
+
+Esta vantagem competitiva se manifesta mais notoriamente de duas formas: a relação do conhecimento com a capacidade de inovar da empresa e a preparação e flexibilidade que esta possui para aprender rápido, reagindo assim favoravelmente às mudanças cada vez mais freqüentes no ambiente de mercado em que atua.
+
+
+
+Artigo aceito para publicação em 01-11-2000
+
+
+
+REFERÊNCIAS
+
+1. DRUCKER, P. Sociedade pós-capitalista. São Paulo : Pioneira, 1993. 
+
+2. STAIR, R. M. Princípios de sistemas de informação: uma abordagem gerencial. Rio de Janeiro : LTC, 1998. 
+
+3. GIBSON, R. Repensando o futuro. São Paulo : Makron, 1998. 
+
+4. LEONARD, D. Wellspring of knowledge. Boston : Harvard Business School, 1995. 
+
+5. __________; RAYPORT, J. F. Spark innovation through empathic design. Harvard Business Review, p. 102-113, Nov./Dec. 1997. 
+
+6. DAVENPORT, T. H.; PRUSAK, L. Conhecimento empresarial. Rio de Janeiro: Campus, 1998. 
+
+7. __________; DE LONG, D. W.; BEERS, M.C. Sucessful knowledge management projects. Sloan Management Review, p. 43-57, Winter 1998. 
+
+8. MORGAN, G. Imagens da organização. São Paulo : Atlas, 1995. 
+
+9. WIGAND, R.; PICOT, A.; REICHWALD, R. Information, organization and management. Baffins Lane : John Wiley, 1997. 
+
+10. SILVA, S. L.; ROZENFELD, H. Experiences on teaching explicit and tacit knowledge of product development process. In: International Product Development Management Conference, 6th, 1999, Cambridge.Proceedings... Cambridge, U.K : [S. n.], 1999. 
+
+11. GARVIN, D. A. Levering process for strategic advantage. Harvard Business Review, v. 73, n. 5, p. 76-90, 1995. 
+
+12. GARVIN, D. The processes of organization and management. Sloan Management Review, p. 33-50, Summer 1998. 
+
+13. STERNBERG, R. J.; O'HARA, L. A; LUBART, T. I. Creativity as investment. California Management Review, v. 40, n. 1, p. 8-21, Fall 1997, 
+
+14. ALENCAR, E. M. Promovendo um ambiente favorável à criatividade nas organizações. Revista de Administração de Empresas, p. 18-25, abr./jun. 1998. 
+
+15. COLE, R. E. Introduction: special issue on knowledge and the firm. Califórnia Management Review, v. 40, n. 3, p. 15-21, Spring 1998. 
+
+16. NONAKA, I.; TAKEUCHI, H. Criação de conhecimento na Empresa. Rio de Janeiro : Campus, 1997. 
+
+17. COHEN, D. Toward a knowledge context. California Management Review, v. 40, n. 3, Spring 1998, p. 22-39. 
+
+18. LEONARD, D.; SENSIPER, S. The role of tacit knowledge in group innovation. Califórnia Management Review, v. 40, n. 3, p. 112-132, Spring 1998. 
+
+19. AMIDON, D. The evolving community of knowledge practice: the ken awakening. International Journal of Technology Management, v.16, n. 1/3, p. 45-63, May/June 1998. 
+
+20. COOMBS, R.; HULL, R. K. Management practices and path-dependency in innovation. Research Policy, p. 237-253, July 1998. 
+
+21. PROKESCH, S. Unleashing the power of learning: an interview with british petroleum's John Browne. Harvard Business Review, p. 147-168, Sept./Oct. 1997. 
+
+22. FLECK, J. Informal information flow and the nature of expertise in financial services. International Journal Technology Management, v. 11, n. 1/2, p. 104-128, 1996. 
+
+23. NICOLETTI, S.; NICOLO, F. A concurrent engineering decision model: management of the project activities information flows. International Journal of Production Economics, p.115-127, Jan. 1998. 
+
+24. JUNNARKAR, B. Leveraging collective intellect by building organizational capabilities. Expert Systems with Applications, v. 13, n. 1, p. 29-40, July 1997. 
+
+25. TEECE, D. J. Capturing value from knowledge assets: the new economy, markets for know-how, and intangible assets. California Management Review, v. 40, n. 3, p. 55-79, Spring 1998. 
+
+26. HARGADON, A. B. Firms as knowledge brokers: lessons in pursuing continuous innovation. California Management Review, v. 40, n. 3, p. 209-227, Spring 1998. 
+
+27. GOMES, E.; BARROSO, A.C. Tentando entender a gestão do conhecimento. Revista de Administração Pública, v. 33, n. 2, p. 147-170, mar./abr. 1999. 
+

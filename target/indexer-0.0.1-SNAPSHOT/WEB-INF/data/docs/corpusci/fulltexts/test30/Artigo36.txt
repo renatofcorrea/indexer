@@ -1,0 +1,154 @@
+A Lei de Lotka na bibliometria brasileira
+
+
+Resumo
+
+Usando os dados reportados em artigos publicados em revistas brasileiras e trabalhos apresentados em congressos nacionais, replicaram-se as aplicações da Lei de Lotka à literatura brasileira em 10 campos diferentes. Utilizou-se o modelo do poder inverso pelos métodos do mínimo quadrado e probabilidade máxima. Das 10 literaturas nacionais analisadas, somente a literatura de medicina, siderurgia, jaca e biblioteconomia ajustaram-se ao modelo do poder inverso generalizado pelo método dos mínimos quadrados. No entanto, só duas literaturas (veterinária e cartas do Arquivo Privado de Getúlio Vargas) não se ajustaram ao modelo quando se usou o método da máxima probabilidade. Para ambas literaturas, tentaram-se modelos diferentes.
+
+A literatura de veterinária ajustou-se à distribuição binomial negativa, e as cartas do Arquivo Privado de Getúlio Vargas ajustaram-se melhor à distribuição Gauss-Poisson Inversa Generalizada.
+
+Palavras-chave
+
+Bibliometria; Lei de Lotka; Produtividade de autores; Brasil.
+
+
+PROBLEMA DA PESQUISA
+
+Para estabelecer a parte com que homens de diferentes qualidades contribuem ao progresso da ciência, Lotka (1926) estabeleceu os fundamentos da lei do quadrado inverso, afirmando que o número de autores que fazem n contribuições em um determinado campo científico é aproximadamente 1/n2 daqueles que fazem uma só contribuição e que a proporção daqueles que fazem uma única contribuição é de mais ou menos 60%. Desde 1926, época em que Lotka estabeleceu esta lei, muitos estudos têm sido conduzidos para investigar a produtividade dos autores em distintas disciplinas. Até dezembro de 2000, mais de 200 trabalhos, entre artigos, monografias, capítulos de livros, comunicações a congressos e literatura gris (cinzenta), tinham sido produzidos tentando criticar, replicar e/ou reformular esta Lei bibliométrica (Urbizagástegui & Lane, 2000)*. Esses autores elaboraram uma compreensiva bibliografia internacional procurando referências em bases de dados bibliográficas como ISA, Lisa, Library Literature, Current Contents, ERIC, PsycInfo, Compendex, Agrícola, Biosis, Inspec, Hapi, Dialog, Pascal, Uncover, Sociological Abstracts, Magazines & Journals (MAGS), bem como as bases de dados bibliográficas do Cindoc (Espanha), Infobila (México) e Lici do Ibict (Brasil). Não obstante, apesar das numerosas pesquisas realizadas sobre este assunto, os resultados parecem ser contraditórios, conflitivos e inconclusivos, além de não proporcionarem uma clara validade desta lei. Oppenheimer (1986), por exemplo, afirma que "deve se enfatizar que a Lei de Lotka têm sido testada em muitas coleções de dados, porém o ajuste nem sempre tem sido bom". Também Nicholls (1989, p.383) reclama que "os resultados desses estudos são incomparáveis devido às diferenças substanciais na forma da medição, parâmetros de estimação, formas de testagem e, ainda, a interpretação do modelo".
+
+Juntamente com essas críticas, têm aparecido alguns desacordos relacionados com as três possíveis formas de realizar a contagem na coleta dos dados relativos à autoria. A contagem direta, quando somente os autores "seniores" ou principais (os autores nomeados em primeiro lugar) são creditados com a contribuição e os autores secundários (colaboradores) são ignorados; a contagem completa, quando cada autor (principal e/o secundário) é creditado com uma contribuição; e a contagem ajustada, quando cada autor (principal e/o secundário) é creditado com uma fração ou uma porção da contribuição total, isto é, se houver cinco autores de um único artigo, cada um seria creditado com um quinto da contribuição. Não obstante, alguns autores informam que a contagem direta e a contagem ajustada não produzem diferenças essenciais e que "os dois meios de contagem produzem a mesma coisa e que por isso não seria necessário considerar a contagem ajustada e que deveria se prestar maior atenção à contagem direta" (Nath & Jackson, 1991, p.207). Ainda mais, Potter (1981), em uma extensa revisão da literatura sobre a Lei de Lotka, afirma que "quando o período da cobertura é de 10 anos ou mais e a comunidade de autores é definida amplamente, a produtividade dos autores aproxima-se à distribuição de freqüências que observou Lotka e que é conhecida como a Lei de Lotka". Também Pao (1985) salienta o fato de que "não existe um método uniforme para a coleção e organização dos dados" para testar a Lei de Lotka, bem como que "muitos pesquisadores simplesmente deram dois como o valor de n sem estimar o valor dos dados observados". Esta preferência é atribuída ao fato de que os procedimentos de cálculo realizados desta maneira são muito simples e fáceis de se realizarem. A mesma autora afirma também que "muitos pesquisadores evitaram fazer um teste apropriado do grau de ajustamento dos dados observados" em face dos dados esperados; como conseqüência, Vlachy (1974) teria encontrado sérias discrepâncias entre os dados empíricos e o ajuste da lei do quadrado inverso. As variações dos resultados encontrados parecem ser conseqüência de vários fatores, entre eles pode-se citar:
+
+a) a inclusão de co-autores pode produzir um valor do expoente n diferente de um que exclui os colaboradores, isto é, daquele que só inclui autores principais.
+
+b) o número de pares observados incluídos no cálculo do valor de n (calculado pelo método dos mínimos quadrados) pode produzir um valor do expoente n também diferente. Sugere-se que a queda da reta de regressão seja calculada sem a inclusão dos grandes produtores, isto é, sem os autores mais prolíficos.
+
+c) a estimação do parâmetro c pode variar segundo a fórmula utilizada para calculá-la.
+
+d) em muitos trabalhos, não se usou um teste estatístico do grau de ajustamento dos dados que assegurasse que a distribuição dos dados observados seja significativamente diferente da distribuição teórica esperada.
+
+e) variações no período coberto pela literatura em estudo parecem produzir também resultados diferentes.
+
+O Brasil não escapou à influência nem a estas interpretações da Lei de Lotka, visto que, desde a introdução da bibliometria no país, uma quantidade significativa de trabalhos têm sido produzidos lidando com esta lei da bibliometria (Urbizagástegui, 1984). Devido a que os fatores limitantes apontados anteriormente têm estado presentes nas aplicações brasileiras da Lei de Lotka, achou-se pertinente replicar a aplicação do modelo, mas usando os dados reportados na revisão da literatura. Objetiva-se, com isto, fazer uma análise comparativa com o modelo proposto por Pao (1982, 1985), que recomendou o método dos mínimos quadrados para estimar a, e por Nicholls (1989), que aconselhou usar-se o modelo da probabilidade máxima. Finalmente, verificar-se-á se esta replicação produz resultados significativamente diferentes nas diversas áreas aqui estudadas.
+
+
+
+REVISÃO DA LITERATURA
+
+Braga et alii (1975, p. 251), analisando a Bibliografia Brasileira de Direito de 1969 até 1972, encontraram que 953 autores tinham produzido 2.004 artigos. Concluíram seu trabalho afirmando que "a distribuição segue, de maneira bem aproximada, a Lei de Lotka; os maiores desvios constatados foram referentes aos números de autores com 10 e 9 artigos, idealmente esses números deveriam ser 6 e 7". Oliveira & Caldeira (1976) analisaram a bibliografia brasileira de medicina de 1971 a 1972 e encontraram 5.678 cientistas que conjuntamente publicaram 3.715 artigos em 256 periódicos nacionais. Os autores nada concluíram com respeito ao ajuste da Lei de Lotka à literatura analisada, porém Oliveira (1984) os cita como negando o ajuste desta literatura à Lei de Lotka**. Os autores encontraram também que 78.64% dos cientistas estudados contribuíram com um só artigo e que somente 25 cientistas contribuíram com mais de 10 artigos à literatura.
+
+Sá (1976, p.50) examinou a literatura de microbiologia, imunologia e parasitologia publicada em 229 periódicos brasileiros no ano 1971. Foram encontrados 1.302 cientistas que conjuntamente publicaram 1.977 artigos sobre o assunto; 72% destes cientistas publicaram apenas um artigo. A autora afirmou que esta literatura "sem dúvida vem a confirmar a Lei [de Lotka], apesar de aplicada a um período consideravelmente menor que o usual para este tipo de estudo". Bomeny (1978, p.39) analisou o arquivo privado de Getúlio Vargas, no período de 1930 a 1939, verificando que nesse período 356 pessoas escreveram ao ex-presidente, produzindo um total de 2.213 cartas. Concluiu que "houve um desvio no resultado, havendo uma faixa em que o valor real supera, em muito, o valor estimado", portanto a Lei de Lotka não se ajustaria às cartas deste arquivo; no entanto Oliveira (1984, p. 210) faz uma leitura distinta deste mesmo trabalho e, citando um parágrafo introdutório da análise do elitismo, afirma a autora como que "o resultado da análise provou o princípio da Lei" [de Lotka], quando, na realidade, aqui a autora refere-se à Lei do Elitismo de Price, afirmando que "que 1/n2.7 se ajusta melhor a este campo". Gusmão (1978, p.271) analisou a literatura brasileira de siderurgia, de 1960 até 1972. No período estudado, a autora encontrou 726 cientistas que conjuntamente publicaram 862 artigos, dos quais 66.8% produziram apenas um artigo. Porém, como "a média de artigos por autor foi de aproximadamente 1,2, não concordando com a Lei de Lotka modificada por Price que prevê uma média de 3,5 artigos por autor", a autora concluiu que a Lei de Lotka não foi confirmada na sua aplicação à literatura brasileira de siderurgia.
+
+Caldeira (1979, p.442) analisou a produção dos professores da Escola de Veterinária da Universidade Federal de Minas Gerais, de 1970 a 1974. Os 67 professores em exercício no período estudado produziram conjuntamente 787 trabalhos na forma de teses, relatórios de pesquisas, livros, capítulos de livros, apostilas, artigos de periódicos, resumos, comunicações apresentados em congressos e literatura gris. A produtividade evidenciou uma média de 12 trabalhos por professor. Para o estudo da Lei de Lotka, tomou somente 395 artigos produzidos por 57 professores, concluindo que "como o universo analisado e o período de tempo não se ajustam às condições descritas por Lotka, o resultado também não segue a lei descrita pelo autor". Andrade et alii (1982, p. 74) realizaram um levantamento da literatura produzida pelos professores da Faculdade de Saúde Pública da Universidade de São Paulo no período de 1971 a 1976. Este levantamento incluiu a produção de livros, capítulos de livros, artigos, dissertações e teses, bem como comunicações em congressos, relatórios de pesquisas e até literatura gris. Foram encontrados 402 professores principais e colaboradores que conjuntamente produziram 1.200 trabalhos, dos quais 62.4% produziram apenas um trabalho. As autoras concluíram que "este resultado concorda com os achados de Lotka", porém não foi possível replicar seu estudo em função de o relatório publicado não incluir nenhuma tabela completa da distribuição da produtividade dos professores. Oliveira (1983, p. 127) aplicou a Lei de Lotka à literatura de jaca. Para isto, elaborou uma bibliografia sobre o assunto usando quatro serviços de indexação: Abstracts on Tropical Agriculture, Bibliography of Agriculture (Agritrop), Bibliografia Brasileira de Ciências Agrícolas, e Agrinter, cobrindo o período de 1950 a 1981. A bibliografia de jaca estava composta de 65 autores que conjuntamente produziram 90 artigos com 80% deles publicando somente um artigo, indicando que "a Lei de Lotka não se aplica a literatura de jaca". Encontrou também que o expoente x foi igual a 3.02, portanto "a fórmula que se ajusta à literatura sobre jaca é 1/n3.02, mais próxima ao determinado por Price que a formulação original de Lotka".
+
+Foresti & Martins (1987, p. 69) analisaram a produção dos bibliotecários e cientistas da informação que publicaram artigos em quatro periódicos brasileiros de biblioteconomia no período de 1980 a 1985. Encontraram 394 bibliotecários e cientistas da informação que conjuntamente produziram 559 artigos. Porém, as autoras omitiram periódicos importantes como Estudos Avançados em Biblioteconomia, Ciência da Informação, Cadernos de Biblioteconomia, Palavra Chave e a Revista de Documentación Latinoamericana, na época todas elas correntes e editadas no Brasil, que poderiam ter modificado tanto o conjunto de produtores quanto a quantidade das contribuições. Não obstante, no período estudado encontraram que 71.58% dos bibliotecários e cientistas da informação publicaram apenas um artigo, levando às autoras "a comprovação da Lei de Lotka sobre produtividade científica". Targino & Caldeira (1988) analisaram a produção científica dos docentes da Universidade Federal de Piauí de 1984 a 1985. Constataram que, no período estudado, de um total de 958 docentes existentes na universidade, apenas 95 apresentaram produção científica na forma de teses, relatórios de pesquisas, livros, capítulos de livros, apostilas, artigos de periódicos, resumos, comunicações apresentados em congressos e literatura gris. Estes 95 professores produziram conjuntamente 174 trabalhos, sendo que 44 professores produziram um único trabalho. Explicitamente, nada concluíram em relação ao ajuste desta literatura produzida à Lei de Lotka, apesar de incluírem tabelas específicas da distribuição da produtividade, fazerem uma citação em cotações e citar Alfred J. Lotka na bibliografia, porém somente parecem sugerir um ajuste desta produção à Lei de Lotka. Amaral (1996) analisou a literatura brasileira de marketing produzida entre 1972 e 1994. A literatura levantada incluiu 97 itens na forma de livros, capítulos de livros, teses e dissertações, monografias e artigos de periódicos, produzidos por 45 autores "dos quais um era autor corporativo e sete autorias eram em parceria". A autora conclui afirmando que "ficou comprovado o princípio da Lei de Lotka" (p. 7).
+
+Como se pode observar na tabela 1, a literatura revisada reporta resultados contraditórios que vão desde a não-conformidade dos dados à Lei a desvios consideravelmente altos, dados que se ajustam mais claramente à Lei de Price que à Lei de Lotka, e até um adequado ajuste à Lei de Lotka. Foram estes resultados contraditórios os que impulsaram a curiosidade por replicar os trabalhos reportados e analisá-los com modelos estatísticos diferentes.
+
+
+
+
+
+MATERIAL E MÉTODO
+
+Utilizando os dados reportados nas publicações brasileiras descritas na revisão da literatura e resumidas na tabela 1, replicaram-se as aplicações da Lei de Lotka. A única exceção foi o trabalho de Andrade et alii (1982) no campo da saúde pública, que infelizmente não incluía os dados completos da produtividade dos autores, não permitindo a análise dos dados. Para calcular o valor de n no sesgo da linha de regressão, utilizou-se o método dos mínimos quadrados e, para calcular C, usou-se a equação sugerida por Pao (1982, 1985).
+
+Conforme as pesquisas anteriores realizadas por Rousseau (1990), primeiro será considerado o modelo do poder inverso generalizado, seguindo-se a equação formulada por Bookstein (1977)
+
+
+
+onde a e C são constantes a serem calculados dos dados em extenso e sem o corte dos maiores produtores. Para avaliar o ajuste do modelo, usou-se o teste Kolmogorov-Smirnov.
+
+Depois, usar-se-á também o método da máxima probabilidade sugerida por Nicholls (1989) e Rousseau (1993), que proveram tabelas muito úteis para estimar a constante C com a função zeta de Riemman proporcionado por Pao (1985). Eles recomendaram também o uso do teste Kolmogorov-Smirnov para avaliar o ajuste da distribuição teórica à distribuição observada. Assim, neste artigo, seguiram-se esses procedimentos. A análise dos dados foi realizada usando o pacote estatístico SPSS padrão.
+
+
+
+RESULTADOS
+
+Quando se usa o método dos mínimos quadrados e o teste Kolmogorov-Smirnov para avaliar o ajuste da distribuição teórica à distribuição observada, somente as literaturas de medicina, siderurgia, jaca e biblioteconomia se ajustam ao modelo do poder inverso generalizado de Lotka. No modelo do quadrado inverso mostrado na tabela 1, das quatro literaturas apenas a literatura de biblioteconomia se ajustava ao modelo. As literaturas de direito, microbiologia, a produção dos professores da Universidade do Piauí e a literatura de marketing, que se ajustavam ao modelo do quadrado inverso, não se ajustam ao modelo do poder inverso generalizado de Lotka. As cartas do arquivo privado de Getúlio Vargas e a literatura produzida pelos professores da Escola de Veterinária da UFMG, que não se ajustavam ao quadrado inverso do modelo de Lotka, tampouco se ajustaram ao modelo do poder inverso generalizado. Esses resultados estão especificados na tabela 2, a seguir.
+
+
+
+
+
+A tabela 3 mostra os resultados das dez literaturas replicadas usando o método da máxima probabilidade. Observe-se como somente duas literaturas não se ajustam ao modelo. Estas literaturas corres-pondem à produção científica dos professores da Escola de Veterinária da UFMG e ao arquivo privado de Getúlio Vargas. O primeiro provavelmente porque inclui zero produtores no primeiro momento da distribuição, e o segundo porque a distribuição tem uma prolongada lista de únicos autores com elevado número de cartas difíceis de predizer. Em geral, o modelo da probabilidade máxima é mais eficiente para predizer a produtividade dos autores.
+
+
+
+
+
+Ao analisarem-se mais detalhadamente os dados da literatura de veterinária, que não se ajustara à Lei de Lotka ainda se usando o modelo de máxima probabilidade, observou-se que a varianza (30.58) era notavelmente maior à média (5.896) da distribuição. Isso é uma característica da distribuição binomial negativa que indica "superdispersão" de autores na distribuição. Outra característica da distribuição binomial negativa é também a presença de zero freqüências no primeiro momento da distribuição. Este era o caso desta literatura. Por essa razão, tentou-se um ajuste diferente usando-se a distribuição binomial negativa e o método da máxima probabilidade. O teste chi-quadrado foi usado para avaliar o ajuste dos valores observados aos valores calculados. Os resultados são mostrados na figura 1. Observe-se como os valores calculados expressam claramente as flutuações dos valores observados. Com os valores calculados de p = 5.8231, k = 1.012526 e q = 6.8231, encontrou-se que o chi-quadrado foi igual a 14.633 com nove graus de liberdade. Ao p = 0.05 nível de significância, o valor crítico foi igual a 12.5916, portanto a literatura de veterinária ajusta-se à distribuição binomial negativa.
+
+
+
+
+
+Na distribuição das cartas do arquivo privado de Getúlio Vargas, obervou-se que o primeiro momento estava formado de um elevado número de cartas com uma relação de 4 a 1 em relação ao segundo momento. Também esta distribuição possui uma longa cauda de valores com uma única carta, significando que a distribuição observada era do tipo J invertida, e, nesse tipo de distribuição, a proporção de singletones e a média da amostra produzem cálculos eficientes. Por essa razão, testou-se a distribuição Gauss-Poisson inversa generalizada como especificada por Sichel (1982, 1986). Como o teste Kolmogorov-Smirnov está baseado na suposição de que a distribuição é contínua, e na realidade esta distribuição seria discreta, usou-se o teste chi-quadrado. Para esses efeitos, a cauda da distribuição foi agrupada de tal maneira que nenhuma freqüência fosse menor que cinco. Os resultados são mostrados na figura 2. Observe-se como os valores calculados expressam claramente as flutuações dos valores observados. Com os valores calculados de c = 6.2163, a = 0, g = 0.5058, q = 0.99267 e f(1) = 0.5478, encontrou-se que o chi-quadrado foi igual a 32.43 com 13 graus de liberdade. O valor crítico foi igual a 26.296 (p = 0.05 nível de significância), portanto esta literatura se ajusta à distribuição Gauss-Poisson inversa generalizada.
+
+
+
+
+
+CONCLUSÃO
+
+A distribuição do poder inverso generalizado pelo método dos mínimos quadrados mostrou um pobre ajuste ao modelo de Lotka. Dos 10 trabalhos replicados, o modelo só foi válido para quatro literaturas (medicina, siderurgia, jaca e biblioteconomia). Na maioria das replicações, o valor do desvio máximo Dmax foi maior que o valor crítico dos dados, rejeitando assim a hipótese alternativa.
+
+O estimador da máxima probabilidade proporcionou o melhor e mais consistente ajuste do modelo de Lotka. Possui suficiência qualitativa, é mais eficiente, e mostra menores variações que os modelos do quadrado inverso e do poder inverso generalizado. Proporcionou também um ajuste adequado para a maioria das distribuições empíricas replicadas neste trabalho. Não é surpreendente verificar-se que os trabalhos anteriores tenham produzido pequenos ajustes ao modelo de Lotka, já que a priori tomaram b como sendo igual a 2 e não usaram nenhum teste de ajuste. Isso explica as diferenças substantivas encontradas na replicação desses trabalhos.
+
+Para os dois únicos casos de discrepâncias verificadas na análise da literatura, encontrou-se que a literatura de veterinária se ajusta muito melhor ao modelo da distribuição binomial negativa do que ao poder inverso generalizado. As cartas do Arquivo Privado de Getúlio Vargas ajustam-se melhor à distribuição Gauss-Poisson Inversa Generalizada.
+
+
+
+Artigo aceito para publicação em 06-11-2000
+
+
+
+REFERÊNCIAS
+
+AMARAL, Sueli Angélica do. Literatura biblioteconômica brasileira de marketing: produção até 1994. Revista de Biblioteconomia de Brasília, Brasília, v. 20, n. 1, p. 1-14, jan./jun. 1996. 
+
+ANDRADE, Maria Teresinha Dias de; NORONHA, Daisy Pires, CAMARGO, Leda C. P. de Campos. Análise da produção bibliográfico científica numa instituição de ensino e pesquisa em saúde pública. Revista Brasileira de Biblioteconomia e Documentação, v.15, n.1/2, p. 62-79, jan./jun. 1982. 
+
+BOOKSTEIN, Abraham. Patterns of scientific productivity and social chance: a discussion of Lotka's law and bibliometric symmetry. Journal of the American Society for Information Science, v. 28, n. 4, p. 206-210, July 1977. 
+
+BOMENY, Regina Helena Diniz. Estudo bibliométrico aplicado ao arquivo privado de Getúlio Vargas. Ciência da Informação, Rio de Janeiro, v. 7, n. 1, p. 37-42, 1978. 
+
+BRAGA, Gilda Maria; FIGUEIREDO, Laura Maia de; BRAGA, Helena Medeiros Pereira. Produtividade de autores, periódicos e termos da Bibliografia Brasileira de Direito. In: REUNIÃO BRASILEIRA DE CIÊNCIA DA INFORMAÇÃO, 1. 1975, Rio de Janeiro. Anais... Rio de Janeiro : IBICT, p. 247-258, 1978. 
+
+CALDEIRA, Paulo da Terra. Produção cientifica dos professores da Escola de Veterinária da UFMG, 1970-1974. In:: CONGRESSO BRASILEIRO DE BIBLIOTECONOMIA E DOCUMENTAÇÃO, 10. 1979, Curitiba. Anais... Curitiba : [s. n.], 1979. v. 2, p. 434-439. 
+
+FORESTI, Noris Almeida Betónico; MARTINS, Maria Sueli Machado. Revistas brasileiras de biblioteconomia, documentação e ciência da informação: produtividade de autores no período de 1980 a 1985. Revista da Escola de Biblioteconomia da UFMG, Belo Horizonte, v.16, n.1, p. 54-71, mar. 1987. 
+
+GUSMAO, Heloisa Rios. Analise da literatura brasileira de siderurgia. Ciência da Informação, Rio de Janeiro, v. 7, n. 1, p. 25-35, 1978. 
+
+LOTKA, Alfred J. The frequency distribution of scientific productivity. Journal of the Washington Academy of Sciences, v. 16, n. 12, p. 317-323, June 1926. 
+
+NATH, Ravinder , JACKSON, Wade M. Productivity of management information system researchers: Does Lotka's law apply?. Information Processing & Management, v. 27, n. 2/3, p. 203-209. 1991. 
+
+NICHOLLS, Paul Travis. Bibliometric modeling process and the empirical validity of Lotka's Law. Journal of the American Society for Information Science, v. 40, n. 6, p. 379-385, 1989. 
+
+OLIVEIRA, Margarida Pinto & CALDEIRA, Paulo da Terra. Análise bibliométrica da literatura médica brasileira. Revista da Escola de Biblioteconomia da UFMG, Belo Horizonte, v. 5, n. 1, p. 7-26, mar. 1976. 
+
+OLIVEIRA, Silas Marques de. Aplicação da Lei de produtividade de autores de Lotka a literatura de Jaca. Revista de Biblioteconomia de Brasília, Brasília, v. 11, n. 1, p. 125-130, jan./jun. 1983. 
+
+OPPENHEIMER, C. The use of online database in bibliometric studies. In: INTERNATIONAL ON-LINE INFORMATION MEETING, 9, 1986, Oxford. Oxford : [s. n.], 1986, p. 355-364. 
+
+PAO, Miranda Lee. Lotka's law : a testing procedure. Information Processing & Management. v. 21, n. 4, p. 305-320, 1985. 
+
+__________. Lotka's test. Collection management, v. 4, n. 1-2, p. 111-124, Spring/Summer 1982. 
+
+POTTER, W. G. Lotka's Law revisited. Library Trends, v. 31, p. 21-39, 1981. 
+
+ROUSSEAU, Ronald. A table for estimating the exponent in Lotka's law, Journal of Documentation, v. 49, n. 4, p. 409-412, Dec. 1993. 
+
+SÁ, Elisabeth Schneider de. Participação dos pesquisadores de microbiologia, imunologia e parasitologia na literatura cientifica internacional. Ciência da Informação, Rio de Janeiro, v. 5, n. 1/2, p. 43-69, 1976. 
+
+SICHEL, H. S. The GIGP distribution model with applications to physics literature. Czechoslovak Journal of Physics, v. B36, n. 1, p. 133-137, 1986. 
+
+__________. Repeat-buying and the generalized inverse Gaussian-Poisson distribution. Applied Statistics, v. 31, n. 3, p. 193-204, 1982. 
+
+TARGINO, Maria das Graças, CALDEIRA, Paulo da Terra. Analise da produção cientifica em uma instituição de ensino superior : o caso da Universidade Federal do Piauí. Ciência da Informação, Brasília. v. 17, n. 1, p.15-25, jan./jun. 1988. 
+
+URBIZAGASTEGUI ALVARADO, Ruben. A bibliometria no Brasil. Ciência da Informação, Brasília, v. 13, n. 2, p. 91-105, jul. 1984. 
+
+VLACHY, Jan. Distribution patterns in creative communities. In: WORLD CONGRESS OF SOCIOLOGY, 8., 1974, Toronto. Toronto: [S. n.], 1974. 
+

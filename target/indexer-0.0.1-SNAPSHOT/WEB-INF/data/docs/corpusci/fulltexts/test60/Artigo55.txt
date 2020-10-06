@@ -1,0 +1,246 @@
+Profissional da informação: perfil de habilidades demandadas pelo mercado de trabalho
+
+
+RESUMO
+
+Doze empresas de consultoria em recrutamento e seleção de recursos humanos foram estudadas para obter informações acerca da demanda atual do mercado de trabalho. Foram levantadas e analisadas as literaturas sobre o mercado de trabalho, as qualificações profissionais requeridas pelo mercado e as informações obtidas em depoimentos de empregadores.
+
+O estudo trouxe quatro conclusões principais: (1) os profissionais devem desenvolver continuamente suas habilidades técnicas típicas de ciência da informação, bem como suas atitudes comportamentais; (2) as potencialidades desses profissionais nem sempre são reconhecidas pelo mercado de trabalho; (3) como conseqüência, não é comum encontrar profissionais da informação ocupando posições superiores como analistas ou gerentes; (4) as causas principais das deficiências são tanto a falta de desenvolvimento dessas habilidades durante o período de formação, quanto a falta de reconhecimento do perfil dos profissionais da informação pelo mercado e da auto-imagem por eles mesmos.
+
+Palavras-chave: Profissional da informação; Profissional da informação – habilidades; Perfil e atuação profissional; Mercado de trabalho.
+
+
+INTRODUÇÃO
+
+Esta pesquisa propôs-se a refletir sobre a capacitação do profissional da informação, o seu perfil e sua atuação diante do atual contexto de mercado. Para isso, levou-se em conta o relato das empresas de recursos humanos que o recrutam para trabalhar com sistemas de informações para gestão do conhecimento nas empresas. Buscou-se, assim, caracterizar as demandas e habilidades requisitadas para a efetiva atuação desse profissional.
+
+Nas organizações, em geral, os sistemas de gestão de informação têm por finalidade fornecer informações relevantes para os tomadores de decisão, e, por isso, sua principal função é a de coletar, processar e disseminar informação, isto é, filtrar a informação.
+
+Por outro lado, as organizações que dispõem de informações relevantes ainda se sentem inseguras quanto ao processo de tomada de decisão, por causa do excesso de informação, da oferta constante das novas tecnologias presentes no seu dia-a-dia e da obsessão de captar informações.
+
+Em face desse quadro, grandes organizações, de forma generalizada, estão recorrendo a empresas de recrutamento de mão-de-obra para se aconselharem e localizar, no mercado, profissionais de informação aptos a gerenciar os fluxos e estoques, de forma a eliminar os excessos de informação.
+
+Ao que tudo indica, existe demanda no mercado por profissionais da informação, mas há falta de oportunidade para os profissionais de informação vindos da área da ciência da informação, bem como de uma formação acadêmica em que estes possam se habilitar para o desenvolvimento, a implantação e a operação de dispositivos para filtrar, analisar, sintetizar e disseminar essa avalanche de informações.
+
+Vivendo-se momentos de grandes transformações no mundo do trabalho, tornando-se difícil prever como as profissões e o espaço de trabalho do profissional da informação vão evoluir, utiliza-se, neste trabalho, o termo profissional da informação, e não bibliotecário.
+
+Segundo estudos sobre o perfil do profissional da informação no mercado de trabalho, evidencia-se que os bibliotecários fazem parte de um grupo cada vez mais diversificado de profissionais que lidam com informação, tais como arquivistas, documentalistas, gerentes de bases de dados, consultores de informação, profissionais da comunicação, analista de informação e assim por diante. Por outro lado, o trato com a informação na sociedade contemporânea requer a atuação de profissionais com grande variedade de competências, podendo-se dizer que "comunicação, informática, ciência da informação e gestão da informação" são áreas que caminham juntas neste atual momento (Piggot ,1996).
+
+Por fim, é consensual que o uso da informação estratégica, entendida como "a informação que contém elementos susceptíveis de contribuir para a definição, necessidade de mudanças de rumo ou reformulação da estratégia da empresa"*, seja um recurso essencial para o processo de gestão da competitividade e do conhecimento nas organizações.
+
+Estas, portanto, são as grandes motivações que nortearam o desenvolvimento desta pesquisa.
+
+Assim, com este trabalho, analisaram-se as seguintes questões: que tipo de profissional o mercado está procurando? O profissional da informação da área da ciência da informação está sendo absorvido pelo mercado? Por quê? Espera-se que respostas a essas questões possam ajudar, sobremaneira, na inserção mais efetiva do profissional da informação no mercado de trabalho, sendo essa também uma curiosidade da autora enquanto profissional da área, uma vez que, com a globalização, as oportunidades estão crescendo, abrindo novas perspectivas.
+
+Dessa forma, os objetivos – como identificar e analisar as habilidades e competências exigidas do profissional da informação pelo mercado, mediante pesquisa de campo com empresas de consultorias e/ou de recrutamento e seleção de recursos humanos – foram definidos para a presente investigação.
+
+
+
+MATÉRIA-PRIMA DO PROFISSIONAL DA INFORMAÇÃO
+
+No atual ambiente de mudanças, informação é vital. Mas a experiência mostra que não é só de quantidade e de abrangência de informação que vivem as organizações. Muito mais importante é a qualidade da informação. Mesmo sem entrar nos aspectos da tecnologia da informação, pode-se perceber que não se trata aqui apenas de uma questão de "força bruta", isto é, de poder de processamento e sofisticação de software e hardware. Trata-se de uma questão de "inteligência", ou seja, da habilidade para transformar a imensa massa de dados operacionais que correm nas veias da empresa diariamente em informações consistentes que agreguem valor ao negócio.
+
+A informação agrega valor quando permite à empresa perceber oportunidades e ameaças à sua operação, detectando tendências ou problemas. E ainda, talvez na sua função mais nobre, a informação agrega valor ao negócio quando da sua análise chega-se a novas maneiras de fazer negócio, a novos serviços e novos produtos.
+
+Há muita discussão hoje sobre as atribuições e responsabilidades relacionadas com os dados, as informações e o conhecimento na empresa, o que justifica ter como objeto de estudo o profissional da informação voltado para a prática da gestão do conhecimento.
+
+Na era da informação, os ativos se virtualizam, perdem sua substância física, ganham conotações abstratas. A Internet, tomando-se apenas um exemplo popular, exprime a virtualização do texto (pelo hipertexto) e da economia (e-commerce, e-business).
+
+O conhecimento, a habilidade para aprender coletivamente, as informações usadas no processo de tomada de decisão, o talento dos colaboradores, a rede de contatos, enfim toda uma nova categoria de "ativos" passa a ser mais importante na avaliação de uma empresa.
+
+Nesse contexto, o profissional da informação, segundo Teixeira Filho (1998, p.1), "é o protótipo hoje do trabalhador do conhecimento de amanhã". Algumas pessoas têm dificuldade de entender essa mudança, entre outras coisas, porque não há muita analogia com o processo industrial tradicional. Em uma empresa de serviços cujo principal ativo seja o conhecimento coletivo sobre os clientes, os processos de negócio e a concorrência, as informações são a matéria-prima do trabalho de cada indivíduo na organização.
+
+Tendo isso em mente, quem é o profissional da informação hoje e no futuro? Evidências mostram que pode ser o analista de negócios, que, buscando soluções de tecnologia capazes de alavancar a competitividade dos processos empresariais, traz informações do mundo exterior sobre melhores práticas, tecnologias emergentes.
+
+Segundo Teixeira Filho (1998, p.2), pode ser ainda o responsável pelo acervo de documentação da empresa, abrangendo textos, artigos, livros, periódicos, manuais, plantas, especificações técnicas, estruturando e mantendo a memória organizacional. Ou até mesmo o profissional de marketing, preocupado com a pesquisa, captação, seleção, qualificação, análise e comunicação das informações sobre o mercado, o desempenho da empresa e da concorrência. E também não se pode esquecer o profissional de recursos humanos, voltado para a formação e sustentação de comunidades de práticas dentro da empresa, cujo objetivo é o compartilhamento do conhecimento.
+
+Com esse relato, mostra-se que a interdisciplinaridade toma conta dessa área e que o profissional da área da ciência da informação tem espaço nesse mercado.
+
+Assim, com este estudo, buscou-se mostrar a situação por que passa o profissional da informação neste determinado momento, bem como o motivo por que não exerce cargos de gerência da informação e/ou do conhecimento nas organizações, e, assim, determinar as exigências que o mercado faz ao contratá-lo, trazendo, dessa forma, subsídios para a colocação desse profissional no mercado de trabalho emergente.
+
+
+
+GESTÃO DA INFORMAÇÃO E DO CONHECIMENTO
+
+O processo de gestão da informação, em uma organização, deve passar por melhorias contínuas e aperfeiçoamentos, e Davenport (1998, p.199) sugere o uso das abordagens de qualidade total ou mesmo as abordagens ecológicas – ou seja, abordagens mais voltadas para as pessoas – como forma de perseguir o aperfeiçoamento constante.
+
+Como forma de aprimoramento e refinamento do processo de gestão da informação já se destaca a gestão do conhecimento, que Wah (2000, p.51) define como sendo "uma ferramenta gerencial para administrar o conhecimento e a informação e agregar-lhe valor ao filtrá-la, sintetizá-la e resumi-la, permitindo aos utilizadores – trabalhadores do conhecimento/ tomadores de decisão – conseguir a informação necessária para passar à ação". Grandes empresas vêm utilizando a gestão do conhecimento para facilitar o fluxo de informação nos seus diversos setores.
+
+Constata-se, de acordo com o autor, que muitas empresas ainda não possuem habilidades para organizar e capitalizar suas informações. Assim sendo, o papel da gestão do conhecimento pode ser, justamente, uma estratégia empresarial que tem como objetivo explorar os recursos já existentes na empresa, nos quais pessoas encontram e empregam as melhores práticas, e, como já mencionado, transformam conhecimentos tácitos – que se referem à experiência, poder de inovação e habilidades pessoais – em explícitos – que são ligados aos procedimentos e ferramentas utilizadas, como as bases de dados, criando um ambiente de aprendizagem contínua.
+
+
+
+PROFISSIONAIS DA INFORMAÇÃO E O MERCADO DE TRABALHO
+
+Com tal análise referente ao mercado de trabalho dos profissionais da informação da área da ciência da informação, identificou-se que, desde 1969, vem se estudando este assunto, sendo o marco inicial a pesquisa dirigida por Wasseman & Bundy, nos Estados Unidos.
+
+Outro marco importante é um dos últimos estudos internacionais realizado pela Federação Internacional de Informação de Documentação (FID) de 1997. Neste trabalho, foram desenvolvidos estudos fundamentais para a definição de critérios para a identificação dos mercados emergentes. É bom salientar aqui que, apesar de esta análise ter como objetivo o enfoque no mercado brasileiro para o profissional da informação, é necessário ressaltar que os estudos internacionais também são importantes, mesmo porque correspondem a 80% da literatura sobre o assunto.
+
+Estudos sobre mercado de trabalho dos profissionais da informação são abundantes, mas chama-se a atenção para a constância na realização destes estudos, visto que a era atual é de crescente mutação.
+
+Identificou-se, a partir de um estudo prévio feito por Cunha (2000, p.1), a existência do mercado de trabalho tradicional e do mercado de trabalho emergente do profissional da informação.
+
+Pode-se observar que, segundo Mostafa (1991), as mudanças do mercado emergente repercutem no mercado tradicional, e estes não devem ser tratados com "entidades separadas".
+
+Tendo em vista que as profissões da informação têm-se caracterizado pela variedade e pela multiplicidade de suas funções, parece plausível que um mesmo profissional realize, ao mesmo tempo, atividades consideradas tradicionais e atividades emergentes.
+
+É com essa visão que se pode direcionar o verdadeiro papel do profissional da informação, que, segundo Freire & Araújo (1999, p.14), é "um caminho no qual este profissional pode exercitar a responsabilidade social de ajudar a facilitar, na sociedade, a comunicação do conhecimento para aqueles que dele necessitam, sendo que essa visão transcende a estrutura organizacional e comunicacional, operada nos sistemas de informação".
+
+Nos pilares da chamada "sociedade da informação", está a tecnologia, e seu principal agente é a empresa. As empresas, principalmente as de grande porte, parecem não ter outra alternativa a não ser se tornarem baseadas em informação. Davenport (1998) destacou que as empresas baseadas em informação requerem muito mais especialistas gerais do que as tradicionais, pois, para lidar com informação relevante para os objetivos organizacionais, as pessoas necessitarão de mais conhecimento, pois o papel do conhecimento no trabalho começa a ser reconhecido.
+
+No entanto, é cada vez mais aceito que o conhecimento é crucial para o crescimento e a criação de empregos. Hoje o conhecimento exerce um papel central no processo econômico.
+
+Portanto, o domínio econômico mundial será das organizações baseadas em informação e conhecimento, e a estrutura das organizações e profissões precisa estar mudando para se adaptar a essa nova ordem.
+
+À medida que as organizações estão mudando o foco de suas competências essenciais em resposta à globalização, tem-se evidenciado que os profissionais da área de ciência da informação devam revisar o que fazem de melhor e reafirmar o compromisso com a ampliação de suas competências e o crescimento profissional, a fim de que possam agregar valor aos serviços de informação que são a eles designados e disponíveis a seus usuários.
+
+Na era da informação, os profissionais da informação são essenciais ao efetivo funcionamento das organizações do conhecimento. Ressaltando mais uma vez, estes profissionais, ao atender prontamente às necessidades de informações críticas, possibilitam que a informação atue como uma vantagem competitiva para essas organizações.
+
+
+
+MÉTODO
+
+A pesquisa de caráter qualitativo e exploratório propõe-se a caracterizar as tendências do mercado, que exige um novo perfil do profissional da informação, e a mapear as necessidades do uso da informação para a prática da gestão do conhecimento em organizações.
+
+No caso, a abordagem qualitativa constituiu nosso método de pesquisa, pois foram realizados estudos exploratórios em que demonstramos a multiplicidade de dimensões presentes no objeto pesquisado, utilizando os dados variados coletados.
+
+Para melhor redirecionar os aspectos metodológicos quanto à obtenção dos resultados, dividiu-se a pesquisa em duas etapas. A primeira foi a busca na literatura do perfil do profissional, e a segunda foi a pesquisa de campo, envolvendo as consultorias/empresas de recursos humanos ou recrutamento.
+
+Trabalhou-se, portanto, com dados oriundos da literatura sobre o objeto em estudo e com os dados coletados por meio do questionário somente como caráter comprobatório das hipóteses levantadas, já que se trata de uma pesquisa qualitativa.
+
+No primeiro momento, foram identificadas, na literatura, as habilidades requeridas pelo profissional da informação, sendo esse um dos objetivos desta pesquisa.
+
+Em seguida, foi feita uma pesquisa que analisou o perfil do profissional demandado pelo mercado. Assim sendo, para essa coleta de dados, foi utilizado, como instrumento, um questionário semi-estruturado, aplicado aos consultores, diretores ou responsáveis por empresas/consultorias de recursos humanos.
+
+Depois de coletados tais dados, estabeleceu-se a correlação entre o perfil demandado entre a literatura e o mercado, em que foram determinadas algumas habilidades para a atuação deste profissional.
+
+
+
+RESULTADOS E DISCUSSÃO
+
+Observou-se que essas empresas têm sido, de forma sistemática, demandadas pelo mercado para recrutar profissionais de informação, seguindo, da mesma maneira, o que ocorre em países do Primeiro Mundo.
+
+Chama-se a atenção para o fato de que a maioria dessas empresas está entre as multinacionais mais expressivas do mercado globalizado.
+
+Pôde-se observar que, em áreas como saúde, química e comunicação, o perfil de atuação da empresa que solicita este profissional é ligado, quase sempre, a telecomunicações, um dos setores que mais cresce hoje em dia em termos de inovações tecnológicas, demandando alto nível de automação, visto o grande campo de concorrência.
+
+Percebe-se com isso que está bem claro para as organizações que a gestão do conhecimento é instrumento de vantagem competitiva. Ou seja, a gestão do conhecimento para essas organizações é considerada diferencial de competitividade, antecipação, em que são evidenciadas as oportunidades e ameaças que interferem no crescimento da organização.
+
+Pôde ser constatado que as empresas adotam a prática de gestão do conhecimento para a obtenção de vantagens competitivas, sendo um consenso entre as empresas pesquisadas. E, para a obtenção destas vantagens, ações como acompanhar novas tendências de mercado e acompanhar as novas tecnologias fazem parte deste processo de competitividade entre as empresas.
+
+Evidenciou-se que as funções identificadas pelas empresas para a prática da gestão do conhecimento – classificar as fontes de informação, acesso, recuperação e análise da informação, desenvolver produtos e serviços de informação, unir conhecimento e experiências das pessoas dentro da organização, trabalhar com a proteção do conhecimento – são oriundas da área da ciência da informação, e tem-se a necessidade de o profissional desenvolvê-las, pois são imprescindíveis para atuação em organizações do conhecimento. Essa afirmação é consolidada por Barroso & Gomes (1999), que identificam a gestão do conhecimento como "domínio interdisciplinar", ou seja, em que se utilizam conceitos oriundos de diversas disciplinas para formar as fundamentações teóricas do assunto. E, entre as ciências que contribuem para tal tema, estão as ciências cognitivas, da informação, organizacionais e da administração.
+
+Na preferência pelo nível de formação, observou-se que a graduação é fundamental para todas as empresas, sendo que as áreas de maior contemplação foram informática, administração de empresas e engenharia. Realidade igualmente constatada na tese de Cunha (2000) sobre mercado do profissional da informação no Brasil e França. Com relação à pós-graduação (mestrado e doutorado), é dada preferência respectivamente para a área de tecnologia da informação, a área de gestão do conhecimento, e-business, administração corporativa e sistemas de informação e também MBA.
+
+
+
+HABILIDADES DEMANDADAS PELO MERCADO
+
+O maior resultado da pesquisa, que foi a identificação e análise do perfil de habilidades demandadas pelo mercado, é relatado a seguir:
+
+De acordo com Berto & Plonski (1999) e com o grau de preferência ditado pelas empresas, as habilidades e competências para se trabalhar com a prática da gestão do conhecimento estão listadas na tabela 1.
+
+
+
+
+
+Julga-se necessária uma combinação balanceada de conhecimentos técnico-profissionais e conhecimentos pessoais, pois esse profissional é o intermediário das demandas de informação de uma organização, e, assim, segundo Cronin (1982), 30% das ofertas a esse profissional exigem, além de diploma, atitudes comportamentais, como comunicação social e pessoal.
+
+Observou-se, também, que a primeira iniciativa do profissional dessa área é conhecer o ambiente de negócios da informação, na verdade, conhecer os ativos que o levam a trabalhar com a gestão do conhecimento.
+
+De acordo com essas evidências, verificou-se que o profissional da informação precisa desenvolver e ampliar sua capacidade técnica e entender de negócios, finanças, marketing e relações públicas, sendo essa uma das recomendações da pesquisa.
+
+Visto que, de modo geral, as organizações passam a exigir qualificações que agreguem valor ao diploma e que tenham aplicabilidade na situação de trabalho, pode-se com isso confirmar, de acordo com Setzer (1999), que competência exige conhecimento e habilidades pessoais.
+
+O profissional deve ser capaz de mobilizar suas qualificações para geração de conhecimento na empresa, capacidade esta que constitui "termômetro" de sua competência e de sua eficiência, na empresa e/ou no mundo do trabalho.
+
+Pode-se perceber que a base são os conhecimentos específicos sobre métodos, técnicas e ferramentas de gestão da informação e do conhecimento e que o mercado está buscando profissionais com características fundamentais que combinem a capacidade de gerenciamento com conhecimento técnico, que sejam experts na área de atuação com uma visão ampla de negócios e competência na especialidade aliada a uma cultura geral ampla. Além de tudo, devem ser confiáveis, éticos, criativos e honestos.
+
+O papel do profissional da informação, de acordo com constatações já realizadas, é o de assistir, intermediar e apoiar outras pessoas na busca de informações, por meio da gestão do conhecimento. A evolução de conceitos, tecnologia, formatos e suportes amplia, evolui e diversifica a essência desse trabalho, demandando modificações às exigências de atuação, formação e capacitação desse profissional.
+
+Pois bem, a área da ciência da informação talvez possa sanar a ansiedade do mercado, formando profissionais capazes de combinar essas características. Mas, por enquanto, são poucos os profissionais dessa área que atuam nesse novo contexto.
+
+De acordo com as formações advindas desta pesquisa, essas podem ser sugestões e recomendações para a "educação continuada" desse profissional. Segundo Valentim (1999), "a atualização contínua do profissional da informação é fundamental" e há caminhos que o profissional pode percorrer para sua devida adequação à realidade empresarial. O fato, agora, é a adequação da área da ciência da informação a essa realidade.
+
+
+
+CONCLUSÃO
+
+Hoje, pode-se dizer que, quando surge uma nova estratégia de administração, a tecnologia da informação está em geral atrelada, permitindo a sua viabilização. Um dos desafios do profissional em relação à prática da gestão do conhecimento detectada com esta pesquisa é sistematizar o uso do conhecimento, adequando-o à experiência das pessoas, gerenciando os fluxos informacionais dentro da organização, ou seja, buscando e estabelecendo formas de fazer o capital intelectual gerar lucros. Evidências indicam que a implementação dessa atuação profissional vem representando um dos grandes acertos estratégicos da tecnologia da informação e dos executivos das empresas na atualidade.
+
+Constatamos, assim, que, enquanto tal prática profissional, introduzida de forma generalizada nas organizações multinacionais instaladas no Brasil, começa a fazer parte do nosso cotidiano, há carência de estudos científicos e técnicos voltados para esse tema, o que nos obriga a construir, de forma rápida, um referencial teórico adaptado à nossa realidade.
+
+Dessa forma, esta pesquisa veio mostrar o que falta para se chegar perto da demanda real do mercado de emprego, como, por exemplo, o perfil de habilidades e as questões sobre formações com vistas ao mercado, para o efetivo manuseio dos conteúdos informacionais, desde a sua geração até a sua utilização.
+
+Assim, o mercado, sujeito desta pesquisa, na figura das empresas de recrutamento e seleção de recursos humanos, percebe o valor da informação para a tomada de decisões, reconhecendo também a necessidade de um profissional com habilidades e competências específicas para trabalhar com a informação, mas desconhece a existência da ciência da informação como ciência social aplicada, que tem como objetivo estudar as propriedades gerais da informação e analisar os processos da sua construção, da sua comunicação e do seu uso.
+
+O processo de gestão do conhecimento é uma área interdisciplinar, requerendo, para seu exercício profissionais, formações de origens diversas, justificado pelo fato de aparecer, no resultado da nossa pesquisa, a explicitação de outras áreas do conhecimento contribuindo para a eficácia da prática daquele processo.
+
+Diante desse processo interdisciplinar, o sujeito da nossa pesquisa cita diversas áreas do conhecimento como importantes para a eficácia do processo de gestão do conhecimento, não constando entre estas a ciência da informação, embora reconheça e explicite funções que são de competência dos profissionais egressos dessa área: classificação das fontes de informação; acesso, recuperação e análise da informação; desenvolvimento de produtos e serviços de informação; união de conhecimento e experiência das pessoas dentro da organização; trabalho com a proteção do conhecimento.
+
+Portanto, o mercado reconhece a necessidade e o valor da informação, a necessidade de habilidades e competências para se trabalhar com a informação, a interdisciplinaridade do processo de gestão do conhecimento, identificando as funções para desenvolver essa prática, mas não percebe que essas funções são específicas da ciência da informação.
+
+A explicação para isso é que a área da ciência da informação ainda não foi "apresentada" devidamente ao mercado, ou seja, o próprio profissional não teve formação para fazer esse papel de divulgador de sua área de atuação. Tal fato se deve à velocidade com que ocorrem as mudanças relacionadas à área, o que muitas vezes o próprio profissional não percebe, e, também, à grande dificuldade de divulgar uma profissão que possua, diante de seu conjunto, atividades abstratas, como, por exemplo, o trabalho com o conhecimento.
+
+Constatada a existência do mercado emergente para o profissional da informação e o espaço para esse profissional atuar dentro de organizações do conhecimento, observou-se também que as funções e as habilidades levantadas para se trabalhar com a gestão da informação e do conhecimento são oriundas da ciência da informação, podendo ser desenvolvidas no período de formação do profissional, o que não justifica a impossibilidade de sua atuação nessas organizações.
+
+O profissional com formação na área de ciência da informação é peça-chave para a efetividade no trabalho com o fluxo de informação na organização, só que ele parece estar à margem desse processo, com grande dificuldade para compreender que necessita de novas habilidades e nova postura para enfrentar ameaças e defender seus espaços profissionais nessa nova era.
+
+As ameaças estão claras e à vista, e é necessário transformá-las em oportunidades reais, enfatizando o diferencial competitivo desse profissional, organizador da informação e do conhecimento, pois as principais decisões estratégicas são tomadas com base nesses ativos.
+
+A interdisciplinaridade da gestão do conhecimento, a necessidade real do profissional da informação advindo da área da ciência da informação e a própria ciência da informação como ciência importante na conceituação da gestão do conhecimento são grandes incentivos de ascensão para esse profissional.
+
+Os resultados da pesquisa de campo confirmam a demanda do mercado pelo profissional da informação e a importância da ciência da informação como área que o oferece.
+
+Diante disso, tal pesquisa veio como uma forma de inovar os estudos de mercado realizados dentro dessa área do conhecimento, pois a maioria deles limita-se a analisar a opinião dos profissionais da informação, contando com poucas referências de pesquisas que analisam a opinião do empregador.
+
+A maior contribuição, diante do perfil de habilidades levantadas, foi detectar que a essência do profissional da informação, materializada na sua flexibilidade de agir, está na relação de seus conhecimentos e competências, sejam elas técnicas ou comportamentais, para a prática da gestão do conhecimento em organizações.
+
+Assim, diante das conclusões, recomendações foram traçadas, como fortalecer entidades de classe, procurar realizar trabalhos no sentido de discutir incessantemente o perfil do profissional da informação, trabalhar com o treinamento do profissional enquanto agente divulgador de sua área do conhecimento, para que a divulgação e a explicitação da sua profissão, materializadas em ações, práticas e atitudes ante a sociedade, possam assumir status de compromisso ético, assim como realizar, periodicamente, estudos de demanda de mercado, em vez de realizar a reserva deste, detectando, na prática e na realidade, as exigências e demandas de perfil de habilidades.
+
+Com relação às instituições de formação, praticar o que já se preconiza na própria Lei de Diretrizes e Bases (LDB) do Ministério da Educação, no sentido de estimular a adoção de práticas pedagógicas nas disciplinas, flexibilizando teorias e buscando exercitar e desenvolver no discente atitudes e comportamentos criativos, espírito de iniciativa, de liderança, de empreendedorismo, habilitando-o e tornando-o apto a mobilizar fundamentos teóricos e metodológicos para entender problemas que se apresentam no seu cotidiano e propor soluções apropriadas, diferentemente de prepará-lo somente para solucionar problemas específicos.
+
+Com relação ao profissional de informação, priorizar a atualização contínua, advinda das próprias entidades ou instituições formadoras; ele precisa aprender a lidar mais com processos que com técnicas, pois a questão enfatizada é mais o trabalho com o fluxo e consumo de informação do que o trabalho de estocá-la, ou seja, enfatizar o desenvolvimento das funções específicas identificadas, voltadas para a prática da gestão da informação e do conhecimento, para atuar neste mercado emergente, no qual as tendências e aspectos gerenciais (negócios, finanças, marketing e relações públicas) possam ser combinados ao desenvolvimento e ampliação dos conhecimentos técnicos da área.
+
+Por fim, recomenda-se a existência de um diálogo entre o mercado (empresas, recrutamento e seleção de recursos humanos), entidades de classe e as instituições formadoras, para que as percepções entre elas detectadas possam ser transformadas em contribuições mútuas.
+
+
+
+REFERÊNCIAS
+
+BARROSO, Antonio Carlos de Oliveira; GOMES, Elisabeth Braz Pereira. Tentando entender a gestão do conhecimento. Revista de Administração Pública, v. 33, n. 2, mar./abr. 1999. Disponível em:< http://www.tcu.gov.br/consultas/biblioteca/v33>. Acesso em: 09 nov. 2001. 
+
+BORKO, H. Information Science: what is it? American documentation, v. 19, p .3-5, Jan. 1969. 
+
+BERTO, Rosa Maria Vilhares de Souza; PLONSKI, Guilherme Ary. Gestão do conhecimentoe as novas competências dos profissionais da informação. In: WORKSHOP BRASILEIRO DE INTELIGÊNCIA COMPETITIVA E GESTÃO DO CONHECIMENTO, 1., 1999, Rio de Janeiro. Anais... Rio de Janeiro, [s. n.], 1999. 1 CD-ROM. 
+
+CRONIN, B. The education of library-information professionals: a conflict of objectives? London : ASLIB, 1982. 
+
+CUNHA, Miriam Vieira. O profissional da informação: formação e mercado de trabalho. Revisão de literatura. Ensaios APB, São Paulo, n. 82-84, 2000. 
+
+DAVENPORT, Thomas H. Ecologia da informação: porque só a tecnologia não basta para o sucesso na era da informação. São Paulo : Futura, 1998. 
+
+_______; ECCLES, Robert; PRUSAK, Laurence. Política de informação. In: KLEIN, David. A gestão estratégica do capital intelectual: recursos para a economia baseada em conhecimento. Rio de Janeiro : Qualitymark, 1998. 359p. 
+
+FID (The Hague). Special interest group on roles, careers and development of the modern information professional. State of the modern information professional: 1992-1993, an international view of the state of the information professional and the information profession in 1992-1993. The Hague, 1992. 
+
+FREIRE, Isa Maria; ARAUJO, Vânia Maria Rodrigues Hermes de. A responsabilidade social da ciência da informação. Transinformação, Campinas, v. 11, n. 1, p. 7-15, jan./abr. 1999. 
+
+MOSTAFA, S. P. Philosophy of education for information: British and Brazilian. London : SLIS, 1991. 
+
+NONAKA, I.; TAKEUCHI, H. Criação do conhecimento na empresa: como as empresas japonesas geram a dinâmica da inovação. Rio de Janeiro : Campus, 1997. 
+
+PIGGOT, Sylvia. A new paradigm of excellence in information services. Disponível em: <http://www.si.umich.edu/cristaled>. Acesso em: 18 dez. 2000. 
+
+SARACEVIC, T. The interdisciplinanary nature of information science. Ciência da Informação, Brasília, v. 24, n. 1, p. 36-41, jan./abr. 1995. 
+
+SETZER, Valdemar W. Dado, informação, conhecimento e competência. Datagramazero, n.0, dez. 1999. Disponível em: <http://www.usp.br/iea/cidade/educar/dia-a-dia-mod5ses2.html>. Acesso em: 20 nov. 2001. 
+
+TEIXEIRA FILHO, Jayme. Profissionais da informação. Insight Informal, n. 12, ago 1998. Disponível em: <http://www.insightinformal.com.br.>. Acesso em: 28 jun. 2001. 
+
+VALENTIM, Marta L. P. O profissional da informação: formação, perfil e atuação profissional. São Paulo : Polis, 2000. 135 p. (Coleção palavra-chave, 11). 
+
+WAH, L. Muito além de um modismo. HSM Management, São Paulo, n.22, p.51-64. set./out. 2000. 
+
+WASSERMAN, P.; BUNDY, M. L. A program of research into the identification of manpower requirements, the educational preparation aond the utilization of manpower in the library and information professions: final report. Washington : US Departament of Health, Education and Welfare, 1969. 
+

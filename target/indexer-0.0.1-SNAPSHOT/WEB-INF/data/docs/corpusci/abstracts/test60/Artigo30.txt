@@ -1,0 +1,3 @@
+Avaliação do acesso a periódicos eletrônicos na web pela análise do arquivo de log de acesso
+
+Este artigo apresenta uma abordagem sobre a avaliação do acesso a periódicos eletrônicos disponibilizados na World Wide Web por meio da análise do arquivo de log de acesso. O arquivo de log de acesso da revista Informação & Sociedade: Estudos é processado e apresentado como um exemplo de aplicação do uso de uma ferramenta automatizada de análise para arquivo de log de acesso. As características inerentes à análise do arquivo de log de acesso são apresentadas e discutidas.

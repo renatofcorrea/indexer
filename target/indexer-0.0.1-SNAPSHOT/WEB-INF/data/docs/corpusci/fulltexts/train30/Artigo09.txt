@@ -1,0 +1,239 @@
+Informação e Universidade: os pecados informacionais e barreiras na comunicação da informação para a tomada de decisão na universidade 
+
+
+
+Resumo: O trabalho analisa o fluxo de informação nos Campi Rebouças e Nova América da Universidade Estácio de Sá. O objetivo deste trabalho é discutir as dificuldades, ruídos, os problemas e barreiras da comunicação da informação e seus efeitos no fluxo informacional numa organização voltada para o aprendizado. Duas questões levantadas pelo poeta americano T.S.Elliot retratam o viés deste trabalho:"Quanta informação perdemos devido à comunicação? e quanto conhecimento perdemos por causa da informação?" [1] A base teórica é da Ciência da Informação, mais especificamente os conceitos de informação de Barreto, de Relevância de Saracevic, os Sistemas de Recuperação e Disseminação Seletiva de Informação de Araújo, as Barreiras de Freire. O foco da Inteligência Competitiva está em destacar a questão da informação como um dos maiores ativos de estratégias no setor e, possivelmente, a ferramenta mais importante para ajudar os gestores da universidade a tomar decisões acadêmicas e administrativas à tempo e em tempo real. O modelo escolhido foi a Mandala Tibetana de Paul Carro adaptada na Mandala da Informação Universitária.
+
+Palavras chave: Universidade; Gestão do fluxo de Informação na Universidade; Inteligência Competitiva; Barreiras na Comunicação da Informação; Pecados Informacionais
+
+
+
+Introdução
+
+"Se conheces bem a si mesmo tanto quanto ao inimigo não temas a batalha; Já se conheces a si mesmo, mas não conheces o inimigo para cada vitória terá uma derrota; agora se não conheces a si mesmo nem ao inimigo foges do campo de batalha pois não terá a mínima chance."
+
+Sun Tzu - A Arte da Guerra [2]
+
+Essas palavras, de um velho general chinês, ditas há, pelo menos, dois mil anos retrata o viés deste trabalho. Não basta ter informações sobre o mercado, o meio ambiente ou os concorrentes, sem antes conhecer a própria organização, seus pontos fortes e fracos, suas oportunidades e ameaças. Propomos nesse trabalho um olhar interno baseado na gestão estratégica do fluxo informacional e das barreiras na comunicação da informação e dos pecados informacionais para a tomada de decisão na universidade.
+
+Na era da Informação e da sociedade interativa, instantânea e interligada de hoje, a informação passa a ser o insumo básico na busca de padrões mais sustentáveis de desenvolvimento. A informação está, de fato, presente em todas as atividades humanas, assumindo um novo status e importância. De acordo com Levy [3], informação e conhecimento são doravante as principais fontes de riqueza. Na economia da informação, o sucesso é determinado pelo saber e não mais somente pelo que se possui [4]. Para o escritor israelense Benjamim Disraeli [5], como regra geral o homem mais bem sucedido na vida é aquele que dispõe das melhores informações. Três economistas acreditaram nesse argumento e acabaram ganhando o Prêmio Nobel de Economia 2001. Desde os anos 70 os economistas - Joseph Stiglitz, George Akerlof e A. Michael Spence - dedicaram seus estudos ao efeito que a informação exerce no
+
+comportamento dos mercados e dos preços. A informação para ser estratégica precisa ser coerente e útil, quer dizer, precisa ser relevante para o planejamento estratégico e, principalmente, estar disponível a tempo ou em tempo real. Acredita-se que informação é um bem perecível que tem seu tempo de vida útil determinado pelo conhecimento e pelas decisões que a própria informação pode gerar. Nesse ponto, trabalhamos com a definição de Barreto [6] (1999) que qualifica a informação como um instrumento modificador da consciência do homem e de seu grupo social. Num mercado cada dia mais competitivo, organizações e instituições públicas e privadas só irão sobreviver dependendo da habilidade de processar dados para transformá-los em informação á qual poderá gerar conhecimentos para a tomada de decisão. Por isso e graças a isso, a informação estratégica pode e deve gerar inteligência competitiva, que é segundo Ben Gilard [7]: "informação que garante ao tomador de decisão que a empresa é competitiva... A inteligência é o cão de guarda da competitividade... Inteligência competitiva ou empresarial é uma ferramenta do líder da empresa, uma competência central do administrador para monitora o ambiente para frustrar surpresas competitivas."
+
+Este trabalho parte da premissa que otimizar e customizar o fluxo de informação numa instituição de ensino superior, no caso os Campi Rebouças e Nova América da Universidade Estácio de Sá precisa ser encarado como estratégia competitiva, tendo em vista a relevância da informação nos dias de hoje. São informações do governo, da sociedade, de mercado, da concorrência, acadêmicas, administrativas, do micro e do macro ambientes... enfim, são informações variadas e produzidas de forma contínua. Prusak [8] (1994) argumenta que a concorrência entre as organizações se baseia na capacidade de adqurir, tratar, interpretar e utilizar a informação de forma eficaz. Acredita-se que a universidade é uma organização viva que aprende a cada dia; e por aprender lembramos que em chinês significa, literalmente, estudar e praticar constantemente. [9]
+
+Na reportagem de capa da edição de novembro de 2001 da Revista Exame, Peter Drucker considerado o pai da moderna ciência da administração ao ser entrevistado por nove empresários brasileiros enfatizou que para sobreviver nesse novo mundo globalizado, o empresário, de qualquer área, terá que organizar a sua informação para ser globalmente competitivo, mesmo que o seu mercado seja puramente local ou regional e aparentemente esteja totalmente protegido. E finalizou argumentando que hoje ninguém compete mais com produtos ou serviços mas a competição se dá com a informação.
+
+
+
+
+
+UNIVERSIDADE - CENÁRIOS E OBJETIVOS
+
+Agora se faz necessário situar a universidade no contexto da informação e da Inteligência Competitiva."Para a nova economia, a escola superior é o tiro de partida e não a fita de chegada", essa afirmação do prêmio Nobel de Economia, Gary Becker [10], ilustra bem a importância que o ensino superior tem nesse novo mundo super comunicativo e competitivo em que vivemos.
+
+Esse é o motivo que nos leva identificar o valor estratégico da informação numa organização que precisa aprender a cada momento - a universidade. Na realidade, o que seria mais gerencial do que utilizar a informação relevante para a tomada de decisão? E o que seria mais desejável para qualquer gestor universitário do que ter acesso à informação precisa de forma rápida, detalhada e no momento certo. A universidade tem papel de destaque na Era da Informação. Hoje, mais do que em qualquer outra época, o mercado de trabalho exige o diploma. Se isso vale para as economias mais avançadas do planeta, para a nossa, então, nem se fala. A educação superior é um requisito básico, seja para conquistar um emprego ou, até mesmo, para se manter empregado. O próprio MEC atesta que o ensino superior no Brasil está crescendo a cada ano. O resultado do Censo da Educação Superior de 2000 - divulgado recentemente, abrange um universo de 1.180 instituições de Educação Superior e 900 mantenedoras, 8.800 Cursos Superiores de Graduação além dos Cursos Seqüenciais. Os dados apurados referem-se ao número de matrículas e de concluintes, inscrições nos vestibulares, ingresso por curso e área de conhecimento, dados sobre os professores - por titulação e regime de trabalho, e sobre os funcionários técnico-administrativos, entre outros.
+
+"O Censo da Educação Superior mostra que o número de alunos matriculados no ensino superior brasileiro incorporou, em 2000, 317 mil novos alunos aos cursos de graduação, o que representa um crescimento substantivo de 13,7% em relação à matrícula total do ano anterior. É a maior taxa registrada em toda a década de 90 e o maior aumento anual da história em números absolutos de matrículas. Com isso, de 1999 a 2000, o total de estudantes universitários passou de 2.377 mil para 2.694 mil. Mantido o ritmo atual de crescimento, o sistema deverá ultrapassar, ainda em 2002, a casa de três milhões de alunos." [11]
+
+A justificativa para se ter a Universidade Estácio de Sá, a maior universidade do país em número de alunos, como objeto de estudo, é o fato da Estácio ter sido apontada pelo próprio MEC como fenômeno em termos de crescimento. Só no estado do Rio de Janeiro conta, hoje, com 35 unidades; possui mais de 100 mil alunos matriculados e 4 mil professores contratados. O objetivo central desse trabalho é avaliar o fluxo de informação dentro da universidade, do planejamento a coleta passando pela organização, análise e divulgação dentro de um sistema de recuperação e disseminação seletiva da informação para a tomada de decisão.
+
+A MANDALA DA INFORMAÇÃO UNIVERSITÁRIA
+
+Para tentar entender um pouco melhor as questões relativas aos problemas da gestão da informação numa universidade particular, propomos como modelo a utilização de um método antigo que oferece um meio gráfico para mapear a complexidade do fluxo da informação universitária. Este método que permite uma visão holística da informação na universidade é a mandala tântrica tibetana que foi usada por Paul Caro no livro a Roda da Ciência. É importante salientar que não pretendemos reproduzir a Mandala da Divulgação Científica do autor, mas identificar numa nova Mandala, da Informação Universitária, o fluxo de informação na universidade com todas as forças, barreiras, setores e inibidores desse fluxo que iremos denominar de pecados informacionais.
+
+Paul Caro (1993) [12] argumenta que uma mandala é formada por quadrados e círculos, um único diagrama que tem a vantagem de poder ser captado num só lance de olhar.[13](p.20) - Como mostra a figura 1. Essa figura geométrica explora também a simbologia do número através de uma divisão em quatro setores. Segundo Caro pode-se entender uma mandala como uma espécie de carta geográfica, de plano de cidade ou de esquema de fortaleza, onde se reconheceria um norte, um sul, um leste e um oeste. É importante ressaltar que esse "mapa espacial ou holístico" precisa ser olhado e entendido como um modelo dinâmico; uma poderosa metáfora usada para nos dar uma nova dimensão organizacional da informação. A Mandala da Informação é aberta, ou seja, poderá e deverá sofrer atualizações pois, na universidade onde as mudanças vão e vem à galope e a questão da informação não pode ser encarada de forma estanque, imutável.
+
+O centro da Mandala da Informação Universitária reflete o problema chave desta dissertação que é: recuperar a tempo e em tempo real a informação relevante para a tomada de decisão. Este é o maior desafio encontrado nos dias de hoje numa organização universitária. A filosofia da Estácio é levar o ensino superior onde quer que os alunos estejam, seja perto de suas casas ou do seu trabalho, ao menor custo possível, dessa forma tornando acessível o ensino superior. É justamente este rápido crescimento que traz sérios problemas de planejamento estratégico e, principalmente, de informação. O atual estágio em que a universidade se encontra apresenta grandes oportunidades e, também, enormes desafios. Como por exemplo, uniformizar a qualidade do ensino e disseminar informações relevantes, sejam acadêmicas ou administrativas, pelos 35 campi. Acreditamos que esta é uma questão de gestão da informação. A busca pela informação relevante, customizada, otimizada para a tomada de decisão é o nosso objetivo. É o foco, a mira, ou o centro da mandala.
+
+Propomos a divisão do corpo da mandala em quatro grandes áreas geradoras de informação numa universidade particular: Acadêmica, Administração, Comunicação e Mercado.
+
+
+
+Figura 1 - A Mandala da Informação Universitária
+
+A Comunicação é uma via de mão-dupla; é a área responsável por levar e, também, por trazer as mensagens da universidade do mercado, comunidade, governo e da sociedade de uma forma geral. Engloba várias sub áreas como a comunicação interna e externa, a divulgação e o marketing. A comunicação precisa ser trabalhada para divulgar as ações e as mensagens através de uma linha direta, um canal de comunicação entre Universidade e seus públicos internos e externos. Essa Comunicação Corporativa chega ao nosso público alvo através de um formato híbrido de comunicação que inclui as mais diversas mídias.
+
+Pela área Administrativa circundam as tecnologias de informação e comunicação, RH, operações\logística e todos os setores administrativos.
+
+A área Acadêmica é o Core Business, o negócio central, a competência primária e essencial, a própria razão de existência da universidade e abrange todos os serviços de ensino oferecidos desde cursos livres e de extensão, aos cursos superiores de graduação, o Politécnico - cursos superiores de curta duração, a On Line University, a pesquisa, os periódicos.
+
+O Mercado de Trabalho é a última grande área geradora de informação na universidade. Na realidade esse é o objetivo fim de 80% dos alunos que ingressam na Estácio [14]. Por Mercado entendemos que abrange também a concorrência, cursos in company, Programa de Treinamento Profissional, parcerias e convênios.
+
+As áreas da informação universitária são circundadas por três grandes círculos: o mais externo é o círculo do governo, do Ministério da Educação e Cultura, das políticas econômicas e de educação superior e da legislação educacional. O segundo círculo reflete as informações passadas pela sociedade como um todo ou repassadas para ela. E o último círculo é o da recuperação da informação e do aprendizado contínuo.
+
+A mandala apresenta ainda quatro barreiras ao livre fluxo da informação: Má Comunicação, Cultura Organizacional, Falta de Competência, e Dependência Tecnológica. Essas barreiras não são estáticas, fixas, na verdade são móveis e perpassam todas as áreas da mandala e podem ser encontradas separadas ou de forma simultânea.
+
+A primeira das barreiras, a da Má Comunicação. Nesse ponto é preciso registrar que não acreditamos que exista falta de comunicação e sim má comunicação. Uma recente pesquisa feita pela Reuters com 3.500 gerentes nos Estados Unidos [15] revela que a má comunicação é o segundo item que mais inibe a qualidade nas empresas. Por essa lógica a Comunicação seria um processo que tem começo, meio e não tem fim. Nas palavras da versão original de Moro na Filosofia [16]: "Mudo é aquele que fala só com palavras; cego é aquele que só vê o que quer ver e surdo é aquele que não ouve o que as palavras querem dizer".
+
+A segunda barreira é a da Cultura Organizacional. Em um mundo supercomunicativo, conhecimento estratégico leva a um comportamento estratégico que passa a fazer parte da cultura organizacional e se transforma em comportamento competitivo. Se a cultura da organização não incentivar o fluxo informacional proposto, isto é, não der acesso e não estimular o diálogo, a informação relevante não será recuperada pela organização.
+
+A terceira barreira é a Falta de Competência, a mais delicada, e requer um cuidado especial. As pessoas são a matéria-prima de uma universidade. Não há universidade sem pessoas. Se não houver comprometimento do pessoal envolvido, poucas são as chances de atingir os objetivos no gerenciamento estratégico da informação. Não há possibilidade de fluxo Informacional sem as redes interpessoais, interdepartamentais e interdisciplinares. A barreira da Falta de Competência existe também por falhas nos processos de comunicação e pode ser agravada pela cultura da organização quando deixa de valorizar o seu pessoal.
+
+A quarta e última barreira é a tecnológica. A logística da organização tem que ser pensada para deixar fluir a informação por todos os setores envolvidos. É preciso criar uma dinâmica para que as informações circulem sem que haja concentração da informação e do conhecimento. Nesse ponto ressaltamos a importância de se avaliar tanto a informação informal quanto a formal. As tecnologias de informação e de comunicação surgiram para facilitar, mas, por vezes, o que percebemos é que elas acabam dificultando o dia a dia nas organizações. Por esse ângulo, o valor da tecnologia da informação depende acima de tudo da informação e do papel desempenhado por ela nas organizações. Nosso fascínio pela tecnologia de acordo com a critica de Davenport [17](2001) nos faz esquecer o objetivo principal da informação: informar. Todos os computadores do mundo, segundo o autor, de nada servirão se os usuários não estiverem interessados na informação que esses computadores podem gerar. O argumento é que só tecnologia não basta, é preciso levar em conta, principalmente, o capital humano para fazer frente às exigências deste mundo contemporâneo super competitivo. Segundo o autor informação e conhecimento são criações humanas e nunca seremos capazes de administrá-los se não levarmos em consideração que as pessoas desempenham um papel fundamental. Não basta ter hardware ou software é preciso ter peopleware, que na Ecologia da Informação proposta por Davenport seria uma espécie de administração informacional centrada no ser humano. "O ponto essencial é que essa abordagem devolve o homem ao centro do mundo da informação, banindo a tecnologia para o seu devido lugar, a periferia".
+
+A tecnologia precisa ser encarada como uma ferramenta, um dos componentes do ambiente informacional. Nos Estados Unidos, mais de 50 por cento do capital vão para a tecnologia da informação. O gasto norte-americano em TI estimado em 3 trilhões de dólares é responsável por mais de um terço do crescimento da economia dos Estados Unidos nos últimos quatro anos. Mas a informação relevante ou seu uso não cresceu na mesma proporção.
+
+
+
+OS PECADOS INFORMACIONAIS [18]
+
+Circundando as grandes áreas da informação universitária estão os sete pecados capitais: Avareza, Gula, Inveja, Ira, Luxúria, Preguiça e Soberba. Na Mandala da Informação, os pecados capitais passam a ser pecados informacionais; todos ligados a problemas práticos apontados pela Inteligência Competitiva. A opção pelos sete pecados capitais é de facilitar a compreensão e levar a uma reflexão sobre as questões mais comuns enfrentadas no dia a dia da universidade, sejam organizacionais ou comportamentais.
+
+Não pretendemos montar um confessionário nem propor penitências, e sim assumir um "mea culpa" informacional. A metáfora que fazemos é chamar de "pecado", ações ou falhas processuais, de conduta, atitudes negativas, desejos exacerbados, excessos coletivos ou individuais, no sentido de serem barreiras ao fluxo de informação. Na realidade pretendemos fazer uma reflexão sobre certos comportamentos e atitudes que precisam ser percebidos, analisados, evitados, controlados, abandonados ou superados porque representam inibidores potenciais à tomada de decisão na Universidade.
+
+
+
+
+
+AVAREZA: OS CZARES DA INFORMAÇÃO
+
+Avareza, do latim avere/avaritia, retrata o apego exagerado a matéria, objetos e bens que se possui. A avareza, de acordo com a psicanálise pode ser vista como um traço universal do ser humano. Está intimamente ligada à cobiça, que significa a sede de possuir, ter sempre mais. Juntas, as duas palavras, conjugam o impulso de obter, conquistar, trazer para si bens de todo o tipo. E é justamente essa a falha comportamental e cultural, o hábito que precisamos evitar.
+
+O problema do pecado da Avareza informacional sob a ótica da inteligência competitiva é justamente a concentração da informação nas "mãos" dos Czares da Informação que não repassam a informação. E, mais, é preciso debater como tornar acessível esse estoque de conhecimento para que a Academia e a comunidade, como um todo, não percam mais conhecimentos por causa da informação ou da comunicação.
+
+Num mundo incerto e instantâneo com a concorrência nos "nossos calcanhares" ou como argumenta o sociólogo Julius Bastide: a distância que separa o mais fiel dos clientes ao mais feroz dos concorrentes não passa, agora, de um clique. [19] A questão que se levanta é que a informação não pode, nem deve, ser armazenada em silos informacionais e guardada, sem ser compartilhada pelos tomadores de decisão na universidade.
+
+
+
+GULA - A SOCIEDADE DO HEXABYTE
+
+Na sociedade da informação, se usa o conceito de hexabyte para estimar a quantidade de informação produzida pela humanidade.Um hexabyte seria o equivalente a todo o conteúdo da Biblioteca do Congresso americano. A estimativa [20] é que sejam produzidos dois hexabytes de informação a cada ano. Esse excesso de informação gera o caos informacional que lidamos no dia a dia.
+
+Um dos maiores paradoxos dos dias de hoje é justamente encontrar a informação relevante neste mar de informação. O escritor Al Ries [21] fez um levantamento interessante sobre este caos informacional. Segundo o autor, uma edição dominical do "The New York Times" contêm cerca de 500.000 palavras. Para se ler toda esta informação a uma velocidade média de 300 palavras por minuto, seriam necessárias 28 horas Numa destas edições dominicais do jornal, teria mais informação do que um homem de 60 anos poderia adquirir em toda a sua vida durante o século XIX.
+
+Na universidade não é diferente. Só no campus Rebouças, tem 32 cursos de graduação e do Instituto Politécnico, além de 5 cursos de pós-graduação, na área acadêmica são 3.200 turmas, 21.000 alunos, 1.600 professores e 40 coordenadores. A área administrativa conta com 600 funcionários. O campus é visto como uma pequena cidade. Na biblioteca a freqüência média é de 10.500 alunos. São 180 salas de aula, 90 laboratórios. A Central de Informações e inscrições atende, em média, a 8.000 pessoas por mês e a Secretaria Setorial de Alunos realizou em fevereiro de 2002 mais de 30.000 atendimentos. Como o campus precisa ter informações sobre toda a universidade, imagine o volume gerado pelos demais 35 campi, 33 cursos de graduação, 42 cursos do Politécnico, 95 cursos de pós-graduação; isso sem falar nos cursos de mestrado, extensão, da Universidade da Maturidade, do Instituto do Ar e da On Line University...entre outros departamentos geradores e produtores de informação.
+
+
+
+IRA - Insatisfação com a falta de informação correta, precisa. eficaz
+
+Na universidade, nada gera maior insatisfação e transtorno do que informações truncadas, erradas. A analogia que se faz é com o pecado da Ira. Na verdade esse é o sentimento daqueles que ficam sujeitos as informações equivocadas. Boa parte dos dados que chegam à universidade não pode ser transformada em informação devido a uma série de fatores como duplicidade, pouca confiabilidade/credibilidade, obsolescência, utilização de diferentes tecnologias de Informação e de Comunicação, falta de interatividade entre os sistemas... e daí por diante. O resultado é que inúmeras vezes decisões importantes são tomadas sem as informações necessárias. O risco aqui é que informações que agregariam valor se transformando em conhecimento ou até em inteligência competitiva podem ser recuperadas e disseminadas tarde demais.
+
+
+
+
+
+INVEJA - Problemas com a materialidade e a ética informacional.
+
+"Podemos descrever o nosso ódio, o nosso ciúme, os nossos medos, as nossas vergonhas. Mas não a nossa inveja".
+
+Francesco Alberoni [22]
+
+Tecnologias de Informação e de Comunicação, Sistema de Informação Acadêmica, Sistema de Gerenciamento de Informações, Sistema de Informações para Marketing, Sistema de Relatórios de Acompanhamento Financeiro, Sistemas de Recursos Humanos, Sistema de Orçamento... São tantos os sistemas geridos e utilizados hoje em dia que por vezes fica difícil até enumerar sem esquecer de algum; e, com tantos sistemas "independentes", é certo que boa parte deles não são amigáveis, isto é, não falam a mesma linguagem informacional. E como fica a informação? Essa é a questão por trás do Pecado da Inveja. Partimos do principio que existe uma materialidade por trás da informação. Esta materialidade se expressa através dos sistemas encarregados da recuperação, análise e difusão da informação pela organização. Além disso, é importante ficar atento com relação à ética informacional, uma questão pouco discutida até aqui.
+
+
+
+LUXÚRIA - Falhas nos processos de comunicação da informação.
+
+A Comunicação está presente em todas as relações humanas. Passou a ser encarada como divisor temporal da sociedade como prega Negroponte [23]. É o "sistema nervoso" de qualquer grupo organizado. Não existe universidade, nem sociedade sem comunicação. A comunicação pode ser encarada como o "carro-chefe" no processo informacional. Em determinadas situações, se critica a falta de comunicação; mas isso não passa de retórica sem o menor respaldo científico ou prático. Acreditamos que na sociedade atual seja impossível não se comunicar [24]. O ser humano está o tempo todo se comunicando seja através da palavra ou ainda da linguagem corporal - dos gestos, modos, hábitos e expressões - a comunicação não verbal que seria responsável por até 90% da comunicação humana.
+
+A comunicação interna é um fator que não pode ser ignorado na universidade. Na comunicação, um aspecto por vezes negligenciado refere-se ao canal informal, a rede informal. Então, é indispensável reconhecer e decifrar mensagens sutis e ocultas, mostrando como a "rede informal" pode ser trabalhada pela "máquina informacional" da universidade de forma efetiva.
+
+O Pecado da Luxúria se dá quando há falhas na estética, na transparência da comunicação da informação. E a falta de clareza, de objetividade são os problemas e ruídos inerentes e existentes neste processo. É preciso identificar os obstáculos que impedem a comunicação da informação ou... como diria o Velho Guerreiro [25]: "Quem não se comunica... se trumbica".
+
+
+
+PREGUIÇA - A obsolescência da Informação
+
+Vivemos num mundo que anda rápido, extremamente rápido, onde o tempo não para e as transformações e inovações se sucedem a cada instante, à velocidade da luz. Nossa sociedade pós-moderna, pós-capitalista ou digital como classificam vários autores, vive no ritmo dos nanosegundos - bilionésimos de segundo, um tempo tão pequeno que Alvin Toffler [26] definiu como uma compressão de tempo quase inimaginável; seria como se toda a vida útil de um profissional de, digamos, 80.000 horas pagas - 2000 horas por ano durante 40 anos, pudesse ser comprimida em menos de 4,8 minutos.
+
+No contexto dos nanosegundos, o consultor americano Regis McKenna [27] descreveu essas mudanças da seguinte forma: na vida digital, em tempo real, com o rápido passar do tempo, grande parte do que é conhecido, aparentemente sólido como fortaleza, também se vai com ele.
+
+Uma questão crucial é que muitas vezes informações importantes chegam tarde demais. A obsolescência da informação é um dos problemas, ou melhor, é um dos pecados que precisam ser tratados com todo o cuidado. O que é relevante agora pode não ser mais daqui a alguns instantes. A quantidade de barreiras impedindo o fluxo de informação é enorme. Não basta ter a informação certa é preciso tê-la na hora certa.
+
+
+
+SOBERBA - O Grande Ditador Informacional
+
+"Ter dados e conhecê-los é cultura. Saber processá-los, transformando-os em informação é uma
+
+questão de sobrevivência. Saber usar a informação é a arte do poder".
+
+Philip Kotler [28]
+
+É justamente o poder de possuir a informação que leva ao pecado informacional, da Soberba. Este orgulho excessivo pode causar sérios danos ao fluxo informacional na universidade. Não precisa de um esforço muito grande para que isso aconteça; basta que gestor seja contaminado pelo vírus da soberba. Informações informais essenciais podem ser deixadas de lado enquanto que informações formais não tão importantes são idolatradas. A presunção desmedida leva a exageros ou mesmo a erros grosseiros na avaliação da informação que pode ser sub ou super dimensionada. Não importa, neste estágio o estrago já foi feito e pode ser irreversível para a tomada de decisão. Se o objetivo é lidar com informação relevante, a soberba tem que ser queimada na fogueira das vaidades dos pecados informacionais.
+
+CONCLUSÃO - A RELEVNCIA DA INFORMAÇÃO
+
+A primeira questão levantada pela mandala e, possivelmente, a mais importante, é sobre a relevância da informação numa organização saturada de informação. Como nosso maior problema é justamente encontrar a informação relevante que diminua as incertezas e dúvidas na hora da tomada de decisão precisa ser encarada de forma individualizada. Acreditamos que a relevância esteja diretamente ligada a percepção do usuário final, ou seja, o responsável pela tomada de decisão.
+
+Como a relevância está diretamente correlacionada com a percepção do gestor se faz necessário definir uma serie de atributos para a informação como por exemplo, acessibilidade, coerência, confiabilidade e credibilidade da fonte, eficácia, objetividade e prioridade [29].
+
+A análise que fizemos através da Mandala da Informação Universitária é um exercício prático e diário de discutir formas de gerar e gerir a informação estratégica e a inteligência competitiva através da recuperação da informação relevante.
+
+Por isso, se faz necessário implantar uma Gerência de Recursos de Informação Acadêmica que se caracteriza pela visão integrada dos recursos necessários a todo o ciclo da informação: geração, coleta, organização, disseminação e uso [30]. Isso estaria inserido dentro de uma Política de Gestão da Informação.
+
+Como acreditamos que a universidade deva buscar um aprendizado contínuo, a questão também passa .Concluímos que a universidade não pode perder esse foco e precisa estar atenta as "nuances" do ambiente interno e externo, se tornando uma facilitadora do fluxo dinâmico de informação e da comunicação da informação; e quem sabe assim, não percamos mais informação devido à comunicação, nem, tampouco, conhecimento por causa da informação.
+
+
+
+
+
+Notas
+
+[1] O sociólogo italiano Domenico De Masi, 1999, traça no livro Ócio Criativo, um panorama sobre a evolução da sociedade contemporânea. Para De Masi, o trabalhador da Era da Informação, que define como mente-de-obra, terá que se adequar a um novo tipo de trabalho: com muito mais tempo livre para criar. MASI, Domenico de. O Ócio Criativo. RJ: Ed. Sextante, 2000. p. 149-150.
+
+[2] KRAUSE, Donald G. Sun Tzu - A Arte da Guerra para os Executivos. São Paulo: Makron Books. 1996.
+
+[3] Pierre Levy, 1996, discute a questão da virtualidade e a conseqüente alteração da relação espaço-tempo e os relacionamentos. LÉVY, Pierre. "O que É o Virtual?" São Paulo: editora 34, 1996. p.54. "Tecnologias da Inteligência". SP: editora 34, 1997. "As Árvores de Conhecimentos". SP: Ed. escuta, 1995.
+
+[4] PRUSAK, Laurence & MCGEE, James. "Gerenciamento Estratégico da Informação". Ed. Campus. RJ. 1994.
+
+[5] A declaração foi publicada na revista EXAME. Edição de 7 de maio de 1997. p.143.
+
+
+
+[6] BARRETO, Aldo. "O Rumor do Conhecimento". Revista São Paulo em Perspectiva. Fundação Seade. 1999. p.69-77.
+
+[7] Essa definição está nos compêndios da disciplina Inteligência Competitiva ministrada por Gilda Massari na pós-graduação Lato Sensu em Inteligência Competitiva do INT/IBICT/UFRJ, ano de 1999.
+
+[8] SENGE, M. Peter. "A Quinta Disciplina" Editora Beste Seller - Quarta Edição. SP. 1999. Ver também GARVIN, David A. "Construindo a Organização que Aprende". On Knowledge Management. Harvard BusinessReview. Ed. Campus 2.000 e NONAKA, Ikujiro e TAKEUCHI, Hirotaka. " Criação de Conhecimento na Empresa - Como as Empresas Japonesas Geram a Dinâmica da Inovação". Ed. Campus. 6 Edição. RJ. 1997.
+
+[9] A declaração foi recuperada na coluna do jornalista Joelmir Beting, no Caderno de Economia, do Jornal O Globo, setembro de 2000.
+
+[10] Censo recém-concluído pelo Instituto Nacional de Estudos e Pesquisas (INEP). Disponível no site http://www.inep.gov.br.
+
+[11] Ver em Caro, Paul. "A Roda das Ciências". P. 20. Instituto Piaget. Portugal 1993.
+
+
+
+[12] A pesquisa foi realizada no Campus Nova América em outubro de 2000, março e outubro de 2001 com praticamente todos os alunos de primeiro período. 766 alunos responderam ao questionário em 2000 e 1098 este ano. Apenas 2% dos alunos responderam que esperam do curso universitário formação teórica voltada para a pesquisa.
+
+[13] A Pesquisa foi divulgada no Congresso Internacional de Marketing realizado junto com a I Expo Management em São Paulo entre 03 e 05 de novembro de 2001.
+
+[14] Essa música foi composta por Candeia.
+
+[15] Domenico de Masi faz essa analogia no livro "Ócio Criativo", 1999 . Peter Drucker foi o primeiro a cunhar o termo Trabalhador do Conhecimento em artigos publicados em 1966.
+
+[16] JORNAL O GLOBO: BETING, Joelmir, Coluna. Rio de Janeiro, set. de 2000, Caderno de Economia.
+
+[17] DAVENPORT, Thomas H. "Ecologia da Informação". SP: Ed. Futura . 1998.
+
+
+
+[18] YUNES, Eliana e BINGEMER, Maria C. Lucchtti. "Pecados". RJ: PUC, 2001.
+
+[19] Al Ries é autor de vários livros entre eles Foco, uma questão de sobrevivência nas organizações. RIES, Al & TROUT, Jack . "Posicionamento - A Batalha pela sua Mente". ED. Pioneira Administração.7ª Edição. SP. 1997.
+
+[20] Essa estimativa está na edição de outubro de 2001 da REVISTA INTELIGÊNCIA EMPRESARIAL. Ed. Abril 2001..
+
+[21] Esta definição pode ser encontrada no livro: "Inveja Mal Secreto" de VENTURA, Zuenir. Ed. Objetiva. RJ. 1988.
+
+[22] WEIL, Pierre e TOMPAKOW, Roland. "O Corpo Fala". Ed. Vozes. 51ª Edição. Petrópolis. RJ.2000.
+
+[23] Essa frase é atribuída a Chacrinha. BARBOSA, Florinda & RITO, Lúcia. "Quem Não Se Comunica, Se Trumbica". Ed. Globo. 1996. Sobre comunicação empresarial ver ROGERS, Carl & altri. "Comunicação Eficaz na Empresa - Como Melhorar o Fluxo de Informação para Tomar Decisões Corretas". Harvard Business Review Book/Ed. Campus . RJ. 1999
+
+
+[24] Alvin Tofler é um dos mais respeitados "gurus" da administração. TOFFLER, Alvin, "Future Shok." Nova York: Random House, 1970. P.371.
+
+[25] NEGROPONTE, Nicholas. "A Vida Digital". Ed. CIA. das Letras. 2ª Edição. SP. 1997.
+
+[26] Mackenna traça um panorama interessante da competição em tempo real. MACKENNA, Régis. "Competindo em Tempo Real". Ed. Campus. RJ. 1998. Ver também HAMEL, Gary e PRAHALARD, C.K. "Competindo pelo Futuro". Rio de Janeiro: Editora Campus, 1995 e, KAHANER, Larry. "Competitive Inteligence". New York: Simon & Schuster, 1996.
+
+[27] Philip Kotler, 1994, é um dos autores que mais tem se dedicado a tratar sobre a informação estratégica nas organizações. KOTLER, Philip e FOX Karen. "Marketing Estratégico para Instituições Educacionais". São Paulo: Atlas, 1994.
+
+[28] Rodas defende na dissertação que a competitividade inteligente é um grande diferencial competitivo. RODAS, S.P. "Considerações sobre o Emprego da GRI no Brasil". Informare. Rio de Janeiro, p.71-95. V.4. N.1. Jan/Jun 1998.
+
+[29] ARAÚJO, Vânia Rodrigues Hermes. Tese de Mestrado Dissertação apresentada ao Programa de Pós-Graduação em Ciência da Informação convênio CNPq/IBICT-UFRJ/ECO, Escola de Comunicação, Universidade Federal do Rio de Janeiro, 1994. Ver também PINHEIRO, L. V. & LOUREIRO, J. M. "Traçados e Limites da Ciência da Informação". In Revista Ciência da Informação, v.24, n.1. 1995.
+

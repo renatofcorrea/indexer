@@ -1,0 +1,246 @@
+A ciência e a gestão da informação: compatibilidades no espaço profissional
+
+
+Resumo
+
+Apresenta o contexto contemporâneo que embasa as atividades de profissionais da informação, tendo em vista mercados de trabalhos com crescentes níveis de exigência e a necessidade de se solucionarem problemas de informação cada vez mais complexos e dinâmicos. Define-se gestão da informação, assim como sua abrangência acadêmico-operacional tendo como base os pressupostos teóricos da área de ciência da informação, em especial o núcleo de conteúdos relacionados à gestão integral dos recursos de informação de indivíduos, grupos e organizações. Ressalta-se que a gestão da informação compartilha com demais profissões afins, os processos de criação, seleção e avaliação, gerenciamento, divulgação, utilização, preservação e políticas de direitos (privacidade, direitos autorais e outros) relacionados ao trinômio dado, informação e conhecimento. São descritas habilidades e conhecimentos necessários ao desempenho profissional do gestor, assim como as dificuldades inerentes à atuação no campo de atividades de informação.
+
+Palavras-chave
+
+Ciência da informação; Gestão da informação.
+
+
+CONTEXTO CONTEMPORNEO DA ÁREA DE INFORMAÇÃO
+
+"Nos próximos 20 anos, companhias, governo e indivíduos enfrentarão crescentes dificuldades em um ambiente igualmente complexo. …nós teremos, também, um enorme potencial positivo, incluindo tecnologia, melhorias nas comunicações, disponibilidade de capital e um aumento fenomenal na quantidade e disponibilidade de informação …"
+
+(OPEN Horizons…1998)
+
+Ainda que não definida de maneira tão ostensiva e tampouco se podendo garantir uma estrutura de acesso dito "global" de produtos e serviços de informação em um contexto de desigualdades tão marcantes como no Brasil, a afirmativa acima define um cenário possível para os próximos 20 anos. Nas chamadas "ilhas de excelência", ou por meio de projetos orientados para as populações menos favorecidas, o que se chamou de "Sociedade da Informação" no final da década de 70, encontra, no século XXI, as condições estruturais para sua efetivação. De maneira mais rápida ou mais lenta, planejada ou apenas disponibilizada na forma de computadores conectados à Internet, o novo século inicia-se sob uma proposta de ampla conectividade, de preocupação com os conteúdos criados, manipulados e disseminados para os públicos mais diferenciados e heterogêneos, e na revisão e determinação de competências profissionais - organizacionais e/ou individuais - que sejam responsáveis pelos processos e atividades de uma sociedade voltada para a informação e para o aprendizado.
+
+De maneira crescente, a economia se volta para a produção de bens, serviços e atividades de informação, que pode ser caracterizada, de maneira geral, pelos seguintes pressupostos:
+
+• que o potencial tecnológico sustentará o amplo acesso à informação, assim como possibilitará a convergência de diferentes tipos de informação (textual, sonoro, gráfico, visual etc.) em entidades (ou objetos) de informação, os quais podem ser compostos e disponibilizados de acordo com a necessidade particular de um indivíduo ou grupo;
+
+• a intenção de que a disponibilidade de informação (e possivelmente de conhecimento) possa fortalecer a democracia e a sociedade;
+
+• a percepção de que as áreas e os setores econômicos se tornarão dependentes de uma força de trabalho que tenha acesso e possa compartilhar informação;
+
+• o reconhecimento de que a informação, para ser acessível, deve ser organizada e gerenciada;
+
+• o reconhecimento de que as habilidades de criação, busca, análise e interpretação de informação são essenciais para indivíduos e grupos;
+
+• a percepção de que as necessidades de informação se tornam cada vez mais complexas e dependentes de diferentes e múltiplas fontes - cuja correta avaliação e qualidade é fator crucial para os processos de tomada de decisão;
+
+• que o crescente desenvolvimento e substituição de tecnologias desafiam tanto as habilidades dos leigos como dos profissionais da informação, em termos do seu entendimento, domínio e gerenciamento efetivo;
+
+• o conhecimento de que o setor de informação é uma parte substancial da economia dos países.
+
+Ainda considerando tal cenário, os processos relacionados com informação são alvo da crescente atenção de governos e grupos econômicos. Quer pela retomada da preocupação com a coleta e preservação do conhecimento - em termos públicos e privados -, quer pela revisão do que sejam as atividades voltadas para agregar valor à informação e ao conhecimento, o fato é que as tecnologias da informação, aliadas à sua intensiva produção e fluxo, podem, potencialmente, distinguir indivíduos e grupos em suas atividades profissionais, culturais, sociais e econômicas.
+
+Além disso, o "imperialismo tecnológico", motivador e conseqüência do processo de globalização, tem afetado a dinâmica social de maneira cada vez mais contínua e abrangente. Ainda que este texto não se detenha na discussão dos pontos negativos e positivos de tal movimento, é de senso comum que o final do século XX e, tudo leva a crer, uma parte significativa do século XXI, caracterizou-se e se caracteriza pelo aumento do desemprego, da exclusão e das dificuldades para a mobilidade e a ascensão social. Igualmente, a concentração do patrimônio e da renda vem aprofundando o fosso entre uma minoria de menos de um décimo da cidadania e a massa da população (Furtado, 1996). O que se verifica - ratificado pelas "grandes batalhas" que vêm acontecendo nos últimos 5-8 anos nas reuniões da Organização Mundial do Comércio e do G-7(8) - é que este é um período de instabilidade e desarticulação social, no qual o modelo capitalista e neoliberal está sendo constantemente colocado em xeque. Uma vez que o crescimento econômico só pode continuar caso existam mercados e consumidores, há uma conjuntura dramática para significativa maioria de tais consumidores, que assistem à retração do seu poder de compra e do seu padrão de vida.
+
+Ainda que as novas técnicas tenham aumentado a produtividade do trabalho e demandado mão-de-obra em setores específicos, o abismo socioeconômico, tecnológico e cultural aumenta em países cujas debilidades internas (e outras causadas pelos seus "concorrentes") impedem a competitividade necessária em mercados cada vez mais agressivos. No entanto, esta "sociedade globalizada" permite que empresas e instituições transnacionais estabeleçam, como modus operandi, a transferência de atividades produtivas de um país para outro. Mais que a transferência física de uma fábrica, por exemplo, são os valiosos conteúdos informativos que "viajam" nos cérebros de seus executivos e nas redes de informação eletrônica, com o auxílio adicional - quando necessário - da mobilidade dos meios de transporte físico.
+
+Valorizada como recurso, a informação define a competitividade de pessoas, grupos, produtos, serviços e atividades e os mesmos processos de transmissão de dados, gestão da informação e do conhecimento que têm marcado a instabilidade do mercado de trabalho, são geradores de empregos (ainda que informais, terceirizados e/ou "franqueados") nas áreas de tecnologia de informação, de comunicação e de conteúdos. Novamente, as formas de organização do trabalho - mais flexíveis e menos hierarquizadas - que dispersam os trabalhadores de projetos político-sindicais comuns (Dupas, 1999) dependem de sistemas intensivos de distribuição e armazenamento de informação, em ambientes que passam a promover a geração e o compartilhamento de conhecimento. É neste contexto que se inserem os profissionais de informação na perspectiva deste milênio e, em particular, o profissional em gestão da informação.
+
+
+
+A GESTÃO DA INFORMAÇÃO
+
+As tecnologias da informação e da comunicação, como ressaltado anteriormente, têm possibilitado a convergência dos tradicionais suportes informativos, assim como a criação de outros objetos/representações de informação, que normalmente já "nascem" em um ambiente virtual. Da mesma forma, tais tecnologias provocam e exigem igualmente a convergência de profissões/áreas que antes eram razoavelmente estanques, tendo em vista a possibilidade que havia em se determinar nichos de mercado e reconhecer sistemas de informação como privativos de determinada categoria profissional.
+
+Em um mundo que pretende ser altamente interconec-tado, e que para tal necessita de padrões e procedimentos, do desenvolvimento estruturado de conteúdos informativos, de alta capacidade de gerenciamento e de habilidades de mediação, as demandas são tão dinâmicas como heterogêneas. Aos profissionais da informação ditos "tradicionais" (como os arquivistas, os bibliote-cários, os museólogos, os profissionais dos meios de comunicação de massa e até mesmo os informáticos) se agregam outros, ditos "emergentes", cujas denominações no mercado de trabalho (ainda que não se reflitam em formação acadêmica formal) indicam forte interação de habilidades e conhecimentos técnicos e gerenciais disponíveis na arena de profissionais de informação e de outras áreas, tais como educação, marketing, história, administração, economia, entre outros. Os exemplos se multiplicam, e independentemente de formações técnicas ou de nível superior (e mesmo de complemen-tação/extensão e de pós-graduação), tais indivíduos se posicionam no campo de atividades de informação sob variados títulos, tais como web designers, engenheiros de conteúdo, arquitetos de informação (apenas para exemplificar) - advogando, não raras vezes com propriedade, que dominam técnicas, modelos e metodologias que, se não são de todo inéditas (sob o ponto de vista de que o ciclo de vida e de gerência da informação é comum àqueles que partilham do mesmo campo de atividades), apresentam respostas efetivas aos problemas crescentes relativos à gerência dos dados, da informação e, mais recentemente, do que vem se chamando de "gestão do conhecimento" (Dillon, 2001, Marchiori, 1996). Nem todas estas ocupações/funções demandadas, no momento, serão mantidas em um futuro próximo, pois a história e a experiência confirmam que profissões e/ou ocupações dependentes intensivamente de uma tecnologia têm dificuldades de se manterem e de se modificarem quanto tal tecnologia é substituída e/ou se esgota. Todavia, o campo de atividades de informação tem crescido o suficiente para abrigar novos profissionais, desafiando suas habilidades em contextos cada vez mais dinâmicos (Horton Jr, 1992).
+
+De qualquer maneira, entre as "dores do parto" de qualquer nova disciplina dentro de uma determinada área, estão as de sua definição e abrangência. O mesmo passa com a gestão da informação.
+
+A atividade de gestão pode ser considerada um conjunto de processos que englobam atividades de planejamento, organização, direção, distribuição e controle de recursos de qualquer natureza, visando à racionalização e à efetividade de determinado sistema, produto ou serviço (Manual..., 1997). Sob esta perspectiva, a gestão da informação deve incluir, em dimensões estratégicas e operacionais, os mecanismos de obtenção e utilização de recursos humanos, tecnológicos, financeiros, materiais e físicos para o gerenciamento da informação e, a partir disto, ela mesma ser disponibilizada como insumo útil e estratégico para indivíduos, grupos e organizações (Ponjuán Dante, 1998). A exigência de um composto gerencial, a utilização de tecnologias e a importância de se compreender e oferecer a informação com valor agregado indicam pelo menos três recortes no contexto da gestão da informação, que já se apresentam como realidades em cursos de graduação e pós-graduação no Brasil.
+
+Um dos enfoques é dado em cursos de administração de empresas, nos quais a gestão da informação visa a incrementar a competitividade empresarial e os processos de modernização organizacional, capacitando profissionais na administração de tecnologias da informação em sintonia com os objetivos empresariais. A intenção é formar um profissional que, além das tradicionais disciplinas da área, domine o planejamento e uso estratégico das tecnologias da informação e as especificações de qualidade e segurança da informação empresarial. É também neste contexto que se intensificam as propostas e estudos em gestão do conhecimento.
+
+Sob o enfoque da tecnologia, a gestão da informação é vista, ainda que dentro de um contexto organizacional, como um recurso a ser otimizado via diferentes arquiteturas de hardware, software e de redes de telecomunicações adequadas aos diferentes sistemas de informação - em especial aos empresariais. A velocidade de transmissão de dados, aliada à confiabilidade e requisitos dos sistemas de informação, indica a orientação de profissionais nesta "linha".
+
+O terceiro enfoque é o da ciência da informação (Institute of Information Scientists, 2001) - que em sua essência se ocupa do estudo da informação em si, isto é, a teoria e a prática que envolvem sua criação, identificação, coleta, validação, representação, recuperação e uso, tendo como princípio o fato de que existe um produtor/consumidor de informação que busca, nesta, um "sentido" e uma "finalidade". Uma formação profissional em gestão da informação, sob o ponto de vista deste recorte, volta-se para o contexto social onde há fornecimento e demandas de informação, assim como a necessidade do gerenciamento de recursos de informação (eles mesmos e em relação à instituição e/ou indivíduos aos quais vão servir), o monitoramento, a localização, a avaliação, a compilação e a disponibilidade de fontes de informação que, potencialmente, podem suprir a solicitação, e que devem ser descritas, analisadas, compiladas e apresentadas para sua utilização imediata. Neste contexto, tanto os processos administrativos, como a utilização de tecnologias são mecanismos facilitadores para otimização de processos que levam, idealmente, à comunicação efetiva da informação entre indivíduos e grupos. Assim, a gestão da informação tem, por princípio, enfocar o indivíduo (grupos ou instituições) e suas "situações-problema" no âmbito de diferentes fluxos de informação, os quais necessitam de soluções criativas e custo/efetivas. Diagnosticada a demanda e suas possibilidades, deve-se definir uma metodologia/estratégia para sua "solução", que pode envolver a identificação e avaliação de fontes de informação, a aplicação de tecnologias adequadas, os profissionais e os fornecedores adequados para se trabalhar em parceria, assim como os mecanismos de avaliação do andamento da atividade e seus resultados parciais e total. A função principal do gestor da informação é prover um serviço e/ou produto de informação que seja direcionado, funcional e atrativo.
+
+O ponto de partida é a demanda de informação, e o processo de atendimento a esta demanda envolve, em distintos momentos e em diferentes estágios, uma série de outros elementos, potencialmente identificados como pertinentes para o oferecimento da resposta adequada. Desta forma, o enfoque da ciência da informação permite que se identifique a abrangência da gestão da informação. Como grande área, os conhecimentos, habilidades, teorias e metodologias da ciência da informação são utilizados e compartilhados por subáreas que, em geral, resultam em formações acadêmicas em nível técnico, de graduação e de pós-graduação. Várias profissões se ocupam, em maior ou menor grau e intensidade, da teoria e prática da criação, aquisição, acesso, validação, organização, armazenagem, transmissão, recuperação e uso da informação. Assim também ocorre com a gestão da informação.
+
+Para esta, como para qualquer outra profissão nesta grande área, o trabalho se inicia com o estudo da informação em suas características, fluxos e necessidades/usos por parte de pessoas e grupos, assim como a exploração da teoria de sistemas de comunicação humana (estruturação e avaliação). Igualmente busca identificar conteúdos de informação em seus mais variados formatos e canais (incluindo seres humanos, sistemas de armazenagem e outras organizações que permitam acesso a fontes de informação) que sejam internos e/ou externos ao ambiente de trabalho dos indivíduos e grupos aos quais oferece seus serviços. Os processos de agregação de valor à informação também são identificados como básicos para o profissional em gestão da informação, incluindo-se aí as habilidades de análise, condensação, interpretação, representação e estratégias de busca e apresentação/formatação da informação - tendo em vista os diferentes suportes, canais que esta informação possa estar (e ser) disponibilizada, assim como o(s) tipo(s) de informação que é objeto de tal atividade (ou seja, textual, sonoro, numérico, visual etc., ou ainda, a reunião de vários tipos, haja vista a demanda identificada). Para tal, os recursos de multimídia, informática e de (tele)comunicação devem ser avaliados e utilizados conforme a situação-problema em que informação e conhecimento se apresentem. Os estudos teóricos da ciência da informação são igualmente trabalhados, englobando a própria natureza, definição, conteúdo e significado da informação, o desenvolvimento de modelos de sistemas, processos, produtos e serviços de informação, além, naturalmente, da pesquisa básica e aplicada em informação.
+
+Outra área de abrangência da ciência da informação corresponde ao núcleo da gestão propriamente dita. Nesta "linha", os conhecimentos e habilidades do profissional enfocam mais fortemente a gestão integral dos recursos de informação das organizações, incluindo:
+
+a) Planejamento
+
+Identificação das necessidades de informação e de níveis de agregação de valor às demandas realizadas; estudo do impacto da informação no desempenho da organização; o mapeamento e integração das unidades, pessoas e fluxos de informação na organização; desenvolvimento e aplicação de metodologias para avaliação de fluxos, sistemas, produtos e serviços de informação, assim como a aplicação crítica e criteriosa de sistemas computacionais e redes de dados.
+
+b) Comunicação
+
+Teorias e modelos da comunicação e sua aplicação em estruturas organizacionais e em sistemas de informação; fluxos de informação, redes de valor agregado e interpessoais/intergrupais; comunicação de dados e interação humano-computador.
+
+c) Gerência da informação e sistemas de controle
+
+Compreendendo o processo de tomada de decisão e o papel da gestão da informação; a localização, coleta e análise de dados, análise; design, especificação e análise de sistemas; aplicação de tecnologia de computadores; gestão de documentos; utilização de informação para controle gerencial e análise de negócios; utilização de técnicas de workflow para a identificação de fluxos de informação e dados; sistemas especialistas.
+
+d) Gerência de recursos humanos
+
+Inclui a descrição, análise e avaliação de funções; recrutamento, seleção, treinamento; gerência de pessoal; motivação e relações interpessoais.
+
+e) Gerência de recursos financeiros
+
+Abrange contabilidade; análise e controle de custos; estratégias para suporte à decisão; programação, planejamento e estrutura orçamentária, incluindo estimativa de gastos; julgamento de desempenho (análise de custo-efetividade e de custo-benefício).
+
+f) Promoção, vendas e marketing
+
+Relaciona-se à publicidade e relações públicas aplicadas à produção de bens e serviços de informação; técnicas e estratégias de marketing, incluindo pesquisa de mercado.
+
+g) Contexto político, ético, social e legal
+
+Define-se pelo estudo das situações políticas que englobam as atividades humanas em geral e de informação em particular; o papel do governo e suas agências; as questões éticas e legais, incluindo o direito à privacidade, à não-segregação informativa, à liberdade de informação, à segurança de dados, por exemplo.
+
+A terceira área de abrangência da ciência da informação, igualmente de interesse e de formação acadêmica na área de gestão é a de tecnologia - como recurso e instrumento para o gerenciamento da informação - na qual se insere o estudo de:
+
+a) Sistemas computacionais: hardware e software
+
+Os conteúdos, neste particular, envolvem os recursos de entrada, processamento, armazenagem e saída de dados; princípios de sistemas operacionais e programas aplicativos; o estudo e aplicação de pacotes de software para o armazenamento e recuperação da informação, mais especificamente a estrutura de bases de dados relacionais, leiaute de registros e parâmetros de busca; gerenciamento de sistemas de bases de dados; estudos de aplicação; especificação, design; implementação, avaliação e documentação de sistemas voltados para a gestão da informação.
+
+b) Telecomunicações
+
+Domínio mínimo dos padrões, protocolos, interfaces; tipos de equipamento (modems, dispositivos eletrônicos e óticos de comunicação); redes de telecomunicação (incluindo LANS e WANS)
+
+c) Aplicações da tecnologia da informação
+
+Em especial para aquelas relacionadas à coleta, armazenagem e recuperação da informação, desde o videotexto, telex, passando pelas tecnologias COM e COLD1 até o reconhecimento de voz, digitalização, tecnologias de discos compactos, telecomunicações, métodos de publicação eletrônica e de disseminação de documentos via redes, por exemplo.
+
+d) Meio ambiente
+
+Princípios de ergonomia, proteção de dados, copyright, pirataria, criptografia etc.
+
+Finalizando, a ciência da informação indica algumas áreas consideradas básicas, também aplicáveis no contexto da gestão da informação, a saber:
+
+a) Metodologia da pesquisa
+
+Devido à necessidade de se identificarem temas e propostas de pesquisa; os métodos de investigação, coleta de dados, amostragem, análises estatísticas, avaliação de resultados e produção de relatórios.
+
+b) Lingüística
+
+Os estudos com informação implicam conhecimentos básicos da linguagem natural e formal, das classificações lingüísticas, da semântica, sintática e pragmática, por exemplo.
+
+c) Línguas estrangeiras
+
+Como recursos para a análise de fontes de informação, comunicação em um mundo conectado, e de maneira a oferecer serviços de tradução e resumos.
+
+Ainda que estas considerações possam ser tomadas como excessivamente abrangentes ou restritivas, a verdade é que o gestor da informação, como os demais profissionais da área de ciência da informação, exerce suas atividades em um âmbito razoavelmente controlado, identificado pela necessidade de gerenciar um recurso de informação - que pode ser mais ou menos complexo, de acordo com a natureza do sistema, produto, serviço e/ou atividade de informação envolvida; dos canais e da estrutura de conectividade (incluindo-se padrões e procedimentos) disponíveis da fonte e do receptor; e das habilidades tecnológicas, gerenciais e de mediação (condições de efetivar serviços de valor agregado, em termos de conteúdos cognitivos) que o profissional possa oferecer a indivíduos e grupos, dentro e fora de organizações.
+
+Qualquer que seja o tempo e espaço definidos para sua atuação, o gestor da informação, para manter-se no presente e almejar um futuro, não pode deixar de otimizar a informação como recurso, que implica um envolvimento consistente, permanente e criativo na criação, seleção e avaliação, gerenciamento, divulgação, utilização, preservação e políticas de direitos (privacidade, direitos autorais e outros) relacionados ao trinômio dado, informação e conhecimento.
+
+Formação acadêmica em gestão da informação
+
+Sob o ponto de vista da formação em gestão da informação, o campo de atividade profissional é aquele que engloba, sob o ponto de vista gerencial, a sinergia entre as tecnologias de informação e comunicação disponíveis e os recursos/conteúdos informativos. O gestor visará, em qualquer espaço e tempo, a desenvolver estratégias e estruturar atividades para a obtenção e utilização de recursos humanos, tecnológicos, financeiros, materiais, físicos e da informação em si mesma (em diferentes formatos, conteúdos e "imersões"), para que indivíduos e grupos possam desempenhar suas atividades com base em informação com valor agregado (International Federation for Information and Documentation, 1994). Tais atividades não divergem, diametralmente, dos demais profissionais da informação, ainda mais quando o mercado tem oferecido, cada vez mais, um leque de funções a serem desempenhadas, além, propriamente, do nome de uma profissão.
+
+De maneira geral, o gestor da informação vai mapear os pontos de uso de informação, identificando as necessidades e requisitos indicados/negociados junto a seus clientes. Segue-se o processo de coleta e avaliação de qualidade da informação solicitada, seu recebimento, possível armazenamento e as etapas de distribuição e uso. Além disso, o profissional deve implementar uma estratégia de acompanhamento de resultados, como parte de sua atuação integrada às equipes de trabalho da empresa/instituição, pois estas estarão estimulando, cada vez mais, a criação de equipes especializadas em informação. Estes grupos de pessoas são aqueles que agregam valor à informação. São profissionais que interpretam, analisam e sintetizam os conteúdos dos dados colocados à disposição na empresa/instituição e/ou coletados de maneira meticulosa e consistente nos ambientes interno e externo. Tais equipes reúnem profissionais de áreas técnicas e gerenciais, cuja sinergia é orientada para o desempenho do "negócio". Neste grupo, as relações interpessoais e atributos de liderança, aliados ao conhecimento de fontes e acesso a tecnologias, indicam o cenário para o uso "inteligente" da informação e da criação de ambientes favoráveis ao comparti-lhamento e uso efetivo do conhecimento.
+
+Quanto ao uso das tecnologias, a própria evolução/obsolescência destas em espaços de tempo cada vez mais curtos tem dificultado a definição de cenários de formação profissional e de habilidades específicas. A digitalização, as linguagens de marcação de objetos de informação virtuais, o design de interfaces web e as linguagens estruturadas para bancos de dados relacionais são as tecnologias do final do século XX e do início do século XXI. Contudo, não há garantias que estas serão as tecnologias que permanecerão em um futuro próximo e, além disso, a tecnologia é um meio para um fim, isto é, uma ferramenta que auxilia os especialistas - em especial, da informação - a atingir seus propósitos e objetivos. Dessa forma e por menos criativo que possa parecer, as decantadas habilidades pessoais se sobrepõem aos conhecimentos profissionais quando se pretende vislumbrar um cenário a médio e largo prazo. Para os profissionais da informação, mais que o domínio de tecnologias ad hoc, importa sua capacidade de aprender de forma rápida e constante, sua flexibilidade para trabalhar em diferentes sistemas e exigências de informação e conhecimento, sua capacidade de assumir riscos; sua capacidade de atender ao público, suas habilidades interpessoais, sua capacidade de se adaptar às mudanças e sua capacidade de trabalhar de forma independente. Todavia, para que não se crie uma sensação de vazio, é possível arriscar a descrição de conhecimentos básicos exigidos já na virada do século e que podem ser projetados para os próximos anos. A demanda de atividades de informação exige, atualmente, conhecimentos sobre temas como:
+
+• redes de informação;
+
+• sistemas gerenciadores de bases de dados;
+
+• busca em bases de dados públicas e comerciais;
+
+• aplicações de microcomputadores e redes (LANs, WANs);
+
+• hardware;
+
+• programação;
+
+• produtos em CD-ROM (e similares);
+
+• produtos de informação multimídia;
+
+• tecnologia de imagem (Marion, 2001).
+
+Paralelamente a tais conhecimentos, o gestor da informação deve assumir uma postura e uma abordagem sociotécnica, identificando os grupos de trabalho com os quais deve interagir, "o quê" o grupo precisa para trabalhar (equipamentos, informação, ambiente etc.), a maneira como o grupo encara e controla variáveis e como as pessoas do grupo se inter-relacionam (seus papéis e fronteiras). A partir daí e preferencialmente na forma de gerenciamento de projetos, desempenhar as seguintes atividades:
+
+auxiliar
+
+• na definição das atividades do usuário e na explicitação de suas necessidades de informação;
+
+localizar e disseminar
+
+• informação de qualidade e criar consciência estratégica para a captação de informação de interesse;
+
+priorizar
+
+• informações relevantes para o usuário e/ou grupos de usuários;
+
+• qualidade da informação - no que diz respeito à exatidão, utilidade, aplicabilidade, contextualização e meio de difusão (papel, telefone, fax, e-mail etc.);
+
+personalizar
+
+• a forma de apresentação da informação;
+
+utilizar
+
+• ferramentas de modelagem e apresentação da informação - adaptando o estilo, vocabulário e ênfase -, visando a tornar a informação atraente;
+
+• metodologias para o desenvolvimento de sistemas de informação;
+
+desenvolver
+
+• pensamento crítico e analítico para entender problemas de informação e comunicação conforme as perspectivas técnicas, tecnológicas, organizacionais e pessoais;
+
+administrar
+
+• com a tecnologia de informação, analisando criticamente seu custo, qualidade e complexidade.
+
+O século XXI se inicia com a continuidade do paradoxo do excesso de dados e de informação, tornados acessíveis por um número crescente de canais de acesso e comunicação, e com a premente necessidade de um gerenciamento eficaz de tais recursos. O fluxo de dados e informação não mostra sinais de diminuição. Ao contrário, os esforços, metodologias e tecnologias voltadas à chamada "gestão do conhecimento" irão aumentar ainda mais o fluxo vertical e horizontal de dados e informações.
+
+Porém, qualquer processo que objetive o acesso a uma "informação correta" depende da estruturação e coordenação cognitiva do conjunto de dados colocado à disposição e oferecido como produto e/ou serviço de informação para determinado cliente (pessoas ou grupos). Ainda maior que a "explosão da informação" ou da "explosão dos meios de transmissão da informação", existe o paradoxo da capacidade de julgamento e das variadas demandas de informação das pessoas, que são por definição, únicas, incertas, equívocas e conflitantes. A criatividade e a percepção dos parâmetros de tempo e do valor associados à informação de que o cliente necessita são os requisitos básicos para o oferecimento de serviços e produtos. Mais que nos séculos anteriores e, em grande parte pelo uso intensivo da tecnologia, o cliente passará a exigir - sob o ponto de vista de sua comodidade e conveniência - a combinação de textos, gráficos, sons e imagens como resposta a suas demandas. Além disso, a própria tecnologia determina expectativas relacionadas à rapidez e formato do "objeto de informação" colocado como resposta à demanda, assim como o acesso a toda a informação por apenas uma fonte e que esta não seja redundante.
+
+A inserção do bacharel em gestão da informação na área de ciência da informação depende diretamente da capacidade de corresponder, pelo maior tempo possível, às exigências dinâmicas da sociedade, e que suas atividades contribuam para que os recursos de informação sejam mais rentáveis e eficazes na tomada de decisões. Para tal, o profissional deve avaliar as possibilidades de novos tipos de serviço e novas aplicações possíveis de serem implementadas a partir da tecnologia disponível, integrar e promover serviços em rede e atuar de forma efetiva na definição de políticas de informação. Tal visão "de resultados" e de exigência explícita de qualidade para esta atividade leva, inevitavelmente, a um composto de custos, preços e valores que devem ser definidos e negociados, assim como exige uma postura crítica e ética quanto aos processos que podem, artificialmente, tornar a informação escassa ou excessiva, prejudicando indivíduos e grupos em seus direitos intrínsecos e universais de acesso à informação de qualquer natureza.
+
+Mais do que um conjunto de técnicas e habilidades profissionais, o gestor de informação deve pensar e planejar estrategicamente, estruturar articulações políticas e analisar mercados e contextos. Para tal, exige-se dele alto nível de mobilidade pessoal e profissional, que lhe permita atuar não só como um empregado, mas como consultor e assessor, cuja competência estará igualmente sendo avaliada conforme seu grau de atualização, capacidade de empreendimento e criatividade.
+
+Todavia, por mais que se apliquem técnicas de administração e de tratamento/ distribuição de informação e que se dominem e se utilizem as mais variadas tecnologias e estruturas, muitas questões ainda permanecem, como, por exemplo:
+
+• Como determinar a relevância da informação produzida, recuperada ou consumida ?
+
+• Como determinar e avaliar a percepção e/ou a identificação de "níveis de satisfação" do cliente ?
+
+• Como lidar com o fato de o processo informativo acarretar uma inseparabilidade e a exigência de serviços personalizados "não-estocáveis"?
+
+• Como construir modelos e interfaces eficientes quando se pensa em produtos e serviços de informação em massa?
+
+E, ainda, como superar o chamado "paradoxo da informação", segundo o qual a efetiva recuperação da informação depende da habilidade do cliente de explicitar suas demandas de forma coerente e completa, o que é contraditório, pois, se ele soubesse com exatidão o que deseja e como vai utilizar a informação recuperada no tempo e no espaço disponível, certamente prescindiria de qualquer serviço, unidade ou profissional desta área.
+
+Novamente, a questão não é definir qual é o melhor profissional no campo de atividades de informação, ou se haverá uma tendência a se requerer monopólios ilusórios de atuação em instituições, produtos e serviços. A questão também não é saber quem detém a "melhor" maneira de gerir a informação, mas a capacidade de gerar, em conjunto, soluções diferenciadas para clientes também singulares em suas demandas e em ambientes onde a informação, se gerenciada de forma efetiva, ética e crítica, realmente possa definir espaços sociais, políticos, econômicos e culturais. A produção e consumo compartilhado de informações, com um enfoque gerencial, visa a aproveitar racionalmente um recurso que, embora abundante "em espécie", tende a ter gargalos para a sua utilização inteligente.
+
+
+
+Artigo aceito para publicação em 19-12-2001
+
+
+
+REFERÊNCIAS
+
+DILLON, Andrew. I think therefore IA? American Society for Information Science and Technology, v. 27, n. 2, Dec./Jan. 2001 
+
+DUPAS, Gilberto. Globalização, exclusão e governabilidade. In: CONFERÊNCIA LATINO- AMERICANA E CARIBENHA DE CIÊNCIAS SOCIAIS, 1., 1999, Recife. Anais... Recife : [S. n.], 1999. 
+
+FURTADO, Celso. Os desafios da globalização. Folha de São Paulo, São Paulo, p. 3, 1 dez. 1996. 
+
+HORTON JUNIOR, Forest Woody. Needs and careers in information services. FID News Bulletin, v. 42, n. 2, p. 32-34, Feb. 1992 
+
+INSTITUTE OF INFORMATION SCIENTISTS. Criteria for information science. Disponível em: <http://www.iis.org.uk/membership/Criteria.html>. Acesso em: ago. 2001 
+
+INTERNATIONAL FEDERATION FOR INFORMATION AND DOCUMENTATION. Training on information resources management. The Hague, 1994. 138 p. (FID Occasional Paper, n. 7)
+
+MANUAL de gestão de serviços de informação. Curitiba : TECPAR/Brasília : IBICT, 1997. 257 p. 
+
+MARCHIORI, Patricia Zeni. Bibliotecários, jornalistas e informáticos: a ocupação de posições relativas no campo de atividades de informação. Transsinformação, Campinas, v. 8, n. 1, p. 89-111, jan./abr. 1996. 
+
+MARION, Linda. Digital librarian, cybrarian, or librarian with specialized skills : who will staff digital libraries. In: ACRL NATIONAL CONFERENCE,10., 2001. Proceedings… Colorado : [S. n.], 2001. 
+
+OPEN horizons: three scenarios for 2020 : the 1998 report from the Chatham House Forum. In: SKILLS for knowledge management: a briefing paper based on research udertaken on behalf of the Library and Information Comission. [S. l. : s. n.], 1999. Disponível em: < http://www.lic.gov.uk/publications/executivesummaries/kmskills.html>. Acesso em: ago. 2001. 
+
+PONJUAN DANTE, Glória. Gestión de información en las organizaciones: principios, conceptos y aplicaciones. Santiago : CECAPI, 1998. 222 p. 
+

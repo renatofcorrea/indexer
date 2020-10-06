@@ -1,0 +1,335 @@
+A acessibilidade à informação no espaço digital
+
+
+RESUMO
+
+O trabalho aborda aspectos referentes à acessibilidade no espaço digital. Uma ênfase especial é dada às situações relacionadas à interação das pessoas portadoras de deficiência com a informação, em ambientes de bibliotecas. O texto propõe algumas adequações para a acessibilidade ao espaço digital, conforme categorias de usuários, com o intuito de contribuir para um maior nível de acessibilidade à informação, nesse espaço.
+
+Palavras-chave: Acessibilidade; Espaço digital; Bibliotecas; Pessoas portadoras de deficiência; Ajudas técnicas.
+
+
+
+INTRODUÇÃO
+
+A acessibilidade é um processo dinâmico, associado não só ao desenvolvimento tecnológico, mas principalmente ao desenvolvimento da sociedade. Apresenta-se em estágios distintos, variando de uma sociedade para a outra, conforme seja a atenção dispensada à diversidade humana, por essa sociedade, à época.
+
+A acessibilidade é um conceito que envolve tanto aspectos do espaço físico, o espaço em que vivemos, como do espaço digital. A legislação brasileira1 conceitua acessibilidade como sendo a possibilidade e condição de alcance para utilização, com segurança e autonomia, dos espaços, mobiliários e equipamentos urbanos, das edificações, dos transportes e dos sistemas e meios de comunicação por pessoa portadora de deficiência ou com mobilidade reduzida.
+
+As primeiras batalhas e conquistas do movimento pró-acessibilidade foram referentes ao espaço físico, tais como os projetos livres de barreiras e a inclusão da satisfação do usuário com a usabilidade do produto, no ciclo dos projetos dos produtos. Embora não se possa considerar que a acessibilidade já tenha sido alcançada, no espaço físico, particularmente na sociedade brasileira, os movimentos pró-acessibilidade seguem avançando, e atualmente consta, entre seus objetivos, alcançar a acessibilidade no espaço digital, o espaço das comunicações via computador.
+
+As possibilidades que este novo espaço, o espaço digital, criado pelas tecnologias de informação e comunicação, traz para o atendimento às distintas formas de interação das pessoas com a informação, respeitando as suas preferências e limitações, tanto aquelas relacionadas aos equipamentos utilizados, quanto às limitações orgânicas, são apresentadas, ao longo do artigo. Atenção especial é dada à discussão sobre a relação existente entre as bibliotecas e a acessibilidade no espaço digital, apresentando-se algumas adequações para a acessibilidade que podem e devem ser adotadas nos serviços prestados pelas bibliotecas.
+
+
+
+O ESPAÇO DIGITAL
+
+O espaço digital pode ser considerado como um outro espaço. Embora penetre no espaço tridimensional (3D) em que vivemos, possui propriedades intrínsecas a ele, que o caracterizam como um espaço distinto do espaço 3D no qual estamos imersos. Conforme De Las Heras (2000), é importante observar que o espaço digital não é um espelho do espaço tridimensional, embora, a princípio, por inércia, haja uma "tendência" a se repetir nele o que se faz no 3D, e assim se passam para ele os arquivos, os livros, os filmes, a música etc. Da análise que esse autor apresenta sobre as propriedades do espaço digital destacamos:
+
+densidade – o espaço digital é denso, mas não sofre saturação. Ou seja, possui uma alta capacidade de armazenamento de informações, mas não se satura, pois sempre é possível estender-se esse espaço, o que ocorre, por exemplo, toda vez que se cria um novo sítio web, ou um material multimídia em CD.
+
+
+
+ubiqüidade – uma mesma informação está em lugares distintos;
+
+
+
+deslocação – é possível deslocar-se rapidamente neste espaço, de um endereço em URL2, por exemplo, passa-se facilmente a outro, em qualquer ponto da web;
+
+
+
+hipertextualidade – o texto obedece a uma nova geometria, sem a necessidade de páginas, e são as palavras que vão abrindo o texto, à medida que se fixa a atenção nelas e que são utilizadas para abrir novas conexões.
+
+
+
+
+
+A presença desse novo espaço já foi incorporada em vários modelos teóricos, desenvolvidos por autores de renome internacional. Echeverria (2001) referencia vários desses autores e relaciona entre esses os trabalhos de McLuhan (aldeia global), Töffler (terceira onda), Gore (ciberespaço, autopistas da informação), informe Bangemann (sociedade da informação), Barlow (nova fronteira eletrônica), Negroponte (mundo digital), De Kerckhove (mentes interconectadas), Lévy (mundo virtual), Castells (sociedade-rede), União Européia 2000 (espaço eletrônico) etc.
+
+A esse conjunto de expressões já utilizadas como referências ao espaço digital, Echeverria (2001) acrescenta mais uma e propõe o termo terceiro entorno3 (E3), referindo-se a um novo espaço-tempo no qual os seres humanos se desenvolvem (no sentido individual, comunitário, lingüístico etc.). E são as novas tecnologias da informação e das comunicações (TIC) que possibilitam a construção desse novo espaço-tempo social. Esse autor considera sete tecnologias como sendo as construtoras do E3: o telefone, a televisão (radiotelevisão), o dinheiro eletrônico, as redes telemáticas (tipo Internet ou de outros tipos), as tecnologias multimídia (discos duros, cd-rom, DVD etc.), os videojogos e as tecnologias de realidade virtual.
+
+Devido a essas características, peculiares ao espaço digital, tem havido uma forte tendência a se levar para ele a maior parte dos documentos e informações importantes, sendo este, atualmente, o espaço original em que são produzidos os novos documentos e, para o qual, são transferidas todas as informações recuperadas, em obras raras e outros documentos importantes, anteriormente existentes apenas em suportes não-digitais como o papel, o papiro, as telas etc. Para De Las Heras (2000), isso ocorre porque o espaço digital exerce um forte efeito atrator sobre o espaço tridimensional e por isso vão surgindo as versões digitais das escolas, das empresas, das bibliotecas, dos fóruns, das reuniões, dos bate-papos, dos jogos, dos livros, das músicas etc. Não se pode, contudo, esquecer que este espaço permite não apenas a reprodução do que se faz no espaço tridimensional, mas também permite a criação do "novo", daquilo que ainda não foi possível se fazer no espaço tridimensional. Construir a acessibilidade à informação é uma dessas possibilidades ainda não alcançada.
+
+
+
+O DESENHO PARA TODOS NO ESPAÇO DIGITAL
+
+Embora pareça contraditório, pode-se afirmar que as barreiras arquitetônicas não são o maior obstáculo enfrentado pelas pessoas portadoras de deficiência. O maior obstáculo está no acesso à informação e, conseqüentemente, a aspectos importantes relacionados à informação, como a educação, o trabalho e o lazer. A preocupação atual dos defensores da acessibilidade está em garantir que esses princípios sejam observados também no espaço digital, o espaço da informática e das comunicações. A Internet tem sido muito usada para exemplificar esse conceito, por conter aspectos fundamentais de ambas as tecnologias.
+
+Uma Internet acessível implica que ela esteja disponível às pessoas, tanto no aspecto financeiro quanto no formato, ou na mídia, em que as informações são divulgadas. A flexibilização da apresentação da informação em formas distintas, que apresentem correspondência em termos de conteúdo, deve ser considerada, tanto como uma questão de necessidade, como de preferência de alguns usuários. A necessidade pode se manifestar pela impossibilidade de aceder à informação divulgada de uma única forma, sempre que essa forma se torna inacessível, seja devido às características técnicas dos equipamentos dos usuários (qualidade e custo das tecnologias utilizadas), ou pelas características corporais dessas pessoas (por exemplo: deficiências sensoriais, problemas de coordenação motora etc.). A preferência se manifesta quando os usuários optam por ter o acesso à informação através da mídia que mais lhes convém, ou mais lhes agrada, conforme seja o seu estilo de aprendizagem.
+
+Embora não existam, ainda, mecanismos intergoverna-mentais que promovam a acessibilidade dos conteúdos disponibilizados via Internet, alguns países vêm adotando políticas nesse sentido, particularmente no que diz respeito aos sítios web de suas repartições públicas. Austrália, Canadá, Estados Unidos e Portugal se encontram entre os países pioneiros a adotar políticas nesse sentido.
+
+Esforço internacional notável, pró-acessibilidade no espaço digital, tem sido feito pelo W3C4, que atua como gestor de diretivas para a Internet. Foram definidas, por esse comitê internacional, algumas recomendações para a construção de páginas web, aplicáveis também a outros documentos disponibilizados no espaço digital, que podem ser resumidas por meio da adoção desses princípios:
+
+Assegurar uma transformação harmoniosa da informação – Apresente a informação de mais de uma maneira. Por exemplo: o que for áudio deve ter uma versão em texto; o que for imagem deve ser descrito. Este princípio se justifica tanto em função de possíveis limitações dos usuários quanto da existência de tecnologias de qualidades distintas.
+
+
+
+Fazer o conteúdo compreensível e navegável – Use um estilo bem simples, observe a estrutura lógica do documento, em termos da compreensão dos seus diversos pontos de enlace. O usuário pode ter dificuldades em compreender a informação, seja devido ao idioma, seja devido ao contexto em que ela é apresentada.
+
+
+
+
+
+Deve-se lembrar que todas as propostas apresentadas no sentido de obter a acessibilidade na Internet são aplicáveis também a outros textos e documentos de interesse público, disponibilizados nas bibliotecas em outros suportes digitais, como cd-rom, disquete, DVD etc.
+
+A não-observância da acessibilidade no espaço digital pelos autores dos materiais disponibilizados nessa forma pode ser considerada como uma discriminação feita a milhares de usuários, quantidade essa que se torna não mensurável quando essa informação aparece em sítios web de acesso livre. A luta por sítios web acessíveis está incluída entre as exigências por igualdade de condições, conduzidas pelos movimentos das pessoas com limitações oriundas de deficiências, nos países em que o processo de informatização da sociedade está mais avançado.
+
+
+
+ACESSIBILIDADE NO ESPAÇO DIGITAL
+
+A acessibilidade no espaço digital consiste em tornar disponível ao usuário, de forma autônoma, toda a informação que lhe for franqueável (informação para a qual o usuário tenha código de acesso ou, então, esteja liberada para todos os usuários), independentemente de suas características corporais, sem prejuízos quanto ao conteúdo da informação. Essa acessibilidade é obtida combinando-se a apresentação da informação de formas múltiplas, seja através de uma simples redundância, seja através de um sistema automático de transcrição de mídias, com o uso de ajudas técnicas (sistemas de leitura de tela, sistemas de reconhecimento da fala, simuladores de teclado etc.) que maximizam as habilidades dos usuários que possuem limitações associadas a deficiências.
+
+Como o espaço digital se estende por todo o espectro das comunicações, via televisão digital, computadores e redes telemáticas, é este o espaço no qual o direito à informação, de uma forma acessível, deve ser reivindicado e desenvolvido.
+
+Existem níveis distintos de obstáculos para a acessibilidade digital. Romañach (2002) faz uma analogia com os obstáculos criados pelas escadas no espaço físico e considera a existência de três distintos degraus. Para se alcançar essa acessibilidade, é necessário superar os obstáculos correspondentes aos seguintes degraus:
+
+degrau 1 – Poder acionar os terminais de acesso à informação: telefones, computadores, caixas de auto-atendimento bancário, quiosques virtuais etc.
+
+
+
+degrau 2 – Poder interagir com os elementos da interface humano-máquina tais como os menus de seleção, botões lógicos, sistemas de validação etc.
+
+
+
+degrau 3 – Poder aceder aos conteúdos que são disponibilizados nos terminais, sejam informação financeira, lúdica, geral, vídeos, imagens, áudio etc.
+
+
+
+
+
+Associada à acessibilidade dos sítios web existem formas de verificar e certificar a qualidade dessas páginas. São apresentados, como exemplo, o selo de certificação do BOBBY, o pioneiro nesse tema, e o selo do W3C, considerado, atualmente, como o mais completo e disponibilizado em três graus distintos de qualidade.
+
+A preocupação com a acessibilidade digital está presente nas políticas públicas de informatização, em muitos países, e deverá, necessariamente, estar presente, quando se pensar em uma sociedade da informação para todos.
+
+As ajudas técnicas informáticas e sua contribuição para o acesso à informação e a construção do conhecimento
+
+Qual é o espaço ocupado pelo ser humano? Hoje se aceita o ser humano também como um ser social, é indivíduo e é parte de um organismo maior, constituído pelas demais pessoas com as quais convive. E, como indivíduo, quais são as fronteiras do seu ser? Essa é uma questão que tem ocupado os filósofos, como Georges Canguilhen (1995, p. 162),
+
+"[...] o homem, mesmo sob o aspecto físico, não se limita a seu organismo. O homem, tendo prolongado seus órgãos por meio de instrumentos, considera seu corpo apenas como um meio de todos os meios de ação possíveis."
+
+
+
+Essa extensão do ser humano, por meio de instrumentos é ainda mais evidenciada para as pessoas portadoras de deficiência, e se efetiva com ajudas técnicas. Considera-se ajuda técnica qualquer produto, instrumento, equipamento ou sistema técnico utilizado por uma pessoa com limitações oriundas de deficiência, fabricado especificamente ou disponível no mercado, criado para prevenir, compensar, mitigar ou neutralizar a deficiência, incapacidade ou menus valia dessa pessoa. Essa definição foi adotada pela Organização Internacional de Normalização, em sua ISO 9999.
+
+
+
+
+
+Uma tecnologia, embora possa ter a sua concepção motivada por determinada categoria de deficiência, depois de criada tem as possibilidades de sua utilização ampliadas. Há pouco tempo, seria inconcebível pensar que uma pessoa surda poderia usar, sem intermediários, um aparelho de telefone para se comunicar. Hoje, esta facilidade já está disponível para os usuários de telefones celulares de mensagem.
+
+Uma outra tecnologia que atende a distintas categorias de usuários são os programas de reconhecimento da fala. Embora esta tecnologia esteja sendo aperfeiçoada, vários produtos já estão sendo comercializados. Entre os seus possíveis usuários, estão pessoas com deficiência de coordenação motora para digitar, pessoas com deficiência visual e qualquer pessoa que prefira ditar em vez de digitar. Falta alguém nesta relação? Sim, estão faltando os surdos que dominam a técnica da oralidade, que podem utilizar este produto simplesmente como as demais pessoas (que pensam que é mais prático ditar do que digitar) e podem, também, encontrar neste produto uma outra finalidade, utilizando-o como uma forma de exercitar e aperfeiçoar a sua oralidade.
+
+Por isso, embora na prática do dia-a-dia primeiro esteja a pessoa com comprometimentos no desempenho de determinadas atividades, e seja a partir daí que surge a motivação para pesquisar por ajudas técnicas adequadas a essa pessoa, as categorizações, conforme Sanchez Montoya (1999), são mais bem apresentadas a partir da descrição da contribuição feita por essa tecnologia. É a partir daí que se analisa se haverá ou não benefícios para as pessoas com deficiência visual, para as com deficiência auditiva, para as com deficiência de motricidade, para as com deficiência cognitiva ou, até mesmo, para as pessoas sem deficiência.
+
+Quando se analisa a presença da informática, em sistemas utilizados por pessoas portadoras de deficiência, é possível estabelecer algumas categorias. Apresenta-se, a seguir, uma categorização das ajudas técnicas informáticas, conforme Mazzoni & Torres (2001).
+
+No âmbito da educação, encontram-se sistemas de ajuda para:
+
+trabalhar com o computador – como dar instruções, compreender as ações executadas pela máquina, obter e analisar as saídas, acessar os periféricos etc.;
+
+
+
+aprendizagem – aprender sobre ajudas técnicas específicas de interesse próprio (como o uso de um sistema que faz a leitura de telas), desenvolver a fala, aprender e desenvolver a língua de sinais, conhecer a língua de sinais de outros povos, aprender línguas e culturas de outros países, conhecimentos sobre Braille, fixar condutas esperadas, exercitar determinadas habilidades etc.;
+
+
+
+comunicar-se por meio do computador – utilizar o computador como intermediário na conversa com outra pessoa, com ou sem deficiência, utilizando linguagens verbais ou linguagens não-verbais, como, por exemplo, os pictogramas;
+
+
+
+
+
+No âmbito mais geral, podem ser relacionados:
+
+Sistemas para Mobilidade – auxiliam no deslocamento da pessoa, seja em casa ou na rua, permitindo deslocamentos com algum grau de autonomia, como sistemas para reconhecimento eletrônico de referenciais espaciais, sistemas para acionamento de semáforos, dispositivos para anotações e veículos adaptados às características dos usuários, sistemas para identificação de conduções (ônibus e trens) conforme a linha desejada;
+
+
+
+Sistemas para Controle do Entorno – facilidades tais como acender ou apagar as luzes, abrir portas, acionar os aparelhos domésticos, fazer ligações telefônicas para números selecionados etc .
+
+
+
+
+
+Deve-se destacar que, se para algumas pessoas as ajudas técnicas atuam como complemento, permitindo que melhorem a forma como desempenham as atividades, para outras elas são imprescindíveis, sendo por meio delas que seus intelectos conseguem se expressar. Para este segundo grupo de pessoas, é a tecnologia que intermedia a sua comunicação com o mundo, tanto nas situações de educação como nas demais interações sociais.
+
+É importante ter sempre em mente que nem tudo que é divulgado na forma digital vai ser recebido pelo usuário, se não foi pensado o aspecto da acessibilidade a essa informação, no momento em que se concebeu o conteúdo da mesma. Será que os conteúdos didáticos elaborados pelas equipes de desenvolvimento de cursos, com os recursos de multimídia propiciados pela informática, estão chegando ao nível de percepção de seus alunos? Para que servem uma foto sem a descrição e uma canção sem a letra, em um CD didático, por exemplo, para um aluno cego e um aluno surdo, respectivamente?
+
+Hoje, considera-se que o desenvolvimento de materiais didáticos de boa qualidade a serem utilizados em cursos conduzidos no espaço digital exige o envolvimento de uma equipe constituída por profissionais com distintas competências, tais como os autores responsáveis pelos conteúdos abordados, os construtores do ambiente do curso no qual ocorre a interação humano-computador, os desenvolvedores das opções em multimídia, os tutores, os monitores, os profissionais de suporte técnico responsáveis pela rede e pelo banco de dados etc. Cabe a essa equipe de desenvolvimento, além dos conhecimentos referentes ao uso dos computadores (metodologias e demais conhecimentos técnicos) e das ajudas técnicas informáticas, preocupar-se também com os conteúdos que estão sendo disponibilizados aos seus alunos, respeitando os estilos de aprendizagem e as possibilidades de percepção dos mesmos. A informação que não é divulgada, ou não pode ser captada, de forma redundante não é uma informação realmente acessível. A redundância é obtida quando se cuida para que haja um equivalente textual para os conteúdos divulgados por meio de imagens ou de sons, ou seja, deve-se combinar o uso do som com o uso do texto e as imagens. Quando usadas, seja em forma estática ou dinâmica, devem ter um correspondente textual.
+
+Atualmente, existem ajudas técnicas que permitem transformar o texto escrito digitalizado em som, e já existe a possibilidade de captar textos falados e transformá-los em texto escrito digitalizado, porém as imagens, sejam estáticas ou em movimento, necessitam de descrição para se obter um equivalente textual para as mesmas.
+
+
+
+COMO CONSTRUIR A ACESSIBILIDADE, RESPEITANDO AS LIMITAÇÕES APRESENTADAS PELOS USUÁRIOS
+
+Janik (1997) opina que mais que ser um espaço privilegiado para o acesso à informação e à cultura, as bibliotecas desempenham um importante papel na integração das pessoas com limitações oriundas de deficiência, cabendo aos profissionais que atuam nas bibliotecas conhecer e saber atender às necessidades desses usuários, para que a informação desejada possa chegar a eles. Essa autora analisa a necessidade de que os serviços bibliotecários estejam atentos às necessidades peculiares de seus usuários afetados por deficiências.
+
+Para efeitos deste estudo sobre a acessibilidade no espaço digital, será desenvolvida a análise referente às adequações de acessibilidade necessárias para um correto atendimento a usuários com limitações associadas com a audição, a visão e a motricidade. A atenção a esse conjunto de requisitos deve ser considerada como imprescindível, ou como meta a ser alcançada, para todos os serviços disponibilizados pelas bibliotecas que já atuam no espaço digital.
+
+Os usuários dos serviços de biblioteca podem chegar ao espaço digital, relacionado a essa biblioteca, de duas maneiras: de forma remota, acessando os serviços e acervo disponibilizado, via on-line, ou então de forma presencial, comparecendo à biblioteca e, a partir daí, acessando o acervo. Quando o acesso à biblioteca ocorre de forma remota, os problemas de acessibilidade que o usuário venha a enfrentar são de responsabilidade da biblioteca, no que diz respeito apenas ao segundo e terceiro degraus. Conforme definidos por Romañach (2002), respectivamente o ambiente de interação com a biblioteca e o acesso aos conteúdos disponibilizados. Quando interage com o espaço digital, a partir da própria biblioteca, podem surgir também os obstáculos do primeiro degrau, que diz respeito a poder utilizar os equipamentos disponibilizados, os quais devem estar equipados com as ajudas técnicas adequadas, conforme seja a necessidade do usuário.
+
+Para a elaboração das adequações de acessibilidade sugeridas aos responsáveis pelas bibliotecas, para melhor atenção aos seus usuários com limitações oriundas de deficiência, de maneira a que não tenham restringido o seu direito de acesso à informação, foi considerada a existência desses três degraus. Essas adequações dizem respeito tanto às ajudas técnicas a serem adquiridas pelas bibliotecas como também aos requisitos mínimos que devem ser solicitados aos desenvolvedores dos sistemas de informação e documentação destinados ao uso específico das bibliotecas, tais como acesso a bases de dados, consulta ao catálogo e acesso à biblioteca virtual.
+
+a) Adequações de acessibilidade para usuários com limitações associadas à motricidade
+
+Visa a atender a usuários com problemas de coordenação motora e mobilidade, seja devido a quadros de paralisia, a amputações, má-formação dos membros etc. Cabe destacar que essa categoria de usuários é a que requer mais atenção no que diz respeito à acessibilidade ao espaço físico, espaço no qual se encontram os equipamentos a serem utilizados, na interação com o espaço digital.
+
+Independência do uso do mouse, principalmente como dispositivo apontador. Isso pode ser obtido com outros dispositivos de mais fácil utilização pelo usuário, que atuem como acionadores do mouse ou então por meio de comandos do teclado.
+
+
+
+Independência do uso do teclado, substituindo-o por simuladores do teclado via software, acionados por movimentos voluntários, tais como sopro, toques em acionadores, movimentos de cabeça etc.
+
+
+
+Independência do uso simultâneo de várias teclas. Essa possibilidade está disponível nos sistemas operacionais geralmente em uso nos computadores domésticos, devendo ser acionada se o usuário a necessitar.
+
+
+
+Flexibilidade no tempo de resposta, na interação com o sistema. Os sistemas não podem, sob nenhum motivo, desconectar usuários que demoram a realizar os procedimentos. Essa lentidão deverá também ser considerada no caso de acesso a serviços que são pagos em função do período de utilização.
+
+
+
+
+
+b) Adequações de acessibilidade para usuários com limitações associadas à audição
+
+Visa a atender a usuários com baixa audição e aos surdos, sejam eles oralizados ou não. Deve-se observar que, entre esses usuários, nem todos se comunicam por meio de Libras5, que é a Língua Brasileira de Sinais.
+
+Os materiais audiovisuais devem estar legendados, preferentemente tanto com legendas em texto como em Libras;
+
+
+
+Opções para controle do volume, no hardware disponibilizado pela biblioteca para a utilização desses usuários;
+
+
+
+Acesso visual à informação sonora (por meio da transcrição em equivalentes textuais ou pictóricos) e uma sinalização visual para os eventos do sistema em utilização (como estados do sistema, envio e recepção de mensagens na Internet etc.).
+
+
+
+Serviços para a transcrição em texto de documentos digitais orais.
+
+
+
+
+
+c) Adequações de acessibilidade para usuários com limitações associadas à visão
+
+Visa a atender a usuários com baixa visão e aos cegos. Deve-se observar que, entre esses usuários, nem todos sabem ler em Braille.
+
+Opções para ampliação da imagem e modificação dos efeitos de contraste na tela. Isso pode ser obtido, por exemplo, com o uso de software que faça a ampliação e também com navegadores de uso geral que permitam a modificação no tamanho das fontes usadas no texto.
+
+
+
+Independência do uso do mouse como apontador, com um uso maior do teclado. Isso exige que a estrutura dos documentos seja analisada, sob o aspecto de como ocorre a seqüência de navegação pela mesma, quando se utilizam apenas os recursos do teclado.
+
+
+
+Uso de software6 para leitura de tela, ao qual está associado sintetizador de voz. Quanto aos documentos a serem consultados, utilizando-se sistemas de leitura de tela, é importante que seja verificada a estrutura dos documentos, sob o aspecto do agrupamento das informações e também sob a compreensão do significado dos elos, ou seja, o resultado que será obtido quando se escolha um caminho na navegação dentro dos hipertextos.
+
+
+
+Opção para o acesso sonoro à informação, seja ela texto, via arquivo em formato compatível com o sistema de leitura de tela em uso, ou imagem, por meio da utilização da transcrição das partes visuais dos documentos (fotos,desenhos, mapas etc.), em equivalentes textuais.
+
+
+
+Opções para o acesso à informação em Braille, seja na forma de texto impresso, seja por intermédio do periférico linha Braille.
+
+
+
+
+
+A CONSTRUÇÃO DE HIPERTEXTOS ACESSÍVEIS E A TRANSCRIÇÃO DA INFORMAÇÃO
+
+As possibilidades de utilização dos recursos multimídia trazem grandes contribuições para a produção de materiais didáticos digitais, permitindo o respeito ao ritmo de aprendizagem dos educandos, como também ao estilo de aprendizagem dos mesmos. Contudo, é necessário lembrar que há um grupo importante de usuários com problemas de deslocamento, no plano físico, e de "navegação", no espaço digital, para os quais o critério estético pode ser um obstáculo. Deve-se considerar sempre que a estética não precisa ser adversária da acessibilidade.
+
+O fato de muitos autores didáticos se esquecerem das pessoas com limitações oriundas de deficiência está gerando prejuízos de conteúdo programático para esses educandos, em termos de livros, e algo semelhante ocorre em termos do software. Cuidado especial deve-se tomar com a elaboração de equivalentes textuais, para as imagens e os sons.
+
+Como pode um equivalente textual tornar acessível uma imagem? Atenção especial deve ser dada a esta questão por todos os autores que trabalham com a multimídia. O conteúdo textual pode ser apresentado ao usuário sob a forma de discurso sintetizado, em Braille, ou ainda em texto visível. Cada um destes três processos faz apelo a um sentido diferente, permitindo assim que essas informações se tornem acessíveis a grupos representativos de um vasto leque de limitações e deficiências e também a pessoas que não possuem incapacidades orgânicas, mas dispõem de tecnologia de qualidade distinta daquela que o desenvolvedor do produto considera como padrão, tanto em termos do software como de equipamentos. Por exemplo, a maioria dos usuários domésticos, por motivos financeiros, opta por imprimir em preto em branco, ficando assim eles também beneficiados pela adoção da prática de construir um equivalente textual para as imagens.
+
+Para ser verdadeiramente útil, o texto tem de transmitir a mesma função ou finalidade que a imagem ou som. Essa é uma das exigências para a acessibilidade de conteúdos digitais, conforme o W3C:
+
+Diretiva 1 do W3C – Fornecer alternativas ao conteúdo sonoro e visual.
+
+Proporcionar conteúdo que, ao ser apresentado ao usuário, transmita, na essência, as mesmas funções e finalidade do que o conteúdo sonoro ou visual.
+
+Como se constrói um equivalente textual? Considere o caso do equivalente textual de uma imagem fotográfica de uma paisagem de praia. Esse exemplo ajuda a compreender os conceitos envolvidos.
+
+Se a finalidade da imagem é, sobretudo, decorativa, um texto do tipo "Fotografia da praia de Pasárgada" pode preencher a função necessária.
+
+
+
+Já, se a finalidade da fotografia for ilustrar uma informação, bem determinada, acerca da geografia dessa região, o equivalente textual tem de transmitir essa informação. Por exemplo: "Observa-se na foto que a praia apresenta uma baía, na qual está contida uma grande ilha."
+
+
+
+Se a fotografia tiver sido inserida no hipertexto para indicar ao usuário que ele deve selecionar a imagem (por exemplo, fazendo clique sobre ela), o equivalente textual poderá ser: "Acesse aqui as informações turísticas sobre Pasárgada".
+
+
+
+
+
+Cada autor é o responsável pelos seus documentos disponibilizados no espaço digital (como artigos, dissertações e teses), devendo, portanto, cuidar para que os mesmos atendam aos critérios de acessibilidade.
+
+
+
+A RELAÇÃO ENTRE AS BIBLIOTECAS E A ACESSIBILIDADE NO ESPAÇO DIGITAL
+
+Conforme Janik (1997), nos dias atuais, nenhuma pessoa deve considerar que o acesso aos serviços de biblioteca seja um luxo, não-prioritário, para os cidadãos com limitações oriundas de deficiência. Essa autora opina que as bibliotecas, sobretudo as públicas, devem colocar à disposição de todas as pessoas, sem distinção de nível escolar ou intelectual, os documentos de que elas necessitam, levando em consideração as suas capacidades pessoais e o ritmo conveniente a elas. Quando discute o que as bibliotecas podem fazer, para favorecer a integração dessas pessoas, a autora citada relaciona entre os serviços principais a serem dispensados a "acolhida".
+
+E o que é uma boa acolhida para uma pessoa que utiliza uma biblioteca, consultando obras ou solicitando serviços, principalmente por intermédio do espaço digital? Ser acolhido, neste contexto, significa poder utilizar os mesmos serviços que são disponibilizados aos outros usuários, e o sinal de boas-vindas a esses serviços, para as pessoas com limitações oriundas de deficiência, é representado pela presença de um dos selos de acessibilidade, como o Bobby Approved ou o W3C-WAI, anteriormente apresentados na página institucional da biblioteca, que é disponibilizada na Internet.
+
+Parafraseando as palavras de Mazzoni et alii (2001), se oferecemos condições de acessibilidade às pessoas portadoras de deficiência, nós as encontraremos ao nosso lado, nas salas de aula e nas bibliotecas. Caso contrário, se essas condições não forem oferecidas, elas precisarão chegar até às informações, procurando-as pelo mundo digital. E esse mundo digital é um espaço em expansão, o espaço digital, que se estende por vários outros níveis, além dos sítios web da Internet. Conforme Blattmann & Alves (1999):
+
+"Tendo a tecnologia da informação como pano de fundo, os acervos de bibliotecas evoluíram no que se refere aos suportes da informação do papel, passando pelas bases de dados (cd-rom, acesso a rede de computadores para dados compartilhados, acesso via rede) e pelo acesso à informação hipermídia disponível on-line (qualquer lugar a qualquer tempo)."
+
+A percepção da existência do espaço digital tem sido registrada por vários autores. Rodrigues (1996) analisa como a inércia apontada por De Las Heras (2000) está presente no setor de documentação e intui a necessidade de que esse espaço seja mais bem explorado:
+
+"Até agora, os documentos digitais pouco mais têm sido do que réplicas (versões ampliadas e melhoradas) dos livros e outros documentos tradicionais em papel. É previsível que o recurso sistemático à edição eletrônica e aos suportes digitais provoque uma mudança de paradigma e o aparecimento de novos tipos de documentos, sem qualquer correspondência com os existentes em suportes tradicionais. Por outro lado, a conjugação desta tendência com a distribuição em rede pode resultar no aparecimento de novos produtos/serviços [...]."
+
+Observa-se, portanto, que o espaço digital já está incorporado às atividades das bibliotecas bem equipadas, sendo a essência das bibliotecas virtuais e sendo, por outro lado, indispensável para muitas das atividades das bibliotecas com sede física.
+
+O espaço digital passou, assim, a ser a via mais transitável por todas as pessoas que procuram informações e dispõem de acesso à Internet e aos computadores. E este pode ser um espaço mais socialmente inclusivo, caso ofereça acessibilidade a todos, respeitando suas capacidades e limitações.
+
+As bibliotecas devem cuidar para que seja permitida a participação de todos os seus usuários, aos serviços que disponibiliza, usando para tanto mídias alternativas de suporte à informação que sejam compatíveis àquelas com as quais os usuários afetados por deficiência estão familiarizados a ter contato com as informações. Isso se aplica, observando, inicialmente, quais são as incapacidades que as pessoas apresentam (por exemplo: para ler em tinta, para ler em Braille, para ouvir, para falar, para manipular objetos etc.) para que em seguida seja encontrada uma forma de disponibilizar a informação, na qual as capacidades que as pessoas possuem possam ser desempenhadas e o objetivo original de obter à informação desejada seja alcançado.
+
+Esse objetivo se concretiza pelo uso combinado de ajudas técnicas com conteúdos digitais acessíveis. Faz-se necessária, também, a existência de um suporte adequado a esses usuários, tanto para a utilização das ajudas técnicas, quanto na preparação de materiais alternativos, tais como a digitalização de textos disponíveis apenas em impresso, a transcrição em texto de documentos orais e a descrição de documentos visuais.
+
+
+
+CONSIDERAÇÕES FINAIS
+
+O espaço digital permite a realização do novo, sendo possível oferecer um atendimento muito mais amplo à informação, que pode ser exibida em toda a sua riqueza, apresentada de diferentes formas. É importante que esta possibilidade seja utilizada para se garantir a acessibilidade aos conteúdos, atendendo-se, assim, a todas as características das pessoas, tanto em suas limitações quanto em suas preferências.
+
+A acessibilidade digital deve ser considerada como um requisito para toda atualização que se faça nos sistemas de informação e documentação utilizados pelas bibliotecas, como também nas ocasiões em que se amplia o acervo, com títulos multimídia, e se adquirem novos produtos e equipamentos.
+
+
+
+REFERÊNCIAS
+
+BLATTMANN, U.; ALVES, M. B. M. Organizações virtuais da informação. Disponível em : <http://www.geocities.com/ublattmann/papers/orgvirt1.html>. Acesso em: 20 jun. 2002. 
+
+CANGUILHEM, Georges. O normal e o patológico. Rio de Janeiro : Forense Universitária, 1995. 
+
+DE LAS HERAS, A R. Las propiedades del espacio digital. In: CONGRESO IBEROLATINOAMERICANO DE INFORMÁTICA EDUCATIVA ESPECIAL, 2. 2000, Córdoba. Anais ... Córdoba : [s. n.], 2000. 1 CD-ROM. 
+
+ECHEVERRIA, Javier . Impacto social y linguístico de las nuevas tecnologías de la información y las comunicaciones In: TROIS espaces linguistiques face aux défis de la mondialisation. Paris : [s. n.], 2001. 
+
+JANIK, Sophie. Place aux personnes handicapées dans nos bibliotèques. Quebéc : Office des Personnes Handicapées du Quebec, 1997. 
+
+MAZZONI, A. A. et al. Aspectos que interferem na construção da acessibilidade em bibliotecas universitárias. Ciência da Informação, Brasília, v. 30, n. 2, p. 29-34, 2001. 
+
+MAZZONI, Alberto A; TORRES, Elisabeth F. Tecnologia para apoio à diversidade. Disponível em: <http://iee.inf.ufsc.br>. Acesso em: 24 maio 2001. 
+
+RODRIGUES, Eloy. As bibliotecas na era digital. Boletim Barata, Minho, n. 38, maio 1996. Disponível em: <http://www.bib.eng.uminho.pt/Pessoal/Eloy/barata.htm>. Acesso em: 21 jun. 2002. 
+
+ROMAÑACH, Javier Sociedad de la información para todos. Disponível em: <http://www.sidar.org/docus/sit.doc.>. Acesso em: 12 jul 2002. 
+
+SANCHEZ MONTOYA, Rafael. Ordenador y discapacidad. Madri : EPE, 1999. 
+
+W3C: recomendações para acessibilidade em páginas web. Disponível em: <http://www.w3.org/TR/WAI-WEBCONTENT>.
+

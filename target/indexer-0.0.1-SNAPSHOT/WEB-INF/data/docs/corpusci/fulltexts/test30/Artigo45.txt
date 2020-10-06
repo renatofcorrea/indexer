@@ -1,0 +1,319 @@
+Da bibliometria à webometria: uma exploração conceitual dos mecanismos utilizados para medir o registro da informação e a difusão do conhecimento
+
+
+Resumo
+
+Este é um estudo comparativo de quatro subdisciplinas que permitem medir os fluxos da informação, a comunicação acadêmica e a difusão do conhecimento científico: a bibliometria, a cienciometria, a informetria e a webometria. Mediante a leitura de renomados autores que têm abordado estes temas, é realizada uma discussão teórico-conceitual e uma análise das semelhanças e diferenças que unem e separam os quatro métodos quantitativos no que diz respeito ao seu histórico, objeto de estudo, variáveis, técnicas, objetivos e campos de aplicação. Uma ênfase maior é dada à caracterização da webometria, por se tratar de uma área emergente dentro da ciência da informação, ainda pouco explorada no Brasil e com grandes potencialidades derivadas da expansão mundial da Internet.
+
+Palavras-chave
+
+Bibliometria; Cienciometria; Informetria; Webometria; Métodos quantitativos de avaliação
+
+
+
+Nas últimas décadas, acompanhando a expansão da ciência e da tecnologia, tornou-se cada vez mais evidente a necessidade de avaliar tais avanços e de determinar os desenvolvimentos alcançados pelas diversas disciplinas do conhecimento. Neste sentido, apontou-se para a medição das taxas de produtividade dos centros de pesquisa e dos investigadores individuais, para a detecção daquelas instituições e áreas com maiores potenciali-dades e para o estabelecimento das prioridades no momento da alocação de recursos públicos.
+
+Existem diversas formas de medição voltadas para avaliar a ciência e os fluxos da informação. Dentre estas, cabe citar a bibliometria, a cienciometria, a informetria e a mais novel delas, a webometria. Estas subdisciplinas, apesar de apresentarem algumas semelhanças ou pontos de convergência, possuem características, enfoques e funções dissímeis. O objetivo central deste artigo consiste, conseqüentemente, em explorar e aprofundar o estudo destes conceitos desde uma ótica comparativa, revisar e discutir suas principais aplicações e aportar um maior esclarecimento sobre o tema, reservando uma atenção especial à webometria, área ainda pouco estudada no campo das ciências da informação no Brasil.
+
+
+
+INTRODUÇÃO
+
+A palavra avaliar vem do latim valere. Esta apresenta, entre outras acepções, a de ser merecedor ou digno de alguma coisa1,2,3. A avaliação, dentro de um determinado ramo do conhecimento, permite dignificar o saber quando métodos confiáveis e sistemáticos são utilizados para mostrar à sociedade como tal saber vem-se desenvolvendo e de que forma tem contribuído para resolver os problemas que se apresentam dentro de sua área de abrangência.
+
+Há, por parte de autores, como Oliveira et alii4, a idéia de que a avaliação da produtividade científica, por exemplo, deve ser um dos elementos principais para o estabelecimento e acompanhamento de uma política nacional de ensino e pesquisa, uma vez que permite um diagnóstico das reais potencialidades de determinados grupos e/ou instituições.
+
+Questiona-se, entretanto, de que maneira é possível fazer este diagnóstico. Uma das possibilidades consiste na utilização de métodos que permitam medir a produtividade dos pesquisadores, grupos ou instituições de pesquisa. Para tanto, torna-se fundamental o uso de técnicas específicas de avaliação que podem ser quantitativas ou qualitativas, ou mesmo uma combinação entre ambas. As técnicas quantitativas de avaliação podem ser subdivididas em bibliometria, cienciometria, informetria e, mais recentemente, webometria. Todas têm funções semelhantes, mas, ao mesmo tempo, cada uma delas propõe medir a difusão do conhecimento científico e o fluxo da informação sob enfoques diversos. Existe, ainda, muita dificuldade em estabelecer onde termina uma e começa a outra. Para esclarecer melhor as semelhanças e diferenças entre estas técnicas, buscam-se na literatura, além de um breve histórico da utilização dos diferentes termos, algumas definições elaboradas por pesquisadores no assunto.
+
+
+
+BIBLIOMETRIA, CIENCIOMETRIA E INFORMETRIA
+
+Embora, para autores como Lawani5 e Sengupta6, o termo bibliometria tenha sido cunhado por Alan Pritchard7 em 1969, Fonseca8 tem demonstrado que quem realmente utilizou pela primeira vez este termo foi Paul Otlet várias décadas antes, em sua obra intitulada Traité de documentatión, de 1934. Na verdade, Pritchard popularizou o uso da palavra 'bibliometria', quando sugeriu que esta deveria substituir o termo 'bibliografia estatística', que vinha sendo utilizado desde a menção feita em 1922 por Edward Wyndham Hulme em uma conferência na Universidade de Cambridge, reportando-se a um estudo pioneiro de Cole & Eales de 1917, referente à análise estatística de uma bibliografia de Anatomia Comparada9.
+
+Em 1948, na Conferência da Aslib em Leamington Spa, Ranganathan sugeria a necessidade de os bibliotecários desenvolverem a "bibliotecometria", já que as bibliotecas lidavam com grande quantidade de números. Porém, foi somente em 1969, no seminário anual do Documentation Research and Training Centre (DRTC), que ele apresentou um trabalho com alguns exemplos de aplicação da estatística na biblioteconomia. Foi com base neste trabalho de Ranganathan e em pesquisas realizadas no DRTC que Neelameghan (1969) esboçou a aplicabilidade da bibliotecometria, ou bibliometria, como se tornou conhecida10.
+
+Dentro desta disciplina, há ainda três nomes que se destacaram por suas importantes descobertas: Lotka, Zipf e Bradford. Cada um destes pesquisadores pode ser identificado com uma "lei" específica. A Lei de Lotka, ou Lei do Quadrado Inverso, aponta para a medição da produtividade dos autores, mediante um modelo de distribuição tamanho-freqüência dos diversos autores em um conjunto de documentos. A Lei de Zipf, também conhecida como Lei do Mínimo Esforço, consiste em medir a freqüência do aparecimento das palavras em vários textos, gerando uma lista ordenada de termos de uma determinada disciplina ou assunto. Já a Lei de Bradford, ou Lei de Dispersão, permite, mediante a medição da produtividade das revistas, estabelecer o núcleo e as áreas de dispersão sobre um determinado assunto em um mesmo conjunto de revistas13.
+
+No que diz respeito à cienciometria, este termo surgiu na antiga URSS e Europa Oriental e foi empregado especialmente na Hungria. Entre os primeiros autores a utilizá-lo, estão Dobrov & Karennoi11, em uma publicação do All-Union Institut for Scientific and Technical Information (VINITI). Originalmente, referia-se à aplicação de métodos quantitativos para o estudo da história da ciência e do progresso tecnológico (Egghe apud Spinak)12. As primeiras definições consideravam a cienciometria como "a medição do processo informático", onde o termo "informático" significava "a disciplina do conhecimento que estuda a estrutura e as propriedades da informação científica e as leis do processo de comunicação" (Mikhilov et alii, apud Spinak)12. Este termo alcançou notoriedade com o início da publicação, em 1977, da revista Scientometrics, editada originalmente na Hungria e atualmente na Holanda13.
+
+A partir da década de 80, depois de o Institut for Scientific Information (ISI) ter vendido sua base de dados para diferentes instituições, como uma ferramenta auxiliar na elaboração de políticas científicas, foi que a scientometrics (quantificação da ciência) começa a ser área de interesse acadêmico. Atualmente, esta disciplina está sendo largamente utilizada para a medição do conhecimento científico. Cabe lembrar que o ISI, organização fundada por Eugene Garfield na Filadélfia (EUA), constitui uma importante fonte para este tipo de medida, processando anualmente um número elevado de periódicos que abrangem mais de cem áreas do conhecimento científico.
+
+Já o termo informetria, de acordo com Brookes14, foi proposto pela primeira vez por Otto Nacke, diretor do Institut für Informetrie, em Bielferd, Alemanha, 1979. Este termo foi adotado imediatamente pelo mesmo VINITI, na antiga URSS, instituição que impulsionou a criação de um comitê com este nome na Federação Internacional de Documentação: o FID/IM - Comitte on Informetry, indicando o próprio Nacke como seu primeiro diretor. Sua aceitação definitiva data de 1989, quando o Encontro Internacional de Bibliometria passou a se chamar Conferência Internacional de Bibliometria, Cienciometria e Informetria, seguindo a sugestão do próprio Brookes, feita dois anos antes na Conferência de Diepenbeek, Bélgica13.
+
+Sengputa15 e Gläzel & Schoepflin16, por exemplo, apresentam tais termos como sinônimos, porém Gorkova (apud BROOKES)14, Russell17, Egghe18 e Tague-Sutckiffe13 já consideram que a informetria compreende um campo mais amplo que a cienciometria e que englobaria, também, a bibliometria. Da mesma forma, a webometria, conforme será discutido mais adiante, poderia estar compreendida pela informetria.
+
+De acordo com as palavras de Tague-Sutckiffe13, traduzidas por Macias-Chapula19 (p. 134), pode-se definir a bibliometria como:
+
+"[...] o estudo dos aspectos quantitativos da produção, disseminação e uso da informação registrada. A bi-bliometria desenvolve padrões e modelos matemáticos para medir esses processos, usando seus resultados para elaborar previsões e apoiar tomadas de decisões".
+
+O mesmo autor, em se tratando da cienciometria, e seguindo com a tradução de Macias-Chapula (p.134) 19, a define nos seguintes termos:
+
+"Cienciometria é o estudo dos aspectos quantitativos da ciência enquanto uma disciplina ou atividade econômica. A cienciometria é um segmento da sociologia da ciência, sendo aplicada no desenvolvimento de políticas científicas. Envolve estudos quantitativos das atividades científicas, incluindo a publicação e, portanto, sobrepondo-se à bibliometria".
+
+Segundo a definição de Tague-Sutckiffe13, a cienciometria estuda, por meio de indicadores quantitativos, uma determinada disciplina da ciência. Estes indicadores quantitativos são utilizados dentro de uma área do conhecimento, por exemplo, mediante a análise de publicações, com aplicação no desenvolvimento de políticas científicas. Tenta medir os incrementos de produção e produtividade de uma disciplina, de um grupo de pesquisadores de uma área, a fim de delinear o crescimento de determinado ramo do conhecimento.
+
+Para Van Raan20, a cienciometria se dedica a realizar estudos quantitativos em ciência e tecnologia e a descobrir os laços existentes entre ambas, visando ao avanço do conhecimento e buscando relacionar este com questões sociais e de políticas públicas. A cienciometria teria, portanto, um caráter multidisciplinar no que diz respeito aos métodos que utiliza. Tais métodos provêm tanto das ciências naturais quanto das ciências sociais e comportamentais (estatística e outros métodos matemáticos, modelos sociológicos, pesquisas e métodos psicológicos de entrevista, informática, filosofia da ciência, lingüística etc.).
+
+Spinak (p.142)12, por outro lado, já confirma a interdisciplinaridade da bibliometria e o seu direcionamento para as fontes de informação quando apresenta sua definição:
+
+"La bibliometría es, pues, una disciplina con alcance multidisciplinario y la que analiza uno de los aspectos más relevantes y objetivos de esa comunidad, la comunidad impresa".
+
+Tentando fazer uma distinção entre bibliometria e cienciometria, Spinak (p.143)12 ainda afirma que:
+
+"La bibliometría estudia la organización de los sectores científicos y tecnológicos a partir de las fuentes bibliográficas y patentes para identificar los actores, sus relaciones y sus tendencias. Por el contrario, la cienciometría trata con las varias mediciones de la literatura, de los documentos y otros medios de comunicación, mientras que la bibliometría tiene que ver con la produtividad y utilidad científica".
+
+O mesmo Spinak (p.142)12, fazendo uma relação entre bibliometria e cienciometria, assevera:
+
+"La cienciometría aplica técnicas bibliométricas a la ciencia [...] pero va mas allá de las técnicas bibliométricas, pues también examina el desarollo y las políticas científicas. [...] la cienciometría puede establecer comparaciones entre las políticas de investigación entre los países analizando sus aspectos económicos y sociales".
+
+Por último, fazendo alusão à informetria, cujo surgimento é posterior ao dos outros dois termos, pode-se dizer que esta tem um escopo tanto mais distinto e abrangente do que a cienciometria e a bibliometria, pois, ainda de acordo com a conceituação de Tague-Sutckiffe13 glossada por Macias-Chapula (p.134) 19,
+
+"Informetria é o estudo dos aspectos quantitativos da informação em qualquer formato, e não apenas registros catalográficos ou bibliografias, referente a qualquer grupo social, e não apenas aos cientistas. A informetria pode incorporar, utilizar e ampliar os muitos estudos de avaliação da informação que estão fora dos limites da bibliometria e cienciometria".
+
+O termo informetria designa, conforme Hjotgaard Christensen & Ingwersen21, uma extensão recente das análises bibliométricas tradicionais ao abarcar o estudo das modalidades de produção da informação e de comunicação em comunidades não acadêmicas. Para estes autores, as análises de difusão de determinados assuntos nos bancos de dados full-text dos jornais seriam uma das novas possibilidades que surgem neste campo.
+
+A informetria se distinguiria claramente da cienciometria e da bibliometria no que diz respeito ao universo de objetos e sujeitos que estuda, não se limitando apenas à informação registrada, dado que pode analisar também os processos de comunicação informal, inclusive falada, e dedicar-se a pesquisar os usos e necessidades de informação dos grupos sociais desfavorecidos, e não só das elites intelectuais13.
+
+De acordo com Wormell (p. 2)22, "... a informetria é um subcampo emergente da ciência da informação, baseada na combinação de técnicas avançadas de recuperação da informação com estudos quantitativos dos fluxos da informação". Para Wolfram23, a informetria encontra sua utilidade na administração de coleções em bibliotecas, no desenvolvimento de políticas científicas e pode ajudar na tomada de decisões em relação ao desenho e manutenção de sistemas de recuperação de informação.
+
+As definições teóricas ajudam na compreensão do que pode ser cada um dos métodos mencionados anteriormente, porém, para o melhor entendimento, faz-se necessário tentar associar tais métodos à utilização de aplicações concretas.
+
+Em termos genéricos, estas são algumas possibilidades de aplicação das técnicas bibliométricas, cienciométricas e informétricas:
+
+- identificar as tendências e o crescimento do conhecimento em uma área;
+
+- identificar as revistas do núcleo de uma disciplina;
+
+- mensurar a cobertura das revistas secundárias;
+
+- identificar os usuários de uma disciplina;
+
+- prever as tendências de publicação;
+
+- estudar a dispersão e a obsolescência da literatura científica;
+
+- prever a produtividade de autores individuais, organizações e países;
+
+- medir o grau e padrões de colaboração entre autores;
+
+- analisar os processos de citação e co-citação;
+
+- determinar o desempenho dos sistemas de recuperação da informação;
+
+- avaliar os aspectos estatísticos da linguagem, das palavras e das frases;
+
+- avaliar a circulação e uso de documentos em um centro de documentação;
+
+- medir o crescimento de determinadas áreas e o surgimento de novos temas.
+
+O uso de técnicas bibliométricas contribui de forma decisiva em épocas de recursos escassos, quando um bibliotecário deve resolver que títulos ou publicações periódicas podem ou não ser suprimidas de uma biblioteca. Indicadores de uso são obtidos, assim, para definir uma lista de publicações periódicas prioritárias e para prever a demanda futura. É fundamental ter como detectar a utilização real dos títulos que constam em uma biblioteca, possibilitando determinar a obsolescência das coleções24. Os índices bibliométricos também são utilizados para avaliar a produtividade e a qualidade da pesquisa dos cientistas, por meio da medição com base nos números de publicações e citações dos diversos pesquisadores25.
+
+Nesta mesma ordem de idéias, também Braga (p. 162) 26 assinala que:
+
+"Para generalizar estatísticas empíricas [...] a Bibliometria examina, primeiramente, as relações entre diferentes variáveis: recursos humanos-documentos, artigos-periódicos, produção-consumo, etc., que apresentam diversas regularidades de distribuição. O número de artigos que originam n citações, o número de instituições produzindo anualmente n doutorados, o número de autores com n artigos, o número de revistas contendo n artigos constituem exemplos do mesmo tipo de distribuição".
+
+No caso dos métodos cienciométricos, há uma grande variedade de aplicações, tais como o uso do número de publicações e citações para auxiliar na avaliação do desempenho científico de pesquisadores, grupos e centros de pesquisa; na tomada de decisões quanto à distribuição de recursos financeiros por parte de organizações governamentais e internacionais, fundações e instituições de fomento a determinadas áreas do conhecimento - como a Organização para a Cooperação e o Desenvolvimento Econômico (OCDE), a Unesco ou a National Science Foundation, dos EUA, para citar apenas alguns exemplos - e, também, no estudo do desempenho comparativo entre as nações12, 27.
+
+Para Callon et alii 28, a cienciometria se aplica, principalmente, ao tratamento e gerenciamento das informações formais provenientes de bases de dados científicas ou técnicas. Inclusive, segundo estes autores, as empresas utilizariam os métodos cienciométricos para conseguir determinar qual a estratégia tecnológica seguida por seus competidores. As empresas, desta forma, podem analisar as patentes, por exemplo, identificando os principais temas de investigação e atores significativos em um campo científico de seu interesse. Podem, igualmente, detectar as especialidades científicas que servem de base para suas tecnologias-chave. Além disso, documentos tais como teses também começam a ser objeto de análises cienciométricas por parte das empresas, com o objetivo específico de determinar quais os assuntos, temáticas e caminhos que estão sendo explorados em um determinado momento no ambiente acadêmico, constituindo-se em uma boa fonte de informação para aqueles que desejam descobrir os desenvolvimentos mais recentes.
+
+É importante ressaltar, portanto, a crescente interação entre ciência e tecnologia como sendo um dos espaços mais fecundos para a pesquisa cienciométrica. O mapeamento da interface entre a ciência e a tecnologia, como aponta Van Raan20, torna-se um dos setores mais ricos para o desenvolvimento e utilização dos métodos cienciométricos. As técnicas relativas às análises de co-citação e co-ocorrência de palavras, por exemplo, são usadas para traçar um perfil dos campos científicos (por meio de dados sobre publicação) e tecnológicos (por meio de dados sobre patentes), possibilitando uma cartografia da ciência e da tecnologia que inclua as fronteiras de cada disciplina, a posição dos principais atores dentro do mapa e as representações específicas de cada um dos ramos do conhecimento.
+
+Os indicadores informétricos, por sua vez, oferecem novas possibilidades para quem deseje explorar as bases de dados como um instrumento de análise. Podem ser aplicados para avaliar o desempenho de pesquisas, analisando não somente a recuperação da informação, mas também os resultados das buscas e a sua combinação com outras informações, a fim de melhorar a própria recuperação e a eficiência no acesso à informação e ainda economizar tempo no processo de busca.
+
+Com o conhecimento das propriedades quantitativas da informação contida nos sistemas, da distribuição dos termos usados nas buscas e da freqüência de ocorrência dos termos em uma base de dados, é possível estabelecer correlações probabilísticas entre freqüência de uso e de ocorrência dos termos que permitam melhorar sensivelmente o desempenho do sistema de recuperação. O sistema poderá, assim, seguir aquele modelo de recuperação da informação que mais se adapte às necessidades do usuário, contemplando, também, as possibilidades de espaço dos equipamentos, os recursos com que conte a unidade de informação e as facilidades de atualização que cada modelo ofereça22, 23, 29.
+
+
+
+A WEBOMETRIA
+
+As análises quantitativas, com os avanços tecnológicos, vêem-se facilitadas e ao mesmo tempo encontram novos e estimulantes campos de atuação. É o caso dos estudos que estão sendo desenvolvidos atualmente sobre o conteúdo e a estrutura das home-pages na Web. De acordo com Almind & Ingwersen30, está nascendo uma nova área de interesse dentro da informetria: a webometrics.
+
+A webometrics ou webometria consiste, conforme a definição esboçada por estes últimos autores, na aplicação de métodos informétricos à World Wide Web. Nesta mesma linha, Cronin & McKim31 têm destacado que a Web está se tornando, cada vez mais, um importante meio de comunicação para a ciência e a academia, pelo qual é lógico que os estudos quantitativos se estendam também a este ambiente.
+
+Além do termo webometrics, cuja autoria pode-se adjudicar a Almind e Ingwersen, também se encontra na literatura a expressão cybermetrics, que, como destaca Smith32, corresponde ao nome da revista apresentada oficialmente durante a VI Conferência Internacional de Cienciometria e Informetria, em Jerusalém, no ano de 1997. Esta revista, acessível somente em formato eletrônico (http://www.cindoc.csic.es/cybermetrics), tem como proposta disponibilizar a todos os pesquisadores do mundo análises e medições da comunicação no âmbito científico e, em especial, as medições do fluxo da informação na WWW.
+
+Esta nova área de estudos tem sido também chamada de internetometrics por Quonian & Rostaing33, pesquisadores do Centre Scientifique St. Jerôme de Marseille (CRRM), na França. Entretanto, por uma questão prática e de padronização, optar-se-á, neste artigo, pelo termo webometria (webometrics), aquele que, dos citados, adquiriu maior difusão na crescente literatura internacional produzida sobre o tema.
+
+Entre as medições que podem ser realizadas no campo da webometria, encontra-se, por exemplo, aquela que diz respeito à freqüência de distribuição das páginas no cyberespaço. Esta medição aponta para o estudo ou análise comparativa da presença dos diversos países na rede, das proporções de páginas pessoais, comerciais e institu-cionais. Como destacam Almind & Ingwersen30, há classificações importantes que podem ser estabelecidas a partir do tipo de páginas, as quais permitem medir o peso dos setores público e privado na rede - tarefa que se vê facilitada quando os nomes do domínio são '.edu' e '.com'.
+
+Segundo estes mesmos autores, ainda podem ser realizadas classificações mais exaustivas. Classificações que compreendam categorias tais como home pages pessoais, home pages institucionais ou organizacionais, home pages ad hoc ou sobre uma matéria definida, páginas que apontam documentos ou páginas-índice - aquelas cuja principal função é tornar disponível uma série de hyperlinks - e, por último, as páginas-recurso - aquelas que disponibilizam dados em forma de texto, som ou imagem.
+
+Pode-se realizar, também, uma mesma medição em tempos diferentes para comparar, assim, a evolução da presença de uma determinada instituição ou país na rede. Da mesma forma, é possível quantificar o crescimento ou perda de importância relativa de um tema ou matéria, o que aproxima, neste caso, a webometria à cienciometria, segundo as definições e aplicações já citadas. A cartografia espaço-temporal daí resultante estará, logicamente, baseada em informação retirada da Internet, e não de outros suportes eletrônicos ou impressos mais comumente utilizados pela cienciometria. Devem ser ressalvados, entretanto, os ritmos no que diz respeito às formas de cobertura e às políticas de atualização. Nem sempre a rede reflete, com total fidelidade, a situação, avanços ou retrocessos que experimenta uma instituição ou centro de pesquisa e as variações que um assunto, tema ou disciplina apresentam fora da Web. De fato, existem áreas onde a visibilidade é maior na Web e outras onde a visibilidade maior se dá no suporte impresso.
+
+Como afirma Smith32, os instrumentos fundamentais para a realização de estudos webométricos têm sido os motores de busca, que permitem trabalhar com grandes volumes de informação. Motores de busca como o Alta Vista, Yahoo, Hotbot ou Google, entre tantos outros, facilitam as tarefas de quantificação e avaliação dos fluxos de intercâmbio de dados e informação na Web. Smith destaca que estes buscadores permitem contabilizar o número total de páginas em um espaço Web e os links a tais espaços, entendendo o termo espaço Web no sentido de domínio (seja um domínio de país ou um domínio institucional).
+
+Pode ser calculado, também, nestas análises, o tamanho médio de uma página expressado em bytes, o número médio de links por página e a densidade média por link. Para tal fim, há certos elementos que devem ser considerados, como o URL (Uniform Resource Locators), o título, as palavras-chave, o tipo de home page, o domínio, o tamanho e o número de links.
+
+Como explicam Almind & Ingwersen30, a densidade média dos links consiste na ratio, ou relação que pode ser estabelecida entre o tamanho de uma página e a quantidade de links que esta aponta. É uma medida que consegue reunir e normalizar em um só valor duas informações: tamanho da página e quantidade de links. Os autores sustentam que quanto menor o tamanho da home page ou o número de bytes, mantendo igual o número de links, menor será a taxa de densidade destes últimos. Tanto as páginas pessoais quanto as organizacionais apresentam, freqüentemente, uma grande quantidade de links, mesmo quando têm um tamanho pequeno (baixa densidade por link). Já aquelas que estão direcionadas para um assunto específico costumam ser pequenas e ter poucos links, o que faz com que ostentem uma densidade por link mais alta, tornando este último tipo muito mais descritivo e auto-suficiente.
+
+Outro tema bastante explorado pela webometria que vem ocupando um lugar cada vez mais destacado dentro de suas análises é o das citações entre páginas, conhecidas como links, hyperlinks ou weblinks. Estes são vistos cada vez mais como um indicador da importância global de um site ou um espaço Web para a comunidade externa34, 32. O número de links que levam a um determinado site é usado como um fator de hierarquização no momento de exibir, na tela, os sites recuperados por alguns motores de busca (como o Google, por exemplo, ou o Lycos, mencionado por Larson)35. Há um número crescente de estudos que contabilizam links e sites buscando identificar quais dentre estes últimos são mais citados.
+
+Conforme expressa Smith32, os motores de busca fornecem possibilidades para a investigação de links ou relações entre documentos semelhantes àquelas oferecidas pelas bases de dados de citações do ISI, de forma que pode ser estabelecida uma analogia entre as análises dos hyperlinks e as tradicionais análises de citações em publicações impressas. A utilização de operadores booleanos permite resgatar as home pages que remetem a certas páginas ou sites previamente selecionados e calcular seu número.
+
+Existe um neologismo para definir a citação entre home pages: "sitation", que poderia ser traduzido, em português, como "sitação". McKiernan36 foi quem utilizou pela primeira vez este termo no sentido de sites citados, expressão também usada por Aguillo no Encontro de Bielefelb (outubro de 1996). Rousseau37 é outro autor que recorreu a esta expressão em um trabalho publicado na Cybermetrics intitulado "Sitations: an exploratory study", onde estudou os links entre websites e a distribuição de freqüências de "sitações".
+
+Já têm sido pesquisadas, no campo da bibliometria, as razões que levam certos autores a citar outros autores. Egghe & Rousseau (apud Rousseau),37 por exemplo, têm desenvolvido trabalhos sobre o tema. Também Gilbert38 e Brooks (apud Rousseau)37 escreveram sobre o assunto, chegando à conclusão de que a persuasão é, na maioria das vezes, o que explicaria a necessidade de invocar a autoridade daqueles que produziram investigacões e textos prévios sobre a matéria. Porém, até onde se sabe, as razões pelas quais as pessoas linkam outras páginas nas suas ainda não tem sido investigadas, nem tem sido discutidas as diferenças entre "sitações" na web e citações nos artigos científicos37. De qualquer maneira, pode-se inferir que os links são incluídos nas páginas com o intuito de oferecer mais informação aos usuários e redirecioná-los, assim, para outras fontes.
+
+Com relação às citações de sites ou sitações, há um indicador que vem suscitando um grande interesse entre os estudiosos que atuam no campo da webometria: o fator de impacto da Web (Web Impact Factor - WIF). Ingwersen34 foi um dos primeiros a sugerir a criação de uma medição análoga àquela do fator de impacto de revistas - calculado pelo ISI nas suas bases de dados de citações - que permitisse a comparação do grau de atratividade de sites ou domínios na Web.
+
+Seguindo a definição dada por Ingwersen34, o fator de impacto na Web implica a soma do número de links contidos em páginas Web externas e internas que se referem a um determinado país ou site dividido pelo número de páginas encontradas nesse país ou site da Web em um certo momento. O numerador consiste, portanto, no número de páginas linkadas - não no número de links. Em outras palavras, conforme Thelwall39, o fator de impacto é, essencialmente, o número de páginas que levam a um determinado site ou área da Internet dividido pelo número de páginas neste site ou área, o que pode ser expressado na seguinte fórmula:
+
+
+
+Este indicador serve para medir e comparar a atratividade e influência que possam alcançar distintos espaços na Web. A natureza dinâmica e em tempo real da rede sugere que a medição de fatores de impacto pode ser útil para complementar as medições tradicionais. Ele permite evidenciar o grau de reconhecimento relativo que ostentam os países ou sites de pesquisa na Web em um determinado ponto do tempo34, 32.
+
+Há, basicamente, dois tipos de fatores de impacto da Web: os externos - aqueles que refletem o número de páginas linkadas fora do espaço Web que está sendo analisado - e os internos ou autolinks - aqueles que refletem os links existentes dentro do próprio espaço Web analisado32. Concordando com Rousseau,37 um link interno pode, também, ser chamado de "autositação" (sic), ou seja, a "sitação" de uma outra página dentro do mesmo site ou conjunto de sites. Um exemplo disto seria o link listado na página "ilea.ufrgs.br/cict" que aponta para a página "ilea.ufrgs.br/nerint": as duas compartilham a mesma raiz no endereço eletrônico.
+
+É importante ressalvar, junto com Ingwersen (p. 237) 34, que, em comparação com as citações científicas de revistas, instituições ou indivíduos - as quais podem ser estáveis ou aumentar -, o número de links que remetem a um objeto particular dentro da Web pode diminuir ou até desaparecer. Isto ocorre devido ao eventual fechamento ou reestruturação de certas páginas que estavam disponíveis em algum momento na rede e que mudaram ou que não estão mais. O que impossibilita, nestes casos, um cálculo retrospectivo do fator de impacto.
+
+Há, além deste aspecto, alguns outros problemas que se apresentam para medir os fatores de impacto na Web. Um deles é a equiparação de links ou referências a sites de valores diversos: têm o mesmo peso, por exemplo, tanto os links listados em uma página por uma pessoa qualificada depois de uma avaliação séria, quanto aqueles que são produto de um procedimento mecânico, efetuado por um motor de busca39.
+
+Outra particularidade relacionada ao fator de impacto na Web, como destaca Smith32, diz respeito às revistas eletrônicas. Nestes casos, ele não é conceitualmente igual aquele utilizado nas revistas convencionais - os links que levam a revistas eletrônicas tendem a apontar para a revista como um todo mais do que para artigos específicos, portanto serve para medir o reconhecimento da revista mais do que o reconhecimento do seu conteúdo.
+
+Não restam dúvidas de que a Internet é uma fonte inesgotável de recursos que podem ser tanto utilizados pelos usuários que buscam informação quanto por estudiosos que se dispõem a analisar a estrutura da rede e seu conteúdo. Existem, no entanto, certas dificuldades para a realização de um estudo webométrico, entre as quais podemos citar a natureza dinâmica e em tempo real da Internet, a enorme massa de dados não padronizada que esta contém e inconsistências nos serviços e motores de busca.
+
+Como destacam Bar-Ilan40 e Olvera Lobo41, documentos desaparecem, há mudanças contínuas, novas páginas relevantes são constantemente agregadas e os buscadores demoram um tempo até incorporar tais mudanças, tornando mais difícil o processo de análise e indexação destas páginas na rede. A isto, soma-se o problema citado por Lynch42, derivado do caráter mutante da própria estrutura de muitas páginas, as quais não trabalham com arquivos estáticos, mas sim com conteúdos que variam com alta freqüência, como é o caso de jornais eletrônicos ou das bases de dados interativas, o que configura mais um empecilho para a análise e quantificação destes sites.
+
+O enorme volume de informação disponível na Web faz com que seja difícil encontrar exatamente o que se procura. Como bem aponta Olvera Lobo41:
+
+"[...] o crescimento de informações eletrônicas, os projetos de bibliotecas digitais, o enorme volume de dados disponíveis levam a que os tradicionais serviços de indexação e resumo não sejam suficientes para a busca e recuperação de informação nestas grandes bases de dados hipermídia".
+
+Nesta mesma linha de pensamento, Lynch42 pondera:
+
+"Se por um lado os métodos automáticos fornecem um acesso uniforme e igual a toda a informação existente na rede, por outro lado, na prática, este igualitarismo eletrônico pode produzir grandes misturas: trazer um excesso de informação sem hierarquias onde são recuperados sites irrelevantes enquanto material importante pode ficar relegado".
+
+Segundo Almind & Ingwersen30, a solução para este problema seria usar as bases de dados indexadas da WWW. Sabe-se, de qualquer maneira, que a indexação e cobertura destas ainda é muito misturada e errática. Não há padronização na forma de indexação da informação: cada autor escolhe caminhos diversos.
+
+No que diz respeito, mais especificamente, aos motores de busca, estes apresentam uma série de inconsistências lógicas que dificultam a mensuração dos dados contidos em suas bases. Como explicam Judit Bar-Ilan40 e Thelwall39, os motores costumam perder informação: URLs relevantes recuperados em um determinado momento por um determinado motor de busca não são encontrados por esse mesmo motor em um momento posterior (apesar de continuarem existindo e sendo relevantes). Por outro lado, o conteúdo destes também às vezes se perde, já que
+
+URLs semelhantes recuperados numa segunda vez não contém exatamente a mesma informação que na primeira. Também, quando são utilizados vários buscadores e comparados entre si para avaliar seu desempenho, percebe-se que a sobreposição dos resultados mostrados por eles é surpreendentemente pequena, o que pode afetar, de algum modo, a confiabilidade das análises webométricas.
+
+Seguindo com Bar-Ila40, cabe mencionar que as flutuações e mudanças ao longo do tempo no número de resultados de uma busca já têm sido investigadas por Peterson em 1997, por Rousseau também em 1997 e por Notess e Aguillo em 1999. Entretanto, nestes trabalhos, só é considerada a quantidade de resultados, e não os resultados em si mesmos. Seguindo com Bar-Ilan40, cabe mencionar que as flutuações e mudanças ao longo do tempo no número de resultados de uma busca já têm sido investigadas por Peterson em 1997, por Rousseau também em 1997 e por Notess e Aguillo em 1999. Entretanto, nestes trabalhos, só é considerada a quantidade de resultados, e não os resultados em si mesmos.
+
+Conforme Notess43, as inconsistências vão além da incapacidade de contabilização, incluindo problemas que têm a ver com o processamento das sintaxes de busca. O processa-mento pode levar a resultados espúrios pelo fato de que os recursos utilizados para elaborar as estratégias de busca - truncamento, pesquisa por campos e operadores booleanos básicos -, nem sempre trabalham de forma satisfatória, menos ainda quando são utilizados de maneira combinada. A seleção e hierarquização de acordo com a relevância dos documentos recuperados na Web dependem de avaliações subjetivas, já que não houve na inteligência artificial ainda desenvol-vimentos suficientes que possam fazer uma busca qualitativamente mais acurada. Isto sem mencionar as dificuldades que os motores têm para identificar certas características de um documento na Web, como o contexto ou o tema geral em que tal documento se enquadra, assim como o tipo de documento (uma comunicação científi-ca, uma informação profissional ou informal etc.)41, 42, 40.
+
+Em definitivo, cabe reafirmar que para alcançar resultados consistentes e análises webométricas satisfatórias, deve-se tentar escolher motores de busca que reúnam as características mencionadas a seguir, ou que, combinados, permitam cumprir estes critérios, citados por Smith32 em um trabalho recente:
+
+- contar com uma base de dados atualizada - que tanto inclua as páginas mais novas, quanto que exclua aquelas páginas que estão fora do ar ou que já não existem mais;
+
+- cobrir a maior proporção possível da Web;
+
+- ter a capacidade de delimitar a busca por domínio;
+
+- oferecer a possibilidade de recuperação de todas as páginas que contenham links para um espaço Web particular;
+
+- permitir a combinação de resultados de busca com operadores booleanos para, por exemplo, contabilizar o número de páginas que linkam um espaço Web particular excluindo os links internos desse.
+
+Retomando, por fim, a comparação entre bibliometria, cienciometria e informetria, resulta pertinente reproduzir uma tabela apresentada por William McGrath (apud Macias-Chapula)19, onde são apresentados, de maneira esquemática, o objeto de estudo, as variáveis, os métodos e objetivos destas subdisciplinas. Ao agregar a esta outras informações complementares, incluindo também elementos relacionados à mais recente área de estudos das métricas, a webometria, construiu-se uma nova tabela que facilita o entendimento das aplicações já mencionadas e das semelhanças e diferenças que unem e separam estes subcampos (tabela 1).
+
+
+
+
+
+As definições levantadas e o quadro comparativo dos conceitos de bibliometria, cienciometria, informetria e webometria podem ser representados de forma a visualizar melhor a inter-relação entre estes subcampos dentro da ciência da informação, na figura 1, a seguir.
+
+
+
+
+
+CONCLUSÃO
+
+Finalizando, pode-se afirmar que a representação, especialmente com relação aos primeiros três subcampos citados, na figura 1, está de acordo com as análises de Gorkova (apud Brookes)14, Russell17 e Tague-Sutckiffe13, que consideram que a informetria é mais ampla e compreende a bibliometria e a cienciometria. Seguindo este raciocínio, a webometria também aparece, na mesma figura, representada como um subcampo dentro da informetria, já que nasceu e é parte integrante desta. Cabe, portanto, considerar 'informetria' como o termo 'guarda-chuva' que consegue abarcar os outros três conceitos dentro dele. A representação gráfica reflete, também, a sobreposição que em algum momento se dá entre a bibliometria, a cienciometria e a webometria, dado que esta última aplica técnicas bibliométricas e cienciométricas para medir a informação disponível na Web.
+
+Como apregoa Rousseau12, devemos consolidar a idéia de que todas estas especialidades encontram sua ligação a partir da sua origem comum: todas elas indubitavelmente constituem-se em subcampos da ciência da informação. Considerando-as, desta maneira, poderemos compreender mais satisfatoriamente a aplicabilidade de cada uma e a utilidade que oferecem para as mais diversas áreas do conhecimento.
+
+
+
+Artigo aceito para publicação em 12-11-2001
+
+
+
+REFERÊNCIAS
+
+1. TORRINHA, F. Dicionário português-latino. Porto : Ed. Domingos, 1939. 1129 p. 
+
+2. HECKLER, E.; BACK, S.; MASSING, E. R. Dicionário morfológico da língua portuguesa. São Leopoldo, RS : UNISINOS, 1984. v. 4. 
+
+3. ALVES, R. Professor não vale nada. Folha de São Paulo, São Paulo, 12 set. 1999. Caderno Especial Ranking da Ciência, p. 7. 
+
+4. OLIVEIRA, A.. C.; DÓREA, J. G.; DOMENE, S. M. A. Bibliometria na avaliação da produção científica da área de nutrição registrada no Cibran: período de 1984-1989. Ciência da Informação, Brasília, v. 21, n. 3, p. 239-242, set./dez. 1992. 
+
+5. LAWANI, S. M. Bibliometrics: its theoretical foundations, methods and applications. Libri, v. 31, n. 4, p. 294-315, 1981. 
+
+6. SENGUPTA, I. N. Bibliometrics, informetrics, scientometrics and librametrics: an overview. Libri, v. 42, n. 2, p. 99-135, 1992. 
+
+7 . PRITCHARD, A. Statistical bibliography or bibliometrics? Journal of Documentation, v. 25, n. 4, p. 348-349, Dec. 1969. 
+
+8 . FONSECA, E. N. Bibliografia estatística e bibliometria: uma reivindicação de prioridades. Ciência da Informação, Brasília, v. 2, n.1, p. 5-7, 1973. 
+
+9 . FONSECA, E. N. (Org.). Bibliometria: teoria e prática. São Paulo: EDUSP, 1986. 141 p. 
+
+10 . RAVICHANDRA RAO, I. K. Métodos quantitativos em biblioteconomia e ciência da informação. Brasília : ABDF, 1986. 272 p. 
+
+11. DOBROV, G. M.; KARENNOI, A. A. The informational basis of scientometrics. In: MIKHAILOV, A. I.. (Ed.). On theoretical problems of informatics. Moscou : VINITI./FID, 1969. p. 165-191. 
+
+12. SPINAK, E. Diccionario enciclopédico de bibliometría, cienciometría e informetría. Montevideo, 1996. 245 p. 
+
+13. TAGUE-SUTCKIFFE, J. An introduction to informetrics. Information Processing & Management, v. 28, n. 1, p. 1-3, 1992. 
+
+14. BROOKES, B. C. Biblio, sciento, infor-metrics? What are we talking about? In: EGGHE, L.; ROUSSEAU, R. (Ed.). Informetrics 89/90. Amsterdam : Elsevier, 1990. p. 31-43. 
+
+15. SENGUPTA, I. N. Bibliometrics, informetrics, scientometrics and librametrics: an overview. Libri, v. 42, n. 2, p. 99-135, 1992. 
+
+16. GLÄNZEL, W.; SCHOEPFLIN, U. Little scientometrics, big scientometrics... and beyond? Scientometrics , v. 30, n. 2/3, p. 375-384, 1994. 
+
+17. RUSSELL, J. M. Back to the future for informetrics? Scientometrics, v. 30, n. 1, p. 407-410, 1994. 
+
+18. EGGHE, L. Bridging the gaps: conceptual discussions on informetrics. Scientometrics, v. 30, n. 1, p. 35-47, 1994. 
+
+19. MACIAS-CHAPULA, C. A. O papel da informetria e da cienciometria e sua perspectiva nacional e internacional. Ciência da Informação, Brasília, v. 27, n. 2, p. 134-140, maio/ago. 1998. 
+
+20. VAN RAAN, A. F. J. Scientometrics: state-of-art. Scientometrics, v. 38, n. 1, p. 205-218, 1997. 
+
+21. HJOREGAARD CHRISTENSEN, F.; INGWERSEN, P. Data set isolation for bibliometric online analyses of research publications: fundamental methodological issues. Journal of the American Society for Information Science, v. 48, n. 3, p. 205-217, 1997. 
+
+22. WORMELL, I. Informetria: explorando bases de dados como instrumentos de análise. Ciência da Informação, Brasília, v. 27, n. 2, 1998. Disponível em: <www.scielo.br/cgi-bin/fbpe/>. Acesso em: 16 jun. 1999.
+
+23. WOLFRAM, D. Applying informetric characteristics of database to ir system file design. Part I: informetric models. Information Processing & Management, v. 28, n. 1, p. 121-133, 1992a. 
+
+24. RIVAS, L. M. Técnicas bibliométricas: selección y evaluación de publicaciones periódicas para bibliotecas y bases de datos biomédicas especializadas. Bibliotecología y Documentación, v. 6, n. 6-11, p. 41-81, jul/dic. 1981. 
+
+25. MEIS, L. et al. Uso de indicadores exige cautela. Folha de São Paulo, São Paulo, 12 set. 1999. Caderno Especial Ranking da Ciência, p. 7. 
+
+26. BRAGA, G. M.. Informação, ciência, política científica: o pensamento de Derek de Solla Price. Ciência da Informação, Brasília, v. 3, n. 2, p. 155-177, 1974. 
+
+27. VELHO, L. M. L. S. Como medir a ciência? Revista Brasileira de Tecnologia, v. 16, n. 1, p. 35-41, jan./fev. 1985. 
+
+28. CALLON, M.; COURTIAL, J. P.; PENAN, H. Cienciometría: la medición de la actividad científica - de la bibliometría a la vigilancia tecnológica. Gijón : Trea, 1995. 110 p. 
+
+29. WOLFRAM, D. Applying informetric characteristics of database to ir system file design. Part II: simulation comparisons. Information Processing & Management, v. 28, n. 1, p. 135-151, 1992b. 
+
+30. ALMIND, T. C.; INGWERSEN, P. Informetric analyses on the world wide web: methodological approaches to "webmetrocs". Journal of Documentation, v. 53, n. 4, p. 404-426, 1997. 
+
+31. CRONIN, B.; MCKIM, G. Science and scholarship on the World Wide Web: a North American perspective. Jounal of Documentation, v. 52, v. 2, 1996, p. 163-171.
+
+32. SMITH, A. A tale two web spaces: comparing sites using web impact factors. Journal of Documentation, v. 55, n. 5, p. 577-592, Dec. 1999. 
+
+33. QUONIAM, L.; ROSTAING, H. From Scienciometrics, informetrics to internetometrics, cybermetrics or is it possible to neglect Internet nowadays? In: CYBERMETRICS'97, 1997, Jerusalém, Israel. Comunicação Científica. Jerusalém, 1997. Disponível em: <http://www.cindoc.csis.es/Cybermetrics>. Acesso em: 2 out. 2001.
+
+34. INGWERSEN, P. The calculation of Web impact factors. Journal of Documentation, v. 54, n. 2, 1998. p. 236-243. 
+
+35. LARSON, R. R. Bibliometrics of the World Wide Web: an exploratory analysis of the intellectual struture of cyberspace. Berkeley : University of Califórnia, 1996. Disponível em: <http://sherloc.berkeley. edu/asis96.html>. Acesso em: 3 out. 2001.
+
+36. MCKIERNAN, G. CitedSites(sm): citation indexing of Web resources 1996. Disponível em: <http://www.public.iastate.edu/~CYBERSTACKS/Cited.htm>. Acesso em: 5 out. 2001.37. 
+
+37. ROUSSEAU, R. Citations: an exploratory study. Cybermetrics,. v.1, n. 1, 1997. Disponível em: <http://www.cindoc.csis.es/Cybermetrics- Volume 1- Issue 1- Paper 1- Sitations: an exploratory study by R- Rousseau.htm>. Acesso em: 25 set. 2001.
+
+38. GILBERT, G. N. Referencing as persuasion. Social Studies of Science, n. 7, 1977, p. 113-122. 
+
+39. THELWALL, M. Web impact factors and search engine coverage. Journal of Documentation, v. 56, n. 2, 2000, p. 185-189. 
+
+40. BAR-ILAN, J. Search engine results over time: a case study on search engine estability. Cybermetrics, v. 2/3, n. 1, 1998/1999. Disponível em: <www.cindoc.csic.es/cybermetrics/vol2iss1.html>. Acesso em: 23 set. 2001.
+
+41. OLVERA LOBO, M. D. Métodos y técnicas para la indización y la recuperación de los recursos de la World Wide Web. Boletin de la Asociación Andaluza de Bibliotecários, n. 57, 1999. 
+
+42. LYNCH, C. Searching the Internet: combining the skills of the librarian and the computer scientist may help organize the anarchy of the Internet. Scientific American, Mar.1997. Disponível em: <http://www.sciam.com/0397issue/0397lynch.html>. Acesso em: 3 out. 2001.
+
+43. NOTESS, G. R. On the net: search engine inconsistencies. Online, v. 24, n. 2, Mar. 2000. 
+

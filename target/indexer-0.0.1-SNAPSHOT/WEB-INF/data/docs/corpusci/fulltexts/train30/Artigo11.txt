@@ -1,0 +1,107 @@
+Por uma nova Ciência da Informação: ensino, pesquisa e formação
+
+
+Resumo: O armazenamento e a recuperação de informações incluem sua organização, classificação, proteção, difusão e transferência. O armazenamento e a recuperação dividem o mundo da experiência entre os movimentos de guardar e de tomar, inclusive sob um ponto de vista histórico e cultural. Sob a regência destes movimentos, podemos estudar qualquer coisa ligada à informação. Um conjunto de disciplinas interdependentes tratando especificamente do armazenamento e da recuperação de dados pode vir a compor um curso de Ciência da Informação capaz de tratar, de forma unificada, questões que variam da propriedade intelectual até os fundamentos da modelagem de dados.
+
+Palavras-chave: Ciência da Informação, Armazenamento e recuperação, Curso em informação, Unidade e especificidade da informação
+
+
+Introdução
+
+O armazenamento e a recuperação de dados e informações podem ser entendidos como categorias suficientemente abrangentes para incluir sua organização, classificação, proteção, difusão e transferência. Pois o armazenamento e a recuperação são, antes que simples categorias, produtos de um corte que define o fluxo das vivências, o mundo da experiência, como uma composição dos movimentos de guardar e de tomar, mneme e anamnese, se assim se quiser dizer.
+
+Sob a regência daqueles movimentos, podemos estudar, a rigor, qualquer coisa ligada à informação, seja qual for a acepção do termo, tão equívoco, como sabemos. A coleta, por exemplo, pode ser assimilada e estudada alternativamente como recuperação e como armazenamento. Os caminhos, os fluxos e as redes de comunicação não só constituem a estrutura daqueles movimentos como poderiam, em princípio, ser explicados por eles.
+
+Desse modo, um conjunto de disciplinas interdependentes tratando especificamente do armazenamento e da recuperação de dados pode, em princípio, constituir o fio condutor de uma grade curricular de um curso de Ciência da Informação. Certamente, se existem alternativas na estruturação de um tal curso, com igual certeza, esta será uma delas.
+
+
+
+
+
+Depósito
+
+Um termo ou conceito central, desde este ponto de vista, é o depósito. Pois o depósito pode ser entendido, por um lado, como aquele elemento passivo, lugar de destino ou de origem dos fluxos de dados e informações, divisor daqueles movimentos, ou momentos, de armazenar e de recuperar - ou de memorizar e de lembrar, ou qualquer outro par semelhante de termos, escolhidos segundo o contexto, objeto, paradigma, conforme o que se deseja demonstrar.
+
+O depósito, nesta primeira apreensão, cumpre o papel de sincronizar atividades produtoras e utilizadoras daqueles dados e informações armazenados. Uma atividade não se vê obrigada a tratar imediatamente o produto de outra que a alimenta se, entre os dois processos, o depósito - gaveta ou geladeira ideal, que conserva indefinidamente o que lhe é confiado - permite a adequação entre diferentes ritmos e diferentes velocidades de processamento. Certamente, sincronia e conjunção podem ser obtidas de outro modo, por exemplo, através do adiamento - ou antecipação - da disponibilidade dos produtos, pelo prolongamento - ou encurtamento - deliberado e conveniente dos trajetos e dos processos. Mas é o depósito que oferece a maior independência, ou autonomia, para as atividades, relativamente às constrições derivadas especificamente do trânsito dos dados e informações. Pois, por definição, o depósito é aquele elemento-lugar capaz de receber ou de fornecer, em qualquer momento, os dados e informações manipuladas pelos processos. Por isso, o depósito, como lugar, é rigorosamente passivo e, ao mesmo tempo, representa a função de sincronia universal, por assim dizer. Neste momento, a discussão pode dar lugar ao exame da segregação funcional, do depósito como paradigma das caixas-pretas, dos protocolos de comunicação (superfícies-próteses de significado representantes do que ocultam) e dos modelos modulares com o seu ocultamento de informação constituinte.
+
+Desde um ponto de vista que privilegia o conceito de estoque, há uma segunda apreensão do termo depósito, capaz de permitir uma reflexão mais profunda sobre a apropriação e sobreapropriação [ver Edelman(PI)] dos assim chamados "bens imateriais", sobre as patentes, normas e padrões, copyrights, copylefts [ver Stallman(PG)] e assuntos correlatos, como a "pirataria" e os "novos" regimes de propriedade intelectual e de definição do domínio público.
+
+Isto é, o próprio esforço de pensar a informação como um bem estocável, tornando-a, desse modo, passível de uma apropriação "clássica", por assim dizer, serve também como ponto de partida para uma reflexão crítica sobre os problemas ligados à propriedade intelectual, aos registros e depósitos de patentes, bem como sobre os sistemas de identificação de produtos, de contabilidade, de cadastro e de catalogação, em geral. E, ao fim e ao cabo, sobre o essencial da informação e do registro.
+
+É claro que um tal modo de ver as coisas está absolutamente comprometido com uma crítica radical da área e de suas práticas. Mas não é, de modo algum, tangencial ou exterior. Surge e permanece no núcleo do que se conhece hoje como Ciência da Informação. Nem a bibliometria, nem os metadados, nem a terminologia, nem a padronização, nada disso escapa ao exame que parte do conceito de depósito, por falta ou por excesso, como privilegiado na discussão - e na fundamentação - da área. A proliferação das siglas, por exemplo, ainda que não seja um fenômeno exclusivo nas ciências da informação, pode ser apresentada como um mecanismo de compactação e criptografia, mas também como produto do desenvolvimento de estratégias discursivas do ponto de vista cognitivista [ver, por exemplo, Frohmann (PI)]. As questões ligadas à assim chamada inteligência competitiva, ou à gestão do conhecimento, tanto em suas versões mais superficiais como em estudos mais prudentes, podem ser tratadas consistentemente com o programa aqui proposto, de maneira crítica e unificada, sem deixar de lado nem o exame dos regimes de apropriação e sobreapropriação do "conhecimento", nem o da "otimização" da utilidade marginal e do valor agregado dos "estoques". Aqui entram, por exemplo, tanto a "mineração de dados" como a pesquisa e a aplicação das assim chamadas "novas tecnologias" no aproveitamento dos "estoques" existentes.
+
+Pode também, um tal ponto de vista, oferecer materiais para reflexão e explicação até então insuspeitados, tal como avaliar o movimento e os efeitos da transferência do foco da apropriação e de sua regulação, dos depósitos e dos suportes para os destinos e origens, da armazenagem para a comunicação, do ato de produzir, estocar e comercializar para o ato de consumir e de apreender.
+
+Por exemplo, sob essa luz, a afirmação de que a efetiva intervenção no domínio social depende muito mais da interação e da comunicação entre as partes do que das informações armazenadas adquire outro significado e anuncia novos desdobramentos. Pois é praticamente isto o que diagnostica um Relatório de Agosto de 1991 da Comissão de Acompanhamento [da reestruturação Telemática?] do IBASE, tratando da "constituição de um dos maiores provedores de acesso à Internet do Brasil", o Alternex, o que produziu
+
+"grandes transformações no Ibase, especialmente quanto ao conceito informação: O Ibase tem dado ênfase ao valor da informação. A história da instituição já tem numerosas experiências que sugerem que a armazenagem de informação (...) não tem valor prático. Os fatos mostram que são os interlocutores com capacidade de decisão ou influência o que realmente interessa. (...) é provável que a Telemática do Ibase se desenvolva com muito maior ênfase nas aplicações que têm demanda real que num conceito genérico sugestivo, como 'democratização da informação'; é uma nítida evolução em relação aos instrumentos desenvolvidos no passado (Bases de Dados, por exemplo)." [Fico(IU):60]
+
+A questão dos depósitos é, contudo, ainda mais complexa. Se temos, por um lado, as funções de sobreapropriação e de sincronia, por outro lado há o problema da eficácia social do próprio armazenamento e o de sua gestão. Por exemplo, nos buscadores de informações da Web, a avaliação da relevância dos documentos recuperados não pode estar baseada apenas nos assim chamados backlinks (links citantes), ou nas redes de citações e referências cruzadas, nem em quaisquer outros indicadores de "prestígio" [ver, por exemplo, Lúcio Tinoco, "Confissões de um buscador", Jornal do Brasil, 7/2/2002, Caderno Internet]. Pois isto não funcionaria com as informações de obsolescência rápida, com notícias, por exemplo. Nem seria possível incluir, com a freqüência necessária à sua atualização, nas incursões de um web crawler, isto é, de um "rastejador caça-páginas", os mais de cento e cinqüenta a trezentos terabytes atualmente disponíveis na Web (se aceitarmos a estimativa de cinco a dez terabytes em 1997 e um crescimento exponencial fazendo este número dobrar a cada ano - Peter Lyman et alii, em http://www.sims.berkeley.edu/how-much-info/internet.html calcula outros valores, dividindo a Web em Web profunda e Web superficial, dando a estimativa (ano 2000) de mais de sete mil e quinhentos terabytes, isto é, sete e meio petabytes para o total). É necessário selecionar os objetos e classificá-los segundo uma escala de prioridade e de freqüência de atualização. Para o material mais estável, isto é, com um ciclo de obsolescência mais longo, a estratégia dos backlinks parece funcionar. Pelo menos é o que nos diz o artigo de Lúcio Tinoco, citado acima, sobre a eficiência aparente do Google relativamente a outros buscadores.
+
+Assim, também em relação aos buscadores, podemos suspeitar que são ainda mais importantes por sua intervenção no domínio da comunicação do que sobre os estoques propriamente ditos. Este é outro exemplo da fecundidade de uma discussão sobre o conceito de depósito, tendo em vista o estabelecimento de um fio condutor para um curso de Ciência da Informação. Sem conceder nada quanto à profundidade e ao rigor da análise, sem os quais se perderiam de vista não apenas o passado, mas até mesmo a atualidade e o dinamismo do objeto estudado. É neste sentido que o conceito se apresenta como fundamental.
+
+
+
+
+
+Caixas-pretas
+
+Sendo passivo, o depósito não deveria ser apresentado, conforme fizemos acima, como paradigma das caixas-pretas. Pois as caixas-pretas pressupõem atividade, cujos efeitos podem ser percebidos nas suas superfícies, ou interfaces de entrada e saída, em seus comportamentos aparentes, regulados pelos protocolos de comunicação. Mas ao substituir as descrições do interior dos processos pelas de seu comportamento aparente, consideradas não apenas suficientes, mas as únicas representações possíveis, o corte das assim chamadas "abstrações comportamentais" termina por esvaziar e, assim, assimilar as atividades umas às outras, centrifugando suas diferenças para as interfaces de entrada e saída, para o regime dos produtos e dos insumos. Desse modo, tanto o depósito pode ser considerado um caso particular de atividade, conservadora de conteúdos, isto é, da equivalência ideal entre entradas e saídas, como a atividade pode ser assimilada a um tipo particular de depósito, cuja descrição desconsidera o modo pelo qual as coisas mudam, em benefício da especificação dos insumos, dos produtos e de regras de transformação de uns em outros.
+
+É possível, neste ponto, discutir, por exemplo, as noções de sistemas equivalentes, de abstração de dados, de ocultamento de informação e outras questões correlatas, sem abandonar, nem por um momento, o caminho escolhido desde o início.
+
+A esses novos elementos segregados - interfaces, normas, protocolos - se aplica recorrentemente o que se disse sobre os depósitos, inclusive quanto à apropriação e à sobreapropriação dos "bens intelectuais", quanto à "pirataria", etc. Podem ser apontados vários exemplos.
+
+Um artigo de O Globo [pág.7, Caderno Especial do dia 4/5/2002] explica e lamenta as "dificuldades" de manutenção da Associação Brasileira de Normas Técnicas - ABNT devido às "cópias não autorizadas", isto é, sem pagamento, de publicações - sobre normas técnicas - de propriedade daquela Associação.
+
+Já desde algum tempo livros-texto sobre sistemas operacionais vêm sugerindo claramente que a ignorância sobre o funcionamento de certos mecanismos é uma garantia de segurança [ver, por exemplo, Deitel(OS):531-533]. De forma similar, um não-saber constituinte, que pode assumir o nome técnico de "ocultamento de informação", se erige em "norma de qualidade" na confecção de sistemas informatizados [ver, por exemplo, Schulman(UD):xiv-xv]. Não são casos isolados. Estas proposições derivam de um modelo, mais do que isso, de uma visão de mundo que merece ser estudada minuciosa e profundamente. E isto é tarefa, específica ou compartilhada, de um curso geral sobre informação, dando conta, inclusive, de suas afinidades filosóficas (por exemplo, as do pragmatismo de Charles Sanders Peirce ou de William James).
+
+Tem-se, por um lado, a utopia da equivalência funcional, operacionalizada pelo movimento de redução da atividade às suas entradas e saídas, isto é, a uma abstração comportamental; e, por outro lado, a utopia da suficiência daquela redução. Ambas têm como base a idéia "monádica" de que o conjunto de todas as relações possíveis de um objeto não se distingue do próprio objeto, que as hipostasia - "absorvendo-as" - como "propriedade" e que as exibe - "centrifugando-as" - como "comportamento".
+
+Segregadas de seu contexto, as representações-registros fazem uso de uma coesão sucedânea de seus significados originais, próteses (equivalentes e suficientes) de significado capazes de manter certos vínculos operacionais necessários à circulação e à apropriação, mas também constituintes de regimes de interdição e de permissão. Aqui entram as transições entre linguagens de baixo e de alto nível e a insuficiência da descrição "lógica" como representação da implementação "física". Podem-se discutir também a indexação, o resumo, a classificação, o catálogo e o tesauro a partir desses aspectos da constituição dos registros. E, a partir daí, problemas ligados à sua quantificação e distribuição estatística, por exemplo, afastando ou justificando certas inferências, como as derivadas dos estudos sobre a assim chamada "explosão da informação" e da "infometria", em geral.
+
+À medida que tais questões vão sendo colocadas e esclarecidas, torna-se mais nítida a sua dependência mútua, assim como a abrangência e a intensidade da crítica. Luciano Mecacci [citando o neurofisiologista D.H.Hubel, prêmio Nobel de 1981, "há um sinal de saída: o único modo como o homem responde ao mundo exterior e influi sobre ele. E entre o sinal de entrada e o sinal de saída, há todo o resto: percepção, memória, pensamento e tudo que torna o homem humano"] observa que, em tal descrição
+
+"aquela zona branca que torna o homem humano é, em todo caso, uma realidade que ainda pode ser diretamente pesquisada, não somente deduzida como para o homem de Homero ou de Rabelais. Nesse plano pode-se descobrir a outra dimensão histórica do cérebro humano. A metodologia corrente é o primeiro obstáculo à determinação dos processos de transformação e das conotações histórico-culturais do cérebro num indivíduo do mundo de hoje."[Mecacci (CC):145-146]
+
+Estas observações apontam, assim, para inúmeras dificuldades de certos modelos e metodologias, para a dimensão histórica e cultural que deveria estar presente em qualquer estudo do cérebro humano, para a desvalorização das descrições dos processos e de diferenças tão importantes e evidentes como as existentes entre "percepção, memória, pensamento e tudo o que torna o homem humano". Isto é tão ou mais importante quando colocado ao lado das profecias sobre a assim chamada informação pervasiva - pervasive information, termo aparentado a computação pervasiva - pervasive computing. Já que, a acreditar na sinceridade das palavras de Joel Birnbaum, Diretor dos Laboratórios da HP (em http://www.hp.com, 1997): "(...)o que realmente estamos tentando fazer é criar o futuro", o futuro que nos espera vai responder, se depender da HP, é claro, àquela visão de um
+
+"mundo no qual a informação flui de forma tão livre e transparente como a eletricidade e consiste de uma mistura dinâmica e interativa de fala, palavras impressas e escritas, imagens e vídeo. Esta informação estará onde as pessoas necessitem dela - sem importar o lugar onde se encontrem - na forma sob a qual possam melhor usá-la. Conectadas por uma teia inteligente de comunicações, as pessoas navegarão no espaço de informação tão facilmente como dirigem seus carros hoje em dia. A informação pervasiva - pervasive information - terá o mesmo impacto nas gerações futuras como a eletricidade pervasiva tem na nossa. A informação pervasiva virá, em grande parte, pela convergência de três áreas chave - medição, computação e comunicações. Esses três campos são o núcleo das tecnologias dos laboratórios HP. Revoluções estão transformando esses campos e apagando as fronteiras entre eles. Nosso esforço nessas três áreas nos coloca em uma posição única de ajudar a moldar o futuro. Nossos cientistas e engenheiros estão trabalhando para inventar tecnologias, criar os padrões globais e projetar as infraestruturas e interfaces que tornarão realidade nossa visão da informação pervasiva. Através de uma variedade de iniciativas de pesquisa, estamos explorando modos de capturar as sinergias entre tecnologias de medição, computação e comunicações para aperfeiçoar a qualidade de vida e do trabalho e para criar o futuro."
+
+Hoje (outubro de 2002), ainda podemos ver nas páginas HP Labs, por exemplo, em http://www.hpl.hp.com/about/vision.html, afirmações de teor similar. O exemplo foi dado como mera ilustração de um estado de coisas geral e bastante consolidado. Podemos ver a utopia da informação e da computação pervasivas presente em documentos de praticamente toda a indústria telemática, e não apenas dela.
+
+Aqui, capturar, ou perceber, significa medir, isto é, encontrar o número correspondente ao objeto no sistema numerológico que lhe dará sentido. Assim, quando se diz que o futuro está nas tecnologias da medição, da computação e das comunicações, o mundo foi reduzido à indigência do número como seu duplo. Com a redução do mundo à medição, computação e comunicação das entradas e saídas - e, posso acrescentar, parafraseando Hubel e Mecacci, com a exclusão de "tudo o que torna o homem humano", com a exclusão da história e da cultura -, o que os futurólogos demiurgos das tecnovologias [cf. Paternostro (MT) e (MR):178] nos oferecem, ao fim e ao cabo, é o despreparo para o futuro.
+
+Seria lamentável que a área da Ciência da Informação se omitisse a respeito disso, ou, o que é ainda pior, se limitasse a anunciar entusiasticamente os novos ventos com base em tais prognósticos.
+
+
+
+
+
+E Agora?
+
+Creio não ser necessário insistir no argumento. Tendo em vista a construção de uma nova Ciência da Informação, para o seu ensino, para a pesquisa e para a formação do estudioso, nas poucas linhas acima foram sugeridos ou esboçados caminhos para um tratamento conjunto e consistente de objetos e práticas compartilhados por muitas áreas do conhecimento. A aparente complexidade - ou ingenuidade - do projeto é largamente compensada pela perspectiva de um tratamento unificado. Nem mesmo as questões mais gerais levantadas pelos estudos das práticas de informação em diversos contextos - questões ligadas à cidadania, aos movimentos sociais ou ao governo - poderiam ser desligadas daquele fio condutor sem o risco de escaparem à especificidade da área. Naturalmente, assim como para qualquer disciplina, a Ciência da Informação compartilha objetos, aprende e contribui, por sua vez, com diversas outras, auxiliares indispensáveis mas, nem por isso, capazes de substituí-la. Assim, apesar das imensas carências e dificuldades percebidas, área subdesenvolvida em país subdesenvolvido, não podemos escapar da responsabilidade de enfrentar as exigências, intransferíveis, que a nossa especificidade nos impõe.
+
+
+
+
+
+Referências Bibliográficas
+
+DEITEL, Harvey M. (OS). Operating Systems. Reading (MA), Addison-Wesley:1990
+
+EDELMAN, Bernard (PI). La Práctica Ideológica del Derecho. Madrid: Tecnos:1980
+
+FICO, Carlos (IU). Ibase: Usina de Idéias e Cidadania. Rio de Janeiro: Garamond, 1999
+
+FROHMANN, Bernd (PI). "The Power of Images: a Discourse Analysis of the Cognitive Viewpoint", in The Journal of Documentation, Vol 48, No 4, pp 365-386, Dec. 1992.
+
+MECACCI, Luciano (CC). Conhecendo o Cérebro. São Paulo: Nobel, 1987
+
+PATERNOSTRO, Luiz Carlos B. (MR). Modelos na Realidade às Margens da Modelagem. Rio de Janeiro, EdAutor: 1999.
+
+_________, ___________. (MT). "Mnemotécnica e Tecnovidade", in DataGramaZero, dez. 1999, http://www.dgzero.org/dez99/Art_05.htm
+
+SCHULMAN, Andrew et alii (UD). Undocumented DOS. Reading (MA), Addison-Wesley:1990
+
+STALLMAN, Richard (PG). "O Projeto GNU", in DataGramaZero, fev. 2000, http://www.dgzero.org/fev00/Art_04.htm

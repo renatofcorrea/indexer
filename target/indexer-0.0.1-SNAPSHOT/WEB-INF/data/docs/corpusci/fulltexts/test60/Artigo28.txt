@@ -1,0 +1,262 @@
+Arquitetura conceitual e resultados da integração de sistemas de informação e gestão da ciência e tecnologia
+
+
+
+Resumo: Iniciativas governamentais na área de gestão da informação esbarram freqüentemente na falta de integração e baixa qualidade da informação, incluindo iniciativas de governo eletrônico. Este artigo apresenta a concepção de sistemas de informação governamentais a partir da consideração dos interesses de todos os atores, configurando uma arquitetura conceitual para projetos de governo eletrônico. A Plataforma Lattes é apresentada como exemplo de implementação desta arquitetura. O papel das bibliotecas digitais de teses e dissertações é destacado, ressaltando seu papel em relação a outros provedores de informação do sistema nacional de ciência, tecnologia e inovação. A internacionalização da Plataforma Lattes é comentada à luz da oferta e demanda de informação que vem provocando.
+
+Palavras-chave: Governo Eletrônico, Arquitetura de Sistemas de Informação, Integração de Informações, Gestão de C&T, Bibliotecas Digitais, Plataforma Lattes, Rede SCienTI
+
+
+
+1. Introdução
+
+O advento da web e sua integração com ferramentas e métodos da tecnologia da informação (TI) fomentou a criação de serviços oferecidos pela internet. O impulso inicial veio do setor privado, com o comércio eletrônico (e-commerce), mas atualmente as aplicações governamentais (e-government) já não são novidade.
+
+Portais governamentais são provedores de informações e serviços aos cidadãos, bem como a variadas esferas de governo, catalisando a demanda por mais informações e serviços. Estas iniciativas compõem uma forma de aproximação de cidadãos e governo por meio da web (Gordon-Murnane, 2002).
+
+Aldricha et al. (2002) observam que, em julho de 2001, o total de iniciativas de governo eletrônico nos Estados Unidos era de 1371. Na Europa, praticamente todos os países já possuem sítios integrados de governo na web (e.g., Reino Unido, França e Alemanha)[1] ou estão em fase de implantação.
+
+Dentre os países em desenvolvimento, o Brasil tem posição de destaque. Projetos brasileiros têm sido considerados referências internacionais em áreas como cobrança on-line de impostos (Shaw, 2002) e gestão de sistemas de informação em Ciência e Tecnologia (Sabbatini, 2001).
+
+As metodologias propostas para o desenvolvimento de projetos de governo eletrônico inicialmente centraram-se mais na visão de integração de componentes tecnológicos (e.g., Inmon e Caplan, 1992). Mais recentemente, alguns trabalhos propõem a reformulação de processos de criação e instrumentalização de formulários on-line para minimizar custos (e.g. Liao et al., 2002), o estabelecimento de diretrizes para projetos (e.g. Cook et al., 2002) e a elaboração de metodologias de especificação da arquitetura dos sistemas que devem compor uma plataforma de governo (e.g. Sowell, 2000).
+
+Sistemas de informação governamentais, na web ou fora dela, freqüentemente sofrem de falta de integração e baixa qualidade da informação. Neste artigo os problemas citados são abordados com ênfase numa visão que, por considerar uma vasta gama de interessados e não somente as agências provedoras de serviços ou informações específicas, tem demonstrado vigor suficiente para impulsionar o incremento do volume e qualidade da informação, bem como do interesse e do volume de acessos. Os conceitos são discutidos com foco em um exemplo na área de ciência, tecnologia e inovação (CT&I), a Plataforma Lattes.
+
+A próxima seção apresenta os atores do sistema nacional de CT&I. Na seqüência, discute-se a concepção de sistemas de informação baseada na contemplação dos interesses de todos os atores. A seção seguinte discorre sobre a sinergia de sistemas de informação e o sistema nacional de CT&I, delineando a arquitetura de sistemas que permite esta sinergia, a criação de enlaces (links) que dinamizam a integração de ferramentas incluídas na arquitetura, com destaque para o papel das bibliotecas digitais de teses e dissertações, e finalmente o processo de internacionalização da Plataforma Lattes, materializado na formalização da Rede SCienTI.
+
+
+
+2. Atores do sistema nacional de CT&I
+
+Quem são os atores de um sistema nacional de CT&I? Por que perguntar   não é óbvio que são, por um lado, os pesquisadores e, por outro, as agências de fomento? Uma compreensão mais ampla do contexto permite identificar outros interessados além de pesquisadores e agências, como ilustra a Figura 1.
+
+
+
+
+
+Figura 1 - Informação e conhecimento: resultado da ação dos atores
+
+
+
+
+
+Diferentes atores, ou interessados no sistema nacional de CT&I, têm interesses diversos porém com muitos pontos em comum. Cada ator troca certo tipo de informação com o sistema e detém certo tipo de conhecimento. Reconhecidos os interesses na produção científica e tecnológica nacional de uma vasta gama de atores, vêm as perguntas:
+
+
+
+* Qual é a informação necessária para cada um desses atores?
+
+* De onde vem essa informação?
+
+* Onde têm sido procuradas as respostas?
+
+
+
+As entradas, saídas e processamento do sistema nacional de CT&I estão representados na Figura 2. Os investimentos no sistema, o produto resultante e os processos nas agências de fomento alimentam sistemas de informação que produzem material de interesse para a gestão da informação e tomada de decisão. O material de interesse produzido está relacionado a diversas métricas da informação. Por exemplo, o sub-sistema de fomento tem interesse na medição dos níveis de interação entre pesquisadores (relacionados à cientometria), enquanto os diversos níveis da burocracia governamental podem estar interessados em medições variadas sobre a atividade e a produção científica e tecnológica (relacionados à informetria).
+
+
+
+
+
+Figura 2   Sistemas e métricas da informação em CT&I, e sua associação com as entradas, saídas e processos do sistema nacional de CT&I
+
+
+
+
+
+É interessante observar que a noção de que todos os interessados de um sistema devem ser contemplados na construção de sistemas de informação é amplamente aceita desde os anos 1970 (Tsichritzis e Klug, 1978). No entanto, naquela época a preocupação era integrar informações em uma mesma organização e evitar retrabalho e redundâncias, evidenciadas nas inconsistências entre várias cópias da mesma informação e na intensa redigitação de dados em sistemas que se sobrepunham.
+
+O problema de integração atual, porém, difere daquele dos anos 1970 porque havia uma autoridade comum que podia determinar, por exemplo, que um sistema de vendas e um sistema de controle de estoques fossem submetidos a uma integração. Não há, em geral, uma autoridade comum que determine que sentem à mesma mesa e cheguem a um consenso sobre as necessidades informacionais em CT&I os pesquisadores, gestores, estudantes, técnicos de agências, empresários e outros interessados. É necessária uma visão conceitual e uma articulação de interesses que permita a integração da informação de forma útil, consistente e duradoura.
+
+
+
+3. Concepção de sistemas de informação em CT&I
+
+Conforme lembra Barreto (1999), o mercado de informação parece diferir de outros mercados no sentido de que  é a oferta que determina a demanda por informação . Um gestor da informação, ainda segundo Barreto, não pode agir segundo a racionalidade econômica de só aumentar a oferta de informação (na forma de acréscimo de estoques ou acervo) se houver acréscimo da demanda, pois isto poderia levar à extinção o provedor de informação. Ao invés disto, deve agir de forma estratégica, privilegiando a distribuição do seu produto.
+
+Valentim (2002) revisa a literatura sobre políticas, programas e ações governamentais relacionadas à informação em ciência e tecnologia. A autora relata os avanços e ressalta a importância do financiamento na construção de uma infra-estrutura para a sistematização da informação, em especial do setor privado, que tem participação pouco expressiva. Neste artigo se pretende apresentar evidências de que, além de investimentos, a sistematização da informação de forma relevante para o país depende da visão que embasa a concepção dos sistemas de informação.
+
+Para atender a todos os atores do sistema nacional de CT&I, os sistemas de informação devem contemplar processos ao longo de todo ciclo de construção do conhecimento científico e tecnológico. Em particular, é necessário integrar os processos de gestão de CT&I com as áreas de bibliometria, cientometria, informetria e a novíssima webometria (Aquillo, 2003)   uma espécie de bibliometria da web.
+
+No caso da Plataforma Lattes, o CNPq foi o ator responsável por liderar a aplicação desta concepção. Demonstrou compreender que os sistemas de informação em CT&I só atingiriam seu potencial se atendessem a todos os interessados. Isto pode ser detectado ao se observar a condução do processo de construção da Plataforma Lattes: de dono de sistemas que serviam aos interesses internos da agência (formulários, principalmente), o CNPq adotou por iniciativa própria a postura de um dos atores do sistema, ainda que fosse o patrocinador da Plataforma.
+
+Um indicador interessante do efeito desta visão é o índice de aumento do número de currículos na Plataforma: em pouco mais de 3 anos e meio, aumentou em 600% (de cerca de 40 mil, antes da entrada no ar da Plataforma Lattes em agosto de 1999, para aproximadamente 280 mil na época da publicação deste artigo, em abril de 2003). Para se chegar a este ponto foi necessário a cada ator do sistema abrir mão da comodidade dos sistemas que atendem somente a suas próprias demandas. Como já estabeleceram Tsichritzis e Klug (1978), cada ator tem sua própria visão sobre o universo informacional de interesse   visão naturalmente, necessariamente e por definição tendenciosa.
+
+Em resumo, a concepção de sistemas de informação em CT&I que este artigo apresenta implica em:
+
+
+
+* considerar as necessidades de informação de todos os atores de um sistema nacional de CT&I,
+
+* trabalhar de forma colaborativa e realizar projetos em rede, e
+
+* adotar padrões internacionais estabelecidos de forma colaborativa.
+
+
+
+A concepção que este artigo preconiza não implica, porém, em:
+
+
+
+* adotar a mesma tecnologia para todos os interessados, ou
+
+* mudar princípios fundamentais de trabalho de qualquer ator do sistema.
+
+4. Sinergia de sistemas de informação e o sistema nacional de CT&I O sistema nacional de CT&I tem uma grande variedade de atores, interesses, informações e conhecimento. Há uma variedade de abordagens metodológicas e recursos tecnológicos para o desenvolvimento de sistemas de informação. Esta seção apresenta os fundamentos da arquitetura de plataforma[2] de governo eletrônico que permitiu a sinergia de sistemas de informação e sistema nacional de CT&I.
+
+A porção mais aparente da Plataforma Lattes é o Sistema de Currículo Lattes, que registra a produção científica e tecnológica nacional. O Currículo Lattes substituiu vários formulários eletrônicos existentes no CNPq, mas significa muito mais do que uma mera troca de tecnologia. Um indicador do incremento da atividade de produção e atualização da informação na Plataforma é a quantidade de currículos recebidos pelo CNPq num período de 50 dias   1º de maio a 19 de junho de 2002: cerca de 40 mil novos currículos e 60 mil currículos atualizados.
+
+O número expressivo de novos currículos é suplantado em importância pela demonstração de que a base nacional de informações em CT&I está em estado de permanente atualização. Esta ação coordenada sustenta-se numa arquitetura de plataforma tecnológica descrita a seguir.
+
+
+
+4.1 Arquitetura de uma plataforma tecnológica para gestão da informação de CT&I
+
+A Figura 3 esquematiza a arquitetura conceitual da plataforma tecnológica para gestão da informação de CT&I em uma representação piramidal cujas camadas são:
+
+
+
+
+
+Figura 3- Arquitetura para plataforma tecnológica de governo eletrônico (Pacheco, 2003)
+
+
+
+
+
+* Unidades de informação, base da pirâmide: são as classes, tipos ou sub-domínios fundamentais da informação pertinente ao domínio da plataforma. No caso da Plataforma Lattes, as principais unidades de informação, ou unidades de análise, são currículo, grupo de pesquisa, projeto de pesquisa e instituição. As unidades de informação têm seu detalhamento padronizado através de uma abordagem de ontologias[3] comuns (Pacheco e Kern, 2001), na qual se descreve uma espécie de catálogo ou dicionário do domínio. Estas ontologias vêm sendo escritas na linguagem XML (http://www.w3.org/XML/), permitindo o intercâmbio de informações entre sistemas heterogêneos. * Fontes e sistemas de informação, segunda camada: inclui os repositórios de cada unidade de informação e os respectivos sistemas de informação para captura, tratamento e armazenagem (Pacheco, 2003). Repositórios e sistemas têm por base a padronização de informações que está na base da pirâmide.
+
+* Portais e serviços web, terceira camada: constitui-se dos instrumentos de apresentação de informações na web. Assenta-se sobre os sistemas de informações e as unidades de informação definidas nas camadas inferiores. Inclui serviços de busca e a atualização dinâmica da informação através de portais web[4]. Os serviços web,  dotados de grande flexibilidade de funcionamento em redes  (Bax e Leal, 2001), surgem como proposta para o oferecimento de serviços governamentais através da Internet. Podem ser combinados com sistemas de conhecimento, na forma de serviços inteligentes.
+
+* Sistemas de conhecimento, topo da pirâmide: são instrumentos projetados para gerar novos conhecimentos a partir das unidades de informação, sistemas de informação e portais web. Incluem técnicas de descoberta de conhecimento como mineração de dados, estatística e reconhecimento de padrões. A Plataforma Lattes possui, nesta camada, componentes tais como o algoritmo de estratificação dos grupos de pesquisa, o Lattes Egressos (http://lattes.cnpq.br) e o sistema de Demografia Curricular (Pacheco, 2003).
+
+
+
+4.2 Enlaces e integração de portais Uma característica importante da sinergia de sistemas de informação e o sistema nacional de CT&I é a sistemática de enlaces entre a Plataforma Lattes e várias outras iniciativas relacionadas à atividade de CT&I. Servidores de enlaces (Santana et al. 2001) permitem integrar vários portais e repositórios de informação sobre CT&I.
+
+A Figura 4 exemplifica o efeito da integração de portais e repositórios exibindo um Currículo Lattes que tem enlaces com o histórico do pesquisador no CNPq, sua presença no Diretório de grupos de pesquisa no Brasil, seus projetos no sistema Prossiga, artigos nas bibliotecas SciELO e Medline e patentes cadastradas no INPI. Registros nestes portais e repositórios que digam respeito ao pesquisador, em correspondência, têm enlaces com o currículo do pesquisador.
+
+
+
+
+
+Figura 4 - Currículo Lattes com enlaces para portais e repositórios de informação em CT&I
+
+
+
+
+
+A arquitetura que embasa a Plataforma Lattes permite a interoperabilidade de aplicações diversas como as citadas. Os enlaces catalisam a sinergia dos sistemas de informação e o sistema nacional de CT&I. Santana et al. (2001) argúem que os enlaces podem  aumentar radicalmente as possibilidades de visibilidade, acessibilidade e mensurabilidade das atividades e produção científica dos autores brasileiros e instituições envolvidas, contribuindo, em última instância, para o aumento do impacto da pesquisa científica brasileira em âmbitos nacional e internacional. 
+
+
+
+4.3 O papel das bibliotecas de teses e dissertações
+
+A Figura 4 já mostrou o enlace de currículos e registros de artigos em repositórios de artigos científicos. Marcondes e Sayão (2001) descreveram o projeto da Biblioteca Digital Brasileira (BDB), que tem os objetivos de fomentar a publicação de recursos informacionais e de viabilizar o acesso rápido e integrado a estes recursos. E as bibliotecas digitais de teses e dissertações, fazem parte do sistema nacional de CT&I? Seus atores devem ser integrados aos já citados? A integração é necessária?
+
+Os atores da pós-graduação são candidatos, orientadores, examinadores, tutores e monitores, funcionários, coordenadores, pró-reitores e outros. Seus interesses e necessidades de informação têm conexão com os dos demais atores, portanto a integração pode beneficiar-se da sinergia já referida.
+
+O Banco de Teses e Dissertações (BTD) do Programa de Pós-Graduação em Engenharia de Produção da Universidade Federal de Santa Catarina (Pacheco et al. 2003) é uma destas bibliotecas digitais já integradas ao sistema nacional de CT&I. A Figura 5 mostra o resultado de uma busca por  bibliotecas  no BTD (http://teses.eps.ufsc.br) e os registros encontrados, com enlaces com o currículo do autor, quando disponível.
+
+
+
+
+
+Figura 5 - Enlaces com currículos Lattes no BTD
+
+
+
+
+
+A sinergia de bibliotecas de teses e dissertações e o restante do sistema nacional de CT&I não se esgota nos enlaces de currículos e trabalhos aprovados. A Figura 6 revela uma das características do BTD   as estatísticas da pós-graduação. Na figura, apresentam-se os tempos médios de graduação medidos em meses, por ano e por modalidade do curso.
+
+
+
+
+
+Figura 6 - Estatísticas no BTD
+
+
+
+
+
+Se estendidas para muitos programas de pós-graduação no país, as informações contidas neste exemplo específico poderiam servir para contabilizar, por exemplo, os tempos médios de graduação em várias modalidades de pós-graduação e compará-los com os índices de produção acadêmica dos egressos, estabelecendo um comparativo de qualidade e eficiência de modalidades alternativas de cursos de pós-graduação. Desta forma, aplicações residentes em bases dos programas de pós-graduação estariam provendo informações necessárias à tomada de decisão em nível de governo federal.
+
+
+
+4.4 Internacionalização
+
+O esforço das instâncias governamentais e não-governamentais provedoras de conteúdo proporcionou um crescimento rápido da oferta de informações. A interação entre atores do sistema de CT&I e os diversos componentes da plataforma tecnológica respondeu com o aumento da demanda por informação. Este processo levou a Plataforma Lattes, em pouco mais de três anos de funcionamento, à internacionalização como tecnologia fundamental da Rede SCienTI   Rede Internacional de Fontes de Informação e Conhecimento em Ciência, Tecnologia e Inovação.
+
+Formalizada em dezembro de 2002 em um evento em Florianópolis (http://www.scienti.info/ws), a Rede SCienTI reúne inicialmente 10 países da América Latina e Europa, embora um número maior de países já tenha demonstrado interesse. Além de servidores de enlaces, a Rede conta com iniciativas para transformar o Currículo Lattes em ferramenta comum aos países participantes, como descrevem De los Ríos e Santana (2001).
+
+Um resultado concreto desta iniciativa é o mini CD-ROM apresentado no evento pelos representantes colombianos, contendo o CvLAC (versão latino-americana do Currículo Lattes) e o GrupLAC (versão do Diretório de Grupos de Pesquisa no Brasil) distribuídos recentemente aos pesquisadores colombianos. Esta realização ratifica a decisão de oferecer todas as ferramentas da plataforma para uso de toda a Rede SCienTI.
+
+
+
+
+
+Figura 7 - Mini CD-ROM colombiano com CvLAC e GrupLAC
+
+
+
+
+
+5. Conclusão
+
+Este artigo discorreu sobre a multiplicidade de interesses e atores interessados no sistema nacional de CT&I e uma visão conceitual que permite integrar informações, interesses e sistemas de informação. A implementação desta visão tem permitido superar problemas comuns em projetos de sistemas de informação governamentais: baixa qualidade da informação e falta de integração. Vencendo-se estes problemas, é possível progredir muito rapidamente, com benefícios palpáveis para a sociedade, pois a oferta de informação gera sua própria demanda.
+
+Coube ao CNPq, no caso da Plataforma Lattes, realizar a visão de atender aos interessados no sistema nacional de CT&I reconhecendo a variedade de atores, interesses, informação e conhecimento existente e colocando-se na posição de um destes atores, ainda que protagonista importante, mas não único. O impacto da realização da visão pode ser apreciado na septuplicação do número de currículos depositados no CNPq no espaço de 44 meses.
+
+A concepção da arquitetura tecnológica subjacente à Plataforma Lattes permitiu integrar provedores de conteúdo informacional muito diversos sem impor a adoção de uma única tecnologia nem a mudança dos princípios fundamentais de trabalho de cada ator do sistema de CT&I. A arquitetura compõe-se de uma camada fundamental de unidades de informação, uma camada de fontes e sistemas de informação que sustentam o funcionamento de portais e serviços web, com sistemas de conhecimento encimando a pirâmide que representa a arquitetura.
+
+Os enlaces entre diversas aplicações contempladas na arquitetura potencializam a visibilidade da informação. Atores de menor dimensão podem contribuir com informações e conhecimento que afetam a tomada de decisões de atores de maior dimensão no sistema nacional de CT&I, como é o caso de bancos de teses e dissertações, que podem fornecer subsídios à avaliação da qualidade e eficiência de modalidades alternativas de cursos de pós-graduação.
+
+A internacionalização da Plataforma Lattes após 3 anos e meio do seu lançamento é evidência da sua pujança. A continuação dos esforços de desenvolvimento, em especial considerando a colaboração internacional, permite vislumbrar a construção de mais e melhores instrumentos, como sistemas de conhecimento, por exemplo. Pode-se aventar um impacto nos sistemas nacionais de CT&I dos países participantes da Rede SCienTI, a partir do incremento da interação dos atores, comparável ao impacto da Plataforma Lattes até o momento, com benefícios econômicos plausíveis.
+
+
+
+
+
+Referências Bibliográficas
+
+ALDRICHA, D.; BERTOTA, J. C.; e McCLUREA, C. R. E-Government: initiatives, developments, and issues. Government Information Quarterly v. 19, Issue 4, 4th Quarter, p. 349-355, 2002.
+
+AQUILLO, Isidro. Indicadores de contenidos para la web académica ibero-americana. II Seminário sobre indicadores para a sociedade da informação. Lisboa, Portugal: CCCM, 27-28 de fevereiro de 2003.
+
+BARRETO, Aldo de Albuquerque. A oferta e a demanda de informação: condições técnicas, econômicas e políticas. Ciência da Informação v. 28, n. 2, p. 167-177, 1999.
+
+BAX, Marcello Peixoto e LEAL, Jamil. Serviços Web e a evolução dos serviços em TI. DataGramaZero v.2, n.2, abr. 2001. Disponível em <http://www.dgz.org.br/abr01/Art_02.htm>. Acesso em 13 de abril de 2003.
+
+CLARKE, T.; FLAHERTY, T. B. Web-based B2B portals. Industrial Marketing Management v. 32, Issue 1, p. 15-23, 1 Jan. 2003.
+
+COOK; M. E. et al. Making a Case for Local E-Government, University at Albany, Center for Technology in Government, July 2002. Disponível em: <http://www.ctg.albany.edu/egov/making_a_case.pdf>. Acesso em 03 de janeiro de 2003.
+
+DE LOS RÍOS, Rebecca e SANTANA, Paulo Henrique de Assis. El espacio virtual de intercambio de información sobre recursos humanos en Ciencia y Tecnología de América Latina y el Caribe - Del CV Lattes al CvLAC. Ciência da Informação v. 30, n. 3, p. 42-47, 2001.
+
+GORDON-MURNANE, L. Digital Government: Digital Tools for Electronic Dissemination of Government Information. Searcher: The Magazine for Database Professionals, v. 10, n. 2, Feb. 2002. Disponível em: <http://www.infotoday.com/searcher/feb02/gordon-murnane.htm>. Acesso em 05 de janeiro de 2003.
+
+INMON, W. H.; CAPLAN, J. H. Information Systems Architecture - Development in the 90 s. New York: John Willey and Sons, 1992.
+
+LIAO, T. S.; WANG; M. T.; TSERNG, H. P. A framework of electronic tendering for government procurement: a lesson learned in Taiwan. Automation in Construction v. 11, Issue 6, p. 731-742, Oct. 2002.
+
+MARCONDES, Carlos Henrique e SAYÃO, Luís Fernando. Integração e interoperabilidade no acesso a recursos informacionais eletrônicos em C&T: a proposta da Biblioteca Digital Brasileira. Ciência da Informação v. 30, n. 3, p. 24-33, 2001.
+
+PACHECO, R. C. S. Uma metodologia de desenvolvimento de plataformas de governo para geração e divulgação de informações e de conhecimento. Artigo apresentado em cumprimento a requisito parcial de concurso para professor no INE/UFSC. 35 p. Florianópolis, 14 de janeiro de 2003.
+
+PACHECO, R. C. S. e KERN, V. M. Uma ontologia comum para a integração de bases de informações e conhecimento sobre ciência e tecnologia. Ciência da Informação v. 30, n. 3, p. 56-63, 2001.
+
+PACHECO, R. C. S.; KERN, V. M. e BERMEJO, P. H. S. Interoperability and information integration in a digital library of theses and dissertations: the case of BTD. The International Information & Library Review, 2003 (to appear).
+
+SABBATINI, M. Lattes, cómo gestionar la ciência brasileña en la red. divulc@t:ciencia@tecnología, 2001. Disponível em: <http://www.galeon.com/divulcat/articu/141a.htm>. Acesso em 03 de janeiro de 2003.
+
+SANTANA, Paulo Henrique de Assis, PACKER, Abel Laerte, BARRETTO, Marcia Ymanaka e SORTE, Geraldo. Servidor de enlaces: motivação e metodologia. Ciência da Informação v. 30, n. 3, p. 48-55, 2001.
+
+SHAW, R. Creating Trust in Critical Network Infrasctructures: the case of Brazil. In: ITU Workshop On Creating Trust In Critical Network Infrasctructures, 2002, Seoul, Republic of Korea, ITU, 2002. Disponível em: <http://www.itu.int/osg/spu/ni/security/docs/cni.06.pdf>. Acesso em 03 de janeiro de 2003.
+
+SOWELL, K. P. The C4ISR Architecture Framework: History, Status and Plans for Evolution. The MITRE Corporation, McLean, Virginia, 2000. Disponível em: <http://www.mitre.org/support/papers/tech_papers99_00/sowell_evolution/sowell_evolution.pdf>.
+
+TSICHRITZIS, D.; KLUG, A. The ANSI/X3/SPARC DBMS framework report of the study group on database management systems. Information Systems v. 3, p. 173-191, 1978.
+
+VALENTIM, Marta Lígia Pomim. Informação em ciência e tecnologia: políticas, programas e ações governamentais   uma revisão de literatura. Ciência da Informação v. 31, n. 3, p. 92-102, 2002.
+

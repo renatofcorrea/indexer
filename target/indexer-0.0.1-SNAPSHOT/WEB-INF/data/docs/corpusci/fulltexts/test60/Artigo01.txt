@@ -1,0 +1,470 @@
+Transferência da Informação: análise para valoração de unidades de conhecimento
+
+
+Resumo: Entender e medir o valor do conhecimento é uma das mais discutidas e menos compreendidas questões nos estudos sobre a gestão do conhecimento. Porém, se esta dificuldade fica mais explícita ao analisar o conjunto do conhecimento de uma organização em relação ao mercado, torna-se necessária a definição de parâmetros e mecanismos de avaliação de cada unidade de conhecimento disponível, principalmente aquele que, por algum processo, já foi registrado e precisa ser gerenciado, tanto em seu processo de obtenção, armazenamento, acesso e, até mesmo, descarte. Neste artigo, objetivamos descrever questões envolvidas na identificação do valor do conhecimento registrado em função de sua multidimensionalidade funcional e do processo de transmissão de informações.
+
+Palavras chave: Transferência de informação; Gestão do conhecimento; Valor de unidades de conhecimento
+
+
+1. Introdução
+
+Transformar o conhecimento em diferencial competitivo é o grande desafio que se apresenta no novo cenário de alta competitividade do mundo atual. Desenvolver capacidades de controle e incremento do fluxo do conhecimento dentro das organizações e ambientes colaborativos será a diferença entre viver e desaparecer.
+
+Com o advento das tecnologias de gestão da informação, estamos passando por um processo de aumento exponencial de recursos de armazenamento e disseminação de informação, que poderia ser comparado, de forma figurativa, a um segundo dilúvio, uma cheia de informações, informações estas que formam um novo ambiente dinâmico e interativo, em que cada reserva de memória, cada grupo, cada indivíduo, cada objeto pode tornar-se emissor e aumentar o fluxo.
+
+Esse processo de adaptação passa pela necessidade de criarmos mecanismos pelos quais possamos gerar zonas de familiaridade e construir, cada um à sua maneira e de acordo com suas necessidades e preferências, totalidades parciais, que por sua vez deverão ser abertas e provisórias, em mutação constante, alimentadas e limpas por processos internos de autogestão. Não é sem razão que as metáforas utilizadas hoje para a relação com o saber sejam a navegação e o surfe, pois trata-se de enfrentar os desafios das correntes e ventos em uma extensão plana, sem fronteiras e sempre mutante, em contrapartida às metáforas da pirâmide do saber, da escala ou do curso, já todo traçado, como propõe Lévy (1998). Temos a imagem de uma perspectiva plana e sem profundidade, sem fronteiras, sem rotas preestabelecidas, porém com uma capacidade infinita de deslocamento, contanto que se tenha o local de destino visualizado.
+
+Se por um lado as novas tecnologias e os mecanismos de administração de informações e comunicação causaram este aumento no volume de informações disponíveis, é também através deles que provavelmente encontraremos as soluções para domarmos e controlarmos este oceano de dados a nosso favor. Consideramos a Ciência da Informação como o novo foco de interesse para os próximos anos em função deste cenário e de sua importância estratégica diante destes desafios.
+
+São vários os fatores que têm alimentado o forte crescimento pelo interesse em identificar, registrar e utilizar o conhecimento que as organizações possuem, sendo que dentre os principais se destacam os resultados da reengenharia, o grande aumento da concorrência e os avanços na tecnologia da informação.
+
+Ainda que, como efeito secundário, a reengenharia tenha trazido à tona a importância do saber que as organizações possuíam, pois, após descartarem os níveis intermediários, que bem ou mal sintetizavam o saber e coordenavam sua utilização em suas áreas, as organizações sofreram grandes perdas de produtividade e eficiência, em função da falta de conhecimentos específicos em determinadas áreas. O aumento na concorrência foi ocasionado principalmente pela quebra de barreiras geográficas e políticas, bem como pela evolução das tecnologias de comunicação que permitem a interação de mercados até então isolados. E finalmente, os avanços permitiram um nivelamento no acesso às informações por indivíduos e empresas que, agora, podem ter acesso a um volume cada vez maior e variado de informações que permitem que inovações sejam facilmente analisadas, emuladas e até mesmo superadas, fazendo com que as empresas desejosas de manter seus mercados passem a buscar processos de desenvolvimento interno de suas capacidades, para se tornarem responsáveis pelas superações de suas inovações ou do mercado, criando um ciclo em que as empresas, muitas vezes, se vejam obrigadas a superar seus próprios produtos antes que a concorrência o faça.
+
+Um outro ponto importante é a identificação das diferenças entre gerenciar conhecimento e informação. O termo informação oferece uma certa familiaridade, até pelo senso comum, enquanto que com relação ao conhecimento temos a sensação de estarmos lidando com algo amorfo e intangível, e que só pode ser utilizado e tratado dentro da mente humana. Vale apresentar a diferença salientada por Thomas Koulopoulos (1998) que define gerenciamento da informação como a organização estruturada de dados predefinidos, e gerenciamento do conhecimento como a capacidade de conectar informações estruturadas e não estruturadas, com a mudança das regras que as pessoas aplicam a elas. Trata-se, portanto, não somente da aplicação de novas tecnologias, mas também de questões mais complexas que envolvem as culturas corporativas e suas relações com questões como colaboração, competência, aprendizado constante, inovação acelerada etc.
+
+Porém, o objetivo da utilização de recursos tecnológicos no processo de gestão e transferência do conhecimento não deve ser entendido como um substituto ao fator humano, pois, segundo Lévy (1993, p.101)
+
+
+
+Está destinada ao fracasso toda e qualquer análise da informatização que esteja fundada sobre uma pretensa essência dos computadores, ou sobre qualquer núcleo central, invariante e impossível de encontrar, de significação social ou cognitiva.
+
+
+
+Deve-se, sim, entender sua utilização como uma ferramenta de apoio, auxiliando no registro, recuperação e contextualização de informações, uma vez que não há, ainda, registro de nenhum recurso tecnológico capaz de 'criar' conhecimento sem o auxílio da intervenção humana.
+
+Reafirmando essa idéia, vale mencionar que,
+
+
+
+Em termos restritos, o conhecimento só é criado por indivíduos. Uma organização não pode criar conhecimento sem indivíduos. A organização apóia os indivíduos criativos ou lhes proporciona contextos para a criação do conhecimento. A criação do conhecimento organizacional, pois, deve ser entendida como um processo que amplia 'organizacionalmente' o conhecimento criado pelos indivíduos, cristalizando-o como parte da rede de conhecimentos da organização. (NONAKA,1997, p.65).
+
+
+
+Nesse sentido, podemos dizer que uma organização, na visão defendida por Drucker (1999, p. 33) é,
+
+[...] um grupo humano composto por especialistas que trabalham em conjunto em uma tarefa comum. Ao contrário da sociedade, da comunidade ou da família - os agregados sociais tradicionais -, uma organização não é concebida e baseada na natureza psicológica dos seres humanos, nem em suas necessidades biológicas. Contudo, embora seja uma criação humana, ela é feita para durar - talvez não para sempre, mas por um período de tempo considerável. (Drucker, 1999, p. 33)
+
+
+
+E como identificar a real importância de se obter o controle sobre os ativos intelectuais? Analisamos esta questão a partir de um apontamento de Peter Drucker (1999, p. xv) sobre a relevância do conhecimento em face das novas estruturas sociais:
+
+[...] hoje o recurso realmente controlador, o 'fator de produção' absolutamente decisivo, não é o capital, a terra ou a mão-de-obra. É o conhecimento. Em vez de capitalistas e proletários, as classes da sociedade pós-capitalista são os trabalhadores do conhecimento e os trabalhadores em serviços.
+
+
+
+E de outro trecho em que completa:
+
+Na verdade, o conhecimento é hoje o único recurso com significado. Os tradicionais 'fatores de produção' - terra (isto é, recursos naturais), mão-de-obra e capital - não desaparecem, mas tornaram-se secundários. Eles podem ser obtidos facilmente, desde que haja conhecimento. E o conhecimento, neste novo sentido, significa conhecimento como uma coisa útil, como meio para a obtenção de resultados sociais e econômicos. (DRUCKER, 1999, p. 26)
+
+
+
+Portanto, o conhecimento passa a ter importância crescente. Mas essa nova moeda tem características muito especiais, e saber lidar com ela passa a ter uma importância crucial, não só para os indivíduos mas também para as organizações e governos, segundo Drucker (1999, p. 173):
+
+As indústrias que passaram para o centro da economia nos últimos quarenta anos se baseiam na produção e distribuição de conhecimento e informação, e não na produção e distribuição de coisas. O produto real da indústria farmacêutica é conhecimento; as pílulas e ungüentos não passam de embalagens do conhecimento.
+
+
+
+E, ainda, há exemplos como os da indústria de software e empresas de pesquisa na área genética, que tratam única e exclusivamente de conhecimento, em seu estado mais puro. E se alguém ainda se questiona se haverá demanda para tanta oferta de conhecimento, basta analisarmos o foco atual de demanda de novas fontes de conhecimento, que é a questão do relacionamento one-to-one, meta da grande maioria das empresas frente à forte competitividade, em que a necessidade de conhecimento cresce exponencialmente, exigindo a multiplicação da capacidade de gestão de funcionalidades de relacionamento com os clientes, contrapondo-se à estrutura de produção em massa, que orienta a grande maioria das plantas produtivas atualmente em operação. É a produção em grande escala atendendo os clientes de forma personalizada.
+
+Vivemos, portanto, um momento de mutação, em que cada detalhe será uma semente importante para a definição da nova sociedade que está sendo formada. Devemos todos estar atentos para que o controle dessa moeda - o conhecimento - não fique restrito, como aconteceu com os modelos anteriores, e fornecer meios que permitam que o acesso a este recurso seja o mais democrático e justo possível.
+
+Todavia, temos ao nosso lado características positivas, trata-se de um recurso inesgotável que se auto-alimenta com o compartilhamento, mas necessitamos de novas estruturas metodológicas de acesso e gestão desse bem.
+
+2. Dados, Informações e Conhecimento
+
+Ao abordar questões ligadas à transferência da informação, é necessário analisar conceitos básicos como dado, informação e conhecimento. Vale destacar que o objetivo aqui não é o de buscar definições gerais para a utilização destes termos, até por ser considerada esta abordagem perigosa em se tratando de termos extremamente polissêmicos, mas sim o de propor questões relacionadas à utilização do conjunto de informações disponíveis nas organizações e sua valorização como unidades de conhecimento, permitindo assim avaliações sobre o custo de obtenção, registro e recuperação desse ativo tão importante, bem como o acompanhamento de seu desempenho no decorrer do tempo e a eficiência da participação dos usuários.
+
+
+
+A partir das definições apresentadas por Davenport (1998, 1999), Firestone (1999), Le Coadic (1996) e Zack (1999) trataremos o termo dado como um elemento básico, formado por signo ou conjunto finito de signos que não contém, intrinsecamente, um componente semântico, mas somente elementos sintáticos.
+
+Outro conceito fundamental é o de informação. Com tantas conceituações adotadas por diferentes autores, entre eles Castro (1999), Davenport (1998), Drucker (1999), Firestone (1999), Le Coadic (1996), Zack (1999), passamos a considerá-la como um conjunto finito de dados dotado de semântica e que tem a sua significação ligada ao contexto do agente que a interpreta ou recolhe e de fatores como tempo, forma de transmissão e suporte utilizado. O valor desse conjunto poderá diferir da soma dos valores dos dados que o compõem, dependendo do processo de contextualização no agente que o recebe.
+
+Nesse sentido é importante lembrar que o uso efetivo de tecnologia da informação para comunicar conhecimento requer que o contexto interpretativo seja compartilhado também. Quanto mais os comunicadores compartilharem conhecimentos similares, experiências e conhecimentos anteriores, maior será a eficiência da comunicação do conhecimento por canais de mediação digital. Assim, quanto maior for o grau de compartilhamento de conhecimento contextual em uma comunidade estabelecida, maior será a possibilidade de sucesso na utilização de um repositório central de conhecimento. Entretanto, quando o contexto interpretativo é moderadamente compartilhado, ou o conhecimento trocado é menos explicito, ou a comunidade não é claramente definida, exige-se um uso maior de meios interativos para troca de conhecimento, sendo mais apropriados, para tanto, elementos como as correspondências eletrônicas ou fóruns de discussão, conforme afirma Michael Zack (1999). E ainda, quando o contexto não é bem compartilhado e o conhecimento é nativamente tácito, a comunicação e a narração de experiências é melhor suportada por modos mais interativos como videoconferências ou conversação face a face.
+
+Abre-se, assim, a possibilidade da existência da informação, independentemente da existência de um agente humano, como emissor ou receptor, permitindo o uso do conceito de informação também para o conjunto de dados, sendo transmitido de um agente humano para outro agente humano, via algum canal (conversação), transmitido de um agente humano para um agente não humano dotado de alguma capacidade de tratamento desta informação, ou a partir deste último para um agente humano (interação) e, finalmente, a possibilidade de transmissão entre agentes não humanos (conexão).
+
+Os processos que mais nos interessam são o de interação e o de conexão, em função da utilização de suportes tecnológicos como ferramentas de auxílio no aumento de performance na transferência da informação e do conhecimento. A este suporte tecnológico, ou agente não humano, não basta a capacidade de registro do conjunto de dados ou elementos semânticos recebidos, ou estaríamos configurando um caso de processo de registro. Mas deve, sim, apresentar alguma capacidade no que diz respeito a um tratamento, ainda que em menor grau, da informação recebida, permitindo que se configure como informação, e não como um simples conjunto de dados a serem registrados, possibilitando também a agregação de contextualizações posteriores à interação e, desta forma, não necessariamente dependente do emissor. Surge, portanto, a figura deste agente como um gestor de algo maior que a própria informação, um agente que seja capaz de gerir unidades compostas por um conjunto de informações cujo valor total será maior que a soma dos valores das informações que a compõem.
+
+Partindo-se dos conceitos de dado e informação adotados, podemos estabelecer com maior facilidade a compreensão do conceito de dado, e até utilizar um exemplo prático considerando um evento trivial de uma organização, como, por exemplo, uma venda em que poderíamos ter:
+
+Exemplo de dados sobre a venda:
+
+vendedor: João; valor: R$ 10,00; cliente: José.
+
+
+
+
+
+Exemplo de informação:
+
+"O vendedor João realizou uma venda no valor de R$ 10,00 para o cliente José."
+
+
+
+Percebe-se, portanto, que os dados, permitem apenas inferências baseadas em informações complementares que poderiam estar relacionadas àquele dado. Porém, o dado em si, se transmitido ou registrado fora do seu contexto, pouco ou nada pode representar em termos de significado. Já o exemplo de informação utilizado acima, que se constitui da composição dos dados utilizados como exemplo, tornam-se uma unidade, um elemento que já possui uma determinada carga semântica, ainda que pequena, e com poucos elementos que possibilitem sua contextualização.
+
+Surge, então, a necessidade de utilização de um conceito mais abrangente que permita a definição de elementos com maior carga semântica que uma informação.
+
+Chegamos assim a determinação de um conceito para conhecimento, que será em última análise o produto a ser administrado pela gestão do conhecimento, a partir dos conceitos apontados por vários autores e pensadores, entre eles Le Coadic (1996), Dahlberg (1995), Davenport & Prusak (1999), Drucker (1999), Firestone (1999), Zack (1999), Confucio, Hegel, Hume, Husserl, Kant, Protágoras, Sócrates.
+
+Conhecimento poderia ser conceituado como um conjunto de informações contextualizadas e dotadas de semânticas inerentes ao agente que o detém, seja a mente humana ou não, e seu conteúdo semântico se dará em função do conjunto de informações que o compõem e de suas ligações com outras unidades de conhecimento, e do processo de contextualização.
+
+Em função do fato de o conteúdo semântico do conhecimento derivar da contextualização, o conhecimento torna-se um elemento multifacetado, e todas as análises feitas sobre ele tornam-se dependentes do contexto de cada análise ou consulta e, portanto, terão de respeitar esta característica, principalmente a sua valoração, fazendo com que o valor deste conhecimento se dê em função do contexto escolhido como base para análise.
+
+Avaliando as relações entre dados, informações e conhecimentos, podemos definir a transformação de dados em conhecimento como um processo que se inicia em um grande volume de dados disponíveis nas organizações, em sua maioria baseados em sistemas mais simples e voltados, principalmente, ao atendimento de funcionalidades operacionais, como, por exemplo, faturamento e controle financeiro (dados estruturados), ou artigos selecionados de publicações especializadas pelos usuários (dados não estruturados).
+
+Este conjunto de dados sofre intervenção humana e tecnológica, sendo maior a possibilidade de uso dos recursos tecnológicos, principalmente por se tratar de grandes volumes a serem manipulados e processos que podem ser automatizados, ganhando alguma carga semântica e transformando-se, assim, em elementos que irão formar o conjunto de informações que será base para a próxima fase do processo, em que mais uma vez haverá intervenção humana e tecnológica, desta vez muito maior a humana, contextualizando estas informações e criando ligações entre estas unidades maiores - unidades de conhecimento - com outras unidades, formando, assim, uma rede que agrega valor e potencial de interpretação para este novo conjunto, formando agora a base de conhecimento conforme ilustrado na figura 1.
+
+
+
+Figura 1: A transformação de dados em conhecimento, demonstrando a característica multidimensional do conhecimento, em que cada usuário possui uma visão do conhecimento, interferindo e interagindo em seu contexto, valor e aplicabilidade.
+
+Fonte: (Santana, 2002).
+
+
+
+3. O Valor das Unidades de Conhecimento
+
+Entender e medir o valor do conhecimento é uma das mais discutidas e menos compreendidas questões nos estudos sobre a gestão do conhecimento, conforme Houltshouse (1999). Porém, se essa dificuldade fica mais explícita ao analisar o conjunto do conhecimento de uma organização em relação ao mercado é necessário que sejam definidos parâmetros e mecanismos de avaliação de cada unidade de conhecimento disponível, principalmente aquele que, por algum processo, já foi registrado e precisa ser gerenciado, tanto em seu processo de obtenção, como de armazenamento, de acesso e, até mesmo, de descarte. Essa medida tem como objetivo balizar transações comercias como compras, licenças, fusões, alianças e tantas outras operações em que o valor da empresa deve ser avaliado em sua totalidade e, assim, cobrir, também, o valor de seu capital intelectual, internamente à organização,
+
+Para analisar e valorar o conhecimento, faz-se necessária a sua divisão em partes que compõem o todo, até se chegar a um elemento simples, que sirva de medida, e que são constituídas, a exemplo dos "esquemas" (Rumelhart, 1980), por um núcleo principal, por um conjunto de ligações para outras unidades de conhecimento, por informações sobre partes variáveis e passíveis de serem adequadas ao contexto, por informações sobre a origem, a forma e sobre a responsabilidade de sua criação e por informações sobre os acessos realizados por outros usuários e sistemas.
+
+O termo unidade de conhecimento é por nós utilizado para as análises e propostas de soluções, sempre com o enfoque na prática, enquanto o termo esquema, que inclui também as funcionalidades que podem estar atreladas a um determinado conhecimento, é utilizado nas propostas e análises de cunho conceitual.
+
+Por exemplo, o registro da resenha de um livro em um sistema de gestão do conhecimento, mais as ligações desta com outras unidades, mais as informações sobre consultas realizadas por usuários e ou outros sistemas, constituem uma unidade de conhecimento bem delineada.
+
+O elemento estrutural básico do conhecimento ou a unidade de conhecimento é definido como um pacote atômico, que pode ser rotulado, indexado, armazenado, recuperado e manipulado, sendo que o formato, o tamanho e o conteúdo das unidades de conhecimento podem variar, dependendo do tipo do conhecimento explícito que está sendo armazenado e do contexto do seu uso. ZACK (1999).
+
+O conhecimento pode ser entendido, segundo Nonaka (1997), como conhecimento tácito e conhecimento explícito, conforme a divisão definida por Polanyi já em 1966.
+
+O conhecimento tácito é aquele que não tem como ser totalmente convertido em um conjunto de códigos ou sinais, não permitindo sua transmissão completa e, portanto, não podendo ser registrado em meios artificiais, tendo sua existência, ligada diretamente às pessoas que o detêm, "O conhecimento tácito é pessoal, específico ao contexto e, assim, difícil de ser formulado e comunicado." (NONAKA 1997, p.65); ou, conforme afirma Michael Zack (1999), o conhecimento tácito é compreendido e aplicado subconscientemente, desenvolvido a partir da experiência e ação direta, o que dificulta sua articulação e, geralmente, só pode ser compartilhado através de conversação altamente interativa e ou experiências compartilhadas.
+
+Por outro lado, o conhecimento explícito corresponde à parte do conhecimento que pode ser convertido em um conjunto de informações e, portanto, ser transmitido e conseqüentemente, registrado em suportes artificiais, e representa apenas uma pequena parte de todo o conhecimento, aquela que pode ser formalmente articulada de maneira mais precisa. Ele pode ser mais facilmente codificado, documentado, transferido ou compartilhado. O conhecimento explícito está ocupando um papel cada vez mais importante nas organizações, e vem sendo considerado o mais importante fator de produção na economia do conhecimento. Basta tentar imaginar uma organização sem manuais de procedimento, descritivos de produtos ou programas de computador. A divisão em conhecimento tácito e explícito adotada por Nonaka (1997, p.67) pode ser representada da seguinte maneira:
+
+
+
+Conhecimento Tácito
+
+(Subjetivo)
+
+Conhecimento Explícito
+
+(Objetivo)
+
+
+
+Conhecimento da experiência
+
+(corpo)
+
+Conhecimento da racionalidade
+
+(mente)
+
+
+
+Conhecimento simultâneo
+
+(aqui e agora)
+
+Conhecimento seqüencial
+
+(lá e então)
+
+
+
+Conhecimento análogo
+
+(prática)
+
+Conhecimento digital
+
+(teoria)
+
+
+
+
+
+A conversão do conhecimento tácito em conhecimento explícito, traz à tona uma série de questões que merecem uma análise mais profunda.
+
+Uma delas diz respeito ao conhecimento tácito, que pode ser inerentemente tácito ou ainda não ter passado por uma tentativa de articulação, freqüentemente, em função de restrições sociais, pois articular tipos particulares de conhecimento pode não ser culturalmente legítimo, alterar o que a empresa sabe pode não ser social ou politicamente correto, até porque pode estar além dos direitos da organização ver além dos hábitos e práticas dos seus clientes. Tornar público e acessível um conhecimento privado pode resultar também em uma redistribuição de poder que pode resultar em forte resistência, dependendo da cultura da organização. O conhecimento também pode permanecer tácito pela dificuldade gerada pela falta de uma linguagem formal ou de um modelo para sua articulação.
+
+
+
+
+
+Para
+
+De Conhecimento Tácito
+
+Conhecimento Explícito
+
+Conhecimento Tácito Socialização
+
+Internalização
+
+
+
+Conhecimento Explícito Externalização
+
+Combinação
+
+
+
+
+
+Fonte: (Nonaka ,1997, p.67)
+
+
+
+Ainda, segundo Michael Zack (1999), o conhecimento explícito pode ser dividido em três categorias, sendo elas: conhecimento declarativo, conhecimento procedural e conhecimento causal.
+
+Estas categorias apresentam a compreensão compartilhada de conceitos, categorias e definições, que são elementos fundamentais para a efetiva comunicação e compartilhamento de conhecimento nas organizações.
+
+O conhecimento declarativo ou representacional, segundo Bernard (1995, p.60), se ocupa de saber o que são as coisas, o mundo que nos rodeia e o que fazemos para obter uma representação da informação na mente que nos permita compreendê-la, armazená-la e utilizá-la posteriormente.
+
+A categoria definida como conhecimento procedural se ocupa em identificar como é utilizada a informação e como se opera sobre ela.
+
+E finalmente o conhecimento causal, representando todo conhecimento sobre por que algo ocorre, e permite às organizações coordenarem estratégias para atingir objetivos ou resultados.
+
+Definidos que foram os conceitos básicos envolvidos no processo de transferência de informações, cabe ressaltar que se faz necessário analisar as possibilidades de gestão do conhecimento contido nas organizações e nos indivíduos para a adoção de modelos que permitam a representação destas unidades de conhecimento, seja para registro em suportes eletrônicos, seja para possibilitar análise das relações deste conhecimento com os processos envolvidos no seu compartilhamento, registro e utilização.
+
+Todos os passos do gerenciamento das unidades de conhecimento registrados necessitam de um atributo classificador que possibilite a identificação de seu valor, não necessariamente financeiro, mas, sim, como agregador de valor ao processo de utilização do conjunto de conhecimento.
+
+
+
+
+
+4. Valor do Conhecimento e Processo de Transmissão
+
+O processo de gestão do conhecimento e, principalmente, o registro do conhecimento explícito disponível na organização, pressupõem uma interação entre os usuários que o detêm e ou os usuários que irão registrar o conhecimento já fixado em outros suportes com interfaces tecnológicas que permitam o registro destes esquemas em suportes digitais.
+
+Utilizando como base o modelo clássico de comunicação proposto por Shannon e Weaver (1963), conforme demonstrado na figura 2, apresenta-se o modelo para análise das relações de valores.
+
+
+
+Figura 2 : O Modelo Clássico de Comunicação (MCC)
+
+Fonte: (Shannon &Weaver, 1963, in Garcia Marco, 1996, p. 124)
+
+
+
+Denominamos o conjunto dessas interações entre usuários e a ferramenta tecnológica como processo de transmissão, permitindo, assim, uma análise inicial dos elementos nele envolvidos para que se possam estabelecer relações entre eles e, assim, possibilitar o acompanhamento deste processo e suas implicações. A análise do macroprocesso de transmissão permite também uma avaliação mais ampla das ferramentas envolvidas nessa tarefa.
+
+Identifica-se primeiramente, a figura do usuário que estará interagindo nesse processo através da alimentação do repositório de conhecimento com novos esquemas que denominamos de 'Emissor', ou seja, aquele que emite informações ao repositório. Esse personagem terá esta designação em função do momento, ou seja, em sua interação com o repositório ele será o emissor enquanto o estiver alimentando com novos esquemas através do fornecimento de informações que estarão sendo contextualizadas e registradas como novos esquemas registrados.
+
+Essa interação do emissor com o sistema de gestão do conhecimento se dará através de informações que estarão sendo fornecidas pelo emissor. Para efeito de identificação de métricas[1], o valor do conjunto de informações inseridas pelo emissor é identificado como informações origem (Io), sendo, portanto, uma representação valorada do conjunto de informações que o emissor pode produzir sobre um determinado esquema tácito ou explícito que possui, e que pretende registrar como um esquema explícito no sistema.
+
+Essas informações devem ser, então, registradas e contextualizadas em um suporte tecnológico que permita que o conjunto de informações seja administrado como esquemas. A ferramenta, ou conjunto de ferramentas, que irá atuar nesse suporte tecnológico que compõe, portanto, o Sistema de Gestão do Conhecimento, é identificada como repositório.
+
+Uma plataforma de conhecimento pode na realidade consistir de muitos repositórios, cada um com estrutura apropriada para um tipo particular de conhecimento ou conteúdo e tais repositórios podem ser interligados logicamente para formar um repositório virtual ou composto, podendo o conteúdo de cada um fornecer contexto para a interpretação dos outros, conforme descreve Michael Zack (1999).
+
+Completando esse processo de transmissão, está a figura do usuário, que recorre ao repositório em busca de informações e que, então, ao interagir com ele, atua como receptor, obtendo, assim, resultados que poderão vir a ser convertidos em conhecimento tácito ou explícito, registrado em outros sistemas ou mesmo suportes.
+
+O conjunto de informações obtido pelo receptor em sua interação com o repositório tem um determinado valor, da mesma forma que o conjunto de informações origem (Io). O valor correspondente ao conjunto de informações obtido pelo receptor está identificado como informações resultantes (Ir).
+
+Durante o processo de transmissão, existem fatores que provocam perdas no valor das informações, seja no processo em que o emissor alimenta o repositório com informações, seja no processo em que o repositório retorna informações para o receptor. Para efeito de análise do processo de transmissão como um todo, identificamos essas perdas como perdas no processo de transmissão entre o emissor e o repositório (Po) o valor das perdas que impactam no valor das informações origem, e como perdas no processo de transmissão entre repositórios (Pr) o valor das perdas sobre o valor das informações resultado.
+
+A partir dos elementos básicos estabelecidos, podemos visualizar o processo de transmissão conforme a figura a seguir:
+
+
+
+Figura 3 : Elementos envolvidos no processo de transmissão na gestão de conhecimentos.
+
+Fonte: (Santana, 2002)
+
+O que realmente trafega durante o processo de interação entre o emissor e o repositório e entre o receptor e o repositório são informações. Apesar de o repositório estar sendo alimentado a partir de esquemas do emissor e de as informações serem registradas no repositório como novos esquemas e, ainda, gerarem ou agregarem valor a esquemas no receptor, o conhecimento só surge nas entidades emissor, repositório e receptor.
+
+Os principais motivos para esse fato são as limitações na criação dos canais de comunicação entre o repositório e as entidades emissor e receptor, e a forma como as pessoas convertem conhecimento tácito em conhecimento explícito e, em seguida, convertem este conhecimento em um formato transmissível (emissor) e em como elas absorvem as informações externas no processo de geração de novos conhecimentos.
+
+No caso específico de transferência de conhecimento entre repositórios, existe a possibilidade de transferência de esquemas, porém deverá haver uma uniformidade de formatos e metodologias no tratamento de esquemas. Há também a necessidade de transferência de todos os outros esquemas utilizados na contextualização do esquema a ser transmitido bem como dos esquemas envolvidos com os usuários e assim por diante, o que pode levar à necessidade de transmissão de todo o repositório.
+
+A viabilização de transmissão entre repositórios é um bom argumento para se estabelecerem padrões nas metodologias de gestão de esquemas, para que permitam que, mesmo em casos de metodologias diferentes, possam ser criadas camadas de tradução, tornando possível a comunicação entre repositórios.
+
+5. Valor do conhecimento obtido pelo receptor
+
+Analisando o processo de gestão do conhecimento sob o ponto de vista da interação do usuário atuando como receptor com o repositório, ou seja, do usuário enquanto utilizador do repositório como fonte de conhecimento, surge a necessidade de se identificar o valor do conhecimento que foi obtido pelo receptor nesse processo, para que se tenha condições de avaliar o retorno em função do tempo investido pelo receptor no processo, permitindo assim um acompanhamento da performance, tanto dos usuários como receptores, como da ferramenta e de sua interface como repositório.
+
+O primeiro dos elementos básicos envolvidos nesse processo é o valor que o conjunto de informações obtidas pelo receptor presumivelmente terá Vc(rec). O Vc(rec) estará baseado no valor dos esquemas acessados durante o processo de interação e que identificamos como Vc(rep).
+
+A definição desse valor deverá passar necessariamente por uma análise mais detalhada, já que diz respeito a uma série de outros fatores que estarão envolvidos. Dentre eles, destacamos que a definição das dimensões a serem levadas em conta no momento da valoração contribui para a formação de valor. Esse valor também sofrerá alterações em função do tempo que cada um dos esquemas estiver sob o foco da ferramenta.
+
+Vale destacar, neste ponto, que a eficiência das interfaces[2] será ponto fundamental na utilização prática dos repositórios, já que hoje as redes formais de comunicação e os mecanismos eletrônicos para o compartilhamento do conhecimento esbarram em obstáculos que não existem nas redes informais, o que as torna ainda hoje, mais eficientes que os recursos tecnológicos, conforme destaca Davenport e Prusak (1999, p.45),
+
+Sistemas mais formais, tais como repositórios impressos ou eletrônicos de qualificações e interesses de empregados ficam imobilizados assim que se estabelecem. Além disso, falta-lhes a interatividade que faz funcionar as redes informais.
+
+
+
+Outro elemento que irá interferir no Vc(rec) será um índice que identifique as perdas médias nas interações entre o repositório e o receptor, que representa o "Pr". Este índice, identificado aqui como perdas na transmissão (Pt), define qual o índice de absorção do receptor em função dos esquemas acessados e de fatores-chave identificados em cada um desses esquemas.
+
+Outro fator a interferir no valor do conhecimento obtido pelo receptor diz respeito à intersecção do que foi obtido com o conhecimento prévio do receptor Cp(rec), ou pelo menos, a parte que pode ser identificada como seu contexto em suas interações com a ferramenta. A utilização desse elemento também pode permitir que a organização identifique o que considera importante no contexto do receptor, valorando, assim, somente os elementos que tenham maior probabilidade de serem utilizados e ou convertidos em vantagem para a própria organização. Assim, no contexto de um receptor, podem ser levados em conta somente os elementos que estejam, de certa forma, ligados à área de atuação do receptor ou do departamento a que pertence.
+
+Identificados estes elementos, podemos estabelecer que o valor a ser considerado como resultante para o receptor Vc(rec) será a soma dos valores dos esquemas envolvidos na formação das informações, que possuem intersecção com o Cp(rec), menos as perdas de transmissão das informações destes esquemas, obtendo, assim, a soma a seguir:
+
+
+
+Vc( rec ) - Valor do Conhecimento para o Receptor
+
+Vc( rep ) - Valor do Conhecimento no Repositório
+
+Pt - Perdas no Processo de Transmissão
+
+I - Conjunto de Informações trafegado durante o processo
+
+Cp( rec ) - Conhecimento (ou Contexto) Prévio do Receptor
+
+Graficamente, podemos visualizar a soma proposta acima com a figura abaixo, que é composta de um conjunto que contém as informações geradas a partir dos esquemas acessados identificado como conjunto I (em azul), e um conjunto com os elementos formadores do contexto do receptor ou o conhecimento prévio do receptor. Na figura 4, identificam-se alguns conjuntos de informações que puderam ser ligados aos elementos formadores do Cp e, assim, foram considerados como válidos, para efeito de determinação do valor resultado. Assim, apesar de o receptor ter tido acesso ao conjunto de informações { A, B, C, D, E, F ,G}, será considerado, para cálculo de valor resultado, apenas os elementos que obtiveram um índice mínimo de ressonância com os elementos de Cp(rec) { A, B, C, D}.
+
+
+
+Figura 4 : Interação entre as informações fornecidas ao receptor e seu Conhecimento Prévio na valoração do conhecimento obtido.
+
+Fonte: (Santana, 2002)
+
+
+
+6. Valor do conhecimento para o emissor após o processo de registro
+
+Avaliando o processo, agora focado no papel do emissor, surge a necessidade de identificarmos o que ocorre com o emissor, no que diz respeito à sua participação no processo de formação do repositório, sendo que a importância desta análise reside, principalmente, na necessidade de se reduzir o atrito no fluxo de conhecimento dentro da organização via repositório, sendo necessária, por exemplo, a criação de novos elementos que incentivem a interação do emissor com a ferramenta.
+
+O primeiro elemento que vamos analisar é o valor do conhecimento que o emissor possui, aqui identificado como Vc(e), sendo que o processo de interação com o repositório inflige a esse valor transformações, uma vez que esse conhecimento será revisto, convertido e inserido via interação no repositório, tornando-o, assim, acessível a outras pessoas. A valoração inicial deste elemento depende de estudos mais aprofundados e nos ateremos aqui somente à questão de sua modificação após o processo de compartilhamento via repositório. Partimos do princípio de que o valor do conhecimento, após o processo de interação, será calculado com base no valor do conhecimento para o emissor, imediatamente, antes do processo de interação, aqui identificado como: VcA(e).
+
+Assim, um elemento importante que interfere neste processo é o valor da perda causada pela disseminação do conhecimento que foi absorvido pelo repositório, aqui identificado como Pd(Vc(rep)), que representa uma diminuição no diferencial competitivo para o emissor em função da disponibilidade.
+
+Outro elemento que aumenta o atrito neste processo é o custo do tempo gasto no processo de interação com o repositório, aqui identificado como tempo de interação Ti e, portanto, será mais um fator a pesar negativamente.
+
+Como vantagem ao emissor, surge o valor agregado ao conhecimento, obtido pela inevitável reavaliação do conhecimento que possui, para que possa ser convertido em um conjunto de informações a ser inserido no repositório. Essa reavaliação, seja grande ou pequena, irá representar um valor a ser somado ao valor anterior do conhecimento, identificado como ganho por reanálise, ou Gr.
+
+Outro elemento do processo positivo para o emissor é o valor do reconhecimento sobre o conhecimento absorvido pelo repositório.
+
+Identificados esses elementos, podemos propor uma fórmula, que relacione os valores de cada um deles na formação do valor do conhecimento para o emissor, após o processo de compartilhamento com a organização, conforme descrito a seguir.
+
+
+
+Vc( e ) - Valor do Conhecimento para o Emissor
+
+VcA(e) - Valor do Conhecimento para o Emissor imediatamente antes do processo de interação
+
+Pd - Perda pela Disseminação;
+
+Vc(rep) - Valor do Conhecimento obtido pelo repositório;
+
+Ti - Tempo de Interação (ou tempo consumido no processo de interação com a ferramenta)
+
+R - Reconhecimento
+
+Gr - Ganho obtido pelo processo de reanálise do conhecimento para registro
+
+Utilizando esta fórmula como ponto de partida, a organização pode analisar a atuação dos usuários como emissores, criando formas de compensação para aqueles que possuírem perdas e/ou mecanismos de incentivo para aqueles que não estejam interagindo de forma coerente com o repositório.
+
+Outro fator importante, que justifica esta análise, está ligado à avaliação do tempo gasto pelos usuários enquanto emissores, tal como no caso da atuação como receptores. Tal avaliação permite uma visão do retorno que este investimento feito sob a forma de tempo está trazendo, tanto para a organização, como para o usuário emissor.
+
+Neste ponto, vem à tona a questão de autoria, pois, no caso do suporte tecnológico, fica prejudicada a possibilidade de identificação de quem primeiro introduziu um determinado esquema no sistema. Copiar e introduzir novamente o mesmo conteúdo, ou com pequenas modificações, pode mascarar o efeito de retorno sobre o conhecimento compartilhado, gerando valor negativo ao processo. Consideramos que essa perda está inserida no valor das perdas por disseminação, porém a questão da autoria merece uma análise mais profunda.
+
+
+
+7. Identificação dos elementos envolvidos na formação das Perdas no Processo de Transmissão
+
+Por maior que seja o esforço realizado pelo emissor do conhecimento no sentido de converter um conhecimento interno em um conjunto de informações definidas, utilizando um formato que possa ser registrado em um repositório, não se podem evitar perdas, seja por falta de elementos do contexto, seja por erros de especificação, ou qualquer outro fator que venha a influir na impossibilidade, que acreditamos haver, de se recriar um esquema registrado que espelhe exatamente o esquema interior que o emissor deseja transmitir. Por sua natureza complexa, uma certa quantidade de elementos, dependendo do esforço despendido, tenderá a ser ignorado ou mal representado. Essa margem de perda está identificada como Perda no Emissor ou Pe, ou seja, trata-se dos elementos perdidos no esforço do emissor em converter seu conhecimento tácito em explícito.
+
+Estamos considerando, para esta análise, a utilização de um sistema de Gestão do Conhecimento, que atue como um repositório do conhecimento e que funcione como um elo entre aqueles que detêm o conhecimento e aqueles que necessitam dele. Sendo assim, o emissor, ou seja, o usuário, que detém uma experiência ou um conhecimento específico que deseja compartilhar, deverá interagir com a máquina, e nesse processo registrar o maior número possível de informações. Essa interação irá demandar tempo e esforço por parte do usuário, que será maior ou menor, dependendo da interface da ferramenta. O esforço e tempo o gastos na interação (Ti) fazem parte das perdas e portanto ajudam a compor o custo do emissor.
+
+O sistema deverá estar dotado de pelo menos três elementos básicos. O primeiro, uma interface de entrada, que permite que os emissores, ou seja, aqueles que desejam registrar um conhecimento, interajam com o sistema. O segundo será o repositório propriamente dito, responsável pelo armazenamento e pelo tratamento desse conjunto de informações que neste caso irá formar um esquema, ou algo compatível com as funcionalidades de repositório de conhecimento. O terceiro elemento, uma interface de saída, que deverá estar apta a levar o receptor a ser capaz de encontrar o conhecimento e seus elementos formadores da forma mais eficiente possível, formando assim um mecanismo conforme ilustra a figura. O índice de ineficiência do primeiro e do segundo elemento, ou seja, das interfaces e seus relacionamentos, tanto com aqueles que pretendem registrar conhecimento quanto com aqueles que estejam utilizando o processo de recuperação, e o relacionamento dessas interfaces com o repositório interferem na performance de transmissão do conhecimento e foram representados na fórmula como perdas no sistema no processo de entrada ou Ps(e) e perdas no sistema no processo de saída ou Ps(s).
+
+Um processo parecido ao que ocorre no emissor acontecerá no receptor, que irá interagir com a interface do sistema em busca de conhecimento, porém no sentido inverso. Por mais eficiente que seja a interface, a complexidade interior do receptor deverá levar a um índice de perdas no processo de recuperação do conteúdo do conhecimento registrado, no processo de busca e recuperação. Este índice está identificado na formação do total de perdas no processo de transmissão como Perda no Receptor (Pr), causado principalmente pela impossibilidade de o receptor possuir todas as informações dependentes, ou seja, o contexto do receptor passa a ser fundamental para a assimilação do conhecimento que está sendo acessado, conforme afirmou Nonaka (1997, p. 16),
+
+As pessoas não recebem um novo conhecimento de forma apenas passiva; elas o interpretam ativamente, adaptando-o às suas próprias situações e perspectivas. Assim, o que faz sentido em um determinado contexto pode mudar ou até mesmo perder o sentido quando comunicado a pessoas de um contexto diferente.
+
+
+
+A figura a seguir demonstra os principais pontos de perda no processo de alimentação e recuperação nos repositórios de conhecimento:
+
+
+
+Figura 5: Identificação dos pontos de interação entre os elementos envolvidos na Gestão do Conhecimento e os principais pontos de perda.
+
+Fonte: (Santana, 2002).
+
+
+
+Identificados os elementos envolvidos na valoração das perdas no processo de transmissão, podemos estabelecer uma relação entre eles, de modo a obter o valor total das perdas envolvidas no processo de transmissão na atuação de sistema de gestão do conhecimento, conforme representado a seguir:
+
+
+
+Pt - Perdas no Processo de Transmissão
+
+Pe - Perda no Emissor
+
+Ps( e ) - Perda no processo de entrada do sistema de repositório
+
+Ps( s ) - Perda no processo de saída do sistema de repositório
+
+Pr - Perda no Receptor
+
+8. Valor do Conhecimento Registrado pela Máquina
+
+Para que o recurso tecnológico possa gerir de forma adequada as unidades de conhecimento registradas, faz-se necessária a elaboração de mecanismos que avaliem o valor de cada unidade, para que as mesmas possam ser classificadas e até mesmo para facilitar o acesso a essas unidades. Medidas como o envio desses registros para unidades de armazenamento diferenciadas, funcionando como unidades auxiliares, para ganho de performance, deverão estar baseadas em um processo de classificação em que não seja considerado somente o fator tempo, mas sim um valor a ser arbitrado para cada unidade de conhecimento. Uma unidade mais antiga pode ter mais valor que uma recentemente inserida, ou seja, ter maior importância para o conjunto registrado.
+
+No entanto, são muitos os fatores que dificultam a avaliação do valor que cada unidade de conhecimento terá para o sistema. Entre eles, podemos citar o fato de o valor de uma unidade estar relacionado diretamente aos usuários, e de forma individualizada.
+
+Outro fator que consideramos importante na avaliação do valor de uma unidade de conhecimento registrada é a multidimensionalidade desta. O valor de uma unidade de conhecimento registrada será composto por uma série de elementos, muitos deles independentes entre si, o que traz a este valor, características vetoriais [3] e não escalares como estamos acostumados a lidar. Este valor será, então, baseado na composição das várias dimensões que o compõem, formando, assim, em um espaço n-dimensional, um vetor resultante.
+
+Até mesmo a definição das dimensões e o peso de cada uma delas serão variáveis e respeitará as caraterísticas inerentes a cada organização ou comunidade. Algumas dimensões, entretanto, têm importância mais explícita que outras, como a dimensão do contexto do usuário, a dimensão do contexto da organização e a dimensão da área do conhecimento.
+
+
+
+Figura 6: Análise de valor de uma unidade de conhecimento com base em três dimensões.
+
+Fonte: (Santana, 2002)
+
+Questões fundamentais surgem neste ponto: Como se poderia identificar o valor de uma unidade de conhecimento em cada uma de suas dimensões? Ou seja, como definir o valor de uma unidade para o contexto de um determinado usuário? Ou qual o valor dessa unidade de conhecimento para a dimensão do contexto da organização?
+
+Respostas a essas questões são objeto de análise da pesquisa Unidades de Conhecimento: fatores e métricas, em fase de conclusão no Programa de Pós-Graduação em Ciência da Informação da UNESP.
+
+9. Considerações finais
+
+A análise de novas metodologias para avaliação do valor do conhecimento registrado e que será compartilhado nas organizações como matéria-prima para os novos cenários competitivos caminha a passos lentos, se comparada à velocidade com que se desenvolvem os novos suportes.
+
+As empresas começam a despertar para este novo mundo que se aproxima, e cabe agora à sociedade como um todo elaborar mecanismos que permitam uma avaliação clara do valor do conhecimento que passa a ser registrado pelas organizações, bem como democratizar modelos que permitam mensurar a importância da participação dos usuários na criação desses repositórios de conhecimento.
+
+Estamos diante de uma oportunidade, sem precedentes na história, de propiciar mecanismos de valorização dos conhecimentos que cada indivíduo acessará e compartilhará no novo contexto criado pelos recursos tecnológicos e seus novos suportes de registro, administração e recuperação de informação.
+
+
+
+10. Referências Bibliográficas
+
+BERNARD,J. A. Analises y representación Del conocimiento: aportaciones de la psicologia cognitiva. Scire, vol.1, n. 1, p.57-80, ene./jun. 1995.
+
+CASTRO, A.L.S. de. Informação museológica: uma proposta teórica a partir da ciência da informação. In.: ________. Ciência da informação, ciências sociais e interdisciplinaridade. Rio de Janeiro: EBSCO, 1999. p. 51-63.
+
+DAHLBERG, I. Current trends in knowledge organization. In.: GARCIA MARCO, F. G. Organización del conocimiento en sistemas de información y documentación. Zaragoza: Lebreria General, 1995. v.1 p. 7-26.
+
+DAVENPORT, T. Ecologia da informação: porque só a tecnologia não basta para o sucesso na era da informação. São Paulo: Futura, 1998.
+
+DAVENPORT, T. ; PRUSAK, L. Conhecimento empresarial. Rio de Janiero: Campus, 1999.
+
+DRUCKER, P. Sociedade pós-capitalista. São Paulo: Editora Pioneira / Publifolha , 1999. 299 p.
+
+FIRESTONE, J. M. The corporate information factory or the corporate knowledge factory? DKMS Brief, n. 1. 1999. Disponível em: http://www.dkms.com/CIFCKF.html Acessado em: 18 maio 2000.
+
+HOULTSHOUSE, D. Ten knowledge domains: model of a knowledge-driven company? Knowledge and Process Management, vol. 6, n. 1, pp 3-8, 1999.
+
+KOULOPOULOS, T. As peças do quebra-cabeças do gerenciamento do conhecimento. Seminário Internacional - Gerenciamento do Conhecimento São Paulo, 29/04/98. Disponível em: <http://www.perspectivas.com.br/leitura/tec4.htm> Acessado em: 07 abril 2001.
+
+LE COADIC,Y.F. A ciência da informação. Brasília, DF, Briquet de Lemos. 1996.119 p.
+
+LÉVY, P. As tecnologias da inteligência: o futuro do pensamento na era da informática. Rio Janeiro: Editora 34, 1993. 208 p.
+
+______. Educação e cybercultura: a nova relação com o saber. * Trecho da obra Cybercultura. 16/05/1998. Disponível em:< http://www1.portoweb.com.br/pierrelevy/educaecyber.html > Acessado em 30 maio 2000.
+
+MAURER, W. A. Curso de cálculo diferencial e integral: fundamentos geométricos e físicos. Edgard Blücher, São Paulo, p.1-19. 1980.
+
+NONAKA, I.; TAKEUCHI H. Criação de conhecimento na empresa: como as empresas japonesas geram a dinâmica da inovação. 5.ed. Rio de Janeiro: Editora Campus, 1997.
+
+SANTANA, R. C. G. Unidades de conhecimento: fatores e métricas. 2002. Dissertação. (Mestrado em Ciência da Informação) Curso de Pós-graduação em Ciência da Informação, Universidade Estadual de São Paulo, Marília. (em andamento)
+
+SHANNON, C. E.; WEAVER, W. The mathematical theory of communication. University of Illinois Press, 1963.
+
+ZACK, M. Management codified knowledge. Sloan Mangement Review, vol. 40, n. 4, summer, 1999. disponível em : http://web.cba.neu.edu/~mzack/articles/kmarch/kmarch.html Acessado em 18 de maio 2000.
+

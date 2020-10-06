@@ -1,0 +1,267 @@
+Funções Sociais e Oportunidades para Profissionais da Informação
+
+
+
+Resumo: No contexto da sociedade em rede são discutidas funções sociais e delineados alguns perfis de atuação para profissionais da informação. Dentre as funções sociais delineadas estão as educativa e a de mediação. A educativa relaciona-se à alfabetização em informação e a segunda à animação da inteligência coletiva. Dentre os papéis profissionais emergentes são enumerados e brevemente discutidos os seguintes perfis: gestores da informação; trabalhadores do conhecimento; gestores e engenheiros do conhecimento; especialistas de informação. Conclui-se que não há um perfil único para o profissional da informação, que como um "soldado universal" atenderia a todas as demandas de informação nas organizações e na sociedade. Há papéis a serem preenchidos e demandas específicas a serem atendidas por profissionais com os mais diversos perfis, consagrados e emergentes, mas que têm como único objetivo o trabalho com a informação e o conhecimento, agregando valor à primeira e facilitando o acesso e transferindo informação e o conhecimento para todos.
+
+Palavras chave: Profissionais da informação, Funções sociais, Perfis de profissionais da informação, Inclusão digital, Gestão da informação, Gestão do conhecimento
+
+
+1. Introdução
+
+Caracterizada como a sociedade centrada na informação e no conhecimento, a era pós-industrial é uma economia alicerçada e dependente da comunicação, em toda a extensão da palavra. As tecnologias da informação, em especial os chips de circuito integrado de computador e as redes de comunicação criaram um setor de uma economia que está transformando todos os outros setores. Uma infinita variedade de novos formatos e tamanhos de organizações sociais são possíveis e nesta sociedade uma vasta gama de profissões têm se desenvolvido e está para se desenvolver.
+
+O símbolo da nova economia é a rede, que representa o arquétipo surgido para representar todos os circuitos, toda a inteligência, toda a interdependência, todas as coisas econômicas, sociais ou ecológicas, todas as comunicações, toda a democracia, todas as famílias, todos os grandes sistemas, quase tudo que achamos interessante ou importante. O objetivo final é conectar todos a tudo e a todos, até o dia em que for possível abranger todo o mundo feito pelo homem. E é nesse grande abraço que está o novo poder (Kelly, 1999).
+
+As estratégias da economia alicerçada nas redes incluem:
+
+* a  banalização  da tecnologia ao ponto de torná-la invisível. Os chips, suas linhas de conexão e até suas interfaces visuais deverão submergir no nosso meio ambiente até o ponto de não mais termos consciência de sua presença;
+
+* as tecnologias de interação poderão  animar  tudo o que fazemos;
+
+* conexão   quem ou o que não estiver conectado deve ser conectado;
+
+* o conhecimento deve ser distribuído, fluir livremente do e para o centro, para fora e entre os vários elementos;
+
+* a conexão deve ser em tempo real e poder ser acessada imediatamente;
+
+* é preciso sempre conseguir mais.
+
+
+
+Embora a ênfase nas estratégias acima seja nas tecnologias da informação podemos interpretá-las também para o contexto social.
+
+A premissa é que a rede, a informação e o conhecimento devem ser acessíveis a todos, independentemente de raça, nacionalidade, gênero, local, ocupação ou status social. As tecnologias de informação e comunicação, devem estar voltadas para este fim e constituírem-se instrumentos para se alcançar um desenvolvimento verdadeiramente centrado no ser humano (UNESCO, 1996, p.9).
+
+Por isto é preciso levar a informação à sociedade e ensiná-la a usar a informação, tanto no que diz respeito ao seu desenvolvimento econômico como para o seu desenvolvimento social e humano propriamente dito.
+
+O primeiro ponto a ser abordado é a necessidade da sociedade de se adaptar às novas tecnologias para garantir seu crescimento econômico e social. Um fosso cada vez maior entre informação rica e informação pobre pode resultar em tensão social.
+
+As estratégias necessárias para o novo desenvolvimento social, devem incluir:
+
+1. Provisão do acesso democrático a toda informação publicada;
+
+2. Oferta de oportunidade de aprendizagem constante;
+
+3. Assegurar que os cidadãos possam lidar com computadores e terem acesso aos sistemas que eles precisam;
+
+4.  animar  a informação para chegar ao indivíduo e conectá-lo à rede;
+
+5. analisar a informação, inferindo desta novas informações e conhecimento.
+
+
+
+O segundo ponto a abordar é discutir alguns perfis profissionais que podem atuar na sociedade e em suas organizações. Dentre as inúmeras possibilidades profissionais nessa sociedade, vamos abordar algumas profissões que derivam das tecnologias e do poder da informação e do conhecimento para as organizações, e algumas funções que propiciam oportunidades e inclusão sociais.
+
+
+
+
+
+2. Funções Sociais
+
+Em entrevista recente para a revista eletrônica Nova-e[1] Pierre Lévy, coloca suas teses em relação ao que considera a  inteligência coletiva contemporânea .
+
+Em sua visão a rede mundial de computadores traz em si o potencial para a integração do pensamento humano. A rede permite o desenvolvimento de vários aspectos da sociabilidade humana, compondo um novo cenário de relacionamentos, por meio de redes de grupos de discussão (newsgroups), salas de bate-papo virtual (chats), fóruns de assuntos específicos, listas de contato para troca de mensagens instantâneas em tempo real (com o software ICQ), entre outros.
+
+A  inteligência coletiva  é mais que um  grande cérebro virtual , é a chance de ir além dos limites, a partir de um compartilhamento de saberes produzidos pela humanidade como um todo.
+
+Considerando que não poderá haver sociedade da informação sem cultura informacional, e também presumindo que estar bem informado é essencial para se exercer os direitos de cidadão e que um dos determinantes da exclusão moderna é não estar bem informado (Demo, 1995), compartilhamos da posição de Lévy, quando este coloca que o maior problema da inclusão social não é a falta de computadores mas o analfabetismo.
+
+Isto que chamamos sociedade da informação só existirá quando houver para ela uma cultura correspondente. A cultura informacional é mais que o conhecimento e a sensibilização da sociedade para o uso da informação, ou ainda a habilidade dos indivíduos ou grupos de fazer o melhor uso possível da informação. É mais que o resultado mecânico de uma simples acumulação de tecnologias, tem como componente a  alfabetização em informação  (Menou, 1996), e no caso das organizações a sua utilização intensiva.
+
+
+
+2.1 Alfabetização em informação
+
+Educar a si próprios e educar aos outros para a sociedade da informação, é um dos grandes desafios para o profissional da informação e um passo importante para a formação da cultura informacional na sociedade e, eventualmente, da inteligência coletiva.
+
+Permitir a todos o acesso a informação é crucial para o desenvolvimento individual e coletivo do cidadão, e o caminho a ser percorrido para capacitar o cidadão ao uso crítico da informação é uma tarefa que as escolas, as universidades e todos os tipos de bibliotecas, públicas, universitárias e outras, devem assumir. Preparar os cidadãos para a sociedade da informação constitui tarefa prioritária para o governo, as organizações e seus profissionais.
+
+Um passo importante é a alfabetização em tecnologias da informação, e também a extensão à infoaprendizagem. A biblioteca do futuro, dentre outras atividades, deve propiciar a interface de treinamento entre o usuário e as ferramentas da meta-informação, e tornar-se ponto focal de uma comunidade (real e virtual) de conhecimento, centro cultural e ponto de referência para encontros de comunidades de cibernautas[2] (Allen & Retzlaff, 1998).
+
+Alfabetização em informação é muito mais que um passo lógico na evolução da instrução e no manejo de bibliotecas e bibliografias. É muito mais que ensinar aos estudantes como usar a biblioteca. O objetivo da alfabetização em informação é criar aprendizes ao longo da vida, pessoas capazes de encontrar, avaliar e usar a informação eficazmente para resolver problemas ou tomar decisões. Uma pessoa alfabetizada em informação é aquela que reconhece a necessidade da informação; organiza-a para uma aplicação prática; integra a nova informação a um corpo de conhecimento existente; usa a informação para solução de problemas e aprende a aprender (Lenox, 1992).
+
+A alfabetização em informação tem implícito em seu conceito outras alfabetizações como a visual, informática e multimídia. A info-alfabetização é uma parte importante da alfabetização em informação, mas a pessoa que sabe manejar software diversos, base de dados, navegar na rede, pode não ser uma pessoa alfabetizada em informação. Pensar e raciocinar são o núcleo da alfabetização em informação e por essa grande amplitude, segundo Shapiro (1996), deveria ser concebida como uma  nova arte . Englobaria desde como usar o computador e acessar a informação até a reflexão crítica sobre a natureza da informação, sua infra-estrutura e seu impacto no contexto social e cultural.
+
+Na preparação do cidadão para a sociedade da informação devemos destacar que os países em desenvolvimento enfrentam as maiores dificuldades, pois na medida em que não conseguiram ainda resolver os problemas de analfabetismo e desnutrição infantil, também não conseguiram criar, nos níveis mais desenvolvidos da sociedade, uma estrutura de acesso á informação cujo indicativo maior seja a formação de um público leitor e a formação de hábitos de utilização da informação. Portanto há um grande percentual da população que é excluída da sociedade da informação.
+
+Para corrigir essa distorção os responsáveis pela sociedade da informação devem possibilitar a criação de bibliotecas escolares e públicas, com fortes vínculos comunitários possibilitando que a tradição da informação oral e utilitária possa se transformar, em curto espaço de tempo, em programas de criação e utilização da informação bibliográfica. Os países desenvolvidos já comprovaram que na medida em que existe o hábito de utilização da informação bibliográfica é muito mais fácil desenvolver habilidades para a alfabetização em informação.
+
+2.2 Animadores e Mediadores de Inteligência Coletiva
+
+Os bibliotecários e profissionais da informação devem, assim como os professores, tornarem-se animadores da inteligência coletiva dos cidadãos e dos estudantes, oferecendo ferramentas intelectuais para que os indivíduos cooperem e produzam conhecimentos em grupo.
+
+O fluxo da informação entre os estoque ou espaços de informação e os usuários é tarefa de profissionais que devem qualificar este acesso em termos das competências para assimilação da informação, como sendo uma condição, que deve ter o receptor da informação acessada; elaborar a informação para seu uso, seu desenvolvimento pessoal e dos seus espaços de convivência.
+
+ Não é suficiente unicamente, que a mensagem esteja intencionalmente dirigida ao acesso, mas que a mensagem atinja as geografias semânticas do receptor, compatíveis com a sua compreensão e aceitação (Barreto, 2002, p.20)
+
+O profissional da informação, para desempenhar seu papel de animador da inteligência coletiva, deve ser um mediador da informação. O que constatamos na atualidade, é que a inclusão digital está presente na agenda do governo, da iniciativa privada e da sociedade civil. Ela não pode ser reduzida a disponibilização de equipamentos e conteúdos. É necessário que o profissional da informação atue como uma mediador entre o mundo digital e a capacidade real de entendimento do receptor da informação, garantindo a efetiva comunicação e a satisfação da necessidade informacional do usuário dessa tecnologia.
+
+Uma sociedade baseada no uso intensivo de informação, na qual o indivíduo interage com pessoas e máquinas em um constante intercâmbio de dados e informação, produz simultaneamente fenômenos de maior inclusão e exclusão social. Segundo Reggine (1997), é inegável que as mudança tecnológicas sempre geram ganhadores e perdedores e que na atualidade, entre os últimos se encontram o cidadão comum, que não está preparado intelectual e socialmente para compreender e usar as ferramentas conceituais e práticas das novas tecnologias da informação e da comunicação.
+
+A formação básica deverá ser capaz de dotar o conjunto de cidadãos com os instrumentos e as competências cognitivas necessárias para o desempenho de uma cidadania ativa. Mas que nunca a função essencial da educação é conferir a todos os seres humanos a liberdade de pensamento, de juízo, de sentimentos e imaginação que necessitam para que seus talentos alcancem a plenitude e possam ser artífices, dentro do possível, do seu próprio destino. Nesse mundo em que informação e conhecimento circulam através de meios tecnológicos cada vez mais sofisticados, o papel da escola deve ser definido pela sua capacidade de preparar para o uso ativo, consciente e crítico os meios que acumulam a informação e o conhecimento (Tedesco, 2000).
+
+A rapidez com que avançam as tecnologias é maior que a velocidade da aprendizagem social. Essa complexidade se traduz pelo fosso existente entre os partícipes desse progresso e aqueles que dele estão excluídos, podendo com isso reforçar as resistências humanas naturais a sua implantação. Por tudo isso, é fundamental o desenvolvimento das habilidades em informação, missão tanto dos docentes como dos profissionais que intermediam a informação. A melhora dessas habilidades têm relação com outras competências como a compreensão da leitura, o pensamento crítico, a solução de problemas, dentre outras. A mediação da informação e a animação da inteligência coletiva devem ser recursos fundamentais para acelerar o processo de inclusão social e possibilitar o indivíduo tornar-se um aprendiz independente ao longo da vida.
+
+
+
+3. Perfis Emergentes
+
+Neste segmento trataremos daquelas profissões que se utilizam e dependem das tecnologias da informação e das redes, mas que se preocupam em disponibilizar, criar e analisar informações e conhecimentos, em especial no contexto das organizações, com uma missão mais econômica que social.
+
+3.1 Gestores da informação
+
+Tradicionalmente gestores da informação que mantém sistemas de informação, sistemas em apoio à decisão e operações similares, no setor público ou privado, nunca se viram como parte da mesma profissão que os bibliotecários[3], arquivistas, ou cientistas da informação.
+
+No entanto, onde antes havia uma clara diferença entre provisão de informação técnica e científica, em apoio às atividades de pesquisa e desenvolvimento (em uma biblioteca); informação de marketing em apoio às atividades de vendas (nos departamentos de vendas); e informação administrativa em apoio e suporte gerencial, todos as três atividades enumeradas, estão sendo vistas, de maneira crescente, como aspectos diferentes do mesmo problema   provisão de informação efetiva para os que necessitam dela (Feather, 1998, p. 201).
+
+Na área de negócios, Mintzberg (1980) descreveu os papéis informacionais do gerente e vê o trabalho do gerente como um trabalho intensivo em informação.
+
+Os muitos papéis do gerente não sintetizam, no entanto, todas as funções que exerce, por exemplo o CIO   Chief Information Officer, cujo perfil pode incluir conhecimentos de:
+
+* sistemas de informação tecnológica;
+
+* gestão de recursos informacionais da organização;
+
+* alinhamento da gestão da informação com a estratégia e o negócio da organização;
+
+* integração da formação da estratégia com a informação (Kirk, 1999).
+
+
+
+O papel do profissional Gestor da Informação é o de ser:
+
+* Visionário, estrategista e esclarecedor;
+
+* Ter a visão geral da organização e de suas necessidades;
+
+* Ser facilitador da captação e uso produtivo dos recursos de informação e de conhecimento necessários às atividades organizacionais, tendo em vista o seu posicionamento estratégico.
+
+
+
+3.2 Trabalhadores do conhecimento
+
+Na perspectiva de autores (Drucker, 1993, 1994; Nonaka. & Takeuchi, 1995; Davenport, 1996), na sociedade do conhecimento a liderança dos grupos sociais está nos trabalhadores do conhecimento   gestores do conhecimento, profissionais do conhecimento e empregados (do conhecimento) que compreendem como colocar a informação a serviço da produção.
+
+Os responsáveis pela estruturação de Sistemas de Gestão do Conhecimento (Sistemas KM), preocupam-se com a armazenagem, disseminação, exploração e re-uso da experiência e informação corporativa, com o propósito de sintetizar o conhecimento, individual e comum, em prol da melhoria das operações na organização.
+
+Numa economia baseada na informação e no conhecimento o centro informacional e o profissional a informação devem fazer a transição de: centro de custo para centro de valor agregado; oferta de serviços para oferta de informações em resposta a necessidades específicas; provedores de informação para parceiros na geração do conhecimento (Rysk & Sebastian, 2000).
+
+3.3 Gestores do conhecimento
+
+Uma das denominações de mercado para o tipo de profissional com ênfase em gestão do conhecimento é a de CKO   Chief Knowledge Officer.
+
+De acordo com Davenport (1996) o papel do CKO é o de usar tecnologia para capturar e distribuir conhecimento para a organização. Tem três responsabilidades críticas: criar a infra-estrutura para a gestão da informação; construir a cultura do conhecimento na organização; e fazer com que tudo dê certo.
+
+Nonaka e Takeuchi (1995, p.156) falam em termos gerais do knowledge officer como aquele pertencente aos níveis hierárquicos mais altos da organização. O que é responsável pelo processo de criação do conhecimento em seu todo a nível corporativo.
+
+Aqueles que desenvolvem estratégias de alto nível sobre gestão do conhecimento são chamados de knowledge management experts   especialistas em gestão do conhecimento.
+
+3.4 Engenheiros do conhecimento
+
+O termo engenheiro do conhecimento (Knowledge engineer) aparece na literatura muitas vezes como sinônimo de gestor do conhecimento. Brian Newman (1996) aponta que a diferença é que o gerente estabelece a direção que um processo deve tomar, enquanto que o engenheiro desenvolve os meios para executar esta diretiva. Enquanto os gestores preocupam-se com as necessidades de conhecimento da empresa, os engenheiros preocupam-se em buscar a melhor tecnologia para processar e disponibilizar este conhecimento.
+
+Na verdade, esta é uma profissão que tem a sua atuação definida no mercado há duas décadas, há bem mais tempo do que a dos gestores do conhecimento, está associada à inteligência artificial e a sistemas especialistas. Em seu início, a aquisição de conhecimento para o desenvolvimento de sistemas especialistas foi nomeada engenharia do conhecimento[4]. O seu papel é o de desenvolver dados e regras para sistemas especialistas (Murray, 2002).
+
+O engenheiro do conhecimento trabalha com áreas como a representação de dados e informação e respectivas metodologias, gestão de fluxos de trabalho (work flow), tecnologias de groupware, etc. Deve ainda estabelecer os processos pelos quais as demandas de conhecimento organizacional são examinadas, a informação é adquirida, e o conhecimento é disponibilizado para quem a requereu (Newman, 1996).
+
+3.5 Especialistas
+
+3.5.1 Especialistas em gestão do conhecimento
+
+Especialistas de transferência do conhecimento é uma descrição apropriada para os implementadores do conhecimento corporativo. É um termo similar ao do knowledge practioner (o prático do conhecimento) , termo proposto por Nonaka e Takeuchi (1995). Outros termos associados são o do relator do conhecimento (knowledge reporter) e do editor do conhecimento (knowledge editor)   pessoas que extraem conhecimento daqueles que o detêm, e o reordenam na forma que qualquer um possa fazer uso dele, e periodicamente atualizam e editam tal conhecimento (Davenport, 1996, p.26).
+
+Estas funções já eram desempenhadas por profissionais como os documentalistas, o pessoal ligado ao treinamento, analistas de negócios e especialistas de apoio ao desenvolvimento organizacional[5], apenas a ênfase na gestão de conhecimento hoje é mais visível.
+
+3.5.2 Especialistas de conteúdos informacionais
+
+Um interessante perfil de profissional é o do corretor de informação, o information broker. Este é o termo genérico para designar um profissional da informação independente, que tem as suas raízes na década de 60[6]. Trata-se de uma pessoa ou organização, que é contratada para prover serviços de informação. Outras denominações são: consultor de informação, bibliotecário independente, especialista de informação, consultor de informação por demanda, varejista de informação, infomediary, ou ainda profissional independente da informação. Os profissionais independentes de informação (independent information professionals), possuem a sua Associação, AIIP, e o seu próprio código de ética (AIIP Code of Ethical Business Practice)[7].
+
+O consultor de informação provê serviços de informação para organizações de todos os tamanhos e tipos. Realiza um serviço intelectual que pressupõe o conhecimento de uma área específica, uma habilidade especial com pessoas ou uma capacidade grande de analisar e interpretar situações problemáticas oferecendo soluções. O consultor oferece profissionalmente o seu conhecimento, e também, a sua capacidade de pô-lo em prática e realmente resolver os problemas das pessoas e das instituições (Dyson,1998) .
+
+Como especialistas de informação, os information workers, podem, dentre outras atividades, centrar-se na busca, reunião e interpretação da informação com valor agregado para as atividades de uma organização ou de um indivíduo, visando melhor posicionamento no mercado ou lucro. Neste contexto a busca informacional é um processo de construção de novos conhecimentos e entendimentos para adicional valor para as atividades de uma empresa (Kuhlthau, 1999).
+
+Um exemplo de atividade de especialista da informação para bibliotecários[8], que tem se expandido é na esfera dos provedores de conteúdo, que contratam pessoas com essa formação para classificar as informações de melhor qualidade a serem oferecidas na rede e que as devem classificar de maneira a serem acessadas rapidamente.
+
+O bibliotecário, como especialista de informação, é hoje contratado para atuar em escritórios de advocacia, agências de publicidade, hospitais, associações de classe, organizações não governamentais, além de colaborar a construção de sites e portais. Ou seja, trabalhar em qualquer empresa, que lide com informação.
+
+3.5.3 Especialistas em uso de ferramentas inteligentes
+
+A organização inteligente entende que a descoberta e o uso do conhecimento podem ser mais bem atingidos, quando se faz uma parceria estratégica informacional entre aqueles na organização que criam e usam a informação, os especialistas da informação e os especialistas em tecnologia informacional. Esta sinergia coletiva é necessária para tecer uma rede de informações estruturadas e não estruturadas, internas e externas, correntes e históricas, e informações orientadas para o futuro: para criar instrumentos e métodos para acessar e selecionar a melhor informação disponível; desenhar arquiteturas informacionais baseadas num entendimento profundo das necessidades informacionais e de comunicação de seus clientes; e integrar os processos informacionais da organização, formando uma plataforma para o aprendizado e desenvolvimento organizacionais (Choo, 1998, p.217).
+
+O especialista em uso de ferramentas inteligentes deve entender os processos computacionais, formatos, padrões, linguagens e softwares. Deve também saber gerenciar a informação. Entre outras ocupações, o especialista em uso de ferramentas inteligentes, pode ser um engenheiro de telecomunicações, ou gestor de redes que oferece produtos que viabilizam tecnologicamente a prestação de serviços informacionais e que se preocupa com a segurança das redes. Pode ser também alguém que desenvolve sistemas de apoio a tomada de decisão, engenharia de software, aplicações para web e interfaces homem/máquina. Dentre as ferramentas que pode utilizar estão o Data warehousing e o Data mining para a análise das informações.
+
+O data miner aparece como uma das 10 profissões  Mais quentes  neste início de século , pela classificação de Tom Peters para a revista Time de 22 de maio de 2000.
+
+
+
+4. Conclusões
+
+A Sociedade da Informação necessita para a sua operacionalidade, de infra estrutura adequada, softwares, ferramentas e recursos informacionais, a serem trabalhados por gestores da informação, gestores do conhecimento e especialistas em informação, entre eles os especialistas de conteúdos informacionais.
+
+É importante, no entanto, observar que não há um perfil de profissional da informação ou do conhecimento único. É impossível encontrar, em apenas uma profissão ou em um determinado perfil, a síntese de atividades que compreenda todas as facetas da informação e do conhecimento necessárias para o desenvolvimento das atividades de uma organização ou do desenvolvimento de uma sociedade.
+
+É importante ressaltar que na busca por uma sociedade mais justa, com o fim das desigualdades sociais, cabe ao profissional da informação um papel de mediador da informação, onde ao mesmo tempo ele utiliza novas tecnologias alicerçadas ao desenvolvimento social, ou seja ele desenvolve um papel fundamental para acabar com a exclusão digital e a falta de acesso á informação.
+
+A nova sociedade oferece campos de atuação a esses profissionais e a outros que tenham como característica a habilidade de lidar com a informação e o conhecimento, gerando novas informações e novo conhecimento com valor agregado, bem como trabalhar com o indivíduo,  animando-o  a participar da construção desta sociedade e de exercer a sua cidadania.
+
+
+
+Referências Bibliográficas
+
+ALLEN, M. & RETZLAFF, L. Libraries and information technology: towards the twenty-first century. The Australian Library Journal, v.47, n.1,p.91-
+
+99, Feb. 1998.
+
+BARRETO, Aldo de Albuquerque. O tempo e o espaço da Ciência da Informação. Transinformação, v.14, n.1, p. 17-24, janeiro/junho 2002.
+
+CAVALCANTI, Cordélia Robalinho. Da Alexandria do Egito à Alexandria do
+
+Espaço. Brasília : Thesaurus Editora, 1996.
+
+CHOO, Chun Wei. Information Management for the Intelligent Organization; the art of scanning the environment. 2nd.ed. Medford, N.J. : Information Today, 1998 (ASIS Monograph Series)
+
+DAVENPORT, T. "Knowledge Roles: The CKO and Beyond". CIO, p.24, April 1, 1996.
+
+DEMO, P. Cidadania Tutelada e Cidadania Assistida. Campinas: Autores Associados. 1995.
+
+DRUCKER, Peter. Post Capitalist Society. New York, N.Y. : HarperCollins, 1993.
+
+DRUCKER, Peter. "Infoliteracy". Forbes ASAP, p.104-109, 29 de agosto 1994.
+
+DYSON, Esther. A nova Sociedade Digital; @ Release 2.0. Trad. de Sônia T. Mendes. Rio de Janeiro: Campos, 1998.
+
+FEATHER, John. The information society; a study of continuity and change. 2nd.ed. London : Library Association, 1998.
+
+KELLY, Kevin. Novas regras para uma nova economia. Trad. de Lenke Peres. Rio de Janeiro : Ed. Objetiva, 1999.
+
+KIRK, J. "Information in organisations: directions for information management". Information Research, v.4, n.3, 1999.
+
+KUHLHAU, Carol Collier. "The role of experience in the information search process of an early career information worker: perceptions of uncertainty,complexity, construction, and sources". Journal of the American Society for Information Science, v.50, n.5, p. 399-412, 1999.
+
+LENOX, M. F., Walker, M. L. "Information literacy: challenge for the future". International Journal of Information and Library Research, v.4, n.1, p.1-18, 1992.
+
+MENOU, M.J. "Cultura, informação e educação dos profissionais de informação nos países em desenvolvimento". Ciência da Informação, v.25, n.3, p.228- , 1996.
+
+MINTZBERG, H.The nature of managerial work. Englewood Cliffs, N.J. : Prentice
+
+Hall, 1980.
+
+MURRAY, Philip C. "New language for new leverage: the terminology of knowledge management". Disponível em http://www.ktic.com/topic6/13_TERM4.HTM   Acessado em junho de 2002.
+
+NEWMAN, Brian D. "Knowledge Management vs Knowledge Engineering". Disponível em http://revolution.3-cities.com/~bonewman/kmvske.htm. Acessado em junho de 2002.
+
+NONAKA, I. "The knowledge-creating company". Harvard Business Review, v.69, n.6, p. 96-104, Nov./Dec. 1991.
+
+NONAKA, I. & TAKEUCHI, H. The Knowledge-Creating Company. New York : Oxford University Press, 1995.
+
+REGGINI, Horácio. "Tecnología, palabra e reflexión". Telos   Revista de Pensamiento sobre tecnología y Sociedad, Madrid, n.50, p. 126-132, Lulio/septiembre 1997,.
+
+RYSKE, E & SEBASTIAN, T. "From library to knowledge center: the evolution of a technology infocenter" in Srikantaiah, T.K. & Koenig, M.E.D., eds. Knowledge Management for the Information Professional. Medford, N.J.: Information Today, 2000. P.365-88.
+
+SHAPIRO, J.J., Hughes,S.K. "Information Literacy as a Liberal Art". Educom Review, v.31,n.2, p.63-75, 1996.
+
+TEDESCO, J.C. "Educación y sociedad del conocimiento". Cuadernos de pedagogía, n.288, p.82-86, 2000.
+
+UNESCO. UNESCO and an Information Society for All; a position paper. Paris: United Nations ducational, Scientific and Cultural Organization, May 1966.
+

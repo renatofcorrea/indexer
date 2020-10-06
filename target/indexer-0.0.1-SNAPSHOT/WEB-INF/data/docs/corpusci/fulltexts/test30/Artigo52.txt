@@ -1,0 +1,146 @@
+Estudos de usuários: o padrão que une três abordagens
+
+
+RESUMO
+
+Trata-se de três projetos de pesquisa em andamento no Programa de Pós-graduação em Ciência da Informação – PPGCI/IBICT/UFRJ. O primeiro visa a um estudo de usuários com base em uma experiência de interatividade na rede Internet, tendo como objeto de estudo o informativo www.clippirata.com.br. O segundo aposta no papel da informação para a educação ambiental. Para tanto, objetiva demonstrar como oficinas de reciclagem artesanal de papel podem funcionar como agregados de informação para a produção do conhecimento. O último projeto tem como objetivo a construção de um instrumento digital sobre informação cultural com base na estrutura do hipertexto. A responsabilidade social da ciência da informação é a base conceitual que une as três abordagens. O fator comum aos três projetos é a participação dos usuários de informação no desenvolvimento de cada um deles, um pressuposto básico da metodologia participante adotada nas pesquisas.
+
+Palavras-chave: Estudos de usuários; Educação ambiental; Internet; Hipertexto; Pesquisa participante.
+
+
+[É possível] tirar proveito do grande volume de informação, [re] elaborando-a de acordo com seu potencial de transformação para um dado usuário. (Freire & Freire, 1998)
+
+
+
+A epígrafe justifica a minha parte neste trabalho: re-elaborar os textos de Bruno Macedo Nathansohn, Carla Tavares e Carmelita do Espírito Santo, alunos que oriento no Mestrado do Programa de Pós-Graduação em Ciência da Informação (Convênio CNPq/IBICT – UFRJ/ECO), de modo a produzir uma comunicação sobre o padrão que reúne a rede conceitual de seus respectivos projetos de pesquisa-dissertação na linha de pesquisa Configurações Sociais e Políticas da Informação.
+
+A principal característica dos três projetos está no uso da metodologia da pesquisa-participante, na trilha aberta pela dissertação de mestrado em ciência da informação de Freire (1998), que vem a ser
+
+"... um tipo de pesquisa social com base empírica que é concebida e realizada em estreita associação com uma ação ou com a resolução de um problema coletivo e no qual os pesquisadores e os participantes representativos da situação ou do problema estão envolvidos de modo cooperativo ou participativo." (Thiollent, 2000)
+
+As premissas e construtos da ciência da informação resumidos a seguir constituem o contexto teórico compartilhado pelas três pesquisas, mas cada projeto tece sua própria rede conceitual a partir dessa urdidura, como veremos. Com a palavra, os pesquisadores:
+
+O contexto compartilhado
+
+É a partir da metade do século XX que se pode caracterizar a informação como fator-chave da economia. Este período é marcado por um grande fluxo de informação, oriundo das transformações econômicas e sociais causadas pelas duas guerras mundiais. A partir daquele momento histórico, o termo "informação" torna-se objeto de pesquisa em diversas áreas e contextos, em que recebe diferentes acepções.
+
+"Suas fronteiras ultrapassam o contexto humano e mesmo social: perpassam o animal e a máquina, sendo até mesmo uma categoria filosófica ou categorias filosóficas como matéria, espaço, movimento, tempo e energia." (Araujo, 1994, p.15)
+
+Para Barreto (1994), este fenômeno trouxe à tona questões sobre a natureza da informação, sua conceituação científica e os benefícios que pode trazer ao indivíduo e no seu relacionamento com o mundo em que vive. Nesta perspectiva, o principal objetivo da informação está ligado à produção de conhecimento no indivíduo:
+
+"Como agente mediador na produção do conhecimento, a informação qualifica-se em forma e substância, como estruturas significantes com a competência de gerar conhecimento para o indivíduo e seu grupo". (Barreto, 1994, p.3)
+
+Estas "estruturas significantes" podem ser construídas por meio de ações políticas e técnico-científicas no contexto da produção e transferência de estoques de informação, primordiais para a produção do conhecimento. Ao construir um instrumento de comunicação da informação na área de saúde, Freire observa que:
+
+"É no espaço social, político e econômico que ocorre o fenômeno da produção e circulação da informação ... através de um processo de comunicação social que engloba uma fonte geradora de informação (um emissor), os canais de transmissão do "texto e sua estrutura" e (um receptor) usuário da informação." (1998, p. 103)
+
+Configura-se, portanto, um espaço de informação que, antes de designar espaços físicos, remete a esferas relacionais e simbólicas de sociabilidade, de comunicação e de saber. Como ressalta González de Gómez, nesses espaços:
+
+"As informações obtêm valor testemunhal ao serem agregadas e organizadas especialmente, na entrada e no processamento dos dados [...] são, ao mesmo tempo, nós das redes que entrelaçam os mais diversos fluxos de informação." (González de Gómez, 1999, p.80)
+
+Na perspectiva da globalidade, a natureza do fenômeno informação pode ser explicada tanto em sua função de mediadora na produção do conhecimento, quanto como campo de produção de conhecimento interessado nos processos por meio dos quais humanos e tecnologias de informação interagem e se comunicam.
+
+"O que caracteriza a atual revolução não é a centralidade de conhecimentos e informação, mas a aplicação desse conhecimento e dessa informação para a geração de conhecimentos e dispositivos de processamento/comunicação da informação, em ciclos de realimentação cumulativos entre a inovação e seu uso." (Castells, 1999, p.50-51)
+
+Como a ciência da informação aparece neste processo de produção de conhecimento e qual a sua área de atuação? Wersig e Neveling destacam que o problema de maior interesse para a ciência da informação pode ser estabelecido como:
+
+"... A transmissão do conhecimento para aqueles que dele necessitam é uma responsabilidade social, e essa responsabilidade social parece ser o fundamento em si para a ciência da informação." (Wersig e Neveling apud Freire, 2001)
+
+O quadro teórico de Wersig e Neveling contempla o entendimento da estrutura como um espaço que valoriza o coletivo. Nessa perspectiva, a estrutura é concebida como a fonte geradora de conteúdo em sua inter-relação com o usuário, expressão do mundo real, do meio ambiente onde ocorrem elaborações cognitivas e suas interações."
+
+
+
+A diversidade na unidade
+
+O projeto de Bruno Macedo Nathansohn
+
+INTERAÇÃO NO CIBERESPAÇO
+
+O projeto se caracteriza como uma experiência de interatividade no âmbito de um sítio da Internet <www.clippirata.com.br> que contempla temas de conteúdo político, social e econômico e que se define por uma linha editorial específica.
+
+Diferentemente dos chamados mass media, a Internet possibilita ao usuário fazer a informação por meio de uma 'construção horizontal' do texto. A busca pela Internet pressupõe o auxílio de uma ferramenta que, pode-se dizer, está dentro da formação do hipertexto (digital) como instrumento de construção do conhecimento, o link. Como conexões, os links permitem organizar o conhecimento que foi fortalecido com o advento das novas tecnologias e da linguagem em hipertexto. Ligam estoques informacionais que possuem afinidades entre si, coerência em relação aos seus conteúdos em um processo intertextual. Com isso, produzindo relacionamentos entre o que Barreto (1994) define como "estruturas significantes".
+
+A interação tecida pela associação dos nós (links) na rede provoca o surgimento de um hiperdocumento, pautado naquilo que Saracevic chama de "relevância". A procura do usuário por informação de acordo com suas necessidades se relaciona, dessa forma, com o hiperdocumento, visto como um posicionador do autor, provocando a interlocução [inter-ação] entre fonte e emissor.
+
+Nessa perspectiva, estaria realizado o objetivo da Internet como um espaço dissonante na padronização que domina o sistema de comunicação atual. Mas, para tanto, torna-se necessário ampliar a visão sobre a função da Internet como um espaço em permanente construção, como instrumento à troca de informação. A rede poderia, assim, ser vista sob a ambivalência de sua identidade, como um repositório de informação a ser recuperada e como um canal de comunicação.
+
+A hipótese é que a noção de interatividade (Barreto, 1997), atuando por meio de mecanismos desenvolvidos no interior do sítio, possa ser um elemento de enriquecimento do espaço mediante participação direta do receptor, transformando-o em co-autor. Dessa forma, o que é lido deve comportar o que é dito sobre o que é mostrado, em sua multiplicidade, ao mesmo tempo em que se abre aos comentários por intermédio dos vários textos imbricados às imagens.
+
+Para verificar o alcance da participação do usuário, torna-se primordial observar o contexto em que é concebido o sítio como estrutura de transferência da informação, em seus aspectos histórico e operacional. Não somente por sua linha editorial, mas também do discurso e da leitura que o usuário faz de sua organização. Nesse sentido, contesta-se a tese da unicidade do sujeito falante, abrindo-se espaço para que outras visões de mundo, ou seja, outras leituras de determinado tema, possam se manifestar, contribuindo diretamente à elaboração de uma nova estrutura informacional.
+
+
+
+O projeto de Carla Tavares
+
+AS OFICINAS DE RECICLAGEM ARTESANAL DE PAPEL COMO AGREGADOS DE INFORMAÇÃO
+
+Essas oficinas são uma das práticas da educação ambiental, entendida aqui como uma nova visão do mundo, em que cada parte tem valor em si própria e como parte do conjunto (Vasconcelos, 1998). Esta área esteve restrita até bem pouco tempo ao âmbito escolar, e hoje está incluída em todas as iniciativas que visem à conservação, recuperação e melhoria do meio ambiente e, conseqüentemente, da qualidade de vida, como pode ser visto na nova Lei de Educação Ambiental.1
+
+Neste estudo, serão empregados o modelo dos "agregados de informação" de Barreto (1996) e a abordagem dos "agentes de informação" de Freire (1987), ambos adaptados por Pereira (1998) ao caso particular dos professores da Rede de Ensino do Município do Rio de Janeiro. As oficinas podem ser vistas como "agregados de informação", por disponibilizarem "estoques de informação" visando à assimilação da informação que gere conhecimento e modifique o indivíduo, seu grupo social e a própria sociedade (Barreto, 1996). Nesse sentido, uma determinada "estrutura de informação" será transmitida durante a realização de algumas oficinas de reciclagem artesanal de papel do Projeto Recicloteca da Organização Não-Governamental Ecomarapendi, com o propósito de produzir uma interação positiva com as crianças participantes.
+
+Nas oficinas, os "agentes" estão representados pelos consultores técnicos que, na pesquisa, têm o papel de facilitar a transferência da informação de que "lugar do lixo é no lixo!", elaborada como estrutura significantecom o propósito de transformar/modificar o comportamento das crianças em relação ao local de disposição apropriado dos resíduos sólidos.Podemos comparar o papel dos consultores, na oficina, com aquele identificado por Pereira em sua citada pesquisa com os professores: eles mediatizam a comunicação entre um estoque de informação, que representa conhecimento acumulado e disponível, e seus possíveis usuários (no caso, os participantes das oficinas).
+
+A metodologia a ser empregada neste projeto terá caráter exploratório (Costa, 1995; Minayo, 1994; Freire, 2002 – comunicação verbal), tendo como intuito transformar as oficinas de reciclagem artesanal de papel em "agregados de informação", ou oficinas experimentais, a serem experimentadas em amostras de usuários. A própria pesquisadora será a facilitadora nas oficinas experimentais, com a cooperação de consultores da Ecomarapendi e da professora orientadora, que observará sua atuação como "agente da informação" na perspectiva de um "agregado de informação". No formato utilizado na pesquisa, as modificações introduzidas não alteram as premissas nas quais as oficinas de reciclagem artesanal de papel do Projeto Recicloteca se fundamentam.
+
+
+
+O projeto de Carmelita do Espírito Santo
+
+A IDENTIDADE CULTURAL DE QUISSMÃ, RJ, NO AR
+
+A pesquisa objetiva a construção de um instrumento digital para registro e comunicação da informação cultural do município de Quissamã, RJ. A responsabilidade social da ciência da informação é projetada por meio da participação da comunidade local na realização de atividades de organização e transferência de informação cultural.
+
+A abordagem metodológica reflete o caráter interativo dos novos produtos de informação. O produto proposto será desenvolvido segundo a estrutura física de um hipertexto, por entender que esta tecnologia de informação funciona como um agregado de informação e, como tal, dotado das funções de produção e transferência da informação. Além do mais, o hipertexto foi escolhido como ferramenta para compartilhar informações devido ao seu alto grau de interatividade. Segundo Freire (1998), que utilizou este instrumento para a socialização da informação na área da saúde, o hipertexto torna-se relevante como um instrumento de transferência de informação, por possibilitar estratégias de buscas informais personalizadas e orientadas ao conteúdo:
+
+"Usuários de sistemas hipertextos podem realmente concentrar-se na informação durante o processo de busca, por intermédio da observação do contexto, e durante o folheio, com o salvamento, ligação ou transferência de textos ou imagens." (Freire, 1998, p.5)
+
+Funcionalmente, um hipertexto é um tipo de programa para a organização de conhecimentos ou dados, a aquisição de informações e a comunicação (Lévy, 1994, p.33). Desta forma, por entender que o hipertexto nesta pesquisa funciona como um agregado de informação (Barreto, 1996), fundamenta-se a sua construção participativa no conceito de "regime de informação", citado por González de Gómez como:
+
+"... o conjunto mais ou menos estável de redes formais e informais de fluxos de informação, através dos quais as informações são transferidas de produtores específicos, por canais determinados, com a mediação de estruturas organizacionais específicas, comunidades específicas de usuários ou consumidores." (1999, p. 58)
+
+Para tanto, optou-se por utilizar a metodologia da pesquisa participante, que, segundo Freire (1998), possibilita maior aproximação entre o pesquisador e objeto de sua pesquisa. Com base na relação deste projeto com a socialização da informação, utiliza-se o critério de "amostras intencionais" proposto por Thiollent (2000)2. De acordo com Marteleto (1995), esta amostra será selecionada entre os agentes educativos (professores e alunos) do município.
+
+O projeto está sendo desenvolvido com a colaboração da Secretaria de Educação e Cultura do Município. Desta forma, os aspectos da cultura local a serem abordados no hipertexto serão definidos de acordo com as decisões tomadas pelos participantes da pesquisa.
+
+
+
+REFERÊNCIAS
+
+ARAUJO, V. M. R. H. de. Sistemas de recuperação da informação:nova abordagem teórico-conceitual. 1994. Tese. (Doutorado em Comunicação e Cultura)- UFRJ/ECO, Rio de Janeiro, 1994. 
+
+BARRETO, A. de A. Perspectivas da ciência da informação. Revista de Biblioteconomia de Brasília, Brasília, v. 21, n. 2, 1997. 
+
+_______. A eficiência técnica e econômica e a viabilidade de produtos e serviços da informação. Ciência da Informação, Brasília, v. 25, n. 3, 1996. 
+
+_______. A questão da informação. São Paulo em Perspectiva, v. 8, n. 4, out./dez. 1994. 
+
+CASTELLS, M. A sociedade em rede. São Paulo : Paz e Terra, 1999. 
+
+COSTA, R. S. O. A questão social e humana do lixo em contexto de educação ambiental. 1995. Dissertação (Mestrado em Educação] - PUC, Rio de Janeiro, 1995. 
+
+FREIRE, G. H. de A. Construção de um instrumento para a comunicação da informação sobre saúde. 1998. Dissertação. (Mestrado em Ciência da Informação). UFRJ/ECO/IBICT, Rio de Janeiro, 1998 
+
+FREIRE, I. M. A responsabilidade social da ciência da informação e/ou o olhar da consciência possível sobre o campo científico. 2001. Tese. (Doutorado em Ciência da Informação) - UFRJ/ECO/IBICT, Rio de Janeiro, 2001. 
+
+_______. Transferência da informação tecnológica para produtores rurais: estudo de caso no Rio Grande do Norte. 1987. Dissertação. (Mestrado em Ciência da Informação) - UFRJ/ECO/IBICT, Rio de Janeiro, 1987. 
+
+FREIRE, I. M.; FREIRE, G. H. Navegando a literatura: o hipertexto como instrumento de ensino. Transinformação, v. 10, n. 2, maio/ago. 1998. 
+
+GONZALEZ, Gomez M. N. de. Da política de informação ao papel da informação na política contemporânea. Revista Internacional de Estudos Políticos, v. 1, n. 1, p. 57-93, abr. 1999. 
+
+_______. A globalização e os novos espaços da informação. Informare. Cad. Prog. Pós-Grad. Ci. Inf., v. 3, n. 1/2, jan./dez, 1997. 
+
+PEREIRA, A. C. O processo de atualização técnico-científica do professor da rede municipal de ensino do Rio de Janeiro, um estudo exploratório na área de transferência da informação. 1998. Dissertação. (Mestrado em Ciência da Informação) - UFRJ/ECO/IBICT, Rio de Janeiro, 1998. 
+
+MINAYO, M. C. S. (Org.). Pesquisa social: teoria, método e criatividade. 19. ed. Petrópolis : Vozes, 1994. 
+
+MARTELETO, R. M. Cultura, educação, distribuição social dos bens simbólicos e excedente informacional. Informare. Cad. Prog. Prós-Grad. Ci. Inf., v. 1, n .2, p. 11-23, jul./dez.1995. 
+
+RIO DE JANEIRO (Estado). Lei nº 3325 de 17 de dezembro de 1999. Diário Oficial do Estado do Rio de Janeiro. Rio de Janeiro, 30 dez. 1999. Seção 1, p.11 
+
+SARACEVIC, T. Information science: origin, evolution and relations. In: VAKKARI, P. CRONIN, B. (Ed.). Conceptions of library and information science: historical, empirical and theoretical perspectives. London : Taylor Graham, 1992. 
+
+THIOLLENT, M. Metodologia da pesquisa-ação. 10. ed. São Paulo : Cortez, 2000. 
+
+VASCONCELLOS, H. S. R.. A pesquisa-ação em projetos de educação ambiental. In: PEDRINI, A. G. (Org.). Educação ambiental: reflexões e práticas contemporâneas. 2. ed. Petrópolis : Vozes, 1998. 
+

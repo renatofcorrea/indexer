@@ -1,0 +1,412 @@
+Análise metodológica dos estudos de necessidades de informação sobre setores industriais brasileiros: proposições
+
+
+Resumo
+
+Este trabalho apresenta uma investigação sobre os diagnósticos de necessidade de informação tecnológica detectados em empresas brasileiras do setor industrial. Propõe procedimentos metodológicos que permitam orientar as futuras pesquisas sobre necessidades informacionais ditadas pelos processos de aprendizagem e da inovação tecnológica. Discutiu-se o nível de detalhamento, bem como o grau de abrangência e profundidade destes estudos. Os escolhidos para compor a pesquisa destacaram os setores com potencial de crescimento nos mercados internos e externos como possíveis participantes na geração do desenvolvimento tecnológico e econômico. No entanto, existe uma insatisfação com estes estudos, especialmente pela sua incapacidade em reconhecer as reais necessidades de informação e tecnologia.
+
+Palavras-chave
+
+Necessidade de informação tecnológica; Informação tecnológica; Setor industrial; Inovação.
+
+
+INTRODUÇÃO
+
+A essência do paradigma tecnológico contemporâneo está intrinsecamente relacionada com o processo contínuo de inovação, que deve ser internalizado e constantemente atualizado pelas organizações, de modo a proporcionar não somente maior produtividade como também produtos com maior valor agregado.
+
+Entende-se, portanto, que o investimento em inovação tecnológica constitui uma questão estratégica da maior importância e, como tal, deve ser resolvida pelas empresas. Tal atitude deve apoiar-se, entre outras bases, em informações estratégicas que devem privilegiar, notadamente, as tecnologias existentes e em desenvolvimento e as questões de natureza mercadológica, econômica e social capazes de impactar a estrutura produtiva e de dinamizar os processos empresariais, colocando a organização em uma nova posição competitiva.
+
+Na perspectiva desta pesquisa, procurou-se fundamentar o referencial teórico sobre informação e sobre conhecimento no processo de inovação, discorrer sobre o processo de aprendizagem, o gerenciamento da tecnologia e a criação do conhecimento na organização, na tentativa de verificar o papel que cada um desempenha como fator de inovação e tratar as abordagens metodológicas utilizadas para a realização de estudos de necessidade de informação, buscando averiguar as diferenciações existentes entre elas, como, abordagem quantitativa versus abordagem qualitativa, as opções de métodos, e o enfoque tradicional em confronto com o enfoque alternativo. Este marco teórico vem colaborar no entendimento de quais são as características que cada estudo possui e de quando deve ser aplicado. Ainda que de uma forma breve, buscou-se entender como as necessidades de informação estão consideradas no contexto organizacional. E, para um melhor entendimento, apresentar-se-á o esforço realizado pelo governo brasileiro no desenvolvimento da oferta de informação científica e tecnológica. Na seqüência, foram apresentados os estudos sobre a necessidade de informação tecnológica realizados no Brasil. Foi realizada uma análise comparativa de quatro estudos à luz do referencial teórico e, estabelecidas algumas proposições para a realização de futuros estudos sobre necessidade de informação.
+
+A partir do panorama apresentado, pretende-se analisar criticamente os esforços empreendidos na realização desses estudos sobre necessidade de informação das empresas brasileiras, à luz do estado-da-arte, em matéria de informação para o desenvolvimento tecnológico e em matéria de estudos de usuários de informação; oferecer proposições para a realização de estudos nesta área que busquem retratar com mais fidelidade as necessidades das empresas brasileiras e contribuir para uma melhor atuação do Poder Público, bem como de prestadores de serviços de informação.
+
+
+
+INFORMAÇÃO, CONHECIMENTO E APRENDIZAGEM - FATORES DE INOVAÇÃO TECNOLÓGICA
+
+O ciclo de vida da informação e do conhecimento tecnológico em uma empresa varia em função dos vários fatores que lhe são inerentes, como campo de atuação, porte e tipo de segmento. A importância dada a cada um desses fatores é peculiar a cada empresa e definem o modo de lidar com o conjunto das atividades que envolvem a utilização da informação. Gerenciar tais atividades, segundo Sobreira (1999), até chegar propriamente ao uso da informação é uma tarefa das mais complexas e difíceis dentro das empresas.
+
+Os setores da indústria e da prestação de serviços sustentam a economia brasileira. Considerando o alto uso que fazem da informação, torna-se necessário priorizar o estudo deste recurso, no que diz respeito aos seus aspectos e ao papel que desempenha no processo de inovação. Isso, aliás, já tem merecido a atenção de vários pesquisadores de todo o mundo.
+
+Os termos informação e conhecimento têm sido empregados muitas vezes de forma confusa e indiscriminada. A tarefa de diferenciar um do outro acabou constituindo-se em uma árdua discussão, que vem de algumas décadas. Clarear a terminologia torna-se, então, fundamental para a compreensão do ciclo de criação em que estão inseridos. Assumimos que informação e conhecimento possuem significados diferentes e desempenham papéis distintos no desenvolvimento tecnológico e na criação de tecnologias.
+
+Assim, informação é o dado com significado, faz sentido e é compreendido por alguém; e conhecimento são as novas idéias criadas pelo indivíduo a partir do conjunto de informações, base para a ação. O acúmulo de dados não significa informação, e o acúmulo de informação não representa conhecimento. Cada qual tem a sua distinção e seu papel no ciclo.
+
+Da mesma forma, cabe diferenciar informação tecnológica. Cada vez mais se torna necessário captar, apurar, analisar e sinalizar para a empresa informações que facilitem o processo de tomada de decisões sobre o tipo de tecnologia que mais se adequa à manutenção e à ampliação de suas atividades nos mercados em que atua, bem como sobre o desenvolvimento futuro de novos processos e produtos.
+
+A informação tecnológica permeia os aspectos relativos à inovação tecnológica, focando os processos aplicados para o desenvolvimento do setor produtivo industrial.
+
+Tais ações visam a assegurar a consecução das metas e diretrizes formuladas pela empresa, apontando as tendências tecnológicas que tenham impacto significativo na atividade fim da empresa.
+
+Podemos destacar algumas funções da informação tecnológica que servem de base para o processo de formulação da estratégia tecnológica empresarial:
+
+• informar sobre tecnologias potencialmente relevantes em outras indústrias ou em fase de desenvolvimento;
+
+• demonstrar a trajetória provável de transformações tecnológicas;
+
+• apontar caminhos para o desenvolvimento de uma estratégia de tecnologia que reforce a estratégia competitiva geral da empresa.
+
+A relevância que a informação tecnológica assume para o sucesso da organização determina que seu gerenciamento seja realizado de maneira eficaz. Em nível estratégico, alimenta o "planejamento tecnológico", que possibilita tomar decisões para apoiar e expandir os negócios atuais, alavancar novos negócios e aprimorar as capacidades tecnológicas da empresa. Em nível operacional, dá suporte ao aperfeiçoamento de produtos e processos, bem como contribui para assegurar maior qualidade e produtividade.
+
+Para Allen, citado por Aguiar (1991), "as atividades de desenvolvimento tecnológico necessitam de informações, inicialmente, para que o problema a ser enfrentado possa ser entendido e, depois, para indicar possíveis soluções para a abordagem do problema proposto. A tecnologia é uma grande consumidora de informação verbalmente codificada, mas que, ao contrário da ciência, seu produto principal não é informação verbalmente codificada, mas sim uma mudança no hardware físico do universo representado por novos produtos ou novos processos de produção".
+
+Informação e conhecimento são ativos indispensáveis para o processo de aprendizagem e inovação tecnológica. Observa-se que, além destes dois ativos, o processo de aprendizagem está no entorno, não só da elaboração de novos mapas cognitivos que possibilitem compreender melhor o que está ocorrendo em seu ambiente, como também da definição de novos comportamentos que comprovem a efetividade do aprendizado.
+
+A empresa aprendiz que está propícia a enfrentar desafios e riscos preocupa-se em oferecer ao capital humano - principal recurso organizacional - um ambiente de interação, um conjunto de fontes de informação tecnológica (patentes) e encontra-se disposta a encarar os erros e as novas idéias. No entanto, Leonard-Barton (1998, p. 31) entende que "um dos valores mais incomuns para uma operação altamente competitiva, sob pressão, para colocar produtos na rua, é a tolerância com os riscos assumidos e o fracasso". Mesmo se projetos isentos de riscos, com garantia, não trazem quase nunca possibilidade de vantagem competitiva e nenhuma oportunidade de superar os concorrentes em termos de conhecimento (Leonard-Barton, 1998).
+
+Para Leornard-Barton, o ponto central da dinâmica e da inovação de uma organização é a interação contínua entre as atividades de construção do conhecimento e as competências centrais da organização, sendo que a criação do conhecimento efetua-se pela interação entre as atividades realizadas no curso do desenvolvimento de novos produtos e processos e a competência tecnológica central da organização.
+
+As capacidades tecnológicas centrais, para Leornard-Barton, decorrem da sinergia entre quatro dimensões interdependentes: conhecimento e habilidades dos empregados; sistemas técnicos e físicos, como equipamentos, bases de dados e softwares; sistemas de informação gerenciais, que incluem educação e sistemas de incentivos; valores e normas, que determinam que tipos de conhecimento são buscados. As atividades que são realizadas durante o desenvolvimento de novos produtos e processos nos quais uma organização constrói seu conhecimento e amplia ou cria novas competências são solução compartilhada de problemas, implementação e integração de novos métodos e ferramentas, experimentação e criação de protótipos e importação de conhecimento.
+
+De acordo com Choo (1998), as organizações de conhecimento são "empresas que evoluem com a mudança do ambiente, inovando continuamente". A essência da organização de conhecimento consiste no acompanhamento sistemático e no gerenciamento de seus processos de informação, aprendizagem e inovação.
+
+Choo postula que as empresas criam e usam informação em três arenas estratégicas: a) a organização coleta, interpreta e usa a informação sobre o ambiente de modo a construir significados (sense making) sobre sua inserção nesse ambiente; b) a organização cria novos conhecimentos (knowledge creating) pela conversão e combinação da expertise e do know-how de seus membros, de modo a aprender e a inovar; c) a organização seleciona e usa as informações para a tomada de decisões. Para Castro (1999), essas três dimensões geram um modelo de organização aprendiz, no qual os três processos são integrados na busca e no uso de informação.
+
+O processo de aprendizado contínuo e de adaptação ao ambiente competitivo, de acordo com Castro (1999, p. 27), "envolve a obtenção, o uso e a criação de informações, uma vez que as mesmas são utilizadas para interpretar o ambiente, para criar um novo conhecimento e para favorecer a tomada de decisões, possibilitando às empresas tornarem-se organizações de conhecimento". A obtenção, o uso de informações e o desenvolvimento da criatividade envolvem a cultura e a estrutura organizacionais, que influenciam os comportamentos que permitirão aos funcionários propor alternativas inovadoras no dia-a-dia do exercício de suas atividades.
+
+Buscar conhecer com um olhar cuidadoso e crítico as reais necessidades informacionais de uma empresa envolvida com a aprendizagem, a criação do conhecimento e a inovação constitui uma atividade de grande importância, se desejamos, de alguma forma, apoiar seu desenvolvimento e sua competitividade.
+
+
+
+OS ESTUDOS DE NECESSIDADE DE INFORMAÇÃO: LIMITES E PERSPECTIVAS
+
+A caracterização da necessidade de informação é um campo clássico da ciência da informação e da biblioteconomia. No entanto, não existe consenso sobre a forma mais indicada para a sua realização, talvez por estar este tema inserido na cognição humana, que começa apenas a ser discutida com mais profundidade pela área.
+
+Algumas revisões do estado-da-arte têm mostrado os problemas críticos e generalizáveis no campo do estudo de necessidades e do uso da informação. Ferreira (1997, p. 5) apresenta esses problemas:
+
+• "falta uniformidade conceitual nas pesquisas - termos como informação, necessidade de informação e uso da informação têm sido utilizados indiscriminadamente;
+
+• faltam definições e pressupostos claros para focalizar variáveis e gerar questões de pesquisa;
+
+• ausência de metodologias específicas, abrangentes e com rigor científico".
+
+Estudos apontam que os usuários agem e expressam suas necessidades a partir da perspectiva do sistema e dos provedores de informação. Ferreira (1997) apresenta os fatores importantes que foram identificados nesses estudos como influenciadores das necessidades de informação dos usuários, os quais Allen (1989) chama de "modelo dos fatores influenciáveis". Os tipos mais comuns referem-se a características e atributos que incluem experiência, faixa etária, nível educacional, estilos cognitivos e orientação individual.
+
+Podemos dizer que o comportamento do usuário e suas preferências também são determinantes para se compreender a necessidade de informação.
+
+A maioria dos estudos já realizados apresenta a profissão do usuário como o mais importante e influente fator para determinar suas necessidades de informação. Paisley (1980) introduz o conceito de círculo concêntrico, incluindo: área de assunto, atividades, interesse e hábitos profissionais, bem como ambiente de trabalho (Ferreira, 1997). Alguns estudos, para Ferreira (1997, p. 6), mostram que para o usuário buscar e usar informação deve estar consciente das fontes e dos serviços de informação disponíveis em seu ambiente. As necessidades de informação são também influenciadas pela organização dos sistemas e pelo conteúdo temático disponível, incluindo formato, quantidade e atualização das informações.
+
+Já as revisões publicadas no Annual Review of Information Science and Tecnology (ARIST) têm mostrado a preocupação generalizada da comunidade especializada da área de ciência da informação quanto à questão das metodologias utilizadas para estudar e pesquisar necessidades de informação e quanto à falta de definições coerentes para vários conceitos pertinentes a estudos de usuários.
+
+Abordagem quantitativa versus abordagem qualitativa e as opções de métodos para o estudo da necessidade de informação
+
+Podem ser identificados na literatura dois tipos de abordagem na realização de estudos sobre necessidades de informação: a abordagem quantitativa e a abordagem qualitativa (Oliveira, 1997; Chizzotti, 1995; Minayo, 1994). Nesses dois tipos de abordagem, é indispensável que o pesquisador saiba escolher com muita clareza os métodos que mais se adequam para efetuar a coleta dos dados. O conhecimento profundo do método a ser adotado e o preparo do pesquisador são fatores-chave para o sucesso do estudo.
+
+As abordagens quantitativa e qualitativa de pesquisa diferem pela sistemática e pela forma de tratar o objeto de estudo. É a natureza do problema e o nível de aprofundamento desejado que devem determinar a escolha da abordagem.
+
+Os métodos mais utilizados para a realização de pesquisas sobre a necessidade de informação são o questionário e a entrevista. A literatura apresenta outros métodos que permitem a realização de tais estudos, como:
+
+• técnica de delfos: quando grupos de especialistas analisam a questão de forma interativa e anônima;
+
+• observação, que pode ser espontânea não-estruturada, participante não-sistemática e observação sistemática;
+
+• análise documentária, que compreende análise de conteúdo, análise de citações e documentária.
+
+Há necessidade de um maior conhecimento por parte dos pesquisadores dos métodos e das técnicas de pesquisa, evitando-se assim a alta utilização de questionário e entrevista e propiciando-se a adoção de outras técnicas de coleta de dados.
+
+Enfoque tradicional versus enfoque alternativo
+
+Os estudos de necessidade de informação têm evoluído em duas direções, segundo Dervin (1986):
+
+• abordagem tradicional - estudos direcionados pelo sistema de informação ou biblioteca;
+
+• abordagem alternativa - estudos com o foco direcionado ao usuário.
+
+Para Dervin (1986) e Ferreira (1997), na abordagem tradicional a eficiência e o sucesso das operações de um sistema de informação são medidos em função do número de fontes de informações recuperadas pelo sistema, em vez de se avaliar o que realmente foi de interesse do usuário. O usuário é como um processador imperfeito da informação, pois nem todas as pessoas se interessam pelas mesmas fontes indicadas. A preocupação está em quanto e como um sistema de informação é usado, quais as dificuldades e a satisfação com o seu uso.
+
+O enfoque tradicional, na opinião de Ferreira (1997), não tem examinado os fatores que geram o encontro do usuário com os sistemas de informação. Essa abordagem não se mostra adequada para acomodar os diferentes tipos de problema dos usuários na era da informação. Por isso, grande parte das pesquisas atuais vem buscando auxílio e respaldo metodológico junto à abordagem alternativa.
+
+Mas os estudos sob o enfoque tradicional continuam sendo realizados em vários países, tornando a literatura volumosa (Ferreira, 1997). Supõe-se que grande parte dos estudos de usuários desenvolvidos no Brasil tenha sido baseada nesta abordagem.
+
+Os estudos tradicionais examinam os sistemas apenas por meio das características grupais e demográficas de seus usuários. Os estudos alternativos privilegiam as características e as perspectivas individuais dos usuários.
+
+A abordagem alternativa é conhecida como "abordagem centrada no usuário" ou "abordagem da percepção do usuário". Que informação um indivíduo quer encontrar no sistema de informação? Que uso fará dela? Como o sistema pode melhor ser projetado para preencher essas necessidades de informação? Tudo dependerá exclusivamente dele próprio, de seu propósito na busca de informação e do uso da mesma na transposição de vazios (Ferreira, 1997).
+
+Crawford (1978), segundo Carneiro (1982, p. 8), observou, mediante revisão de estudos de usuários do período de 1975-1977, que a necessidade de informação "envolve um processo cognitivo que pode operar em diferentes níveis de consciência, podendo, portanto, não ficar claro até mesmo para o próprio pesquisador. Considera a definição de uma necessidade de informação como uma parte importante do processo cognitivo, quando o usuário, sob determinadas condições, é capaz de especificá-la, visto que colocará o seu problema a caminho da solução".
+
+Essa visão de necessidade de informação corrobora a visão de Dervin (1986), baseada no conceito de sense-making. Esse termo é compreendido como a atividade humana de observação, interpretação e compreensão do mundo exterior, inferindo-lhe sentidos lógicos, advindos do uso de esquemas interiores. A busca e o uso da informação são de importância central para tal atividade, sendo vistos como parte do processo construtivo de compreensão individual e pessoal. Conforme o indivíduo se move na vida, passa por várias etapas, sendo que cada uma pode apresentar novos vazios, novas buscas, novos usos, e assim consecutivamente (Ferreira, 1997). Segundo Ferreira (1997), a abordagem sense-making é um dos métodos que mais se aproxima da realidade do usuário. Oferece fundamentos básicos, teóricos, métodos e técnicas para se chegar à adequação e ao design de um sistema de informação centrado no usuário
+
+Necessidade de informação no contexto organizacional
+
+Dentro do contexto organizacional, torna-se interessante pontuar algumas questões sobre o comportamento de usuário de informação.
+
+Na visão de Ferreira (1997), "embora as pessoas tenham suas próprias experiências, subjetivas e únicas, enquanto estão se movendo no tempo e espaço, existe também grande similaridade entre situações encontradas pelos diferentes indivíduos. Portanto, necessidade de informação não é um conceito subjetivo e relativo, o qual existe somente na mente de um indivíduo. Ao contrário, representa um conceito intersubjetivo com significados, valores, objetivos etc. passíveis de serem compartilhados. Um conceito que permite a identificação e generalização de padrões de comportamento de busca e uso de informação através do tempo e espaço sob a ótica do usuário".
+
+Skelton, citado por Sá (1985, p. 16-17), afirma que os estudos de usuários podem ser agrupados em duas categorias principais: "Os que estudam as necessidades de informações em relação a uma determinada disciplina; e os estudos das necessidades de informação em um ambiente específico".
+
+Desta forma, os usuários podem ser caracterizados pelas atividades a que se dedicam. Suas atividades profissionais e o ambiente no qual estão inseridos são fatores determinantes de suas necessidades de informação (Sá, 1985).
+
+Taylor (1991) apresenta três enfoques para estudar a transferência da informação: o enfoque tecnológico; o enfoque dirigido ao conteúdo; o enfoque que focaliza o usuário e o uso da informação. Neste último, o autor considera o contexto no qual o usuário faz as escolhas das informações que serão úteis para ele em um momento particular. Essas escolhas são baseadas não somente no assunto, mas em outros elementos do contexto no qual o usuário vive e trabalha. Esse contexto é considerado pelo autor como "ambiente de uso da informação". Assim, o que se quer é tentar conhecer ambientes dentro dos quais diferentes tipos de usuários buscam informações e fazem escolhas sobre a utilidade da informação disponível para eles.
+
+Talvez seja mais lógico discutir o usuário da informação em termos de grupos de problemas semelhantes. Desta forma, os sistemas de informação são alimentados de acordo com as categorias definidas de usuários (administradores, engenheiros, professores, dentre outras). Acredita-se que os problemas e as soluções no contexto gerencial diferem do contexto de engenharia, do contexto acadêmico e de qualquer outro contexto específico (Taylor; 1991).
+
+Observa-se que o propósito é isolar as similaridades e as diferenças no interior de uma população variada, em um contexto específico. O que se pretende é trabalhar mais com o grupo do que com o indivíduo. Cada grupo tem diferentes tipos de problema em tempo variáveis, diferentes modos de resolver os problemas e, conseqüentemente, diferentes maneiras de buscar a informação.
+
+No entanto, as atividades interativas, em termos de informação, podem ser mais relevantes para um problema do que um comunicado escrito. O entendimento disto é crucial para o enfoque dirigido ao usuário. É o reconhecimento do problema e a busca de solução para ele que definem o processo de informação.
+
+
+
+ESTUDOS BRASILEIROS SOBRE NECESSIDADES DE INFORMAÇÃO NAS EMPRESAS: APRESENTAÇÃO E ANÁLISE
+
+O esforço governamental em prol do desenvolvimento da oferta de informação científica e tecnológica inicia-se em 1954. No início da década de 80, é criada a rede de Núcleos de Informação Tecnológica coordenada pelo Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict).
+
+A rede de Núcleos foi constituída de 21 unidades, sendo 14 Núcleos Especializados, seis Núcleos Regionais e um Núcleo Especial. Os diagnósticos sobre necessidade de informação tecnológica foram em sua maior parte realizados por estes núcleos e por entidades parceiras, no início dos anos 90, em empresas brasileiras, com o objetivo de melhor conhecer sua realidade diante do novo cenário que se desenhava. Tais estudos variavam quanto à abrangência, enfocando a questão da informação exclusivamente ou como parte de diagnósticos setoriais mais amplos, em que a necessidade e a prática no campo do uso da informação nada mais é que um aspecto entre outros que caracterizam o estado da técnica e da gestão das empresas do setor ou da região.
+
+A partir do que foi dito, propõe-se analisar como os estudos de necessidades de informação em empresas realizados no Brasil abordam a questão da necessidade de informação para criar, transferir tecnologia e inovar.
+
+Buscou-se verificar como os estudos encontram-se fundamentados metodologicamente, levando-se em conta o tipo de abordagem e o método escolhido para sua realização, suas bases teórico-conceituais, o universo coberto e a definição da amostra, sua abrangência e profundidade, bem como as ferramentas de coleta de dados.
+
+Dos 13 estudos identificados, quatro, realizados por Núcleos de Informação Tecnológica, foram analisados. São eles um diagnóstico sobre o setor moveleiro do Rio Grande do Sul, dois diagnósticos sobre a indústria mineira (setor eletroeletrônico e setor de construção civil) e um sobre o setor de produção de eletrodomésticos de São Paulo. A lista abaixo contempla praticamente todo o universo dos estudos desta natureza já realizados no Brasil:
+
+• "Diagnóstico do setor de química de Minas Gerais", realizado pelo Núcleo Especializado em Capacitação de Pessoal em Informação Tecnológica Industrial, 1997.
+
+• "Diagnóstico do setor agroindustrial: análise dos principais segmentos do parque agroindustrial mineiro", realizado pelo Núcleo Especializado em Capacitação de Pessoal em Informação Tecnológica Industrial, 1997.
+
+• "Diagnóstico do setor eletroeletrônico", realizado pelo Núcleo Especializado em Capacitação de Pessoal em Informação Tecnológica Industrial, 1997.
+
+• "Diagnóstico do setor de papel e celulose em Minas Gerais", realizado pelo Núcleo Especializado em Capacitação de Pessoal em Informação Tecnológica Industrial, 1997.
+
+• "Diagnóstico do setor têxtil em Minas Gerais", realizado pelo Núcleo Especializado em Capacitação de Pessoal em Informação Tecnológica Industrial, 1997.
+
+• "Diagnóstico do setor de mineração de Minas Gerais", realizado pelo Núcleo Especializado em Capacitação de Pessoal em Informação Tecnológica Industrial, 1997.
+
+• "Diagnóstico do setor metalúrgico de Minas Gerais", realizado pelo Núcleo Especializado em Capacitação de Pessoal em Informação Tecnológica Industrial, 1997.
+
+• "Diagnóstico do setor de construção civil", realizado pelo Núcleo Especializado em Capacitação de Pessoal em Informação Tecnológica industrial, 1997.
+
+• "Demanda por informação tecnológica pelo setor produtivo", realizado pela Confederação Nacional das Indústrias/CNI, 1996.
+
+• "Uso e demanda de informação em Minas Gerais: análise para os setores eletroeletrônico e laticínios", Centro Tecnológico de Minas Gerais/CETEC, 1994.
+
+• "Diagnóstico da necessidade de informação do setor moveleiro do Rio Grande do Sul: estudo do usuário", realizado pelo Serviço Nacional de Aprendizagem Industrial/SENAI, 1993.
+
+• "Natureza do trabalho: necessidade de informação e de apoio tecnológico no setor de eletrodomésticos", realizado pelo Instituto de Pesquisas Tecnológicas de São Paulo/IPT-SP, 1992.
+
+• "Natureza do trabalho: necessidade de informação e de apoio tecnológico no setor de confecções", realizado pelo Instituto de Pesquisas Tecnológicas de São Paulo/IPT-SP, 1992.
+
+Alguns dos critérios estabelecidos para a seleção do conjunto de diagnósticos analisado foram os seguintes: que os estudos tivessem sido realizados em diferentes ambientes (setores) e por diferentes entidades; que tivessem como um de seus objetivos o estudo das necessidades informacionais e tecnológicas das empresas nacionais; que tivessem adotado diferentes enfoques; e que o documento integral pudesse ser recuperado.
+
+Ou seja, buscou-se explorar a variedade, e não a representatividade estatística do universo dos estudos já realizados.
+
+Os diagnósticos analisados apresentam, sinteticamente, as seguintes características:
+
+Setor Eletrodoméstico (21) - estudo setorial publicado em 1992 pelo Instituto de Pesquisa Tecnológicas (IPT) no âmbito do Núcleo Regional de Informação Tecnológica de São Paulo (NRI/SP). O estudo teve como objetivo principal identificar a necessidade de informação tecnológica das empresas do setor e as oportunidades de atuação para o NRI/IPT. Foram pesquisadas 19 empresas, divididas em 14 empresas fornecedoras e 5 montadoras. O método de pesquisa adotado foi o questionário mediante entrevista. Os modelos teóricos que embasaram o estudo foram os propostos por Porter (1989) e por Pavitt (1984) tanto na elaboração do instrumento de coleta, quanto na análise subseqüente dos dados. A pesquisa permitiu levantar informações sobre cenário do setor no âmbito nacional e no internacional, aspectos gerais das atividades de P&D, fontes de informação técnica utilizadas, inovações na organização, gestão da produção, qualificação, treinamento e capacitação do pessoal, fornecedores, clientes, concorrentes, bem como características do principal produto da empresa.
+
+Setor Moveleiro (27) - estudo setorial publicado em 1993 pelo Centro Tecnológico do Mobiliário do Serviço de Aprendizagem Industrial (Cetemo/Senai), por meio do Núcleo Setorial de Informação Tecnológica em Mobiliário e Madeira (NIT/MM). Teve como objetivo principal identificar as necessidades de informação técnica e tecnológica do setor, possibilitando aperfeiçoar e readequar os serviços de informação do NIT/MM, a oferta de formação e treinamento de recursos humanos e a assistência técnica e laboratorial do Senai. O número de empresas pesquisadas foi 80, quanto ao universo foi estratificado por microrregiões de atuação, por subgênero de atividade e porte empresarial; utilizou-se o cadastro RAI/1988; para a coleta dos dados, foi adotado o questionário mediante entrevista. O estudo não se encontra aparentemente respaldado em modelos teóricos. Obteve-se com a pesquisa os seguintes resultados: utilização do Núcleo e a satisfação com os serviços de informação; necessidades e práticas de treinamento; práticas em ensaios e testes; demandas de informação; fontes e serviços de informação utilizados; processos; produtos; gestão de resíduos; manutenção; automação; equipamentos; controle de qualidade.
+
+Setores de Construção Civil (12) e eletroeletrônico (1) - dois estudos setoriais de uma série de oito realizados no período de 1995 a 1997 pelo Núcleo Especializado em Capacitação em Pessoal em Informação Tecnológica Industrial (Necapiti), hoje Núcleo de Informação Tecnológica e Gerencial (Niteg). O objetivo principal do estudo foi diagnosticar a necessidade de capacitação em informação tecnológica das empresas dos mais importantes setores industriais no Estado de Minas Gerais. Quanto ao número de empresas pesquisadas, no setor de construção civil, de um universo de 500 empresas, foi estudada uma amostra de 12%. Quanto ao setor eletroeletrônico, do universo de 163 empresas que constavam do Banco de Empresas do Instituto de Desenvolvimento Industrial de Minas Gerais (Indi/MG), foram estudadas 54 empresas. Para o levantamento dos dados, foram utilizados três métodos de pesquisa: o questionário, a entrevista e a pesquisa bibliográfica. Os modelos teóricos de Porter (1989) e Pavitt (1984) serviram de base para a coleta e a análise da informação obtida. Os estudos abordaram cenário dos setores em âmbito nacional e estadual; capacitação de recursos humanos; aspectos da inovação tecnológica; aspectos do processo de fabricação; tipos de fontes e serviços de informação; características gerenciais e organizacionais, competitividade e estratégias.
+
+Análise comparativa dos diagnósticos
+
+Constatou-se que praticamente os mesmos aspectos foram considerados nos diagnósticos analisados, o que indica que, provavelmente, a realização de novos diagnósticos baseou-se nos anteriores.
+
+Conceitos de base dos diagnósticos analisados
+
+Informação
+
+Uma primeira constatação ao realizar a análise foi que o conceito de informação se confunde muitas vezes com o de fontes de informação. O que ocorre: temos dois tipos de fontes de informação, as formais e informais, que podem abordar informações de natureza mercadológica, de produtos, de processos, de técnicas e de negócios. O que difere um do outro: um é o suporte ou transmissor da informação, o outro é a informação em si, que poderá ou não ser utilizada em um determinado momento, podendo afetar uma decisão.
+
+Uma segunda constatação, o uso da informação tecnológica é incluído nos aspectos de caracterização do setor, mas não é explorada a sua participação na criação, no desenvolvimento e na comercialização de tecnologia.
+
+Processo de aprendizagem
+
+A abordagem deste tema encontra-se centrada nos investimentos em treinamento e capacitação de recursos humanos, não sendo explorado como ocorre o processo de valorização do conhecimento adquirido e como a aprendizagem passa do campo do indivíduo para o campo da organização.
+
+Os estudos não abordam aspectos do processo de aprendizagem como o processo de criação de conhecimento ou a troca de informações e experiências.
+
+Processo de inovação
+
+Os estudos do Necapiti dão maior atenção ao processo de inovação, mas esse processo ainda é estudado de forma tímida. Por quê? As atividades que resultam em mudanças tecnológicas e a participação da informação nestas mudanças não são mencionadas nos estudos.
+
+Modelos teóricos de base
+
+Três dos diagnósticos analisados encontram-se fundamentados nos mesmos modelos teóricos: os dois do Necapiti e o do IPT. Os modelos em questão são o de Porter (1986) e o de Pavitt (1984), respectivamente centrados sobre a representação das forças que ditam a dinâmica concorrencial dos setores industriais e sobre as relações intersetoriais em matéria de inovação tecnológica.
+
+Quando às bases teóricas para o estudo da necessidade de informação, embora observe-se o esforço em levantar esta necessidade nos diagnósticos analisados, observa-se também a falta de um modelo que supra essa lacuna, de modo a estabelecer uma ponte entre informação e processos empresarias, esse esforço cai por terra. O que é possível apresentar como resultados dos estudos são as demandas de informação relacionadas, na maior parte das vezes, com as ferramentas de armazenamento e de difusão de informação, com os tipos de fontes de informação e com a satisfação em relação aos sistemas e serviços oferecidos.
+
+Procedimentos metodológicos
+
+Abordagem quantitativa versus abordagem qualitativa
+
+Das pesquisas analisadas, os estudos do Necapiti adotaram as duas abordagens, o estudo do Senai/Cetemo adotou a abordagem quantitativa, e o estudo do IPT utilizou apenas a abordagem qualitativa. Esta última escolha tornou-se pertinente a partir do momento em que se buscou realizar um estudo exploratório, o que permitiu conhecer o campo investigado nas suas dimensões e possibilitou uma visão mais ampla da situação em que se encontram as empresas.
+
+Métodos de pesquisa (instrumentos de coleta de dados)
+
+Os estudos aqui analisados são muito próximos em escolhas metodológicas, tanto que o método do questionário foi adotado em todos, utilizado mediante a entrevista. A junção desses dois tipos de método recebe a denominação de formulário, segundo Cunha, 1982, e Minayo, 1994. Torna-se viável a sua aplicação porque permite, quando desejado, o aprofundamento de questões julgadas necessárias, oferecendo maior flexibilidade para captar a complexidade da realidade vivenciada pelo informante. O estudo do IPT baseou-se ainda na técnica de incidente crítico, uma técnica que descreve o evento em que uma situação interfere em um ambiente específico.
+
+Por que outros métodos não são utilizados para a realização de estudos de necessidade de informação? Um dos motivos talvez seja a utilização de estudos anteriores na realização dos novos estudos, perpetuando as mesmas escolhas metodológicas. Verifica-se, por exemplo, que não foram realizados estudos de casos. Essa é uma técnica de pesquisa que, ao invés de estudar um número exaustivo de empresas de setores diferentes, estuda um número reduzido de empresas de um mesmo setor ou uma empresa apenas com mais detalhe e profundidade.
+
+As técnicas apresentadas possuem características positivas e negativas, e nenhuma é exaustiva. Desta forma, para que a pesquisa sobre o estudo de necessidades de informação alcance resultados mais relevantes, é necessário que se conheça a variedade de métodos existentes e, a partir deste conhecimento, busque-se utilizar o(s) método(s) mais adequado(s) ao problema. A partir deste conhecimento e da visão crítica do pesquisador com relação aos métodos existentes, talvez seja possível obter dados que permitam retratar a tão almejada necessidade de informação que interfere no processo de aprendizagem, na tomada de decisão e na inovação
+
+Enfoque tradicional versus enfoque alternativo
+
+Os estudos analisados são predominantemente tradicionais. Podemos apresentá-los da seguinte forma:
+
+- setor moveleiro: tradicional, centrado na satisfação dos serviços oferecidos pelo Núcleo de Informação Tecnológica do setor;
+
+- setor eletrodoméstico: em parte tradicional, centrado nas demandas de informação, mas apresentando aspectos alternativos, em que se inicia uma discussão dos processos de inovação;
+
+- setor eletroeletrônico e construção civil: estudos tradicionais, mas com aspectos alternativos, a partir do momento em que buscam conhecer os processos empresariais, relacionando-os à informação.
+
+Proposições para futuros estudos sobre a necessidade de informação em ambiente empresarial
+
+Este tópico propõe-se apresentar proposições que extrapolem as análises até aqui delineadas, vislumbrando algumas perspectivas acerca do tema necessidade de informação em ambiente empresarial. Serão considerados os mesmos aspectos analisados: bases conceituais, modelos teóricos e procedimentos metodológicos.
+
+• Bases conceituais
+
+Para a realização de estudos sobre necessidade de informação, é preciso que os pesquisadores elaborem um quadro conceitual muito claro sobre os termos a serem utilizados na investigação. Vejamos alguns conceitos específicos:
+
+Informação
+
+O primeiro ponto diz respeito aos termos informação e conhecimento. Distinguir o papel que cada um desempenha no processo de desenvolvimento, criação e comercialização das novas tecnologias é fundamental. Na prática, observa-se o uso indiscriminado desses termos, sem a preocupação com a especificidade e/ou conceituação de cada um. Não se pode considerar a informação um elemento solto; ao contrário, ela faz parte de um processo. Na perspectiva de Choo (1998), a informação deve ser reconhecida em função de seu papel estratégico nos processos de construir o sentido sobre as mudanças ambientais, de criar novos conhecimentos, de inovar e de tomar decisões, consagrando um comportamento que reflita experiências anteriores e adaptações progressivas. Esses "modos", assim chamados pelo autor, devem ser vistos como atividades informacionais imbricadas que fortalecem a empresa com informações e conhecimento, permitindo a ela agir inteligentemente.
+
+Processo de aprendizagem
+
+O segundo ponto refere-se à aprendizagem, que ultrapassa a visão de treinamento e capacitação de recursos humanos e transforma-se em um procedimento que se inter-relaciona com os processos tecnológico e gerencial. Para que haja esta inter-relação, são indispensáveis a participação do ser humano e um ambiente favorável à troca de experiências, à aquisição de conhecimento e habilidades e também à memorização e absorção do conhecimento.
+
+O conhecimento gerado ou produzido pelo indivíduo quando se encontra na execução de tarefas rotineiras e/ou específicas, que é difícil de se transformar em expressão formal e verbal, também compõe o processo de aprendizagem e apresenta duas facetas: a aprendizagem individual e a aprendizagem organizacional. Esse processo acontece inicialmente no indivíduo, por meio do autoconhecimento, deslocando-se para o grupo e, mediante de pensamento sistêmico, para toda a organização. A aprendizagem organizacional visa à superação das práticas tradicionais existentes, em busca do desenvolvimento de uma capacidade de aprendizagem criativa e adaptativa.
+
+Espera-se que os próximos estudos abordem não só os aspectos relacionados a treinamento e capacitação de recursos humanos, mas, também, aqueles ligados à aprendizagem, como infra-estrutura de sistemas e informações, documentos de patentes, manuais e normas de operacionalização, atividades de pesquisa e desenvolvimento (P&D), parcerias e trocas de experiências.
+
+Inovação tecnológica
+
+Os futuros estudos sobre necessidade de informação setoriais deveriam levar em conta o fato de a inovação tecnológica caracterizar uma determinada gama de atividades técnicas voltadas para processos e produtos que resultam em vantagens competitivas e que estão relacionadas à criatividade técnica. Assim, envolve uma relação cíclica entre o conhecimento externalizado/compartilhado (conhecimento explícito) e o processo de internalização desse conhecimento pelo indivíduo, possibilitando sua conversão em conhecimento tácito. O fator facilitador desse processo em uma empresa seria a criação de um ambiente propício para a troca de experiências.
+
+Propõe-se, como base para futuros estudos, a adoção dessa abordagem holística no processo de inovação tecnológica. Em outras palavras, reivindica-se a adoção de modelos conceituais mais completos ou abrangentes como base para o estudo desse fenômeno.
+
+Necessidade de informação
+
+Propõe-se que o conceito de necessidade de informação seja realmente utilizado em uma perspectiva mais ampla, incorporando não apenas as demandas informacionais dos usuários, mas também aquelas informações capazes de provocar mudanças ou alterações nos processos decisório, de aprendizagem, de criação do conhecimento e de inovação tecnológica.
+
+• Modelos teóricos
+
+Os estudos analisados utilizam os modelos apresentados por Porter (1986) e por Pavitt (1984), que permitem a identificação da dinâmica concorrencial e de inovação, mas que não abordam as necessidades de informação. Diante da falta de um modelo que faça uma ponte entre a necessidade de informação e esses modelos (Porter & Pavitt), sugere-se a utilização de duas abordagens estratégicas para preencher a lacuna existente. Assim, considerando-se a proposição feita em relação ao processo de inovação tecnológica, sugere-se a adoção da abordagem de Choo (1998) para incrementar o processo de investigação do tema e a abordagem de conversão do conhecimento, apresentada por Nonaka & Takeuchi (1997), que mostram que o conhecimento criado pelo indivíduo pode ser transformado em conhecimento organizacional, o qual, uma vez incorporado a produtos, serviços e sistemas, sustentará a natureza do processo de inovação tecnológica.
+
+• Procedimentos metodológicos
+
+Abordagem quantitativa versus abordagem qualitativa
+
+A proposta aqui apresentada defende a realização de pesquisas em um número reduzido de empresas do mesmo porte e do mesmo segmento, a fim de desvendar o ambiente empresarial. Torna-se necessário, então, devido à complexidade de um estudo desta natureza, adotar mais de um tipo de abordagem, estratégia que permite tanto o levantamento de dados objetivos sobre o ambiente, quanto o levantamento de dados a partir da percepção do entrevistado sobre tal ambiente.
+
+Cabe frisar que serão a natureza do problema da pesquisa e o nível de profundidade pretendido que irão determinar a opção por uma abordagem ou pela mesclagem de mais de uma. Portanto, atenção às perguntas da pesquisa é indispensável.
+
+Métodos de pesquisa (instrumento de coleta de dados)
+
+Os estudos sobre necessidades de informação considerados neste trabalho adotaram o questionário como ferramenta de coleta de dados, sob a forma de entrevista. Como sugestão para a realização de novos estudos sobre este tema, pode-se optar por: a) técnica de Delfos, que utiliza painéis de especialistas para explorar a natureza de determinadas questões; b) técnica de incidente crítico, que descreve o evento em uma situação que tenha gerado alterações em um ambiente específico, isto é, o evento torna-se o catalisador do conhecimento do entrevistado em um ambiente específico; c) técnica de observação, em que o pesquisador capta dados da realidade por meio de perguntas ou da observação espontânea dos processos de aprendizagem, decisão e inovação; d) técnica de análise documentária, que pode ser realizada por meio do mapeamento dos fluxos de informação da empresa sem interrogação ou observação in loco (de forma direta); e) entrevista, em que sejam delineadas questões, na forma de um roteiro.
+
+Dada a complexidade da realização de estudos sobre necessidade de informação em ambiente empresarial, pode e deve ser utilizado mais de um método para o levantamento de dados, em razão de sua intercom-plementaridade. Observa-se que nenhuma das técnicas apresentadas é exaustiva, o que justifica a intenção de mesclá-las.
+
+Outra sugestão para pesquisa neste campo seria a adoção da técnica de estudo de caso, que se torna interessante por permitir averiguar o ambiente em uma ótica de detalhamento em um número pequeno de empresas do mesmo setor ou em apenas uma empresa. Sendo uma alternativa para se compreender melhor um processo específico, o estudo de caso possibilita, ainda, analisar determinada situação em profundidade, descrevendo seus detalhes.
+
+Enfoque tradicional versus enfoque alternativo
+
+Até o momento, os estudos destacaram em suas análises principalmente a satisfação com os serviços e as demandas pelos sistemas de informação (visão tradicional). A partir de agora, seria importante compreender o papel que a informação desempenha no processo de inovação, de decisão e de aprendizagem em ambientes empresarias específicos.
+
+Levantamos essas proposições com o objetivo de contribuir para a realização de futuros estudos sobre necessidades de informação. Reconhece-se o seu caráter generalista, que as torna insuficientes para solucionar todos os problemas, razão pela qual esperamos que sejam colocadas em prática em estudos que busquem detalhá-las.
+
+Os estudos aqui analisados cobrem um vasto campo de empresas de porte diferenciado (micro, pequenas, médias e grandes). O próximo passo seria trabalhar uma ótica alternativa, concebendo um recorte que contemple um número menor de empresas, e todas do mesmo setor (empresas por categorias e por tamanho), o que permitirá a compreensão de processos específicos. Conhecendo-se os processos, torna-se mais fácil levantar as informações que os apóiam.
+
+As futuras pesquisas deveriam assumir um caráter mais objetivo, promovendo uma reopção do procedimento metodológico até agora empregado, que foi útil no sentido de conhecer necessidades de informação de conteúdo mais geral. Seria desejável um esforço no sentido de se trabalhar as informações decorrentes de ambientes específicos da empresa, explorando especialmente aquelas associadas aos níveis operacional e estratégico no que eles têm de mais instigante.
+
+
+
+CONCLUSÃO
+
+O estudo sobre necessidades de informação tecnológica constitui um campo que está sendo explorado há muitos anos. Não se pode afirmar que os resultados desses estudos tenham influenciado o desenvolvimento e o crescimento dos setores industriais brasileiros. Faltam pesquisas que façam uma leitura do impacto desses estudos no cotidiano das empresas e na formulação de políticas. O que se observa é que as necessidades informacionais nas empresas são estudadas de forma superficial e limitada.
+
+O objetivo principal desta pesquisa foi apurar o que tem sido feito no campo de estudo sobre necessidades de informação no Brasil, buscando revelar a sua estrutura, o seu grau de abrangência e o seu nível de profundidade, à luz do estado-da-arte em matéria de aprendizagem e inovação, para, a partir desta análise, propor caminhos que contribuam para um melhor aproveitamento dos próximos estudos.
+
+Com a revisão da literatura, buscou-se esclarecer o significado de alguns conceitos, como informação, conhecimento, aprendizagem, gestão tecnológica e inovação. Procurou-se, também, destacar a participação da informação no processo de inovação. Espera-se que essa revisão seja útil aqueles que se dedicam ou venham a dedicar-se ao assunto, permitindo-lhes reconhecer o melhor emprego dos termos e perceber a coerência com o contexto a ser investigado.
+
+Da mesma forma, antes de iniciar uma discussão sobre necessidades de informação, é preciso deixar claro o seu significado, levando-se em consideração os aspectos que permeiam a investigação e que podem ser relacionados com os processos empresariais. Assim, dentro do contexto de processos empresariais, a necessidade de informação é que causará impacto nas atividades dos indivíduos e da empresa. Cabe ao indivíduo fazer a escolha sobre quais informações são úteis para ele em um determinado momento: é a informação necessária para criar um produto ou processo; é a informação que participa do processo de transferência do conhecimento; é a informação que interfere no processo de aprendizagem; é a informação que permeia todo o processo de inovação.
+
+Para a realização de pesquisas neste campo, deve-se garantir que os dados a serem levantados tenham como foco o indivíduo inserido no ambiente empresarial. Isto não significa que a abordagem tradicional de estudos sobre a necessidade de informação seja relegada a segundo plano, porém torna-se necessário considerar o usuário como um ser integrante de um contexto. Não é possível considerá-lo como um indivíduo isolado, que executa suas atividades sem troca de experiência e que não gera conhecimento por meio desta troca.
+
+Como o estudo sobre necessidades de informação constitui um tema bastante explorado na literatura, era de se esperar um volume grande de obras, porém a bibliografia nacional encontrada restringe-se quase que a artigos de periódicos e a dissertações de mestrado.
+
+Encontrou-se certa dificuldade na utilização desta bibliografia, pois a literatura científica disponível no Brasil é constituída de estudos realizados em bibliotecas e centros de informação, contrastando com o baixo volume de estudos sobre necessidades de informação em setores industriais, que são recuperados, na maioria das vezes, no formato de relatórios. Isso não deixa de ser surpreendente, visto que este assunto é de interesse de algumas instituições de pesquisa e de importância para a ciência da informação.
+
+Este trabalho não é exaustivo. O que se deseja é que esta investigação possa estimular a realização de estudos que contemplem temas como:
+
+• detalhamento das proposições sugeridas;
+
+• papel da informação nos processos de inovação em ambiente empresarial;
+
+• estudos sobre as necessidades de informação nos processos de aprendizagem, tomada de decisão e inovação;
+
+• sistematização de fluxos de informação para a implantação ou implementação de redes (intranet e extranet) para auxiliar o processo de inovação;
+
+• elaboração de um modelo que faça a ponte da informação com os processos empresariais.
+
+Por fim, espera-se que esta pesquisa possa ter contribuído de alguma forma para a realização de futuros estudos sobre necessidades de informação em ambiente empresarial.
+
+
+
+Artigo aceito para publicação em 01-06-2001
+
+
+
+REFERÊNCIAS
+
+AGUIAR, Afrânio Carvalho. Informação e atividades de desenvolvimento científico, tecnológico e industrial: tipologia proposta com base em análise funcional. Ciência da Informação, Brasília, v. 20, n. 1, p. 7-15, jan./jun. 1991. 
+
+ALMEIDA, Virgílio Fernandes. Informação e sabedoria. Folha de São Paulo, São Paulo, 7 jul. 1997. 
+
+CAMPOS, V. M. C. Diagnóstico do setor eletroeletrônico. Belo Horizonte : UFMG/EB/NECAPITI, 1997. 87 p. 
+
+__________. Diagnóstico do setor agroindustrial: análise dos principais segmentos do parque agroindustrial mineiro. Belo Horizonte : UFMG/EB/NECAPITI, 1997. 2 v. 
+
+CARNEIRO, Marília Vidigal. Necessidades e demandas de informação dos técnicos do SEPLAN-MG. 1982. Dissertação (Mestrado) - UFMG, Belo Horizonte, 1982. 
+
+CASTRO, M.N.M. Aprendizagem na organização e novas tecnologias aplicadas à educação à distância: lições de dois estudos de caso em empresas brasileiras. 1999. 141 f. Dissertação (Mestrado) - Belo Horizonte, 1999. 
+
+CENTRO TECNOLÓGICO DE MINAS GERAIS (Belo Horizonte). Uso e demanda de informação em Minas Gerais: análise para os setores eletroeletrônico e laticínios. Belo Horizonte, 1994. 
+
+CHIZZOTTI, Antônio. Pesquisa em ciências humanas e sociais. São Paulo : Cortez, 1995. 
+
+CHOO, W C. W. The knowing organization: how organizations use information to construct meaning, create knowledge and make decisions. New York : Oxford University, 1998. 
+
+CONFEDERAÇÃO NACIONAL DAS INDÚSTRIAS. Demanda por informação tecnológica pelo setor produtivo, 1996. 64 p. 
+
+CUNHA, Murilo Bastos da. Metodologias para estudo dos usuários de informação científica e tecnológica. Revista de Biblioteconomia de Brasília, Brasília, v. 10, n. 2, p. 3-4, 1982. 
+
+DERVIN, Brenda. Information needs and uses. Annual Review of Information Science and technology, New York, v. 21, p. 3-33, 1986. 
+
+FERREIRA, Sueli Mara S. P. Estudo de necessidades de informação: dos paradigmas tradicionais à abordagem sense-making. Porto Alegre : ABEBD, 1997. versão eletrônica. (Documentos ABEBD).
+
+GARDINI, M. J. A. Diagnóstico do setor de construção civil em Minas Gerais. Belo Horizonte : UFMG/ EB/NECAPITI, 1997. 147 p. 
+
+__________. Diagnóstico do setor de papel e celulose em Minas Gerais. Belo Horizonte : UFMG/EB/ NECAPITI, 1997. 132 p. 
+
+__________. Diagnóstico do setor têxtil em Minas Gerais. Belo Horizonte : UFMG/EB/EB/NECAPITI, 1997. 141 p. 
+
+LEONARD-BARTON, Dorath. Nascentes do saber: criando e sustentando fontes de inovação. Rio de Janeiro : Fundação Getúlio Vargas, 1998. 
+
+MELO, M. C. F. Diagnóstico do setor metalúrgico de Minas Gerais. Belo Horizonte : UFMG/EB/NEGAPITI, 1997. 100 p. 
+
+__________. Diagnóstico do setor mineração de Minas Gerais. Belo Horizonte : UFMG/EB/NECAPITI, 1997. 47 p. 
+
+__________. Diagnóstico do setor de química de Minas Gerais. Belo Horizonte : UFMG/EB/NEBGAPITI, 1997. 100 p. 
+
+MINAYO, Maria Cecília de Souza. Pesquisa social: teoria, método e criatividade. Petrópolis : Vozes, 1994. 
+
+NATUREZA do trabalho: necessidade de informação e de apoio tecnológico no setor de confecções. São Paulo : Instituto de Pesquisas Tecnológicas, 1992. 
+
+NATUREZA do trabalho: necessidade de informação e de apoio tecnológico no setor de eletrodoméstico. São Paulo : Instituto de Pesquisas Tecnológicas, 1992. 
+
+NONAKA, I; TAKEUCHI, H. Criação de conhecimento na empresa: como as empresas japonesas geram a dinâmica da inovação. Rio de Janeiro : Campus, 1997. 358 p. 
+
+OLIVEIRA, Silvio Luiz de. Tratando de metodologia científica: projeto de pesquisas, TGI, TCC, monografias, dissertações e teses. São Paulo : Pioneira, 1997. 
+
+PAVITT, K. Sectorial patterns of technical change: towards a taxonomy and a theory. Research Policy, v. 13, n. 3, 1984. 
+
+PORTER, Michael. Vantagem competitiva: criando e sustentando um desenvolvimento superior. Rio de Janeiro : Campus, 1989. 512 p. 
+
+SÁ, Regina de Almeida. Necessidade de informação de técnicos do Instituto Brasileiro de Geografia e Estatística.1985. Dissertação (Mestrado) - UFMG/IBICT, Rio de Janeiro, 1985. 
+
+SENAI (Bento Gonçalves, RS). Diagnóstico da necessidade de informação do setor moveleiro do RS: estudo do usuário. Bento Gonçalves : CETEMO/NIT/MM, 1993. 94 p. 
+
+SOBREIRA, Isabela Figueiredo. A disseminação da informação na avaliação institucional e seus reflexos na cultura organizacional da UFMG. 1999. Dissertação (Mestrado) - UFMG, Belo Horizonte, 1999. 
+
+TAYLOR, Robert S. Information use environments. In: DERVIN, B.; VOIGT, M. J. Progress in communication science. Norwood, NJ : Ablex Publishing, [199-]. 
+

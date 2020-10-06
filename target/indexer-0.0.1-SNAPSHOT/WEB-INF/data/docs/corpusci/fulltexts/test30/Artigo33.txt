@@ -1,0 +1,447 @@
+Bibliotecas virtuais e digitais: análise de artigos de periódicos brasileiros (1995/2000)
+
+
+Resumo
+
+A evolução da temática biblioteca virtual e biblioteca digital como assunto de artigos de periódicos brasileiros publicados de 1995 a 2000 é o objetivo deste trabalho. Analisa 33 artigos apresentando os aspectos metodológicos adotados para o planejamento e criação de bibliotecas virtuais e digitais, o desenvolvimento de coleções diante dessa nova realidade, o impacto causado nas unidades de informação e nos profissionais da informação, as estatísticas das bibliotecas na Internet e programas institucionais, além da produção bibliográfica sobre bibliotecas virtuais e digitais. Avalia a produção no período, a produtividade dos autores e tipo de autoria, número de referências bibliográficas por artigo, tipo de documentos e o idioma dos documentos citados. Aponta, como resultados, que não há convergência sobre o conceito de biblioteca eletrônica, polimídia, digital e virtual e, para a preocupação dos autores, centrados nos aspectos metodológicos visando à implantação de bibliotecas digitais e virtuais.
+
+Palavras-chave
+
+Biblioteca digital; Biblioteca virtual; Produção científica: Produção bibliográfica; Periódicos.
+
+
+
+INTRODUÇÃO
+
+A história e a evolução das bibliotecas pode ser dividida em três momentos bem característicos, segundo Landoni et alii (1993), citado por Marchiori (1997), Machado et alii (1999) e Pereira & Ritina (1999), sendo que cada etapa da evolução é acentuada por características próprias determinadas pelas tecnologias vigentes na época.
+
+No primeiro momento, tem-se uma biblioteca tradicional com seu espaço físico bem delimitado, com seus serviços e produtos de forma mecânica. Antes do advento da imprensa com Gutenberg, o seu acervo era formado por outros tipos de materiais (tabletes, argila, papiro e pergaminho), passando para o suporte de registro da informação em papel. A revolução na biblioteca aconteceu com a introdução dos catálogos em fichas e o abandono do catálogo sob a forma do livro. Esta etapa compreende de Aristóteles até o início da automação em bibliotecas.
+
+No segundo momento, a biblioteca utiliza a tecnologia dos computadores nos seus serviços meios e fins, considerados os primeiros passos rumo à biblioteca eletrônica. Compreende a biblioteca moderna ou automatizada, em que os computadores foram usados para serviços básicos como catalogação, indexação e organização do acervo. Com o acesso on-line aos bancos de dados por meio de redes de telecomunicações, permitiu a dinamização dos processos de recuperação e disseminação da informação.
+
+Em um terceiro momento, a biblioteca contemporânea utiliza a informação no suporte digital com o advento do suporte em CD-ROM. A biblioteca eletrônica, a biblioteca do futuro, pensada como uma nova estratégia para o resgate de informações onde o texto completo de documentos está disponível on-line. Com o surgimento da Internet, a biblioteca ganha nova dimensão: deixa de ter somente um espaço físico e ganha um novo espaço – o ciberespaço.
+
+Cunha (2000, p. 75) também analisa a evolução das bibliotecas, agrupando-as em: Era I – Tradicional Moderna; Era II – Automatizada; Era III – Eletrônica; Era IV – Digital e Virtual. Destaca que, em todas as épocas, as bibliotecas sempre foram dependentes da tecnologia da informação. A passagem dos manuscritos para a utilização de textos impressos, o acesso a bases de dados bibliográficos armazenados nos grandes bancos de dados, o uso do CD-ROM e o advento da biblioteca digital no final dos anos 90, altamente dependentes das diversas tecnologias de informação, demonstram que, nos últimos 150 anos, as bibliotecas sempre acompanharam e venceram os novos paradigmas tecnológicos.
+
+Pretende-se, com esta pesquisa, mediante análise documentária (documentos publicados em forma de artigos de periódicos), responder às seguintes questões envolvidas no problema da pesquisa: Qual o conceito que melhor representa os diversos tipos de "bibliotecas do futuro"? Quais são os autores que atualmente estudam e se dedicam ao tema? Qual o grau de influência estrangeira na literatura brasileira? Que tipo de documento está sendo mais utilizado e citado pelos autores nas citações bibliográficas? As respostas a estas questões proporcionarão conhecimento e uma visão do assunto no Brasil, no contexto atual.
+
+Diante do exposto, o objetivo da pesquisa é conhecer a divulgação e a abordagem do tema biblioteca virtual e biblioteca digital nos periódicos especializados brasileiros relativos ao período 1995 – 2000, complementado pelos seguintes objetivos específicos:
+
+conhecer a produtividade dos autores;
+
+
+
+conhecer o tipo de autoria, considerando-se autoria única e múltipla;
+
+
+
+identificar o crescimento da produção no período estipulado;
+
+
+
+identificar em que periódicos da área foram publicados os artigos;
+
+
+
+verificar a média de referências utilizadas pelos autores;
+
+
+
+identificar os tipos de documentos utilizados nas citações bibliográficas;
+
+
+
+verificar qual a proporção da influência estrangeira nos artigos, através das citações bibliográficas;
+
+
+
+levantar o núcleo de periódicos mais citados;
+
+
+
+conhecer os autores mais citados no conjunto dos artigos publicados.
+
+
+
+
+
+IDENTIFICAÇÃO E SELEÇÃO DOS ARTIGOS
+
+Para identificação dos artigos publicados em periódicos brasileiros, efetuou-se a pesquisa em bases de dados, utilizando-se como estratégia de busca os termos: biblioteca virtual, biblioteca digital, biblioteca polímidia, biblioteca eletrônica e biblioteca do futuro, disponíveis nos sites descritos abaixo.
+
+http://www.cnpq.br/prossiga/pcientifica – PROSSIGA – Informação e Comunicação para a Pesquisa. Programa de informação e comunicação para a pesquisa, subordinado ao Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) e ao Ministério da Ciência e Tecnologia (MCT). Tem por objetivo prioritário oferecer um conjunto integrado de serviços de informação e comunicação orientado para a comunidade científica. O site apresenta um serviço de produção científica que foi lançado em julho de 1998, com cerca de 100 mil referências bibliográficas produzidas pelos pesquisadores usuários do CNPq, com bolsa de "produtividade em pesquisa", sendo as referências retiradas dos currículos existentes nos arquivos eletrônicos do CNPq.
+
+http://www.cg.org.br/gt/gtbv/gtbv.htm – GRUPO DE TRABALHO DE BIBLIOTECAS VIRTUAIS. COMITÊ GESTOR INTERNET BRASIL – Coordenado pelo Instituto Brasileiro de Informação em Ciência e Tecnologia (IBICT). Tem, entre seus objetivos, o de fortalecer os processos de coleta, organização e disponibilização na Internet da informação gerada no país. O site apresenta uma relação de bibliotecas virtuais, ordenadas de várias formas, uma lista de discussão e uma sala de leitura, local onde os textos foram consultados.
+
+http://www.prossiga.br/bibvirtual – BIBLIOTECA VIRTUAL SOBRE BIBLIOTECAS VIRTUAIS DO PROSSIGA. Esta biblioteca virtual compila e organiza informações relacionadas ao tema Bibliotecas Virtuais. Oferece uma seleção de sites comentados para profissionais interessados em desenvolver projetos de bibliotecas virtuais e para docentes e pesquisadores da área de ciência da informação e áreas correlatas.
+
+http://www.scielo.br – SCIENTIFIC ELECTRONIC LIBRARY ONLINE – É uma biblioteca virtual que abrange uma coleção selecionada de periódicos científicos brasileiros. A SciELO é a aplicação de um projeto da Fundação de Amparo à Pesquisa do Estado de São Paulo (Fapesp), em parceria com o Centro Latino-Americano e do Caribe de Informação em Ciências da Saúde (Bireme).
+
+http://www.bireme.br/futura – BASE DE DADOS FUTURA – Visa a disponibilizar informações bibliográficas aos interessados na biblioteca do futuro, seja ela eletrônica, digital, virtual, sem paredes, biônica ou qualquer outra denominação existente na literatura. Desenvolvida com o apoio do Grupo de Trabalho sobre Biblioteca Virtual do Comitê Gestor Internet Brasil, por profissionais da Escola de Comunicações e Artes da Universidade de São Paulo em parceria com a Bireme – Centro Latino-Americano e do Caribe de Informação em Ciências da Saúde.
+
+O levantamento foi complementado pela consulta aos sumários de periódicos brasileiros especializados em biblioteconomia e ciência da informação, publicados no período delimitado pela pesquisa.
+
+
+
+CONCEITOS
+
+No momento, não somente no Brasil, mas no mundo todo, a terminologia utilizada para definir as atuais bibliotecas, ou melhor, as bibliotecas ditas do futuro, tem sido alvo de discussão. Alguns autores dos artigos analisados neste estudo, como Machado et alii (1999), Zang (2000) e Pohlmann Filho (2000), distinguem os diversos tipos de bibliotecas, classificando-as em quatro categorias: Biblioteca Polimídia, Biblioteca Eletrônica, Biblioteca Digital e Biblioteca Virtual.
+
+Apresentam-se, a seguir, as definições utilizadas pelos diversos autores, com o objetivo de contribuir para uma reflexão a respeito desses conceitos.
+
+A maioria dos conceitos apresentados pelos autores diz respeito aos relacionados à Biblioteca Virtual e Digital que, conforme enfatiza Krzyanowski (1997), "não vem substituir as bibliotecas tradicionais, mas acrescentar aos usuários outras opções de acesso às informações registradas." Alguns autores deixam claro essa questão, outros demonstram preocupação em conceituar esses termos.
+
+Macedo & Modesto (1999) consideram "fundamental observar que a tarefa em definir-se os vários conceitos é válida, mas amedronta um pouco, pelo simples fato de não haver ainda posicionamentos paradigmáticos, mas ao contrário de serem ambíguos, o que afeta a inexistência de uma definição que possa ser comumente aceita e bastante direta para esclarecer todos os termos utilizados." Para Pereira (1995), não há consenso na literatura profissional a respeito de seu significado, referindo-se especificamente ao termo biblioteca virtual. "Para uns, é a utopia do livre acesso à informação", complementa.
+
+Esta mesma angústia é expressa por Machado et alii (1999), referindo-se à biblioteca do futuro como aquela que utiliza amplamente a tecnologia eletrônica. Destacam que, tanto na literatura nacional quanto na internacional, não existe consenso sobre a definição de biblioteca digital, biblioteca eletrônica e biblioteca virtual. Observam ainda que, para alguns autores, a biblioteca eletrônica, digital e virtual são termos que podem ser considerados sinônimos.
+
+Verifica-se isso na colocação de Cunha (1999), quando expressa que "a biblioteca digital é também conhecida como biblioteca eletrônica (termo preferido pelos britânicos), biblioteca virtual (quando utiliza os recursos da realidade virtual), biblioteca sem paredes e biblioteca conectada a uma rede."
+
+Segundo Levacov (1997), diferentes conceitos sobre bibliotecas virtuais têm aflorado. "Para alguns, significa simplesmente a troca de informações por meio da mídia eletrônica e pode abranger uma grande variedade de aplicativos, desde aqueles que utilizam simples caracteres ASCII, até aqueles que envolvem dados baseados em tempo (como vídeo, áudio, animações, simulações etc.)." Menciona que uma das mudanças que ocorrem inicialmente trata dos conceitos de "lugar" e "tempo", que se tornam secundários, pois o documento poderá estar em qualquer lugar a qualquer hora.
+
+Zang et alii (2000), em uma primeira análise, comparam o conceito de biblioteca virtual com o de uma biblioteca no seu aspecto ambiente físico. Neste sentido, referem-se à biblioteca virtual como aquela que não existe fisicamente. Na busca de um conceito mais amplo, citam Rooks, que "determina que o preceito da biblioteca virtual é a aplicação universal de avançada computação de alta velocidade e capacidade de teleprocessamento para acessar e proporcionar os recursos de informação" (Rooks, apud Zang et alii, 2000). O conceito de biblioteca virtual utilizado por Rooks é colocado por Pereira (1995) como o mais aceito.
+
+Nesta linha de pensamento, Rezende (2000) destaca que o conceito de biblioteca virtual "está relacionado com o conceito de acesso por meio de redes a recursos informacionais disponíveis em sistemas de base computadorizada, criando a oportunidade de melhoria da qualidade dos serviços e produtos da biblioteca que devem visar à eficiência, à qualidade, ao serviço orientado ao usuário e ao retorno de investimento, mesmo que de forma indireta, otimizando a prestação de serviços da empresa em questão".
+
+Para Lemos apud Pereira & Rutina (1999), "uma biblioteca virtual seria aquela que, proporcionando todos ou a maior parte dos serviços de uma biblioteca tradicional, inclusive o acesso aos textos dos documentos, somente existiria de forma latente (como a imagem fotográfica, registrada no negativo, mas ainda não revelada), mostrando-se à medida que, lançando mão dos recursos disponíveis na Internet, com o emprego dos vínculos de hipertexto, o usuário fosse colhendo, aqui e ali, as informações do seu interesse".
+
+Outros autores, como Marchiori (1997), Macedo & Modesto (1999) e Machado et alii (1999), relacionam o termo biblioteca virtual à utilização da tecnologia da realidade virtual. Machado et alii (1999) conceituam biblioteca virtual como "aquela que utiliza os meios da realidade virtual, ou seja, como a verdadeira biblioteca do futuro (...)" Assim também, para Macedo & Modesto (1999), a biblioteca virtual é "mais uma ambiência de realidade não-presencial, depende de recursos mais complexos, próprios da tecnologia de realidade virtual."
+
+Para Marchiori (1997), "a biblioteca virtual é conceitualizada como um tipo de biblioteca que, para existir, depende da tecnologia da realidade virtual," que criaria o ambiente de uma biblioteca com salas, estantes etc. Neste mesmo artigo, a autora menciona que, para Poulter, este tipo de biblioteca seria uma biblioteca de realidade virtual e que esta não seria a mesma coisa que uma biblioteca virtual. Para ele, "o conceito de biblioteca virtual está relacionado com o conceito de acesso, por meio de redes, a recursos de informação disponíveis em sistemas de base computadorizada, normalmente remotos (...)" (Poulter apud Marchiori, 1997)
+
+Segundo Fleet & Wallace apud Marchiori (1997), "a noção de biblioteca virtual é ainda vaga e amorfa, geralmente descrita como um sistema pelo qual um usuário pode se conectar com bibliotecas e bases de dados remotos, usando, como 'caminho de passagem', o catálogo on-line local ou uma rede de computadores".
+
+Com relação ao termo biblioteca digital, parece haver um certo consenso entre os autores, que consideram, neste caso, a existência da informação apenas na forma digital. Para Zang et alii (2000), "o conceito digital parece não permitir muitas alternativas: é uma forma de apresentação de acervo. O acervo pode ser digital, nas diferentes formas de mídia: disquete, disco rígido, fita e disco compacto." Utilizando o mesmo conceito, Macedo & Modesto (1999) consideram que a biblioteca digital "não contempla materiais convencionais impressos como livros, já que estes seriam convertidos/digitalizados para o formato digital." Assim, também, para Pereira & Rutina (1999), "a biblioteca digital seria aquela que teria, além de seu catálogo, os textos dos documentos de seu acervo armazenados de forma digital, permitindo sua leitura na tela do monitor ou sua importação (dowload) para o disco rígido do computador (...)"
+
+Segundo Moreira apud Machado et alii (1999), "a biblioteca digital tem como característica uma coleção de documentos eminentemente digitais, independendo se forem criados na forma digital ou digitalizados a partir de documentos impressos, e permite, por meio do uso de redes de computadores, compartilhar a informação instantânea e facilmente."
+
+Uma das vantagens da informação digitalizada, comentada por diversos autores, é exatamente o compartilhamento instantâneo e fácil, por meio de acesso local ou remoto, em qualquer lugar, a qualquer tempo e com um custo relativamente baixo.
+
+Para Cunha (2000), "bibliotecas digitais são simplesmente um conjunto de mecanismos eletrônicos que facilitam a localização da demanda informacional, interligando recursos e usuários." Deixando bem claro a diferença entre biblioteca digital e as demais bibliotecas, observa-se em Marchiori (1997) que: "Biblioteca digital difere das demais, porque a informação que ela contém existe apenas na forma digital, podendo residir em meios diferentes de armazenagem, como as memórias eletrônicas (discos magnéticos e óticos). Desta forma, a biblioteca digital não contém livros na forma convencional, e a informação pode ser acessada, em locais específicos e remotamente, por meio de computadores."
+
+Os conceitos dos termos biblioteca eletrônica e biblioteca polimídia são explorados por alguns autores. Segundo Marchiori (1997), biblioteca eletrônica "é o termo que se refere ao sistema no qual os processos básicos da biblioteca são de natureza eletrônica, o que implica ampla utilização de computadores e de suas facilidades na construção de índices on-line, busca de textos completos e na recuperação e armazenagem de registros."
+
+Para Machado et alii (1999), "a biblioteca eletrônica é aquela que está totalmente automatizada, disponibilizando os seus serviços aos usuários de forma on-line." Complementando, Machado et alii (1999), citando Cunha, referem-se à biblioteca eletrônica como "aquela que o seu acervo, catálogo e serviços são desenvolvidos em suporte eletrônico."
+
+Efetuando-se uma reflexão a partir desses conceitos, observa-se o que a maioria das bibliotecas tem disponibilizado aos usuários. Trata-se de bibliotecas eletrônicas, apesar de serem rotuladas normalmente bibliotecas virtuais. Neste sentido, Macedo & Modesto (1999) colocam que, no ambiente da biblioteca eletrônica, a informação impressa coexiste com a eletrônica e consideram a biblioteca eletrônica como a réplica eletrônica da biblioteca tradicional, o que vem confirmar a reflexão acima.
+
+Em uma forma mais simples de compreensão, encontra-se o conceito de biblioteca polimídia, que, segundo Marchiori (1997), "seriam instituições que armazenam informação utilizando uma extensa e variada gama de mídias."
+
+Ainda, neste vasto repertório conceitual, tem-se o termo biblioteca híbrida que, conforme Oppenheim & Smithson apud Macedo & Modesto (1999), "é compreendido como uma fase intermediária na direção da biblioteca totalmente digital." Seria uma biblioteca tradicional que, ao mesmo tempo, implementasse tecnologias da biblioteca digital, integrando ambos os conceitos.
+
+Concluindo esta reflexão, utilizamos Rodrigues apud Blattmann & Belli (2000), que "coloca o uso inicialmente predominante da designação "biblioteca eletrônica", que parece estar a caminhar-se para a aceitação do termo biblioteca digital como o que melhor representará a realidade emergente, podendo ficar reservado o nome de biblioteca virtual para as bibliotecas digitais que integrem no seu funcionamento e serviços técnicas e aplicações de realidade virtual."
+
+
+
+TEMÁTICAS E QUESTÕES DISCUTIDAS
+
+Para a classificação do contingente de artigos selecionados, considerou-se como critério a presença do termo Biblioteca Virtual e/ou Biblioteca Digital no título do artigo e/ou no resumo (abstract) e/ou ainda nas palavras-chave (keywords), visando a delimitar o universo da pesquisa. Os 33 artigos selecionados retratam uma amostragem da produção intelectual em periódicos brasileiros que discutem questões relacionados ao tema proposto nesta pesquisa.
+
+Em um segundo momento, para a classificação dos artigos em torno dos grupos temáticos e com o objetivo de não dispersar os 33 artigos em muitas categorias específicas, levou-se em consideração o debate central proposto pelo(s) autor(es), sendo a definição dos grupos temáticos resultado da nossa experiência na área e pela análise de cada artigo (método dedutivo). A tabela 1 mostra a distribuição dos trabalhos analisados de acordo com os grupos identificados.
+
+
+
+
+
+A seguir, estão reunidos em cada grupo temático os artigos divididos em subtemas específicos, nos quais se apresenta breve síntese de cada artigo, com destaque para o(s) autor(es) do mesmo, visando a facilitar sua identificação e recuperação na relação apresentada ao final do trabalho.
+
+Biblioteca virtual e digital: metodologia para implantação
+
+No primeiro grupo temático, reuniu-se o conjunto das discussões envolvendo metodologia para implantação de bibliotecas virtuais e bibliotecas digitais e contemplam-se os artigos que abordam os seguintes subtemas: a) aspectos que devem ser considerados na implantação; b) principais tecnologias associadas à criação e disponibilização de recursos digitais; c) produtos e serviços como objeto de construção e otimização de bibliotecas, d) relatos de experiências, analisados a seguir:
+
+a) Aspectos que devem ser considerados na implantação das bibliotecas
+
+Ferreira (1997) revela em seu artigo a preocupação com o usuário de bibliotecas virtuais, nos estudos de necessidades e procedimentos de busca e uso da informação, nos quais qualquer tentativa de descrever padrões de busca de informações deve admitir o indivíduo como o centro do fenômeno e considerar necessidades, opiniões e problemas desse indivíduo como elementos significantes que merecem investigação, quer seja para o desenvolvimento de produtos e serviços em ambiente eletrônico, ou não.
+
+O artigo de Cunha (1999) destaca os pontos importantes que devem ser considerados na implementação da biblioteca digital, como instalações físicas, desenvolvimentos de coleções, catalogação, classificação e indexação, setor de referência, preservação da informação e outros. Para o autor, "diferentemente das outras tecnologias de informação, a biblioteca digital pode ser um novo paradigma para a profissão e, como tal, deve ser estudada, entendida e aperfeiçoada. A natureza da biblioteca digital do futuro está sendo forjada hoje. Portanto, entender todas as suas implicações é tarefa vital para todos nós e para aqueles a quem devemos servir."
+
+b) Tecnologias associadas à criação e disponibilização de recursos digitais
+
+Bax (1998) apresenta um panorama geral das principais tecnologias associadas à criação e disponibilização de recursos digitais na Internet. Aborda tópicos como os seguintes: breve história da Web, as características de sua principal linguagem (HTML – Hypertext Marky Language) considerada a linguagem mais popular da Web, além de conceitos básicos de multimídia e tecnologias mais recentes como Java e ActiveX, comprovando, assim, que a Internet está passando de uma mídia antes baseada em texto para uma mídia altamente visual. Para o autor, "a viabilização destas idéias no seio das bibliotecas atuais e futuras trará um enorme avanço para a sociedade da informação do próximo século e dependerá somente da habilidade e capacidade técnica dos profissionais da informação e bibliotecários para conceber, gerenciar e manter tais recursos."
+
+Raabe & Pohlmann Filho (1998) apresentam o resultado de experimentos realizados pelo Laboratório de Biblioteca Digital da PUCRS voltados para a captura e conversão de documentos a partir do formato tradicional (papel) para o formato digital, descrevendo as principais etapas envolvidas no processo de digitalização, utilizando duas sistemáticas diferentes: uma baseada na conversão para HTML (Hypertext Marky Language) e outra baseada na geração de arquivos PDF (Portable Document Format), usado para o software Adobe Acrobat Reader.
+
+c) Produtos e serviços como objeto de construção e otimização de bibliotecas
+
+Oliveira et alii (2000) apresentam a definição de uma base de dados objetivando a organização da produção científica nacional e internacional na área de psicologia, considerada objeto para construção da biblioteca virtual. Krzyzanowski (1997) relata a experiência do Sistema Integrado de Bibliotecas da Universidade de São Paulo (USP), com a remodelação do banco de dados bibliográficos Dedalus como um canal de provimento da informação em formato eletrônico, visando à construção de uma biblioteca virtual. O trabalho de Santos & Passos (2000) descreve o resultado de uma experiência realizada na Biblioteca da Faculdade de Educação da Universidade Estadual de Campinas (Unicamp), com o propósito de disponibilizar, via acesso à Internet, o seu acervo de periódicos, através dos sumários digitalizados, com o intuito de tornar-se uma obra de referência e uma fonte de indexação de títulos de periódicos nacionais ou internacionais. A partir dos procedimentos adotados para construção dos sumários, observaram-se as condições favoráveis à implantação de uma biblioteca eletrônica.
+
+d) Relatos de experiências
+
+Diversos artigos analisados na revisão de literatura apresentada por Blattmann & Belli (2000) relatam experiências para a construção, manutenção e utilização das bibliotecas virtuais, com ênfase à importância das mesmas no suporte organizacional das informações produzidas ou alocadas à educação a distância.
+
+Rezende (1997) descreve a filosofia, o histórico de implantação, as características, produtos, atividades e as funções da Biblioteca Virtual da Natura Cosméticos S/A, considerado o primeiro sistema virtual de informações em empresas do Brasil. Rezende (2000) apresenta um modelo para disponibilização de um centro de informação jurídica eletrônica e virtual, cuja estrutura está apoiada na conexão com bancos e bases de dados, redes eletrônicas de comunicação e bibliotecas informatizadas. A experiência do Programa Informação para a Pesquisa (Prossiga) é relatada por Gomes et alii (1996), apresentando os procedimentos adotados na implantação e desenvolvimento de bibliotecas virtuais na Internet.
+
+Destaca-se ainda o artigo de Zang et alii (2000), que descreve a metodologia baseada em revisão bibliográfica e consulta científica para implantação da biblioteca virtual, que consiste na definição e estruturação da base de dados e a metodologia utilizada para a recuperação de informações. Apresenta a estrutura do site e destaca que "alguns avanços necessitam ser trilhados para permitir uma utilização mais efetiva desta nova metodologia. (...) O maior desafio reside no desenvolvimento de mecanismos de recuperação de dados que incorporem alguma inteligência."
+
+Biblioteca virtual e digital: desenvolvimento de coleções
+
+Nesse segundo grupo temático, foram reunidos os artigos que tratam de questões que envolvem o desenvolvimento de coleções em sistemas de informação e também as discussões em torno do paradigma do "acervo" ao "acesso", agrupados nos seguintes subtemas: a) políticas de desenvolvimento de coleções; b) publicações eletrônicas; c) recursos disponíveis na Internet.
+
+a) Políticas de desenvolvimento de coleções
+
+Mercadante (1995) reflete sobre as novas necessidades de negociação na área de informação, com destaque para o compartilhamento de recursos. Contrapõe virtualidade e materialidade da instituição biblioteca. Mídias tradicionais substituindo as tradicionais em uma velocidade de aplicações e a uma velocidade vertiginosa são abordadas por Levacov em três artigos publicados no ano de 1997. Coleção versus acesso, usuário local versus usuário remoto, indexação hierárquica ou hipertextual, imprimir e distribuir ou distribuir e imprimir, navegar no oceano de informações ou afogar-se são questões que a autora traz para reflexão e destaca no seu texto que:
+
+"O aumento da procura por fontes eletrônicas de informação acaba por exigir que desenvolvamos novas estruturas para organizar a informação contida nestas novas "bibliotecas", estruturas essas que evoluem e se transformam conforme a tecnologia permite (...) Encontrá-las, desenvolver políticas para identificá-las e indexá-las, desenvolver procedimentos para compartilhá-las, repensar a validade dos critérios existentes em face das necessidades da comunidade virtual, arriscar-se além da etapa da comunidade virtual, arriscar-se além da etapa determinada pela linearidade da fala e da escrita, representa o grande desafio aos (ciber) bibliotecários oferecido na época atual (Levacov, 1997)."
+
+b) Publicações eletrônicas
+
+O trabalho de Almeida et alii (1996) situa o leitor dentro do panorama das publicações eletrônicas, referindo-se, mais especificamente, às revistas científicas disponíveis na Internet baseadas na tecnologia Web. Mostra as tendências na utilização de ferramentas que auxiliam o trabalho de publicação de revistas em meio eletrônico e projetos em curso no exterior, com número de publicações on-line bastante expressivo. Descreve a metodologia do Instituto Brasileiro em Informação Ciência e Tecnologia (Ibict) na disponibilização da revista Ciência da Informação on-line.
+
+Mandel (1997) avança nesta questão quando aborda aspectos relacionados com a tecnologia de publicação eletrônica, evidenciando que o uso da Internet já mostra uma direção para mudança do conceito de publicação, servindo a publicação tradicional mais como uma forma de registro e sancionamento, e não de veiculação. Contempla discussões sobre como resguardar os direitos autorais, como garantir um sistema de edição e revisão, como organizar o grande volume de informação e também sobre o que é acervo neste contexto.
+
+c) Recursos disponíveis na Internet
+
+Reflexões sobre a evolução das bibliotecas, que, de minerais chegaram a virtuais, são apresentadas por Pereira & Rutina (1999). O artigo aborda as implicações que os documentos eletrônicos (digitais) já estão trazendo às bibliotecas tradicionais do mundo contemporâneo. Enfatiza a importância da Internet para a comunidade em geral e, em especial, para os profissionais da informação. Para as autoras, "a realidade educacional e cultural do nosso povo ainda é bastante precária, e muito há por fazer em termos de instrução fundamental (...). No tocante à informatização de bibliotecas brasileiras, principalmente as universitárias e aquelas que já haviam informatizado seus catálogos para acesso em redes locais, passaram a fazê-lo em escala mundial pela Internet."
+
+Souza (1997) enfoca a biblioteca diante dos recursos da Internet e intranets, reunindo algumas ferramentas de navegação, ferramentas de busca, denominadas browsers, informando o endereço dos mais conhecidos e utilizados. Estes mecanismos de busca indexam as palavras de todos os sites existentes na Internet. A tipologia de publicações eletrônicas cresce rapidamente e de forma ainda mais dispersa que as publicações impressas modernas, destacando-se os periódicos eletrônicos, os jornais e revistas on-line, pré-prints, as obras de referência, acompanhadas dos respectivos endereços na Internet. Complementa o artigo, apresentando sites de bibliotecas virtuais. Para a autora, "é essencial que os bibliotecários e demais profissionais da informação reconheçam seu papel diante de novas tecnologias da informação e não permaneçam isolados daqueles que já descobriram os modos de navegar na grande rede e estão prontos a enfrentar os desafios e as responsabilidades inerentes à sua competência técnica de recuperar informações" (Souza, 1997).
+
+Biblioteca virtual e digital: impacto das tecnologias
+
+No terceiro grupo temático, agregou-se a especificidade da discussão envolvendo os impactos causados pela utilização das novas tecnologias de comunicação e informação pelos sistemas de informação. Os textos contidos neste agrupamento abordam os seguintes aspectos: a) impacto nas unidades e sistemas de informação; b) impacto nos profissionais da informação.
+
+a) Impacto nas unidades e sistemas de informação
+
+Macedo & Modesto (1999) apresentam o impacto das emergentes tecnologias de comunicação/informação no serviço de referência e informação em ambiente virtual/global, surgindo com a nova biblioteca digital. Apontam ainda o desenvolvimento da automação e microinformática como prévios requisitos para chegar-se às redes eletrônicas, especialmente à Internet. Na mesma linha, Cunha (2000) destaca até que ponto as tecnologias de informação interferem nas instalações físicas, acervo informacional, serviços e produtos, setor de referência e usuários e outros aspectos na biblioteca universitária. Para o autor, "não há dúvida de que as instituições de ensino tais como as universidades terão uma importância crescente na sociedade da informação. É vital entender que o desafio da mudança não seja visto como uma ameaça mortal, mas uma oportunidade para a renovação, talvez uma renascença do ensino superior e de sua biblioteca."
+
+Pereira (1995) analisa o tema virtual que, na concepção de Otlet, era algo como potencial para se tornar real, e, no limiar do novo século, a comunidade de informação e documentação começa a experimentar novas e inusitadas situações em que o real tem potencial para se tornar virtual. Em outra visão, Furtado (1998) analisa os efeitos sociais e culturais da Internet sobre a noção de biblioteca, que podem, pelo menos temporariamente, iludir a necessidade de uma urgente transformação das mesmas, em uma visão integradora, virada para a nova realidade cultural e tecnológica.
+
+b) Impacto nos profissionais da informação
+
+Para Marchiori (1997), as modificações tecnológicas e as recentes concepções de gerenciamento de recursos de informação têm causado uma quebra no paradigma dos modelos tradicionais de bibliotecas. Aponta os avanços na área de tecnologia dos computadores e das comunicações e seus impactos em biblioteca, que são as comunicações em rede, as publicações eletrônicas, a hipermídia, o trabalho cooperativo auxiliado por computador, a realidade virtual e os robôs de conhecimento (knowbots). Sugere que um cuidadoso planejamento deve ser elaborado tendo em vista a transição do modelo tradicional de biblioteca para o modelo de biblioteca virtual e alerta os profissionais bibliotecários para os novos papéis que estão sendo exigidos levando a um reposicionamento de atitudes e de atividades.
+
+Uma pesquisa realizada por Machado et alii (1999), com os profissionais da informação, teve como objetivo verificar o nível de atualização destes quanto às denominações que a biblioteca do futuro vem adquirindo, em virtude do avanço e utilização das novas tecnologias de comunicação e informação. A pesquisa revelou que a biblioteca do futuro se apresenta como aquela que utiliza amplamente a tecnologia eletrônica. Para os autores, "a Internet como mais uma tecnologia da informação vem ganhando cada vez mais um espaço de destaque em todas os segmentos da sociedade. Nas bibliotecas sua contribuição tem sido de grande importância (...) Os dados mostram a necessidade de os profissionais da informação se inteirarem melhor da área."
+
+Biblioteca virtual e digital: estatística e programas institucionais
+
+No quarto grupo temático, foram agrupados os artigos que se preocuparam com o acompanhamento das bibliotecas brasileiras na Internet, pela utilização dos seguintes recursos: a) estatística das bibliotecas na Internet; b) programas institucionais visando à divulgação dos avanços e desafios no apoio à pesquisa científica no Brasil.
+
+a) Estatísticas das bibliotecas na Internet
+
+De acordo com Silva et alii (1997), a Secretaria Técnica do Grupo de Trabalho sobre Bibliotecas Virtuais, em conjunto com o Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict), pesquisou e levantou os endereços de bibliotecas brasileiras na Internet. O levantamento mostra a distribuição de bibliotecas virtuais por estado e sua presença na Internet, com os principais produtos e serviços disponíveis, como acesso a apontadores, obras digitalizadas, catálogos e informações institucionais. O artigo de Rincon (1997) apresenta os mesmos dados e alerta que:
+
+"No atual modelo de globalização de informação, os países em desenvolvimento precisam disponibilizar seus acervos em grandes quantidades, para poder participar das decisões que os países desenvolvidos cheguem a tomar e, dessa maneira, poder prever os seus efeitos. No Brasil, todas as instituições envolvidas com a educação e a pesquisa no setor privado e público devem se comprometer a prover grandes bases de dados de textos eletrônicos que sejam acessíveis com maior rapidez através da rede."
+
+b) Programas institucionais
+
+O Programa de Informação para a Pesquisa (Prossiga)/CNPq, valendo-se dos recursos da Internet, tem como missão impulsionar a pesquisa científica no Brasil. O programa adotou na sua concepção algumas premissas básicas: a primeira, que o uso da Internet não é uma tendência, mas uma realidade, e que, portanto, o desenvolvimento de estratégias que favorecem a criação e a disponibilização de produtos informacionais na hiper-rede é inelutável; a segunda está relacionada com o compromisso de introduzir e fomentar a informação brasileira sobre ciência e tecnologia na Internet, uma vez que se constata a escassez dessa informação na rede. A terceira vê a Internet como uma "tecnologia de inteligência", que pode contribuir decisivamente para a criação intelectual (Gomes et alii, 1997). Outro artigo apresenta dois projetos que integram o Prossiga e que estão disponíveis na Internet: o Prossiga/Rei – Repositório de Informação na Internet -Bibliotecas Virtuais (http://www4prossiga.br e o Prossiga/Sim – Serviço de Informação, Comunicação e Mercado de Trabalho no endereço: http://www.cnpq.br/prossiga/sim (Prossiga, 1997).
+
+Biblioteca virtual e digital: produção bibliográfica
+
+Finalmente, o quinto grupo temático agrupou os artigos relativos ao controle da produção bibliográfica sobre bibliotecas virtuais e bibliotecas digitais, utilizando-se dos seguintes instrumentos: a) bibliografias e b) bases de dados.
+
+a) Bibliografias
+
+O artigo de Drabenstott & Burman (1997) pontua os mais significativos temas sobre a biblioteca do futuro, abordados por consagrados autores norte-americanos, no período de 10 anos (1983-1994). Além da revisão de literatura que apresenta a definição de bibliotecas digitais, publicação impressa versus digital, projetos e bibliotecas do futuro, disponibiliza, em anexo, uma bibliografia e um índice conjugado de autores e assuntos. Cunha (1997) compilou uma bibliografia internacional seletiva e anotada sobre bibliotecas digitais abordando os seguintes aspectos: principais autores que escreveram sobre a biblioteca do futuro no período 1945-1985; conceituação de biblioteca digital; projetos em andamento em diversos países; aspectos técnicos relativos à construção de uma biblioteca digital; principais fontes de informação.
+
+b) Bases de dados
+
+A única base citada é a Futura, que, segundo Ferreira et alii (1997), objetiva disponibilizar, em um único local e de fácil acesso, informações básicas essenciais aos interessados na biblioteca do futuro, seja ela eletrônica, virtual, digital, sem paredes ou biônica. Trata-se de um projeto integrado entre profissionais do Centro Latino-Americano e do Caribe de Informação em Ciências da Saúde (Bireme) e os profissionais do Departamento de Biblioteconomia e Documentação e do Serviço de Biblioteca e Documentação, ambos da Escola de Comunicações e Artes da Universidade de São Paulo (USP). Desenvolvida com o software MicroIsis, encontra-se disponível na Internet a todo e qualquer interessado por intermédio do servidor de bases de dados ISIS para o WWW (software intitulado WWWIsis, desenvolvido pela Bireme) e disponível URL: http://www.bireme.br/futura.
+
+
+
+ORGANIZAÇÃO DOS TEXTOS: AVALIAÇÃO DA PRODUÇÃO
+
+O caminho percorrido para a organização dos artigos analisados, visando à avaliação da produção científica, obedeceu aos seguintes critérios:
+
+a) o artigo deve pertencer ao período delimitado (1995/2000), para conhecer o crescimento da produção no período;
+
+b) em relação aos autores, observou-se a quantidade de artigos publicados por autor e o nível de colaboração na redação dos mesmos, ou melhor, o número de co-autores por artigo, considerando-se a autoria única e autoria múltipla;
+
+c) identificação dos periódicos onde a produção foi comunicada.
+
+Produção no período (1995/2000)
+
+Com o objetivo de conhecer o crescimento da produção no período de 1995 a 2000, os artigos foram agrupados de acordo com o ano de publicação nos periódicos nacionais, conforme tabela 2.
+
+
+
+
+
+Verifica-se que, nos anos de 1995 e 1996, os artigos publicados alcançaram o percentual de 6,06% respectivamente. Em 1997, foram publicados 48,48% do total da produção do período, podendo-se relacionar este aumento à criação do Grupo de Trabalho sobre Bibliotecas Virtuais do Comitê Gestor da Internet – Brasil, em novembro de 1996. Este grupo, sob a coordenação do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict), compõe-se de membros institucionais e individuais (especialistas) cuja atuação no campo profissional, no ensino e/ou pesquisa tem estreita relação com a área. Outro fator que contribuiu para o crescimento da produção foi a publicação da revista Ciência da Informação, volume 26, número 2, no ano de 1997, que reuniu trabalhos e comunicações em torno do eixo temático: Biblioteca do futuro: sonho ou realidade? A partir do ano de 1998, observa-se um crescimento gradativo, ano a ano, da quantidade de artigos sobre o tema.
+
+Produtividade dos autores e tipo de autoria
+
+Com vistas a conhecer a produtividade dos autores, os dados foram agrupados com o objetivo de identificar os autores mais produtivos no período e o tipo de autoria predominante, conforme tabela 3 e tabela 4.
+
+
+
+
+
+Constam da tabela 3 somente os autores com dois ou mais artigos publicados no período analisado. Porém, verificam-se, entre os autores, nomes de pesquisadores que têm se dedicado ao tema, como Patrícia Zeni Marchiori, Ursula Blattmann, Yara Rezende, Rosely Fávero Kryzanowski, Omer Pohlman Filho e outros. Constata-se ainda, pela nominata dos autores, que a maioria é membro do Grupo de Trabalho sobre Bibliotecas Virtuais, reforçando assim o trabalho e o reconhecimento do grupo no papel de contribuir para o desenvolvimento de bibliotecas virtuais no país.
+
+Com o objetivo de conhecer como os autores se organizaram para publicar os seus artigos, os dados foram agrupados por tipo de autoria, considerando-se a autoria única e autoria múltipla, conforme tabela 4. Observou-se ainda que o conjunto dos 33 artigos teve a participação de 61 autores, o que significa uma média de 1,84 autor/artigo.
+
+Pela análise dos dados, verifica-se que os artigos de autoria única ressaltam na porcentagem de 54,54%, seguidos dos artigos produzidos por dois autores, com 18,18% da produção. A soma dos artigos que tiveram a participação de dois ou mais autores atingiu o índice de 45,46%. Diante dos dados apresentados, tem-se que a individualidade na publicação é predominante, o que vem comprovar a tendência observada na literatura nacional: prevalência da individualidade na área de biblioteconomia e ciência da informação. Infere-se que o predomínio de autoria única almeja aos pesquisadores o mérito a receber pela quantidade de publicações exclusivas de sua autoria. Por outro lado, quando da identificação dos autores mais produtivos (tabela 3), observa-se que, em sua maioria, pertencem ao Grupo de Trabalho sobre Bibliotecas Virtuais.
+
+Identificação dos periódicos
+
+Para identificar os títulos de periódicos que concentraram a maior produção sobre o tema Biblioteca Virtual e Biblioteca Digital, procedeu-se ao agrupamento dos artigos de acordo com os títulos dos periódicos brasileiros onde os mesmos foram publicados, conforme tabela 5.
+
+
+
+
+
+Constata-se que, dos 33 artigos do universo da pesquisa, 22 artigos (66,66%) foram publicados em periódicos da área de biblioteconomia, destacando-se como o mais utilizado para divulgação da produção a revista Ciência da Informação do Ibict, com 45,45%, o que se justifica por esta destinar-se à publicação de trabalhos relacionados com a ciência da informação e que apresentam resultados de estudos e pesquisas sobre as atividades do setor de informação, como também a utilização da ciência e da tecnologia para trabalhar o mundo da informação.
+
+Outras revistas citadas com um artigo cada foram: Fameco: mídia, cultura e tecnologia e Revista Eletrônica Intertexto, ambas da Universidade Federal do Rio Grande do Sul (UFGRS); Revista Brasileira de Biblioteconomia e Documentação da Febab – Federação Brasileira das Associações de Bibliotecários; Revista de Biblioteconomia de Brasília da ABDF- Associação dos Bibliotecários do Distrito Federal; Revista de Pesquisa e Pós-Graduação da Universidade Regional Integrada do Alto Uruguai (URI) e das Missões de Erechim; Boletim das Bibliotecas.
+
+
+
+CRUZAMENTO BIBLIOGRÁFICO
+
+Após a seleção dos artigos, sua classificação por grupos temáticos e a avaliação da produção científica, procedeu-se a um cruzamento bibliográfico com vistas a conhecer:
+
+a) o número de referências por artigo e comunicação para determinar a média de referências por artigo;
+
+b) tipos de documentos citados, considerando-se os seguintes: livro e/ou capítulo de livro, artigo de periódico, comunicação em eventos, textos eletrônicos disponíveis na Internet e "outros";
+
+c) idioma dos documentos citados;
+
+d) estabelecer, entre as revistas citadas, quais as de maior impacto na comunidade científica;
+
+e) autores mais citados no conjunto dos artigos publicados em periódicos.
+
+Número de referências por artigo
+
+Para conhecer a média de referências utilizadas pelos autores, na redação dos seus artigos, os dados foram agrupados de acordo com a tabela 6, onde se constata que sete artigos não utilizaram nenhuma referência, o que representa 21,22% do total, e 54,54% dos artigos utilizaram de uma a 20 referências por artigo. Na análise dos dados, obteve-se que foi utilizada pelos autores uma média em torno de 13 referência/artigo. Com a exclusão dos artigos que não apresentaram referências, esta média sobe para aproximadamente 18 referências/artigo.
+
+
+
+
+
+Tipos de documentos citados
+
+Para conhecer os tipos de documentos utilizados pelos autores, na redação dos artigos, os mesmos foram agrupados em livros e/ou capítulos de livros, artigos de periódicos, comunicações em eventos (anais), textos eletrônicos disponíveis na Internet e "outros tipos de documentos", conforme tabela 7.
+
+
+
+
+
+Constata-se que os periódicos foram os mais citados nos textos, com 46,88% do total de referências, o que se justifica por serem canais rápidos e atualizados de comunicação e, segundo Cunha (2000), "podem ser acessados de diversas maneiras: em nível local, por meio de CD-ROM, em nível remoto, consultando-se o acervo digital localizado em outra biblioteca, consórcio, empresa provedora de documentos e mesmo em sítios na internet."
+
+Os textos eletrônicos tiveram uma ocorrência de 25,89%, ficando assim com a segunda maior incidência. Por outro lado, cabe destacar que, em muitos casos, foi difícil distinguir os periódicos dos textos eletrônicos, uma vez que encontramos muitos periódicos impressos on-line (impressos com versão on-line) e outros eletrônicos (disponíveis somente na rede).
+
+O periódico eletrônico apresenta uma série de vantagens em relação a publicações impressas convencionalmente, tanto para o editor científico, quanto para o usuário final da informação, conhecidas pela literatura e pelo uso constante em sistemas de informação. Dentre as vantagens, destacam-se as seguintes: atingem audiência potencial; baixo custo de investimento e de produção; integração com outros sites e documentos da WWW; indexação eletrônica; facilidade de cópia e impressão; informação mais atualizada e de fácil localização por meio dos mecanismos de buscas; possibilidade de diálogo interativo com os autores e os editores.
+
+Na categoria "outros documentos", foram agrupadas as teses, dissertações, monografias, relatórios de pesquisa, com a participação de 10,27% de referências. O que chamou a atenção foi o reduzido número de documentos resultantes das comunicações em eventos (anais), com apenas 2,90% de referências citadas.
+
+Idioma dos documentos citados
+
+Com o objetivo de verificar o grau de influência da literatura estrangeira, as referências foram agrupadas por idioma: português, inglês, espanhol e "outros", conforme tabela 8.
+
+
+
+
+
+Observa-se o predomínio de literatura inglesa, com 57,14%, considerada a língua universal da comunidade científica. A contribuição dos trabalhos em português atingiu o índice de 40,40% do total de referências utilizadas pelos autores. Os demais idiomas apresentam índice pouco significativo.
+
+Periódicos mais citados
+
+Com o objetivo de identificar quais os periódicos que constituíram o núcleo central, isto é, os que foram citados pelos autores dos artigos nas referências utilizadas, considerou-se critério principal que o título fosse citado cinco vezes ou mais. Constatou-se que a revista Ciência da Informação, do Ibict, foi o periódico nacional com maior número de citações. Os demais periódicos são estrangeiros, conforme tabela 9.
+
+
+
+
+
+Do total de 210 referências de artigos de periódicos, 72 foram publicados em sete periódicos, o que representa que 34,28% da produção ficou concentrada nos periódicos relacionados da tabela 9.
+
+Autores mais citados
+
+Da mesma forma, procurou-se conhecer quais os autores citados com maior freqüência, adotando-se como critério que os mesmos tenham sido mencionados cinco vezes ou mais, independentemente de ser citação e/ou autocitação, conforme tabela 10.
+
+
+
+
+
+Destacam-se como autores mais citados Pierre Lévy e Murilo Bastos da Cunha, com o mesmo número de citações, seguidos de Patrícia Zeni Marchiori, com sete citações. Comparando-se os dados da tabela 10 com os dados da tabela três, observa-se que nem sempre os autores mais produtivos são os mais citados. Autores com um artigo, como Yara Rezende, Patrícia Zeni Marchiori e Rosaly Fávero Kryzanowski, foram citados várias vezes.
+
+
+
+CONSIDERAÇÕES FINAIS
+
+A trajetória histórica percorrida na produção intelectual brasileira sobre biblioteca virtual e biblioteca digital, mesmo dentro do universo limitado dos 33 artigos de periódicos analisados, aponta para algumas constatações.
+
+Não existe um consenso sobre o conceito de biblioteca eletrônica, biblioteca polimídia, biblioteca digital e biblioteca virtual e até sobre biblioteca do futuro. Observam-se as maiores reflexões em torno da biblioteca virtual e biblioteca digital, por serem as mais emergentes e que se utilizam de variada quantidade de tecnologias de comunicação e informação.
+
+Dentre os grupos temáticos, destacam-se os artigos que abordam metodologias para implantação de bibliotecas digitais e virtuais, seguidos do grupo temático de artigos que envolvem questões relacionadas com o desenvolvimento de coleções, confirmando, assim, as discussões em torno do paradigma do "acervo ao acesso" e a preocupação dos profissionais da informação com a modernização das bibliotecas e sistemas de informação, mediante o desenvolvimento de suas bibliotecas virtuais, com objetivo de acompanhar o desenvolvimento da área.
+
+Verifica-se ainda que praticamente inexiste a preocupação em acompanhar o crescimento do número de bibliotecas virtuais na Internet, uma vez que o último trabalho foi publicado em 1997, e, em consulta ao site do Grupo de Trabalho de Bibliotecas Virtuais, no link de Estatística, constatou-se que a última atualização ocorreu em 1998. Da mesma forma, o controle da produção bibliográfica não mereceu a atenção necessária, pois, em consulta à Base de dados Futura, observou-se que a mesma deixou de ser atualizada desde 1997. Considerando-se que são estes indicadores que permitem constatar e comprovar o crescimento e o comportamento de uma área e/ou de determinado assunto, lamenta-se o descaso com estas questões.
+
+Na avaliação da produção, observou-se que 48,48% foram publicados no ano de 1997, que grande parte dos autores com maior produção é constituída por membros do Grupo de Trabalho de Biblioteca Virtuais do Comitê Gestor Internet-Brasil e, ainda, que a revista Ciência da Informação concentrou 45,45% da produção do período. Constata-se, por estes dados, a importância do Grupo de Trabalho de Bibliotecas Virtuais no desenvolvimento de projetos e programas que contribuam para a implantação de bibliotecas virtuais e a importância da revista Ciência da Informação como um veículo de comunicação da produção científica brasileira da área.
+
+No cruzamento bibliográfico, constatou-se que, no conjunto dos 33 artigos, os autores utilizaram 448 referências, o que corresponde à média aproximada de 17 referência/artigo. Os artigos de periódicos destacam-se como os mais utilizados, representando 46,88% do total de referências, seguidos dos textos eletrônicos com 25,89%. Destaca-se que muitos dos periódicos citados são impressos em versão on-line, disponíveis na Internet, e que outros são periódicos eletrônicos (disponíveis apenas na rede). Do total de referências citadas, 57,84% são em inglês e 40,40% apresentam-se em português. A revista Ciência da Informação aparece como a mais citada, e os autores Pierre Lévy e Murilo Bastos da Cunha receberam maior número de citações.
+
+
+
+Artigo aceito para publicação em 11-11-2001.
+
+
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+ALMEIDA, Robson Lopes de et al. Buscando soluções para publicar na Internet: a experiência do IBICT com a Ciência da Informação on-line. Ciência da Informação, Brasília, v. 25, n. 3, 1996. Disponível em: <http://www.ibict.br/cionline/artigos/> 
+
+BAX, Marcello Peixoto. As bibliotecas na Web e vice-versa. Perspectivas em Ciência da Informação, Belo Horizonte, v. 3, n. 1, p. 5-20, jan./jun. 1998. 
+
+BLATTMANN, Ursula; BELLI, Mauro José. As bibliotecas na educação à distancia: revisão de literatura. Revista Online Bibli. Prof. Joel Martins, Campinas, v. 2, n. 1, out. 2000. Disponível em: <http://www.bibli.fae.unicamp.br/revbfe/> 
+
+CUNHA, Murilo Bastos da. Biblioteca digital: bibliografia internacional anotada. Ciência da Informação, Brasília, v. 26, n. 2, p. 195-213, 1997. Disponível em: <http://www.ibict.br/cionline/artigos/> 
+
+––––––––––. Construindo o futuro: a biblioteca universitária brasileira em 2010. Ciência da Informação, Brasília, v. 29, n. 1, p. 71-89, jan./abr. 2000. Disponível em: <http://www.ibict.br/cionline/artigos/> 
+
+––––––––––. Desafios na construção de uma biblioteca virtual. Ciência da Informação, Brasília, v. 28, n. 3, 1999. Disponível em: <http://www.ibict.br/cionline/artigos/> 
+
+DRABENSTOTT, Karen M.; BURMAN, Celeste M. Revisão analítica da biblioteca do futuro. Ciência da Informação, Brasília, v. 26 n .2, p.180-194, maio/ago. 1997. Disponível em: <http://www.ibict.br/cionline/artigos/> 
+
+FERREIRA, José Rincon. A Biblioteca digital. Revista USP: Informática/Internet, São Paulo, n. 35, set./nov. 1997 Disponível em: <http://www.usp.br/geral/infousp/> Acesso em: 06 abr. 2001. 
+
+FERREIRA, Sueli Mara Soares Pinto. Design de biblioteca virtual centrado no usuário: a abordagem sense-Making para estudos de necessidades e procedimentos de busca e uso da informação. Ciência da Informação, Brasília, v. 26, n. 2, 1997. Disponível em: <http://www.ibict.br/cionline/artigos/> 
+
+–––––––––– et al. FUTURA: uma base de dados sobre a biblioteca do futuro. Ciência da Informação, v. 26, n. 2, 1997. Disponível em: <http://www.ibict.br/cionline/artigos/> 
+
+FURTADO, José Afonso. Bibliotecas na era digital. Revista de Biblioteconomia de Brasília, v. 22, n. 1, p. 3-17, jan./jun. 1998. 
+
+GOMES, Sandra Lucia Rebel; CHASTINET, Yone S. Bibliotecas virtuais: avanços e desafios para cientistas e profissionais de informação. Jornal das Bibliotecas, Rio de Janeiro, v. 4, n. 6, p. 5, jul./dez. 1997. Disponível em: <http://www4.prossiga.br/marketing/> Acesso em: 20 mar. 2001. 
+
+–––––––––– et al. Bibliotecas virtuais na Internet: a experiência do Prossiga. Ciência da Informação, Brasília v. 25, n. 3, 1996. Disponível em: <http://www.ibict.br/cionline/artigos/> 
+
+KRZYZANOWSKI, Rosaly Fávero. Ações para a construção de uma biblioteca virtual: relato de experiência do Sistema Integrado de Bibliotecas da USP. Revista USP: Informática/Internet, São Paulo, n. 35, set./nov. 1997 Disponível em: <http://www.usp.br/geral/infousp/> Acesso em: 12 fev. 1999. 
+
+LEVACOV, Marília. Bibliotecas virtuais. Revista da FAMECOS: mídia, cultura e tecnologia. Porto Alegre, n. 6, p. 70-85, 1997. Disponível em: <http://www.ultra.pucrs.br/famecos/rf6.maril.html> Acesso em: 18 ago. 1999. 
+
+––––––––––. Bibliotecas virtuais: problemas, paradoxos, controvérsias. In Texto, Porto Alegre, v. 1, n. 1, 1997. Disponível em: <http://www.ilea.ufrgs.br/intexto/> Acesso em: 9 abr. 2001. 
+
+––––––––––. Bibliotecas virtuais: (r)evolução? Ciência da Informação, Brasília, v. 26, n. 2, p. 125-135, maio/ago. 1997. <http://www.ibict.br/cionline/artigos/> 
+
+MACEDO, Neusa Dias de; MODESTO, Fernando. Equivalências: do serviço de referência convencional a novos ambientes de redes digitais em bibliotecas. Revista Brasileira de Biblioteconomia e Documentação: Nova Série, São Paulo, v. 1, n. 1, p. 38-54, 1999. 
+
+MACHADO, Raymundo das Neves et al. Biblioteca do futuro na percepção de profissionais da informação. Transinformação, v. 11, n. 3, p. 215-222, set./dez. 1999. 
+
+MANDEL, Arnaldo. Bibliotecas virtuais. Revista USP Informática/Internet, São Paulo, n. 33, set./nov. 1997. Disponível em: <http://www.usp.br/geral/infousp/> Acesso em: 7 mar. 2001. 
+
+MARCHIORI, Patrícia Zeni. Ciberteca ou biblioteca virtual: uma perspectiva de gerenciamento de recursos de informação. Ciência da Informação, Brasília, v. 26, n. 2, p. 115 - 124, maio/ago. 1997. Disponível em: <http://www.ibict.br/cionline/artigos/> 
+
+MERCADANTE, Leila M. Z. Novas formas de mediação da informação. Transinformação, Campinas, v. 7, n. 1/3, p. 33-39, jan./dez. 1995. 
+
+OLIVEIRA, Rosa Maria Vivona B. de et al. Recurso informacional na área de psicologia utilizando interface wwwIsis: a base de dados Index PSI. Revista Online Bibli. Prof. Joel Martins, Campinas, v. 2, n. 1, out. 2000. Disponível em: <http://www.bibli.fae.unicamp.br/revbfe/> 
+
+PEREIRA, Edmeire Cristina; RUTINA, Raquel. O século XXI e o sonho da biblioteca universal: quase seis mil anos de evolução na produção, registro e socialização do conhecimento. Perspectivas Ciência da Informação, Belo Horizonte, v. 4, n. 1, p. 5-19, jan./jun. 1999. 
+
+PERERA, Maria de Nazaré Freitas. Bibliotecas virtuais: realidade, possibilidade ou alvo de sonho. Ciência da Informação, Brasília, v. 24, n. 1, 1996. Disponível em: <http://www.ibict.br/cionline/artigos/> 
+
+PROSSIGA: (http://www.prossiga.cnpq.br ) disponibilizando bibliotecas virtuais na Internet. Boletim CRB-7, Rio de Janeiro, v. 25, n. 2, p. 1-8, abr./jun. 1997. Disponível em: <http://www4.prossiga.br/marketing/ > Acesso em: 4 set. 2001.
+
+RAABE, André; POHLMANN FILHO, Omer. Estudo comparativo entre sistemáticas de digitalização de documentos: formatos HTML e PDF. Ciência da Informação, Brasília, v. 27, n. 3, p. 300-310, set./dez. 1998. Disponível em: <http://www.ibict.br/cionline/artigos/> 
+
+REZENDE, Ana Paula de. Centro de informações jurídica eletrônico e virtual. Ciência da Informação, v. 29, n. 1, p. 51-60, jan./abr. 2000. Disponível em: <http://www.ibict.br/cionline/artigos/> 
+
+REZENDE, Yara. Natura cosméticos: quando é virtuoso ser virtual. Ciência da Informação, Brasília, v. 26, n. 2, maio, 1997. Disponível em: <http://www.ibict.br/cionline/artigos/> 
+
+SANTOS, Gildenir Carolino; PASSOS, Rosemary. A formação de uma biblioteca digital, através dos sumários correntes de periódicos da área educacional: procedimentos, metodologia e acesso online de documentos. Revista Online Bibli. Prof. Joel Martins, Campinas, v. 2, n. 1, out. 2000. Disponível em: <http://www.bibli.fae.unicamp.br/revbfe/> 
+
+SILVA, Luis Antonio Gonçalves da et al. Acompanhamento das bibliotecas brasileiras na Internet. Ciência da Informação, Brasília, v. 26, n. 2, p. 221-225, maio/ago. 1997. Disponível em: <http://www.ibict.br/cionline/artigos/> 
+
+SOUZA, Clarice Muhlethaler de. Aviso aos navegantes ou onde fica a biblioteca? Transinformação, Campinas, v. 9, n. 2, maio/ago. 1997. Disponível em: <http://www.puccamp.br/~biblio/> Acesso em: 13 mar. 2001. 
+
+ZANG, Nelson et al. Biblioteca virtual: conceito, metodologia e implantação. Revista de Pesquisa e Pós-Graduação, Erechim, v. 1, n. 1, p. 217-236, 2000. Disponível em: <http://www.uri.br/publicacoes/revistappg/ano1n1/> Acesso em: 20 fev. 2001. 
+

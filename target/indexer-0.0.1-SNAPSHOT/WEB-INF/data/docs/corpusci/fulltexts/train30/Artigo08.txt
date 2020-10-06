@@ -1,0 +1,193 @@
+A conceituação de massa documental e o ciclo de interação entre tecnologia e o registro do conhecimento
+
+
+
+Resumo: A polissemia do conceito de "informação" parece ser uma decorrência natural da apropriação do termo por diferentes áreas do conhecimento e está ligada ao fenômeno conhecido como "definição consuetudinária" em que diferentes especialistas se expressam conforme o estado da arte dos conhecimentos sobre determinado fenômeno. Tais definições estariam, conseqüentemente, sujeitas a reformulações e reconceitualizações pari passu com a evolução da pesquisa. A questão que se levanta constantemente é se a Ciência da Informação deveria ou não ter uma concepção única para o termo, o que parece não só impraticável, quanto inócuo.
+
+Palavras chave: Informação; Massa Documental; Conceito de Informação; Tecnologia; Registro do Conhecimento
+
+
+
+
+"Não devemos pensar que essa revolução se vincula unicamente e mecanicamente às
+
+transformações dos aparatos, se liga também a transformações culturais, políticas, sociais.
+
+Em seu famoso ensaio sobre a reprodução mecânica das imagens,
+
+Walter Benjamim afirma que as técnicas não têm sentido em si mesmas.
+
+Suas significações dependem do uso que podem as sociedades fazer delas.
+
+Isso é mais importante que qualquer determinismo tecnicista".
+
+ROGER CHARTIER
+
+1 Introdução O impacto das tecnologias no processo de comunicação tem provocado uma reordenação dos processos de produção e distribuição de conteúdos o que significa também mudanças nas práticas e rotinas profissionais. A superação da fase do processamento técnico para a formação de estoques insere os documentos e registros em um contexto de transferência e uso efetivo das informações.Todos estes avanços são decorrentes do ato comunicativo e sua necessidade de decifração, possível através do controle bibliográfico, da organização e da difusão de informações.(McGarry, 1984).
+
+A polissemia do conceito de "informação" parece ser uma decorrência natural da apropriação do termo por diferentes áreas do conhecimento e está ligada ao fenômeno conhecido como "definição consuetudinária" em que diferentes especialistas se expressam conforme o estado da arte dos conhecimentos sobre determinado fenômeno. Tais definições estariam, conseqüentemente, sujeitas a reformulações e reconceitualizações pari passu com a evolução da pesquisa. A questão que se levanta constantemente é se a Ciência da Informação deveria ou não ter uma concepção única para o termo, o que parece não só impraticável, quanto inócuo.
+
+Informação é matéria prima de todas as áreas do conhecimento que a entendem conforme sua forma de apropriação, teorização, dependente do estágio de desenvolvimento de teorias e práticas metodológicas. A Ciência da Informação, por sua origem na indústria da informação, parece privilegiar a visão de informação como conhecimento (de alguma forma) registrado, atrelado ao conceito de documento na concepção popperiana do termo [1]. Barreto aponta sua análise fenomenológica na mesma direção:
+
+
+
+"A estrutura da informação é aqui considerada como qualquer inscrição de informação em uma base física que a aceita; a estrutura é então pensada como sendo um conjunto de elementos que formam um todo ordenado e com princípios lógicos. Assim trabalhamos com o pressuposto de que uma estrutura de informação textual, um texto de informação, possui características de linguagem que admitem uma análise morfológica, e que esta permite extrair indicações para decisões estratégicas de gestão com intenções de conhecimentos". (o grifo é nosso) (BARRETO: http//www.dgzero.org/ago01/Art_01htm).
+
+
+
+
+
+Todo documento (no sentido de informação registrada) está exposto a diferentes abordagens, dependendo dos propósitos de busca, mas seria possível apontar duas direções complementares e interdependentes: a primeira voltada para o conteúdo enquanto tal e a segunda para a estrutura do próprio documento. As diversas áreas de pesquisa são conduzidas pelo conhecimento disciplinar consubstanciado nos registros, questionando-os e reformulando-os constantemente segundo a prática postulada pela Teoria do Conhecimento Objetivo (Popper) da cadeia produtiva das "conjecturas e refutações".
+
+Na outra margem do processo estaria a Ciência da Informação trabalhando a massa documental para torná-la acessível valendo-se de suas teorias, metodologias e tecnologias de análise e manipulação estrutural. A massa documental, seja ela convencional ou virtual [2], coloca-se como problema e pode ser abordada como objeto de estudo de várias ciências, incluindo a Ciência da Informação, voltada para compreender sua natureza e uso social por métodos quantitativos e qualitativos.
+
+
+
+2 Uma Proposta
+
+Tendo em vista a idéia de que a Ciência da Informação centra-se na análise do fenômeno da massa documental, segundo os argumentos expostos anteriormente, seria oportuno, para seu melhor entendimento, a conceituação de seu elemento básico que é o próprio documento. Antes, porém, convém evitar a precipitação, aparentemente óbvia, de afirmar que a Ciência da Informação seria a ressurreição pós-moderna da Documentação.
+
+É certo que tanto a Ciência da Informação como a Documentação Científica têm suas origens na questão da bibliografia especializada, baseada na produção científica, requerendo seu tratamento e organização para consumo da comunidade científica. Provavelmente, em virtude dessa coincidência, é que existe tanta celeuma em torno da origem da bibliometria, que foi o primeiro grande esforço teórico e metodológico para o tratamento e análise do então chamado fenômeno da explosão da informação, ou seja, da expansão da massa documental [3].
+
+O documento passa a ser a unidade ou objeto primeiro de estudo da Ciência da Informação como, por conseqüência, também de toda e qualquer ciência, segundo os seus enfoques e interesses próprios. Vamos igualmente fugir da discussão relativa à definição de documento. Sem dúvida que é importante dispor de enunciações adequadas - e, de fato, existem várias na literatura, - mas esta análise é a de sua natureza no denominado ciclo informacional. Para a discussão do fenômeno, partindo do pressuposto cartesiano de que um objeto complexo torna-se melhor observado mediante a decomposição em seus elementos constitutivos, propomos o seguinte esquema:
+
+Tipo - Conteúdo - Formato - Suporte
+
+(Representação estática)
+
+
+
+
+
+Figura 1- Elementos constitutivos do Documento - célula estrutural
+
+do conhecimento registrado
+
+
+
+
+
+TIPO - Para a compreensão do documento como objeto de estudo, deve-se partir de sua tipologia ou tipificação. O tipo do documento está intrínseca e indissociavelmente relacionado com a sua produção. No processo produtivo do conhecimento, há sempre uma eleição prévia conforme os objetivos perseguidos. Tipos tais como artigos científicos, relatórios técnicos, dissertações e teses acadêmicas, resenhas, recensões e resumos, livros e patentes têm configurações convencionais, consagradas pelo uso e sujeitos às exigências formais e normas adequadas à sua produção e veiculação. São formas que, por força de sua reconhecibilidade, predeterminam os modos de produção e uso.
+
+Na prática, há expectativas maiores ou menores segundo os tipos de documentos por parte do público, objeto de instâncias reguladoras que vão das normalizações até aos mecanismos de editoração. O tipo de documento ou fonte também qualifica ou justifica o seu uso nas situações do processo produtivo da indústria da informação, criando veículos próprios para armazenagem e difusão. Bibliotecas especializadas, por exemplo, elegem determinados tipos de documentos como prioritários - tais como teses e publicações periódicas (coletânea de artigos, etc.) - na suposição de serem os mais adequados aos objetivos institucionais. É obvio que tais tipos de documentos são produtos marcados pelas exigências do mercado e estão sempre sujeitos a transformações impostas pela demanda e pela capacidade de renovação da oferta, simultaneamente com as tecnologias disponíveis. Se atentarmos para o caso específico do artigo científico e, por extensão, do periódico científico, como veículo principal da comunicação da ciência, constatamos transformações substanciais no processo constitutivo e estamos percebendo mudanças constantes em seu desenvolvimento recente.
+
+Porque é importante identificar a tipologia do documento na presente análise? Certamente a resposta está na percepção de que o tipo de documento predispõe a autoria, condicionando o processo de registro do documento e, conseqüentemente, os demais elementos do ciclo informacional. Como registro público, o documento sacramenta uma pré-disposição consentânea com um objetivo a ser atingido e um uso predeterminado que precisa ser identificado pelo público.
+
+
+
+CONTEÚDO - É a parte substantiva do documento e está predeterminado pelo seu tipo, na medida em que está conformado às normas e condições de produção. Os dados, as informações e o conhecimento registrado seguem regras próprias do tipo escolhido. Por exemplo, num artigo científico existe a exigência da colocação de um problema mediante sua consubstanciação (seja por intermédio da argumentação e/ou de uma revisão ou estado da arte da literatura, ainda que limitada pela extensão do documento), seguida de uma análise de dados, segundo uma metodologia estabelecida e, finalmente, conclusões que apresentam a posição do autor em relação ao fenômeno abordado. Cada ciência se apropria do conteúdo conforme suas capacidades heurísticas e metodológicas, mas é justo assinalar que a tipificação do documento entra certamente na legitimação do processo de apropriação do conhecimento. Pode-se ir mais longe e afirmar que há uma indissociabilidade entre modo de produção e o registro mesmo do documento, em virtude de suas potencialidades e limitações. Em caso extremo, pode-se afirmar que só existe conhecimento científico no documento científico [4] e que sua materialidade é diferenciada por tipos de documentos convencionais [5].
+
+
+
+FORMATO - está relacionado com o modo de concepção e exposição do conteúdo. O formato molda o conteúdo, tornando-o visível e inteligível na medida em que a forma também determina o significado, em que "a forma é a mensagem" numa leitura adaptada das concepções de McLuhan [6]. Ou melhor, a forma em última instância é o conteúdo, dada a indissociabilidade entre ambos. São vasos comunicantes que se complementam. No sentido oposto, diferentes formatos pressupõem diferentes conteúdos e exigem tratamentos técnicos diferenciados.
+
+Na prática, assim como existem tipos "típicos" (valha a tautologia para exemplificar a tese ou o artigo científico) também é possível a determinação de formatos básicos, que servem de modelo ou de paradigma no processo criativo. Consequentemente são aceitos e copiados certos modelos para determinados tipos de registros que os autores seguem, daí porque as editoras costumam estabelecer regras e normas para os colaboradores. Faz parte do ritual acadêmico ou das práticas da indústria da informação a elaboração de tais formatos e instrumentos auxiliares - como programas de tratamento e exposição de dados - que facilitam tanto a produção quanto a leitura dos documentos pelo público acostumado com os códigos estabelecidos.
+
+SUPORTE - É a parte visível e manipulável do documento, ou o documento propriamente dito, no senso comum. É a sua coisificação ou expressão física como produto, mas que compreende todas as características constitutivas já discutidas anteriormente. Um mesmo documento original - digamos uma tese - pode apresentar-se em diferentes suportes, como sejam no suporte impresso, na microficha, no CD-ROM ou, mais recentemente, em rede eletrônica. É comercializável, armazenável, transferível e sujeito a todos os procedimentos administrativos, legais e demais considerações institucionalizantes próprias do mercado editorial. Certamente que os suportes, assim como os outros elementos já discutidos, evoluem e representam valores e condições tecnológicas de seu momento histórico, mas seria ingênuo afirmar que a escolha do suporte não implica em condições de acesso e uso. E até mesmo de significados no sentido de vieses e diferenciações na sua apreciação. Roger Chartier (2001) em recente entrevista, afirmou:
+
+
+
+"O problema fundamental é a adequação dos diversos gêneros aos suportes. Os textos que têm como característica essencial o caráter enciclopédico, como o dicionário e a própria enciclopédia, se adequam perfeitamente a essa leitura fragmentada, [referindo-se aos textos na mídia eletrônica da Internet] descontínua porque você procura a partir de um tópico. Já há enciclopédias que têm como única forma a eletrônica. Enquanto isso, há textos que pedem uma leitura contínua, que exigem a percepção de uma obra como uma unidade. Esses textos se encontram em posição menos cômoda na tecnologia" .
+
+
+
+Do exposto pode-se inferir que os suportes são mais ou menos adequados aos conteúdos e que a escolha dos meios (ou suportes) pressupõe usos diferenciados que implicam até na compreensão da obra mesma:
+
+
+
+"A compreensão aqui do que é obra como um todo não é tão fácil [referindo-se ao texto na Internet]. No impresso, o livro como objeto corresponde a obra como entidade textual. No eletrônico a leitura de um fragmento pode ser dissociada de qualquer percepção da obra. Isso ainda é assim, não digo que isso será indefinidamente" (Opus cit.).
+
+
+
+O importante é constatar que há uma inter-relação necessária entre os elementos da seqüência: tipo - conteúdo - formato - suporte e que a alteração de um deles pressupõe alguma mudança nos demais.
+
+
+
+3 A Desconstrução dos Conceitos
+
+A ordem dos elementos constitutivos do documento em seu processo criativo - tipo - conteúdo - formato - suporte, na exposição precedente, respondeu aos interesses da argumentação mas pode ser vista de forma orgânica ou sistêmica, quando a variável humana e o conteúdo interagem com a tecnologia mudando padrões e convenções institucionais.
+
+Observando as publicações, sua história e evolução, considera-se que a massa documental (o Mundo 3 de Popper), reconhecida como a expressão de pensamentos e experiências científicos, literários e artísticos, é codificada mediante uma arquitetura em várias dimensões. No ciclo da interação entre tecnologia e conhecimento existe uma dependência (mútua) em relação aos documentos [7]. É com base na arquitetura do documento que se desenvolvem, de fato, as práticas de comunicação. Os padrões ditam regras e, paradoxalmente, limitam as inovações. No entanto, o ciclo é dinâmico porque o conhecimento registrado, príncipe do processo, é gerado pelo especialista para responder a uma demanda social em constante transformação [8].
+
+Nesse movimento cíclico, em função da própria natureza científica do processo, existe uma construção física que representa as fases dessa interação. Definimos sucintamente cada uma das etapas do ciclo, visualizadas na prática profissional por claustros visíveis e mensuráveis. O conhecimento a ser disseminado terá que se integrar em um ciclo baseado nos suportes físicos, formatos, conteúdos específicos e uma classificação que tipifica cada documento. Esses elementos integram a arquitetura do ciclo.
+
+Suporte - base física que reúne as idéias construídas em um determinado formato.
+
+Formato - desenho ou arquitetura que determina a leitura de um texto e sua seqüência.
+
+Conteúdo - idéia (original ou não) que precisa ser disseminada para gerar novas idéias.
+
+Tipificação - formas de classificar as publicações que disseminam o conhecimento.
+
+As transformações observadas em cada ponto do ciclo de interação demonstram as respostas às reais necessidades de produção e comunicação dos cientistas, tecnólogos, acadêmicos, etc, ou seja, dos geradores e comunicadores envolvidos no processo.
+
+
+
+Figura 2 - Interação entre tecnologia e conhecimento registrado
+
+
+
+
+
+A massa documental, no conceito popperiano aqui defendido, faz parte do ciclo da comunicação científica em processo de reciclagem contínua (Fig. 2). A produção (registro) do conhecimento, conformada à tecnologia e aos elementos constitutivos do documento (tipo-conteúdo-formato-suporte), se dá através da mediação compreendida como absorção das novas idéias, análise e crítica para a complementaridade do conhecimento acumulado, "conjecturas e refutações", retornando ao ciclo através de novos documentos.
+
+Ao analisar as transformações verificadas no contexto da comunicação científica, Meadows (1999) também detecta a interdependência entre a massa documental (em seus diferentes aspectos) e a tecnologia. É nessa interação que surgem as mudanças que modificam o ciclo da comunicação científica, determinado novas práticas e modelos. Até alcançar a transição para a rede eletrônica, o periódico passou por muitas modificações e serviu de treinamento para a comunidade ingressar em um contexto de comunicações mais rápidas e complexas:
+
+
+
+"A passagem do processamento de informação científica secundária para o processamento de informação primária dependeu da evolução do computador. A informação primária, porém, difere quanto ao conteúdo da informação secundária e isso, também tem afetado essa transição."(1999:34)
+
+
+
+Cada tipo de documento tem sua própria transição. As bases de dados, por exemplo, adaptaram-se rapidamente ao novo suporte (em rede) porque tecnicamente têm mais afinidades operacionais com a Internet. Já a revista estaria numa posição intermediária, antes do livro, publicação com maior grau de complexidade, por trabalhar com um conteúdo mais denso. Estes aspectos determinam fases (Quadro 1) durante o processo de migração para um novo suporte. No primeiro momento quando se estabelecem padrões para a estrutura dos documentos (fase 1) eles permanecem inalterados até que, em um novo suporte, passam por uma fase híbrida (fase 2) porque os modelos da primeira etapa começam a ser desconstruídos, é uma fase intermediária. Posteriormente, os padrões são novamente retomados, já atualizados, definindo uma nova arquitetura para os documentos. Os tipos de documento mudam de designação, por força das transformações inovadoras buscando denominações apropriadas.
+
+
+
+
+
+Quadro 1
+
+Fases de transição na arquitetura do conhecimento registrado
+
+
+
+SUPORTE FORMATO CONTEÚDO TIPIFICAÇO
+
+Fase 1 - modelo estático, baseado na armazenagem. Ação convencional
+
+Repete uma arquitetura que já está estabelecida, em formatos consagrados Trabalha adequando o conteúdo em um sentido linear próprio das técnicas de apresentação de um texto Vem inserido nos moldes de publicações tipificadas para disseminarem conteúdos específicos Classifica as publicações obedecendo a uma ordem de discurso tradicional que atende a uma necessidade linear de compreensão própria do suporte
+
+Fase 2 - híbrida Ação revolucionária
+
+Altera o formato em função das necessidades de comunicação. Há uma mudança gradativa na arquitetura Apresenta o conteúdo de forma interativa, hipertextual e multidimensional, descontruindo sua concepção tradicional (vigente) Constrói o conhecimento de forma mais dinâmica saindo de uma seqüência linear de percepção, determinando a feitura de novos tipos de documentos Apresenta novas classificações para os documentos em suportes que atendem de forma mais completa as necessidades de comunicação
+
+Fase 3 - modelo extensivo, baseado na acessibilidade. Adaptação para novos padrões
+
+Arquitetura estabelecida Sentido extensivo de comunicação Distribuído numa rede de conexões Os suportes conectando redes de especialistas (criadores de conteúdos)
+
+Este cenário, ao contrário do que possa parecer, não é uma situação nova. Chartier (1998) detecta essas mudanças já no século XVIII, quando as bibliotecas, além de acumularem e conservarem documentos, passaram a preocupar-se principalmente com a leitura. Os catálogos deixaram assim de ser inventários e tornaram-se instrumentos de consulta para acesso às obras. "A biblioteca sai da solidão do monastério ou do limitado espaço que lhes destinavam os bispos nas catedrais românicas, para se tornar urbana e ampla" (Idem, 1998:23). A integração dos documentos ao espaço de civilidade [9] transforma a massa documental em um instrumento de trabalho, uma ferramenta com propriedades físicas específicas e uma funcionalidade.
+
+
+
+
+Referências Bibliográficas 
+BARRETO, Aldo. http//www.dgzero.org/ago01/Art_01.htm
+
+CHARTIER, Roger. Navegar é preciso. Entrevista disponível em http://babel.no.com.br (acessada em 11 de maio de 2001) e também no Observatório da Imprensa http://observatoriodaimprensa.com.br/artigos (acessada em 11 de maio de 2001).
+
+CHARTIER, R., CAVALLO, Guglielmo (Org). História da leitura no mundo ocidental, vol. 1. Coleção Múltiplas Escolhas. Editora Ática, 1998. Tradução do original Histoire da la lecture dans le monde occidental, Editora Laterza du Seuil, 1997.
+
+FONSECA, Edson Nery. (Org.) Bibliometria: teoria e prática. Textos de Paul Otlet et alli. São Paulo: Cultrix, Editora da Universidade de São Paulo, 1986. 141p.
+
+MEADOWS, A.J. A Comunicação Científica. Tradução de Antonio Briquet de Lemos. Brasília, DF: Briquet de Lemos Livros, 1999. Título original: Communicating research.
+
+McGARRY, K. Da documentação à informação - um contexto em evolução. Editorial Presença. Tradução do original The Changing context of information - an introductory analysis.
+
+McLUHAN, M. Os meios de comunicação como extensões do homem (understanding media). Tradução de Décio Pignatari. Editora Cultrix, São Paulo. Publicado nos Estados Unidos por Mcgraw-hill Book Company (lançado em Nova Iorque, Toronto e Londres) em 1964.
+
+MIRANDA, A. "A profissionalização da Ciência da Informação no marco da globalização: paradigmas e propostas". Informação e Informática. In: Nídia M. Lubisco, Lídia Brandão.(Org.). EDUFBA, 2000. 307p.
+
+POPPER, Karl Raymond. Conjecturas e Refutações. Trad. de Sergio Bath. 3ed. Brasília: Editora Universidade de Brasília, 1994. 449p.
+
+POPPER, Karl Raymond. Conhecimento objetivo: uma abordagem revolucionária. Belo Horizonte: Editora Itatiaia; São Paulo. Ed. da Universidade de São Paulo, 1975. 394p. (Espírito de Nosso Tempo, V.13).
+

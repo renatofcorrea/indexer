@@ -1,0 +1,274 @@
+Produção das literaturas "branca" e "cinzenta" pelos docentes/doutores dos programas de pós-graduação em ciência da informação no Brasil
+
+Resumo
+
+Estudo cienciométrico da produção científica de docentes/doutores de programas de pós-graduação do Brasil. Objetivo: identificar o perfil dos docentes/doutores e as tendências das literaturas "branca" e "cinzenta" produzidas segundo as linhas de pesquisa dos programas. Método: dados coletados por meio de comunicação contínua e interativa com os docentes através da técnica da "Conferência de Delfos" para identificar o perfil dos docente/doutor e caracterizar a respectiva produção científica. Resultados: na análise dos 5 Programas em Ciência da Informação e na Área de Concentração do Programa de Comunicação da ECA/USP foram identificadas 22 linhas de pesquisa às quais estavam vinculados 66 docentes/doutores, sendo 54,5% titulados na área da ciência da informação. Dos 1.108 documentos produzidos no período de 1990 a 1999, 59,8% referem-se a publicações de literatura branca, na qual os artigos de periódicos detêm o maior índice, com 37,8% da produção total. Da literatura cinzenta produzida (40,2%), destacam-se as comunicações em eventos que detêm 29,8% do total da produção. Verificou-se o predomínio da autoria única (73,2%), confirmando as características dos trabalhos individuais da área de humanidades. A produção científica vinculada à linha de pesquisa influencia a formação de grupos de trabalhos e núcleos de pesquisa.
+
+Palavras-chave
+
+Produção científica; Literatura branca; Literatura cinzenta; Ciência da informação.
+
+
+
+INTRODUÇÃO
+
+Os cursos de pós-graduação foram institucionalizados no Brasil, em 1970, com a Lei 5.540/68. Com o passar dos anos, os programas de pós-graduação tornaram-se o maior pólo gerador da produção científica brasileira.
+
+Na comunidade acadêmica, "existe uma forte pressão para publicar, uma vez que a progressão na carreira nas universidades e institutos de pesquisa tem como base de avaliação a produção científica" (Cavalcanti e col.1, 2000, p.19).
+
+A produção do conhecimento gerado nas universidades é divulgada em diferentes canais que variam de área para área, ou mesmo de pesquisa para pesquisa, sendo o documento formal o meio mais reconhecido para dar maior visibilidade aos estudos e pesquisas realizados, transformando-os em uma "força motriz, na medida em que são recuperados e divulgados, impulsionando o desenvolvimento intelectual e realimentando o ciclo da geração do conhecimento" (Alves, citado por Cavalcanti e col1, 2000, p. 7).
+
+Vários procedimentos estão sendo adotados para acompanhar o desenvolvimento da pós-graduação (Gracelli & Castro2, 1985; Spagnolo3, 1995; Perfil4, 1998), avaliar os resultados em áreas específicas (Meneghini e Fonseca5, 1990; Meneghini6, 1996; Smit7, 1999) e questionar diferentes aspectos da produção científica brasileira (Castro8, 1985; Rocha Netto9, 1988).
+
+Considerando os vários segmentos do sistema implantado, tornou-se necessário refletir sobre a validade e importância dos critérios da avaliação realizada por pares ou por consultores, adotando indicadores socioeconômicos, ou por métodos quantitativos aplicando técnicas das disciplinas de informétricas, bibliométricas, econométricas, cienciométricas. Apesar de intensamente discutida a validades de indicadores quantitativos para avaliar instituições, publicações, pesquisadores, progressos de áreas especificas do conhecimento ou o grau de desenvolvimento de determinada região geográfica, sem dúvida, os valores encontrados têm significado relevante em relação ao contexto em que se insere e não podem ser aplicados indiscriminadamente (Spinak10 , 1996).
+
+Esses instrumentos, quando aplicados com as características desejadas, permitem adotar uma postura crítica, porém com a precaução necessária, levando em conta o ônus que irão representar ao correr o risco de tomada de decisões erradas (King11, 1987; Rousseau12, 1998; Spinak10,13, 1996, 1998; Macias-Chapula14, 1998; Trzesniák15, 1998; Terrada Ferrandis e col. 16, 1999)).
+
+A adoção de parâmetros internacionais simplesmente importados de "culturas" diferentes (Garfield17, 1995), sem considerar as condições de in-put e o contexto socioeconômico, tem gerado acirrados debates com a comunidade científica. O apoio ou rejeição aos critérios adotados, para atribuir conceitos às instituições ou conferir créditos e recompensas aos pesquisadores, têm resultado em discussões acadêmicas e reivindicações de sociedades científicas (Meneghini18, 1988).
+
+No cenário atual, que orienta a política em ciência e tecnologia no Brasil, considerou-se a necessidade de investigar a realidade de um campo interdisciplinar (Pinheiro19, 1999), cujo compromisso com a Sociedade da Informação vem se desenvolvendo em nosso país desde 1970 - Ciência da Informação.
+
+Acompanhando a evolução dos programas de pós-graduação nessa área, durante a sua trajetória (Poblacion20, 1993) foi criado, em 1993, o Núcleo de Produção Científica (NPC), sediado na Escola de Comunicações e Artes da Universidade de São Paulo (ECA/USP). Os estudos sobre produção científica em ciência da informação estão sendo realizados pelo Núcleo nesta última década, com o apoio do CNPq, enfocando dois aspectos básicos: literatura cinzenta e literatura branca produzidas pela comunidade de docentes/doutores dos Programas de Pós-Graduação em Ciência da Informação do país (Población & Noronha21, 2001). O perfil do NPC e a produção gerada dos estudos realizados estão disponíveis no site www.eca.usp.br/nucleos/pc.
+
+Para registrar o state of the art dos cinco Programas de Pós-Graduação em Ciência da Informação e da Área de Concentração em Ciência da Informação do Programa de Pós-Graduação em Comunicação no Brasil, credenciados até dezembro de 1999, são apresentados os resultados de um dos segmentos dos estudos realizados no NPC referentes à etapa de pesquisa apoiada pelo CNPq durante o período de março de 1999 a fevereiro de 2001.
+
+
+
+OBJETIVO
+
+Para apresentar o panorama da produção científica da área da ciência da informação, propõe-se:
+
+- identificar as linhas de pesquisa dos programas de pós-graduação e traçar o perfil dos respectivos docentes/doutores;
+
+- quantificar os tipos de documentos produzidos em cada programa, analisando a produção em relação aos dois grupos: literatura branca e literatura cinzenta;
+
+- analisar a interação social dos docentes por meio das características de autoria individual e múltipla;
+
+- oferecer a visão temporal da produtividade na década de 90.
+
+
+
+MÉTODO
+
+O ponto de partida foi o universo dos docentes/doutores vinculados aos Programas de Pós-Graduação credenciados pela Capes desde 1970 até 1999.
+
+A coleta de dados foi realizada por meio da Internet, mantendo comunicação contínua e interatividade com os docentes por meio da técnica "Conferência Delfos". Os dados obtidos permitiram traçar o perfil do docente e registrar a respectiva produção científica.
+
+As informações coletadas ofereceram os subsídios necessários para desenhar duas bases de dados:
+
+- Prodir (Diretório de Produtores/Docentes/Doutores em Ciência da Informação no Brasil);
+
+- Probi (Produção Bibliográfica dos Docentes/Doutores em Ciência da Informação no Brasil).
+
+As informações recebidas foram complementadas com a pesquisa em fontes secundárias, acessando as bases de dados nacionais e estrangeiras, pelos processos manual e eletrônico.
+
+Essa estratégia permitiu alcançar três objetivos: a) conferir alguns dados recebidos de forma incompleta; b) conferir e completar os diferentes segmentos das bases referentes a comunicações apresentadas aos principais eventos em ciência da informação realizados no Brasil (CBBD, SNBU e Enancib). Essa base, BLC-E-CI (Base de Literatura Cinzenta-Eventos-Ciência da Informação), foi estruturada em 1992 e está sendo atualizada concomitantemente com o desenvolvimento dos vários projetos aprovados pelo CNPq; c) verificar a visibilidade da produção dos docentes/doutores nas fontes pesquisadas.
+
+Apoiados nas metodologias bibliométrica e cienciométrica, são apresentados os resultados da situação nacional da produção dos docentes/doutores dos programas de ciência da informação, ao longo dos anos 90.
+
+
+
+RESULTADOS
+
+Os programas de pós-graduação em ciência da informação apresentavam, em dezembro de 1999, data do encerramento da coleta dos dados, 22 linhas de pesquisa, às quais estavam vinculados 66 docentes/doutores. Desses Programas, quatro oferecem os cursos de mestrado e doutorado (USP, UFRJ/Ibict, UnB e UFMG) e os outros dois apenas mestrado ( UFPb e Puccamp).
+
+
+
+PERFIL DOCENTE
+
+O perfil dos docentes/pesquisadores foi traçado a partir das informações coletadas e incorporadas à base de dados Prodir. Foram analisados os dados sobre a formação básica e titulação obtida em instituições nacionais e estrangeiras, linha de pesquisa, disciplinas que ministram na instituição à qual estão vinculados, registro das orientações a dissertações e teses.
+
+Dos 66 docentes/doutores, 36 professores (54,5%) obtiveram o título nos anos 90. Fica caracterizado o empenho que cada programa desenvolveu para qualificar ou compor o seu quadro docente nessa década, ao comparar-se com os 45,5% titulados até 1989. Partindo-se da premissa de que a contribuição para o avanço do conhecimento está diretamente relacionada com a titulação dos pesquisadores na área, verifica-se que o aprimoramento do corpo docente foi um dos maiores investimentos realizados pelos programas de pós-graduação na década de 90.
+
+A formação do corpo docente e sua titulação em diferentes áreas devem influenciar na produção científica e buscar resposta aos desafios das ementas das linhas de pesquisa às quais os docentes encontram-se vinculados.
+
+O perfil do docente mostra a titulação de 36 docentes (54,5%) na área da ciência da informação, mais concentrada na década de 90 (19 docentes) em relação ao período dos docentes titulados até 1989 (17 docentes). Nas diferentes áreas do conhecimento estão titulados 30 doutores (45,5%), dos quais 17 são recém-doutores da década de 90.
+
+A titulação no exterior na área da ciência da informação vem diminuindo com o passar do tempo (até 1989 foram 13 docentes titulados em outros países e apenas quatro na década de 90) em decorrência da expansão dos programas oferecidos no Brasil. Os países de destino são os mesmos tanto para o doutorado em ciência da informação como para as pesquisa em outras áreas. O pós-doutorado está sendo realizado, de maneira tímida, apenas no exterior.
+
+O esquema abaixo resume o quadro do número de docentes/doutores segundo as áreas e países evidenciando as décadas de obtenção do título de doutor.
+
+a) Titulação dos docentes segundo os períodos:
+
+
+
+b) Áreas e países onde foi obtido o título de doutor:
+
+Área de ciência da informação
+
+Até 1989
+
+- 13 docentes (76,5%) no exterior (USA, Inglaterra, Espanha)
+
+- 4 docentes (23,5%) no Brasil
+
+Década de 90
+
+- 4 docentes (21%) no exterior (USA, Inglaterra, Espanha)
+
+- 15 docentes (79%) no Brasil
+
+Outras áreas do conhecimento
+
+Até 1989
+
+- 5 docentes (38,5%) nas áreas (administração de computação, comunicação, educação, química) no exterior (USA, França, Espanha)
+
+- 8 docentes (61,5%) nas áreas (artes, comunicação, educação, letras, lingüística) no Brasil
+
+Década de 90
+
+- 5 docentes (29,4%) nas áreas (arquivística, comunicação, engenharia e ciência e tecnologia, museologia) no exterior (Inglaterra, França, Espanha)
+
+- 12 docentes (70,6%) nas áreas (ciências sociais, educação, lingüística, saúde, sociologia) no Brasil
+
+c) Docentes doutores com pós-doutorado:
+
+Área de ciência da informação
+
+Até 1989
+
+- 2 docentes, na Alemanha (UnB) e Espanha (USP)
+
+Década de 90
+
+- 7 docentes, sendo 4 na Inglaterra (PUCCAMP 3, USP
+
+1); 2 nos USA (UnB, PUCCAMP) e 1 no Canadá (UFMG)
+
+Outras áreas do conhecimento
+
+Década de 90
+
+- 2 docentes (USP) nas áreas teoria da arte (Canadá) e ação cultural (USA).
+
+
+
+PRODUÇÃO DOCENTE
+
+Os produtos de pesquisa dos docentes que resultaram em publicações, constantes da base PROBI, fazem a cobertura da produção científica dos docentes/doutores nos anos 90. A lógica do sistema de recuperação de informações pela interface do processo permitiu cruzar as variáveis, facilitando a análise e reflexão acerca do progresso alcançado pela área.
+
+Linhas de pesquisa
+
+A tabela 1 mostra a produção dos docentes segundo as linhas de pesquisa dos seis programas de pós-graduação estudados. Verifica-se que, em cada programa, destaca-se uma linha de pesquisa, considerada a mais produtiva. O número de docentes dessas linhas variou entre três e quatro, sendo também exceção a linha da "Ação Cultural", da USP, com cinco docentes.
+
+
+
+
+
+A produção global de 1.108 documentos, identificados no período de 1990-1999, significa uma média aproximada de 110 trabalhos/ano apresentados pelos docentes de cada um dos seis programas, ou uma média de 50 trabalhos/linha de pesquisa no período (5 trabalhos/ano/linha) (tabela 1). Analisando-se as linhas mais produtivas de cada uma dos programas, verifica-se que as duas linhas da USP que se destacaram ultrapassam a média anual de produção do programa com 175 e 137 documentos que representam 63,3% do total (403) de documentos produzidos no período. Na seqüência, encontra-se uma das duas linhas da UFPb com 103 trabalhos; e a linha mais produtiva da UnB com 91 documentos. Destacam-se a seguir uma das linhas da UFRJ/Ibict com 60 documentos, a linha "Administração" da PUCCAMP com 49 e uma das linhas da UFMG com 42 documentos.
+
+Em virtude da diversidade do número de linhas de pesquisa e dos respectivos docentes, comparando-se o total da produção da década, modifica-se a classificação por programas. Assim, o Programa da USP conserva o primeiro lugar com 493 (44,5%) trabalhos produzidos pelas quatro linhas. Em segundo lugar, situa-se a UnB também com quatro linhas, produzindo 181 (16,3%) documentos. O terceiro lugar é ocupado pela UFRJ/IBICT, que diversifica a programação, distribuindo as temáticas por seis linhas que, no conjunto, produzem 153 (13,8%) documentos. Embora a UFPb ocupe o terceiro lugar por linha de pesquisa, a produção, no conjunto das duas linhas a coloca em quarto lugar com 124 (11,2%) documentos. As duas últimas posições dos programas invertem a categorização da produção por linha. Embora cada uma venha apresentando três linhas, situa-se a UFMG em quinto lugar com 189 (8,03%) documentos e, por último, a PUCCAMP com 68 (6,1%). A USP e a UFPb mostram como linhas mais produtivas aquelas relacionadas com as temáticas da sociologia e da história da ciência que transparecem em "Ação Cultural", "Geração e Uso da Informação" e "Informação para o Desenvolvimento Regional". Por outro lado, a linha mais produtiva de cada um dos demais quatro programas, quando aglutinadas, formam o bloco cuja temática comum enfoca o Planejamento, Gerência, Administração e Avaliação de Serviço.
+
+Tipos de documentos
+
+Os trabalhos realizados e os resultados divulgados à comunidade por meio da literatura branca (livros, capítulos e artigos) e da literatura cinzenta (dissertações, teses e comunicações em eventos, relatórios técnicos e outros de divulgação restrita) são apresentados na tabela 2 e gráfico 1.
+
+
+
+
+
+A visibilidade da produção dos 1.108 documentos foi viabilizada no período de 10 anos por meio de 414 (37,8%) artigos publicados em periódicos e de 56 (5,0%) em jornais. Essa literatura branca foi contemplada com o acréscimo da publicação de 120 (10.8%) livros/monografias, além de 73 (6,6%) capítulos ou parte de monografias, perfazendo o total de 59,8% publicados nos anos 90.
+
+Os demais 40,2% correspondem à produção de literatura cinzenta (Población & Noronha21,2001). As características desses documentos, que levam como estigma a categorização com menor índice de reconhecimento, nos processos de avaliação acadêmica, geralmente são desprezadas pelos autores por ocasião da elaboração dos currículos ou registro da produção científica. Assim, só foram consideradas as 330 (29,8% da produção total) comunicações apresentadas em eventos que puderam ser recuperadas pelos anais publicados pelos processo tradicional ou eletrônico (disquetes ou CDs). Incorporadas à base PROBI, as 330 comunicações apresentadas em eventos nacionais e internacionais representam o segundo tipo de documento mais produtivo.
+
+Nesse grupo de literatura cinzenta, foi constatada a presença de 32 documentos, sendo sete dissertações de mestrado de docentes, os quais, no mesmo período delimitado por esta investigação, também defenderam o doutorado (25 teses). Esse total reflete a qualificação do corpo docente mais intensificada nos 90.
+
+Desconhecida ou desconsiderada pelos autores tem sido a apresentação dos relatórios científicos resultantes dos projetos de pesquisa. Ressalta-se a importância dos dados primários que são obtidos, uma vez que representam uma das exigências determinadas pelos órgãos de fomento. As pesquisas financiadas só podem ser continuadas se forem favoravelmente ou avaliadas por meio de relatórios periódicos, constituindo-se em documento de grande significado para o crescimento da ciência e para prestação de contas à sociedade das verbas destinadas pelas agências financiadora. Apesar de sua tiragem limitada, o relatório, como literatura cinzenta, deve constar da produção dos pesquisadores. Surpreendentemente, no período de 10 anos foram mencionados apenas sete (0,67%) relatórios.
+
+Autoria dos documentos
+
+Ao observar o gráfico 2, verifica-se a predominância da produção de 813 (73,7%) documentos assinados por um só autor. Esse achado confirma as características dos trabalhos individuais que predominam na área de humanidades. A produção em parceria foi mais freqüente para os trabalhos elaborados por dois autores (15%).
+
+
+
+
+
+Analisando-se a produção por tipo de documento (tabela 3), justificam-se as dissertações de mestrado (7) e as teses de doutorado (25) com a autoria de um só titulado. O número de trabalhos apresentados em eventos de autoria única é bastante representativo (62,4% do total das comunicações). A literatura branca representada pelas monografias/livros e capítulos apresenta um número elevado de autoria única (142), que, agregado aos 314 artigos de periódicos e artigos de jornais, corresponde a 407 documentos de autoria única, ou 36,7% do total produzido.
+
+Os trabalhos realizados em equipe destacam o processo de socialização do conhecimento tor-nando-se mais eviden-tes com a interação interdisciplinar da ciência.
+
+A constituição de núcleos de pesquisa e a consolidação das linhas dos diferentes progra-mas vêm facilitando a nova estrutura social com trabalhos de autoria múltipla, com cooperação intra e interinstitucionais. Os resultados das pesquisas integradas vêm contribuindo para aumentar a produção de grupos de trabalho estáveis que são apresentados, principalmente em artigos e eventos, com a assinatura de três ou mais autores. Vale considerar que trabalhos em parceria são os mais visados pelas agências incentivadoras ao exercício da pesquisa
+
+Visão temporal da produtividade
+
+A titulação de doutor e o progresso na carreira docente, entre outros fatores, vêm contribuin-do para a manutenção da média da produção, com o correr dos anos.
+
+A partir de 1992, quando os programas de pós-graduação começaram a manter o corpo docente estável e foram criados os cursos a nível de doutorado nas universidades do Rio de Janeiro, Brasília e Minas Gerais, a produção global ultrapassou a divulgação de 100 documentos/ano. A exceção foi no ano de 1993 com 76 trabalhos e o pico atingido em 1997 com 183 produções (gráfico 3). A regularidade de cada programa começou a se estabilizar a partir de 1994 (tabela 4), com destaque para as comunicações apresentadas nos eventos (tabela 5). O decréscimo no ano de 1999 pode ser justificado pelo período da coleta, encerrado em dezembro do referido ano, quando os relatórios institucionais e individuais ainda não tinham sido consolidados. Pela tabela 5, pode-se verificar uma certa constância no número de artigos publicados ao longo dos 10 anos. Para os livros/monografias e capítulos ou partes, nota-se o declínio na produção a partir de 1997.
+
+
+
+ANÁLISE DAS TENDÊNCIAS
+
+Nos anos 90, os seis programas de pós-graduação em ciência da informação ampliaram o número de docentes com a titulação de 36 doutores (54,5%), contando em dezembro de 1999 com o total de 66 docentes/doutores. Nessa data, as atividades de ensino e investigação se desenvolviam de acordo com as diretrizes de 22 linhas de pesquisa. A discrepância entre o número de linhas de pesquisa, variando de duas a seis, e o número de professores das respectivas linhas, com a participação de 6 a 17 docentes/doutores dos programas, evidencia a produção científica por meio de 1.108 trabalhos divulgados no período de 1990 a 1999.
+
+A coleta de dados, embora elaborada dentro dos parâmetros do método científico, apresentou limitações que resultaram em distorções que deverão ser corrigidas ao longo do processo de atualização das bases de dados mantidas pelo Núcleo de Produção Científica. Assim, as tabelas e figuras foram complementadas, demonstrando os resultados alcançados, com a série de análises de tendências baseada em indicadores que permitem conhecer e prever a evolução da área da ciência da informação no Brasil no século que se inicia.
+
+Publicações por ano e produtividade por linhas de pesquisa
+
+A distribuição da produção, por ano, dos seis programas mostra, a partir de 1994, a produção de mais de 100 documentos/ano, embora tenha iniciado curva descendente a partir do pico de 1997 (gráfico 3).
+
+Considerando que existe neste momento uma tendência para revisão das linhas de pesquisa de cada um dos programas, procurou-se verificar a possível relação entre a produção e o número tanto das linhas como dos respectivos docentes. A distribuição da produção por linha de pesquisa em cada programa (tabela 1) sugere que o ideal seriam três linhas, no máximo quatro. Cada linha de pesquisa teria condições de congregar três ou quatro docentes/doutores envolvidos com projetos integrados para consolidar os grupos ou núcleos de pesquisa. A evolução dessa estrutura social, defendida por vários autores que se apóiam na sociologia e na história da ciência, confirma os estudos sobre o crescimento da ciência, reforçando a produção de autoria de grupos estáveis, com a participação de pesquisadores e de alunos de graduação (iniciação científica) e pós-graduação (mestrado e doutorado).
+
+Essas análises cienciométricas mostram o progresso dos cursos que contam com quatro linhas envolvendo cerca de quatro docentes cada uma. Se for considerado o total de 16 docentes por Programa, o universo dos docentes/doutores aumentaria para 96.
+
+Com base na atual produção, prevêem-se as condições necessárias para atingir a meta mínima de 200 documentos/ano, viável pelo pico registrado no ano de 1997 correspondente a 183 publicações. Essa meta garante a produção de 2,08 documentos/ano/docente, que é um dos indicadores aceito como adequado para a comunidade científica dos países em desenvolvimento.
+
+Tipos de documentos e autoria individual e múltipla: interação social dos docentes
+
+O crescimento da ciência se efetiva pelo esforço que os autores despendem para divulgar os resultados de suas investigações. Os grupos de trabalho estáveis começam a se destacar tanto pelas linhas de pesquisa como pelo núcleos de investigação. Uma parte considerável da atual produção responde pelas necessidades do crescimento da literatura cinzenta (dissertações/teses, comunicações em eventos e relatórios). Prevê-se o aumento do número de dissertações e teses, não só pela exigência da Sociedade da Informação, mas também pela consistência das linhas e dos grupos de interesse em temáticas que envolvam as novas tecnologias.
+
+As diferentes tipologias de documentos produzidos em ciência da informação pelos docentes/doutores refletem o interesse pelas várias formas na divulgação da produção científica.
+
+Os processos de comunicação aceleram a distribuição eletrônica ampliando a visibilidade tanto da literatura branca como da literatura cinzenta. Essa profunda mudança na tipologia das fontes de informação, em formatos impressos ou eletrônicos, facilita a participação real ou virtual em eventos, e, conseqüentemente, o valor dos relatórios técnicos e científicos (0,67%) serão informados pelos autores nos mesmos padrões dos demais documentos produzidos como literatura cinzenta. O uso dessas literaturas pelos pesquisadores demonstra que a transferência do conhecimento exige a abertura de novas fronteiras que se incorporam no novo espaço do novo milênio. Nesse cenário, a autoria múltipla refletirá o trabalho de grupos atuantes diminuindo cada vez mais o número de trabalhos individuais.
+
+
+
+Artigo aceito para publicação em 14-05-2002
+
+
+
+REFERÊNCIAS
+
+1. CAVALCANTI, Ilce Gonçalves Milet et al. Análise comparativa da produção científica entre as áreas sociais e tecnológicas. In: SEMINÁRIO NACIONAL DE BIBLIOTECAS UNIVERSITÁRIAS, 10., 2000, Florianópolis, SC. Anais... Florianópolis, 2000. CD-ROM. 
+
+2. GRACELLI, Aldenir, CASTRO, Claudio de Moura. O desenvolvimento da pós-graduação no Brasil. Ciência e Cultura, São Paulo, v. 37, n. 7, p. 188-201, 1985. Suplemento.
+
+3. SPAGNOLO, Fernando. Aumentam os cursos "A" e "B": consolidação da pós-graduação ou afrouxamento da avaliação? O futuro da CAPES. InfoCAPES, Brasilia, v. 3, n. 1/2, p. 7-18, jan./dez. 1995. Disponível em: <http://www.capes.gov.br> . 
+
+4. PERFIL da pós-Graduação. Brasília, CAPES, 1998. Disponível em: <www.capes.gov.br/scripts/p.prog.ide> Acesso em: fev. 1998. 
+
+5. MENEGHINI, Rogério; FONSECA, Lúcia. Índices alternativos de avaliação da produção científica em bioquímica no Brasil. Ciência e Cultura, São Paulo, v. 42, n. 9, p. 629-46, set. 1990. 
+
+6. __________. The key role of collaborative work. Scientometrics, v. 35, p. 267-273, 1996. 
+
+7. SMIT, J. W. A política governamental para a pós-graduação em ciência da informação no Brasil. Informação & Sociedade, João Pessoa, v. 9, n. 2, p. 385-397, 1999. 
+
+8. CASTRO, Claudio de Moura. Há produção científica no Brasil? Ciência e Cultura, São Paulo, v. 37, n. 7, 1985. Suplemento.
+
+9. ROCHA NETTO, Ivan. Há produção científica no Brasil? Atualização e crítica: uma contribuição para o processo de avaliação & perspectivas; versão sintética. Educação Brasileira, v. 10, n. 21, p. 17-32, 1988. 
+
+10. SPINAK, Ernesto. Diccionario enciclopédico de bibliometria, cienciometría e informetría. Caracas : UNESCO, 1996. 
+
+11. KING, J. A review of bibliometric and other science indicators and their role in research evaluation. Journal of Information Sciences, n. 13, 261-276, 1987. 
+
+12. ROUSSEAU, Ronald. Indicadores bibliométricos e econométricos para a avaliação de instituições científicas. Ciência da Informação, Brasília, v. 27, n. 2, p. 149-158, 1998. 
+
+13. SPINAK, Ernesto. Indicadores cienciométricos. Ciência da Informação, Brasília, v. 27, n. 2, p. 141-148, maio/ago. 1998. 
+
+14. MACIAS-CHAPULA, César . A. O papel da informetria e da cienciometria e sua perspectiva nacional e internacional. Ciência da Informação, Brasília, v. 27, n. 2, p. 134-140, maio/ago. 1998. 
+
+15. TRZESNIAK, Piotr. Indicadores quantitativos: reflexões que antecedem seu estabelecimento. Ciência da Informação, Brasília, v. 27, n. 2, p. 159-164, maio/ago. 1998. 
+
+16. TERRADA FERRANDIS, M. L. et al. Importancia y dependencia de la producción científica actual de la medicina valenciana: estudio bibliométrico. Valencia : Universidad de Valencia, 1999. 
+
+17. GARFIELD, E. Analisis cuantitativo de la literatura cientifica y sus repercusiones en la formulación de políticas científicas en America Latina y Caribe. Boletin de La Oficina Santiaria Panamericana, Washington, v. 118, n. 5, p. 448-456, 1995. 
+
+18. MENEGHINI, Rogério. Indicadores alternativos de avaliação de desempenho científico: aplicação a uma instituição. Ciência e Cultura, São Paulo, v. 40, n. 6, p. 548-558, jun. 1988. 
+
+19. PINHEIRO, Lena Vania Ribeiro. Campo interdisciplinar da ciência da inrformação: fronteiras remotas e recentes. In: CIÊNCIA da informação, ciências sociais e interdisciplinaridade. Brasília : IBICT/DEP/DDI, 1999. p. 155-178. 
+
+20. POBLACIÓN, Dinah Aguiar Investigación y estudios de posgrado en ciencia de la información y biblioteconomia en Brasil: dos etapas (1979-1985 y 1986-1992). Ciencias de la Información, La Habana, v. 24, n. 1, p. 16-21, mar. 1993. 
+
+21. __________; NORONHA, Daisy Pires. Ciencia da informação no Brasil: produção das literaturas branca e cinzenta pelos docentes/doutores dos cursos de pós-graduação. In: CONGRESSO NACIONAL DE BIBLIOTECÁRIOS, ARQUIVISTAS E DOCUMENTALISTAS, 7., 2001, Porto, Portugal. Anais... Porto : [S. n.], 2001. CD-ROM. 
+

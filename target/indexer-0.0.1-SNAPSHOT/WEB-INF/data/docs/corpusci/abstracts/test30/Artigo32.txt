@@ -1,0 +1,3 @@
+Uso das linguagens controlada e natural em bases de dados: revisão da literatura
+
+O trabalho tem como objetivo examinar o uso da linguagem controlada ou da linguagem natural, no planejamento da estratégia de busca em um ambiente de bases de dados em CD-ROM ou em linha. São revisados os estudos que abordam o uso das linguagens controlada e natural nas estratégias de busca, suas vantagens e desvantagens, proporcionando uma perspectiva sobre a complexidade para a busca da informação bibliográfica e referencial, incluindo a seleção de termos para as estratégias e a função do vocabulário controlado ou da linguagem natural nesse contexto.

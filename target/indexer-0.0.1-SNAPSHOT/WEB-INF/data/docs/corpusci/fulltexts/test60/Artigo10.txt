@@ -1,0 +1,203 @@
+Implicações da "nova economia" para a mensuração estatística: desajustes conceituais e metodológicos
+
+
+Resumo: Este artigo discute como importantes transformações que marcam a sociedade atual se refletem na pertinência das informações estatísticas oficiais, construídas a partir de representações da realidade social. Questiona-se se tais transformações estão sendo apreendidas com o arcabouço conceitual-metodológico dos atuais levantamentos estatísticos construído e consolidado para "retratar" a sociedade capitalista industrial moderna de escopo nacional, hoje completamente modificada.
+
+Palavras chave: Informação Estatística; Nova Economia; Mensuração Estatística; Desajuste Conceitual; Metodologia Estatística
+
+
+1 Introdução
+
+São bastante evidentes e mesmo abundantes os sinais e as marcas de transformações radicais nos indivíduos e na sociedade, tanto na vida econômica e cultural como no cenário político e no viver coletivo. O desenvolvimento das tecnologias da informação e comunicação, a dimensão planetária dos fenômenos econômicos e culturais, a reestruturação produtiva, a metamorfose do mercado de trabalho, os desafios propostos ao pensamento positivista, a perda de aderência de valores éticos, morais e de tipos de relações antes estruturados são claros indicadores de uma sociedade modificada. Tudo parece levar à certeza de que vivemos uma profunda mudança estrutural.
+
+Expressões como "sociedade pós-industrial", "sociedade da informação", "sociedade do conhecimento", "pós-modernismo "capitalismo desorganizado", "capitalismo avançado", "produção flexível", "produção imaterial", "economia de signos e imagens" são hoje usadas nas análises e interpretações das mudanças sociais. São expressões que se proliferam na tentativa de descrever as características emergentes da realidade contemporânea. São conceitos provenientes de enfoques teóricos distintos, mas que apresentam vetores comuns de mudança como as tecnologias de informação e comunicação; a produção informação-conhecimento intensiva; a globalização; a flexibilização; a descentralização produtiva e a diversificação.
+
+É nesse ambiente de mudança que se insere este artigo que tem por objetivo discutir como importantes transformações que marcam a sociedade atual se refletem na pertinência das informações estatísticas oficiais, construídas a partir de representações da realidade social. Questiona-se se tais transformações estão sendo apreendidas com o arcabouço conceitual-metodológico dos atuais levantamentos estatísticos construído e consolidado para "retratar" a sociedade capitalista industrial moderna de escopo nacional, hoje completamente modificada.
+
+
+
+2 Aspectos metodológicos
+
+Parte-se do pressuposto que as estatísticas oficiais são representações numéricas da realidade a qual buscam mensurar. Em seu processo de construção, apoiam-se em interpretações teóricas que modelam aspectos da realidade e passam a criar seus próprios modelos de interpretação do real. As estatísticas que buscam apreender a realidade social guardam, pois, em sua configuração numérica, uma certa visão de mundo, o que as restringe ao contexto que as referencia.
+
+Considera-se, então, que as estatística oficiais estão referenciadas a uma configuração social - econômica, tecnológica, cultural e política - relativa à sociedade industrial de caráter nacional, dos pós-guerras, que se distingue substantivamente da configuração atual, marcada por transformações sociais profundas. Assim, o que se tenciona mostrar é que as grandes transformações em curso vêm alterando de forma significativa muitas das práticas econômicas e sociais vinculadas àquele tipo de organização social industrial, cuja representação é o arcabouço conceitual central das estatísticas oficiais.
+
+Coube ao citado período industrial a construção, a solidificação e a reificação das estatísticas oficiais. Constituiu-se, assim, o paradigma das estatísticas oficiais consubstanciado no construção do sistema de informação estatística - SIE. Sistema que produz informações que "retratam" a sociedade industrial nacional, em sua fase organizada, regulada [1] e de maiores certezas, sob uma filosofia e concepção que supõe, como saída do sistema estatístico, uma informação padronizada e homogênea -harmonizada -, capaz de garantir comparabilidade no tempo (diferentes momentos) e no espaço (diferentes contextos).
+
+A formalização do conhecimento proveniente das estatísticas oficiais traz, em sua estrutura, a representação de uma sociedade moderna industrial, a qual os SIE se instrumentalizaram, conceitual, metodológica e operacionalmente, para apreender muitas de suas características e formas de funcionamento.
+
+O período atual, por abranger um processo vigoroso e em ebulição, vem sendo discutido por diversas abordagens como a da sociedade da informação, do conhecimento, pós-moderna, pós-fordista, dos signos e das imagens etc. [2] Muito embora não haja uma compreensão convergente entre as abordagens, é um traço comum entre elas não mais considerar o vetor industrial anterior a força orientadora, controladora e organizadora, que deu à sociedade forma e significado.
+
+Se quer destacar, pois, que trata-se de dois momentos sociais distintos representados através dos mesmos recortes interpretativos.
+
+Este artigo busca contrastar fatores propulsores de mudanças, destacados pela sociedade da informação (uma relevante e abrangente abordagem entre as mencionadas) com alguns aspectos conceituais e operacionais centrais na construção das estatísticas oficiais. Destaca-se, então, importantes diferenças entre os pressupostos que dão forma a essa visão da sociedade e aqueles pertinentes aos modelos estatísticos atuais. [3] Procura-se apresentar desajustes ou desencaixes conceituais decorrentes de se mensurar um nova situação a partir de velhos modelos.
+
+
+
+3 O contexto atual: a sociedade da informação
+
+Na interpretação dos fenômenos que marcam a sociedade atual, uma corrente teórica que prosperou e se ramificou foi a da sociedade da informação, que dá maior ênfase ao conhecimento científico e tecnológico, gerador de inovação, como fonte de valor e de crescimento da sociedade. [4] Muitos autores, neste campo teórico, consideram que, apesar da maior visibilidade das informações e das inovações, o central é mesmo o conhecimento, sem o qual não é possível decodificar o conteúdo das informações e transformá-las em conhecimento. O maior destaque dado ao conhecimento deve-se também ao fato de que as inovações tecnologias resultam de enormes esforços de pesquisa e desenvolvimento, numa geração sistemática de conhecimento.
+
+Neste contexto, é postulado que durante as últimas décadas, uma série de inovações científicas e tecnológicas passou a convergir, vindo a se constituir, segundo muitos, em um novo paradigma tecnológico baseado nas tecnologias de informação e de comunicação, abreviadamente chamadas de TIC.
+
+O fundamento científico e tecnológico de tal paradigma é constituído pelo desenvolvimento acelerado da microeletrônica e dos computadores, que propiciaram, respectivamente, o aumento da capacidade de integração os circuitos (contidos em um chip) e a revolução no processamento da informação (hardware e software). Com o desenvolvimento das comunicações via satélite e por fibras óticas, a telecomunicação tornou-se o vetor chave de difusão e de máximo aproveitamento das novas tecnologias. O uso da tecnologia digital também melhorou enormemente as telecomunicações. A convergência destas tecnológicas possibilitou a rápida conexões entre diferentes unidade de processamento e acelerou desenvolvimento dos sistemas de informação e das redes de comunicação eletrônica mundial, onde passa a se destacar a Internet.
+
+De fato, as técnicas digitais ao transformarem qualquer informação eletrônica em pacotes padronizados de sinais binários, possibilitaram o rápido e eficiente processamento e transmissão de qualquer tipo de informação (textos, dados, sons, imagens, softwares etc.) por meios eletrônicos. Isto vem propiciando alterações significativas nas formas de organização da produção e na gestão empresarial.
+
+CASTELLS (1989, pp.29-49 e 1990, pp. 31-36) sugere a passagem do modo de desenvolvimento industrial para o modo informacional, que decorre da convergência das mudanças sociais com as tecnológicas. A passagem para a sociedade da informação resulta de um processo social de desenvolvimento científico e tecnológico, cujas forças motrizes geram implicações técnicas, sociais, culturais, políticas e econômicas cumulativas e irreversíveis, que mudam as formas de discutir, produzir e organizar, enfim, de movimentar e representar a sociedade.
+
+Muda o elemento fundamental para a determinação da produtividade do processo de produção. Não é mais a energia, do modo de desenvolvimento industrial, mas sim a qualidade do conhecimento. Na realidade, o conhecimento intervém em todos os modelos de desenvolvimento, já que o processo de produção se baseia sempre em algum nível de conhecimento. O que é específico do modo de desenvolvimento informacional é a ação de conhecimentos sobre os próprios conhecimentos, como principal fator de produtividade.
+
+No novo paradigma tecnológico a informação é a matéria-prima: "são tecnologias para agir sobre a informação, não apenas informação para agir sobre a tecnologia, como nas revoluções tecnológicas anteriores." (CASTELLS, 1999, pp.31-36, p.78). Outro traço fundamental deste paradigma tecnológico é, pois, que a informação passa a se constituir tanto em matéria-prima como em produto. Outra característica marcante (aliás, comum às grandes revoluções tecnológicas) é que os principais efeitos das inovações recaem sobre os processos, mais que sobre os produtos. Há certamente um vasto elenco de novos produtos, porém o impacto mais profundo e generalizado da inovação está associado ao processo. Os processos, diferentemente dos produtos, incorporam-se a todas as atividades humanas, produzindo transformações conduzidas por essas tecnologias. Os onipresentes fluxos de informação provocam modificações na organização social em seu conjunto: no modo de produzir, de consumir, de administrar, de morar, enfim, de viver.
+
+
+
+4 Sistema estatístico e a sociedade da informação: alguns reflexos conceituais e metodológicos
+
+Esta seção apresenta uma leitura sobre alguns efeitos da TIC no contexto da produção de estatística, mais especificamente, no âmbito da representação das atividades econômicas. Se estará focando alguns cortes/critérios de representação do sistema de informação estatística vis a vis transformações introduzidas pela TIC nas formas de estruturação dos negócios na sociedade da informação.
+
+
+
+4.1 O processo produtivo informacional: fatores cognitivos e simbólicos
+
+Fatores considerados constitutivos dos processos produtivos industriais: matérias-primas, insumos materiais, produto e tecnologia mecânica, perdem centralidade. Ganham relevância nos processos produtivos da sociedade da informação fatores cognitivos e/ou simbólicos. Preconiza-se o maior investimento em insumos não-materiais.
+
+Chama-se atenção para o softening da produção. MORRIS-SUZUKI (apud KUMAR, p.29), apontam que no Japão, já em 1980, apenas 27% das indústrias eram consideradas hard, no sentido de que bens materiais constituíam 80% ou mais do valor total dos insumos. DRUCKER (apud STEHR, 1994, p.131) estima que o custo da matéria-prima contida num semicondutor, microchip, é de 1% a 3% do total de seu custo de produção; sendo esta participação de 40% para os automóveis e de 60% para os vasilhames. RIFKIN (1996, pp.115-77) observa que no setor automobilístico, os robôs se tornam cada vez mais atraentes como alternativa para o trabalho humano na linha de montagem (a Mazda Motor Corporation esperava ter sua linha de montagem final 50% automatizada em 2000); e que no setor do aço encontra-se, hoje, uma "estrutura branca e luminosa" que mais parece um laboratório que uma fábrica.
+
+Em sentido análogo, MARQUES (1999, p.196) observa-se que quanto mais informacionalizado for um processo produtivo mais se estará operando sobre papeis, telas de computador, sistemas operacionais, softwares, scans, transferências de arquivos etc. Argumenta que quanto mais informacionalizada for a produção mais trabalho de concepção e projeto, de programação, de planejamento, de construção sob forma latente, potencial e virtual (desmaterializada) será realizado antes que, em algum lugar do planeta, a ferramenta de uma máquina operatriz automática execute fisicamente uma operação real e atual sobre a matéria (p.203).
+
+LASH & URRY (1994, pp.60-1), sob outra ótica, enfatizam, além dos atributos cognitivos, os estético, como constitutivos da economia contemporânea. Propõem a noção de "acumulação reflexiva" (atribuindo à acumulação uma conotação econômica e à reflexividade uma conotação cultural), com o intuito de mostrar como os processos econômicos e simbólicos estão, mais que nunca, entrelaçados e interarticulados. Isto é, a economia é crescentemente refletida na cultura que, por sua vez é, mais e mais, refletida na economia.
+
+Se quer destacar, pois, o componente estético no processo de geração de valor agregado. Mais trabalho passa a ser despendido no desenvolvimento dos modelos relativamente ao trabalho envolvido na produção desses modelos. Uma característica da produção de conteúdo cultural, em que cada modelo é único (um livro, uma música, um videoclipe), que passa a ser recorrente na produção industrial, que se volta ao atendimento de nichos de mercado, com produtos sofisticados e exclusivos (ou quase).
+
+Passa-se a direcionar o consumo (e a produção) não pelo valor de uso, mas pelo valor simbólico. Compra-se não essencialmente o produto, mas um símbolo, uma marca: um Armani (apresentado na mídia por belos modelos, artistas famosos etc.) ou um BMW (associado a potência, desempenho, beleza etc.). O design e a criação invadem grande a produção, modificando a essência de muitos produtos, que se transformam em objetos de arte, alterando sua função original. São "cadeiras", "estantes", "mesas", utensílios vários, aos quais se atribui valor por sua estética e beleza, reduzindo-se o significado concreto e original dos objetos. Isto vale tanto para a produção de setores "tradicionais" como para carros, computadores, televisores, telefones etc. O consumo é uma questão de atitude, cultura, qualidade de vida. Em muitos casos são os "conceitos" que passam a dar origem aos produtos. "Num desfile de modas, não importa se aquelas roupas nunca vão ser usadas na rua; não é o produto que está a venda, é o conceito que vai influenciar um mercado têxtil de milhões de dólares." COHEN (1999, p.51).
+
+Ao valor simbólico está associado, certamente, alto nível de conhecimento e tecnologia, que adicionam valor ao bem produzido. Por exemplo, no "setor" do vestuário, observa-se, que um segmento produz de roupas sofisticadas, de grife, que envolve desing, corte, modelagem e padronagem artísticos, personalizados, com tecidos diferenciados, inventados a cada estação e "inteligentes" (que se adaptam à temperatura, mudam de cor, controlam a transpiração). Envolve também o uso intenso de tecnologias de informação e comunicação (na concepção, elaboração e distribuição), bem como um mercado especializado, de luxo, com valor de uso simbólico, associado a publicidade, imagens, etc. Um outro segmento produz em série, com maquinário mecânico especializado e preços decrescentes. São, pois, produtos diferentes gerados por atividades distintas; implicando em diferenças fundamentais quanto às formas de produzir, às matérias-primas e insumos empregados, ao conteúdo não-material e ao nível de utilização de TIC.
+
+Pode-se dizer, pois, que a "dimensão principal do processo produtivo informacional" - o conhecimento, a informação & a criação, o design - não está contemplada na lógica que permeia a construção das classificações atuais, de forte viés industrial, material, da produção de massa, centrada na tecnologia mecânica. Não se considera matérias primas, insumos e tecnologias informacionais, hoje fundamentais, na diferenciação dos processos produtivos. São componentes como microprocessadores, chips, softwares, serviços de informação e comunicação, sistemas de gestão integrados, criação e design, planejamento, pesquisa e desenvolvimento, bem como a própria tecnologia de informação e comunicação, com soluções tecnológicas complexas para transações eletrônicas como as de negócio e de conhecimento, de hosting e de outsourcing. São características de produção bem distintas daquelas do modo de desenvolvimento industrial, da tecnologia mecânica.
+
+Enfim, se há uma sociedade da informação há um modo de desenvolvimento informacional, que por sua vez está referido a processos produtivos informacionais.
+
+
+
+4.2 A convergência da tecnologia da informação e comunicação: integração das atividades
+
+Um fator considerado característico da TIC é sua crescente convergência para um sistema altamente integrado. A microeletrônica, as telecomunicações, a optoeletrônica e os computadores estão integrados nos sistemas de informação. Observa CASTELLS (1999, p.79) que, embora ainda exista uma distinção comercial entre fabricantes de chips e desenvolvedores de software, a diferenciação é, de fato, indefinida, uma vez que é crescente a integração das duas funções: "(...) em termos de sistemas tecnológicos, um elemento não pode ser imaginado sem o outro: os microcomputadores são em grande parte determinados pela capacidade dos chips, e tanto o projeto como o processamento paralelo dos microprocessadores dependem da arquitetura do computador. As telecomunicações são agora apenas uma forma de processamento de informação; as tecnologias de transmissão e conexão estão, simultaneamente, cada vez mais diversificadas e integradas na mesma rede operada por computadores."
+
+Atividades passam a ser desenvolvidas de forma interligada e complexa, numa clara interpenetração entre e intra setores, sendo difícil delimitar onde termina uma e começa a outra. Este fenômeno certamente não é de todo novo, embora hoje se expanda, tornando-se bastante complicado, especialmente, nos "setores" das tecnologias de informação e comunicação e naqueles muito a eles atrelados.
+
+Este é o caso da imbricação de setores como os da informática (computadores e softwares), da telefonia e da televisão, com seus produtos e serviços correspondentes, que convergem e se apóiam na Internet e na multimídia. Aliás, estas também atividades integradas, que decorrem da união, no primeiro caso, das telecomunicações com os serviços de informática e com os computadores e, no segundo caso, dos computadores últimos com os softwares de produção de imagens e som.
+
+A Internet possibilitou a criação de novas formas de negócios, que podem ser tanto complementar os negócios tradicionais como representar modelos de negócios inteiramente novos. No primeiro caso, se dá a externalização, através da Internet, de funções que eram anteriormente executadas dentro da empresa. No segundo caso, tem-se a realização, pela Internet, de funções que não existiam antes. São atividades voltadas para a integração de funções, indo dos modelos de negócio de função única (por exemplo, e-shops que fornecem somente a função do marketing na Internet) aos modelos de negócio com funcionalidades completamente integradas, com funções que são criticamente dependentes da TIC. A tecnologia possibilita que os fluxos de informação trafeguem pela rede, tornando possível a criação de valor a partir da integração de tais fluxos. São serviços que adicionam valor à enorme quantidade de dados disponíveis na rede ou provenientes de operações decorrentes dos negócios integrados, como os provedores de serviço para a cadeia de valor (value chain service providers), os integradores da cadeia de valor (value chain integrators), as comunidades virtuais (virtual communities), as plataformas de colaboração (collaboration platforms) e os mercados eletrônicos de negócio (market places). (TIMMERS, 1998).
+
+A integração complexa e diversificada da atividades ocorre também na empresas produzem, montam e/ou fazem manutenção de computadores, e, ainda, produzem, desenvolvem e vendem software, bem como prestam variados e diferenciados serviços de informática a seus clientes, como monitiramento e gerenciamento de redes e hosting (hospedagem). A Dell Computer Corporation, por exemplo, é uma empresa que vende sistema de computadores, diretamente aos clientes individuais ou corporativos, com soluções de hardware e de software específicas. [5]
+
+DAVIS & MEYER (1999, p.20) postulam que a conectividade, uma das principais forças propiciadoras de mudanças nos modelos empresariais e econômicos atuais, estaria mesmo eliminado a diferenciação existente entre produtos e serviços. Isto se dá com a crescente incorporação de serviços aos produtos, como elemento diferenciador e gerador de valor agregado; com a construção de produtos que se conectam por meio eletrônico (chips) a bancos de informação; e com a customização em massa, considerada como um mix de produto e serviços. [6]
+
+A obrigatoriedade de escolha de uma atividade como a principal, critério de exclusividade, para a classificação das atividades, dificulta, pois, o acompanhamento das atividades integradas. Para as atividades integradas se estaria, pois, distorcendo, mascarando, mutilando suas formas de estruturação e características.
+
+4.2.1 Produtos TIC: híbridos ou de múltiplos usos
+
+É reflexo da convergência tecnológica o surgimento de uma infinidade de produtos híbridos, de usos múltiplos. São muitos os novos produtos/serviços - já existentes, em desenvolvimento ou em concepção, como os que decorrem do uso da Internet (ela mesma uma convergência) por telefone celular, relógio e rádio de carro (tecnologia wap); ou produtos/serviços como o MP3, walkmen que tocam arquivos de áudio copiados da Internet; ou o celular com rádio FM; ou a nova linha de aparelhos que reúnem funções de telefone, celular, computador de mão e acesso rápido à Internet em um só equipamento, nas tecnologias CDMA, TDMA e GSM etc.
+
+A complexidades dos produtos/serviços híbridos, múltiplos, convergentes, se traduz, certamente, em problemas para a construção das estatísticas, que tem vem utilizando como alternativa de classificação o critério classificador de produto principal.
+
+4.3 O processo produtivo flexível: descentralização produtiva e organizacional
+
+Vários enfoques teóricos, como fordismo flexível, neofordismo, fordismo periférico, acumulação flexível, enfatizam a abertura de espaços para a flexibilidade, tanto nos processos produtivos - tecnológica, organizacional e espacialmente - como nos processos e relações de trabalho, numa modificação do modelo fordista.
+
+A produção flexível apoia-se na TIC por ser esta uma tecnologia que permite a produção em pequenos lotes, especializada, voltada para a produção e o consumo não padronizados. Novos ou modificados produtos não exigem mais novas máquinas para serem elaborados, uma vez que são resultados de mudanças nos programas controlados por computador que comandam as máquinas. Torna-se viável uma sucessão contínua de novas idéias e novos produtos, que são conhecimento/inovação intensivos.
+
+A organização empresarial característica da produção flexível, se estrutura sobre uma constelação articulada de grandes, médias, pequenas empresas, através das quais se dá a divisão do trabalho. Tem-se no centro da organização uma companhia que domina as marcas e as tecnologias estratégicas de produto e de processo. Cabe a esta companhia coordenar todo o sistema que a ela se subordina, por meio de modernas e velozes redes de tratamento e comunicação da informação. (DANTAS; p. 219-20).
+
+As empresas estruturam-se de modo a concentrarem na unidade central as fases operativas cruciais: a gestão da empresa(s), as fases produtivas mais qualificadas, de maior conteúdo tecnológico e valor agregado, a engenharia dos produtos, o desenvolvimento tecnológico (P&D). Às unidades periféricas são delegadas as fases produtivas do ciclo e as operações consideradas não-determinantes. Estas fases podem ser efetuadas por empresas controladas - pertencentes ao mesmo sistema empresarial -ou por outras empresas em sistema de cooperação ou delegação - fornecedoras ou subcontratadas - muito ou pouco integradas ao modelo organizativo operacional da empresa motriz. A rede de fornecedoras e/ou subcontratadas pode se multiplicar por estratos sucessivos, em cascata. Sua extensão é variada, indo de empresa local e regional a empresa global de poder planetário.
+
+São, pois, formas organizacionais que diferem substancialmente daquela das empresas fordistas verticalizadas e independentes - da grande fábrica dos anos 50 -, com processos de produção e de trabalho semelhantes.
+
+No ambiente econômico atual, onde são cruciais as articulações entre as unidades produtivas, inúmeros são os casos de empresas que não produzem componentes chaves de seu produto final. São grandes empresas com capacidade de processamento simbólico e de conhecimento que se apropriam da produção material de outras empresas.
+
+Neste contexto, passa a prevalecer uma nova lógica de geração de valor distinta da cadeia de valor da "empresa-estrutura" da economia industrial anterior, quando a posição central era a do produto final, proveniente de uma cadeia de montagem. Hoje, mesmo sem produto final, empresas "subcontratantes" ou mesmo "subcontratadas", podem assumir posição dominante. A Nike, uma liderança mundial de imagens relacionadas a tênis, não produz nenhum tênis, toda sua "produção" vem de uma rede de mais de 500 fornecedores espalhados, especialmente, pelos países asiáticos. É uma corporação virtual (GOLDFINGER, 1998). Na indústria de semicondutores muitas empresas líderes são "sem-fábricas" (ou quase), subcontratando toda (ou quase toda) "produção" a ser comercializada. A corporação italiana Benetton fabrica e vende diretamente apenas um pequeno segmento de produtos que levam a sua marca.
+
+A estrutura organizacional das empresas, pequenas, médias e grandes, foi, portanto, bastante alterada. No entanto, em que pese os esforços realizados pelas classificações no sentido de apreender alguns processos de terceirização e de subcontratação, o sistema de informação estatística continuam a refletir um modelo produtivo essencialmente tradicional, baseado na independência das empresas (unidade local). Não se leva em consideração o ambiente de cooperação (compartilhando serviços diversos como pesquisa, marketing e financiamento) e interdependência entre a unidades produtivas.
+
+
+
+4.4 Relações "insumo x produto" informacionais
+
+Na nova realidade eletrônica, saturada de informações, imagens e símbolos, cria-se um mundo imaterial e, conseqüentemente, uma produção a ela relacionada.
+
+Uma dimensão dessa produção eletrônica imaterial é a produção midiatizada (TV, cinema, Internet etc.), onde é forte a inter-relação de idéias, imagens e signos envolvidos. Esta inter-relação gera uma expansão ilimitada de produtos inter-relacionados. Um certo conteúdo passa a ser fonte de geração de uma família de outros artefatos interligados com o original. A habilidade de gerar tal família é fator de sucesso para as empresas. A Disney, por exemplo, com a realização de um filme infantil, passa a gerar uma infinidade de produtos: livros, vídeos, brinquedos, jogos computacionais, atrações em parque de diversões etc.
+
+Fenômeno semelhante ocorre com imagens produzidas de pessoas famosas e consagradas, como Xuxa, Ronaldinho e Guga (para ficar só no âmbito nacional), que passam a produzir famílias de bens com sua própria marca e/ou a vender suas imagens, associando-as a produtos de grandes grifes ou de empresas planetárias. O fator preponderante da venda dos produtos é a invasão do significante - a imagem - sobre o referente. Isto resulta em um valor agregado pela imagem. Passa-se a constituir, portanto, um mercado de produção e venda de imagens & signos que se articula e interage com o
+
+mercado de mercadorias.
+
+No quadro de inter-relação de produtos, idéias e signos, uma questão importante apontada por GOLDFINGER (1998) é que a "economia intangível adiciona outra ligação, que pode ser chamada de relação de monitoramento." Certos produtos e serviços estimulam o desenvolvimento de atividades, cujo propósito é monitorar, avaliar e explicar as características e desempenhos de tais produtos e serviços. O crescimento da indústria do computador pessoal foi acompanhado e estimulado por uma emergente e especializada indústria de impressão e publicação. Em 24 de agosto de 1995, dia do lançamento do software Microsoft Windows 95, em torno de 450 livros a respeito do assunto já estavam disponíveis. Aí se pode enquadrar, também, a espetacular profusão na mídia - jornais, revistas, livros, programas de rádio e Tvs etc. - de notícias, histórias, fofocas e fotos que giram em torno de (seus) famosos astros: o personagem, a pessoa real ou sua imagem.
+
+Observa-se que as relações de monitoramento e aquelas associadas às relações midiatizadas não são levadas em conta nas atuais análises de insumo e produto.
+
+
+
+5 Conclusão
+
+Se procurou mostrar como as grandes transformações que marcam a sociedade atual modificaram pressupostos centrais que dão forma às estatísticas oficiais. Cabe ressaltar, uma vez mais, que as questões aqui tratadas se limitaram ao âmbito da representação das atividades econômicas. Certamente a problemática apresentada é de escopo mais amplo, envolvendo os arranjos e as relações de trabalho, as fragmentações, recomposições e articulações ocupacionais, as funções do domicílio e os novos arranjos familiares; os padrões de consumo individual e coletivo; a dicotomia "produtor" e "consumidor" etc.
+
+A defasagem provocada pela tensão entre as estatísticas estáveis e harmonizadas e a dinâmica atual da sociedade vincula-se ao enfraquecimento ou à perda de relevância do aparato teórico-conceitual de interpretação econômico-social, que dá e deu sustentação à construção das estatísticas. Como assinalam DUCAN e GROSS (1993, p.11), "Com a proximidade do século XXI, torna-se cada vez mais claro que nossa atual rede conceitual, desenhada para realidades anteriores, se ajusta de forma bastante imperfeita à situação atual."
+
+Este estudo tenciona ser, em relação ao sistema de informação estatística, uma contribuição ao necessário esforço analítico coletivo, obviamente já em curso em vários fóruns e sob diversas formas, no sentido de buscar novos recortes conceituais que possam melhor representar a complexidade atual: cultural, estética, informacional, de signos e imagens, global, plural, flexível etc.
+
+Pretendeu-se trazer um outro enfoque à questão das estatísticas oficiais na sociedade da informação reconhecendo-se que um maior entendimento da questão é fator necessário, mas certamente, não suficiente, para alcançar ou mesmo propor soluções. No entanto, a falta de soluções não faz desaparecer o problema. Ao contrário, aumenta nossa responsabilidade sobre ele.
+
+
+
+
+Referências Bibliográficas
+
+ARRIGHI, G. O longo século XX. São Paulo: Unesp, 1996. 393p.
+
+BELL, D. O Advento da sociedade pós-industrial. São Paulo: Editora Cultrix Ltda, 1977. 540p.
+
+CASTELLS, M. La ciudad informacional. Madrid: Alianza Editorial S.A., 1995. 504p.
+
+____________. A sociedade em rede. São Paulo: Paz e Terra, 1999. 617p.
+
+COHEN, D. "O fim do segredo: O melhor jeito de multiplicar o conhecimento é dividi-lo". Revista Exame, Fascículo III. Novembro de 1999.
+
+DANTAS, M. "Capitalismo na era das redes: trabalho, informação e valor no ciclo da comunicação produtiva". In: Lastres, M.H.M & ALBAGLI, S. (Orgs.) Informação e globalização na Era do Conhecimento. Rio de Janeiro: Editora Campus, 1999. p.216- 261.
+
+DAVIS, S. & MEYER, C. A velocidade da mudança na economia integrada. 3a. ed. Rio de Janeiro: Editora Campus, 1999. 188p.
+
+DRUCKER, P. F. The age of discontinuity. London: Heinemann. 1969.
+
+GIDDENS, A. As conseqüências da modernidade. 2 a ed. São Paulo: Editora Unesp, 1991. 177p.
+
+GOLDFINGER, C. "The intangible economy and its implications for statistics". In: Annali di statistica. Anno 126 Serie X, vol. - Economic and Social Challenges in 21st century: statistical implications - Proceeding of a joint ISTAT/ EUROSTAT Seminar, Bologna. (Pre-print), 1996.
+
+HARVEY, D. Condição pós-moderna. 5 a ed. São Paulo: Edições Loyola, 1992. 349p.
+
+HEGEDEUS, Z. Il presente e l'avvenire. Milano: Franco Angeli, 1985. 124p.
+
+KUMAR, K. Da sociedade pós-industrial à pós-moderna. Rio de Janeiro: Jorge Zahar Editora Ltda, 1997. 258p.
+
+LASH, S. & URRY, J. Economies of signs & space. 3a. ed. London: SAGE Publications Ltd., 1996. 360p.
+
+_________________. The end of organized capitalism. 4a. ed. Cambridge: Blackwell publishers ltd, 1996. 383p.
+
+MARQUES, I.C. "Desmaterialização e trabalho". In: Lastres, M.H.M & ALBAGLI, S. (Orgs.) Informação e globalização na Era do Conhecimento. Rio de Janeiro: Editora Campus, 1999. p.191-215.
+
+OFFE, C. O capitalismo desorganizado. São Paulo: Editora Brasiliense, 1989. 322p.
+
+PORCARO, R.M. Sistema Estatístico Nacional: uma possível percepção de uma realidade desviada. Ética, desvio e responsabilidade social da imprensa. Rio de Janeiro: UFRJ/ECO, 1994. p.221-245.
+
+RIFKIN, J. O Fim dos empregos. São Paulo: Makron Books, 1995. 348p.
+
+STEHR, N. Knowledge Societies. 1a. ed. London: SAGE Publications Ltd, 1994. 285p.
+
+THEVENOT, L. "Rules and implements: Investment in forms". Social Science Information, v.23, n.1, p.1-45, 1984.
+
+TOFFLER, A. A Terceira Onda. 20a. ed. Rio de Janeiro: Record, 1995. 491p.
+
+___________. O choque do futuro. 2a. ed. Rio de Janeiro, 1970. 389 p.
+
+WAGNER, P. A sociology of modernity. London and New York: Routledge, 1994. 267p.
+

@@ -1,0 +1,254 @@
+Interfaces entre a ciência da informação e a ciência cognitiva
+
+
+RESUMO
+
+Estudo panorâmico sobre aspectos da ciência da informação (CI) e da ciência cognitiva (CC), apontando recentes contribuições em quatro de suas possíveis interseções: categorização, indexação, recuperação da informação (RI) e interação homem-computador.
+
+Palavras-chave: Ciência da informação; Ciência cognitiva; Processamento da informação; Categorização; Indexação; Recuperação da informação; Interação homem-computador.
+
+
+INTRODUÇÃO
+
+Existe um consenso entre os estudiosos sobre a excepcional contribuição que a ciência cognitiva (CC) poderia dar no processo de representação e posterior recuperação da informação (RI), dentro do campo da ciência da informação (CI). O ponto central destacado por eles tem sido o conhecimento prévio do usuário que busca e utiliza a informação, especialmente na sua interação com o sistema informacional, e como o cérebro processa esta informação. O presente trabalho apresenta alguns aspectos da CI e da CC, apontando suas interseções e possíveis contribuições no processamento da informação e na RI, nos quais o ser humano atua como intermediário.
+
+
+
+DEFINIÇÕES
+
+São inúmeros e diferenciados os aportes conceituais e as definições que apresentam a ciência da informação. Diversos autores apontam características da CI voltadas ao armazenamento, gestão e disseminação da informação. Outros ressaltam suas estreitas ligações com a tecnologia, e há outros que destacam sua vinculação aos sistemas de informação e aos processos comunicacionais, o que reflete seu inerente aspecto interdisciplinar. Para ilustrar a diversidade de percepções sobre CI, Silva (1999, p. 105) apresenta um esquema constituído de pontos de vista de especialistas de áreas diversas, não enfocando os objetos de estudos que lhes são afetos, mas, sobretudo, sua caracterização como campo autônomo constante do universo da ciência.
+
+Não se pretende, aqui, aprofundar os conceitos dos quais emergem todas essas definições, mas apresentar apenas três definições que se adequam aos objetivos desse estudo – enunciadas por Borko, Foskett e Saracevic – e que caracterizam a CI enquanto campo de conhecimento que trata da informação científica e social.
+
+A CI, como um campo autônomo, surgiu no início dos anos 60. Nessa época, Borko (1968, p.3) a descreveu como:
+
+"uma disciplina que investiga as propriedades e o comportamento da informação, as forças que governam seu fluxo, e os meio de processá-la para otimizar sua acessibilidade e uso. A CI está ligada ao corpo de conhecimentos relativos à origem, coleta, organização, armazenagem, recuperação, interpretação, transmissão, transformação e uso de informação... Ela tem tanto um componente de ciência pura, através de pesquisa dos fundamentos, sem atentar para sua aplicação, quanto um componente de ciência aplicada, ao desenvolver produtos e serviços."
+
+Foskett (1980, p.64), privilegiando a CI no aspecto de sua inserção nos campos das ciência, diz que é
+
+"uma disciplina que surge de uma ´fertilização cruzada´ de idéias que incluem a velha arte da biblioteconomia, a nova arte da computação, as artes dos novos meios de comunicação e aquelas ciências como psicologia e lingüística que, em suas formas modernas, têm a ver diretamente com todos os problemas da comunicação – a transferência do conhecimento organizado".
+
+Um dos mais importantes teóricos da área, Saracevic (1996, p.47), aponta que
+
+"a ciência da informação é um campo dedicado às questões científicas e à prática profissional voltadas para os problemas de efetiva comunicação do conhecimento e de seus registros entre os seres humanos, no contexto social, institucional ou individual do uso e das necessidades de informação. No tratamento destas questões são consideradas de particular interesse as vantagens das modernas tecnologias informacionais".
+
+A definição de Saracevic, a mais recente das três, mostra que a CI evoluiu e que, além de conter no seu núcleo a recuperação da informação (RI) como causa de seu surgimento, relaciona-se também aos processos da comunicação humana.
+
+A CI apareceu como uma nova área do conhecimento a partir da revolução técnico-científica posterior à II Guerra Mundial. O grande volume de informações gerado no crescente número de áreas do conhecimento passou a demandar um nível maior de organização informacional. As questões relativas à RI desencadearam a busca da construção de um edifício teórico, empírico e prático no qual se pudesse abrigar a CI (Saracevic, 1996, p. 45). São exemplos desse progresso a evolução de sistemas, técnicas e máquinas para recuperação de informação, assim como os estudos teóricos e experimentais sobre a natureza da informação; a estrutura do conhecimento e seus registros; os usuários da informação; o comportamento humano diante da informação e sua utilização; a interação homem-computador1; a utilidade e obsolescência da informação; medidas e métodos de avaliação dos sistemas de RI; economia, impacto e valor da informação, entre outros. Além disso, o desenvolvimento epistemológico da CI propiciou e influenciou a emergência e a evolução da indústria informacional, a partir do pragmatismo observado na aplicação empresarial da RI.
+
+A CI, nascida formalmente em 1962 em uma reunião do Georgia Institute of Tecnology, preocupava-se com as propriedades e comportamento da informação, com as forças que governam seu fluxo e com os meios de processá-la para facilitar seu acesso e uso. Tentavam formalizar "... as propriedades da informação pela aplicação da teoria da informação, da teoria das decisões e outros construtos da ciência cognitiva, da lógica e/ou da filosofia;..." (Saracevic, 1996, p. 46).
+
+Nos anos 70, com o deslocamento do paradigma da RI em direção ao usuário e suas interações, a CI buscou imprimir maior sistematicidade aos conhecimentos produzidos, tendo estabelecido um conjunto de princípios fundamentais que possibilitassem o estudo dos processos de comunicação e sistemas de informação e, a partir daí, a construção de sua teoria.
+
+Nos anos 80, a área de administração foi incluída como parte fundamental da CI. Nos anos 90, enquanto campo do conhecimento dedicado a questões científicas e à prática profissional, a CI passa a enfocar (1) a efetividade da comunicação do conhecimento e sua representação entre os seres humanos, (2) o uso e a necessidade de informação e (3) as tecnologias da informação.
+
+A revisão da literatura sobre CI mostra que ainda não há um paradigma, para essa área, que seja consensual, hegemônico e que defina seus limites. Vários especialistas da área divergem sobre esta questão, deixando transparecer a utópica tarefa de enquadrar a CI dentro de critérios e padrões vigentes que satisfaçam os cânones científicos. Considerando o modelo de evolução da ciência segundo Kuhn (1992)2, os autores Eugênio, França & Perez (1996, p.34) concluem que"... a ciência da informação ainda se comporta como uma ciência imatura em busca de um paradigma que dê sustentação e abra os horizontes para o estudo e pesquisa nesta área." Christovão (1995, p.30) fala sobre a dificuldade de integração da CI com as demais ciências: "...não há lugar onde se possa enquadrar a ciência da informação no atual quadro da ciência ou ciências. Ou a ciência da informação não é uma ciência, ou, para que venha a ser, deverão ser modificados os atuais critérios de cientificidade."
+
+Porém, Santos (1997, p.39) dá indícios de uma nova perspectiva teórica que esboça uma ordem denominada Paradigma Emergente, no qual deixaria de fazer sentido a distinção entre conhecimento natural e conhecimento social e, assim, a hierarquia estabelecida pelo paradigma científico para a sua produção. Para ele, "O paradigma emergente da CI tende a ser um conhecimento não dualista que supera as dicotomias até então familiares como natureza/cultura; material/artificial; subjetivo/objetivo." E complementando este pensamento, Orrico (1999, p.152) acrescenta que "É sob essa ótica que se deve compreender a CI, na medida que – filha do século XX – se enquadra no novo paradigma no qual natureza-cultura-subjetivo-objetivo se misturam e se entrelaçam.
+
+A interdisciplinaridade inerente à CI tornou-se visível pela própria variedade de profissionais que atuam na área, apresentando como ponto comum uma dependência cada vez maior da tecnologia por profissionais diversos, como engenheiros, cientistas da informação, lingüistas, cientistas da computação, filósofos e outros, cujo interesse é compreender e comunicar a informação. A tecnologia da informação veio auxiliar esses profissionais trazendo uma nova potencialidade ao trabalho de processamento e agilidade na busca da informação. Isso concretizou-se com o surgimento de computadores com grande capacidade de armazenamento e de grande rapidez na recuperação da informação.
+
+Saracevic (1996, p.48) define quatro ciências que mantêm uma relação estreita com a CI: a biblioteconomia, a ciência da computação, a ciência cognitiva e a comunicação (figura 1)
+
+
+
+
+
+A biblioteconomia possui uma ligação muito forte com a CI, a ponto de serem consideradas ou confundidas como um mesmo campo. A preocupação comum é com os problemas da efetiva utilização dos registros gráficos. No entanto, suas várias diferenças são perceptíveis: (1) seleção e forma de definição dos problemas propostos; (2) questões teóricas e modelos apresentados; (3) natureza e grau de experimentação, desenvolvimento empírico e conhecimento prático de competências derivadas; (4) instrumentos e enfoques usados; (5) natureza, força, dependência e evolução das relações interdisciplinares estabelecidas.
+
+A ciência da computação e a CI têm, na base de sua relação, a aplicação dos computadores e da computação na RI, nos produtos, serviços e redes associadas. Saracevic (1996, p. 50) fala de suas diferenças: "... [a] ciência da computação trata de algoritmos que transformam informações, enquanto a CI trata da natureza desta informação e sua comunicação para uso pelos seres humanos". Se há diferentes pontos de vista, modelos explicativos e paradigmas entre a CI e a ciência da computação, também existe uma área de interseção entre estas duas ciências que inclui um significativo componente informacional, associado à representação da informação, sua organização intelectual e encadeamentos (busca e RI, qualidade, valor e uso da informação). Alguns exemplos incluem: (1) trabalhos com sistemas inteligentes, bases de conhecimento, hipertextos e sistemas relacionados; (2) interfaces inteligentes e interação homem-computador; (3) reutilização de softwares. O uso dos computadores, no campo da CI, trouxe consigo uma revolução nessa área. Para agilizar e ter maior precisão na recuperação da informação, os profissionais da CI organizaram o acesso aos sistemas de informação e se qualificaram para trabalhar com indexação, browsing (folheio) e busca em sistemas automatizados.
+
+As definições de "informação" enquanto "fenômeno" e de "comunicação" enquanto "processo" são a base da relação entre a CI e a comunicação enquanto ciência. Dado o grau de relação entre fenômeno e processo, pesquisadores das duas ciências concordam que existem questões emergentes que necessitam de uma atenção conjunta por parte dessas disciplinas. Entre os tópicos que já foram estudados na interseção dos dois campos destacam-se: (1) lacunas de conhecimento; (2) colégios invisíveis; (3) difusão de inovações; (4) interação humana com as tecnologias da informação; (5) o comportamento na busca de informações; (6) teoria da informação; (7) a teoria de sistemas; (8) a sociedade da informação.
+
+Outro campo que possui relação interdisciplinar com a CI é a ciência cognitiva que, segundo Johnson-Laird3, citado por Saracevic (1996, p.51), tem por objetivo "... explicar como funciona a mente". Apesar do interesse da CI acerca da compreensão dos processos cognitivos, o que se mostra mais atraente para a CC, no momento, são as questões levantadas e soluções buscadas na inteligência artificial (IA).
+
+
+
+CIÊNCIA COGNITIVA
+
+De acordo com Mey (1982), a ciência cognitiva lida com o estudo sobre o que é o conhecimento, como ele pode ser representado e manipulado nas suas formas mais diversas. Gardner (1996, p.19) considera-a como a "nova ciência da mente", descrevendo-a como "um esforço contemporâneo, com fundamentação empírica, para responder a questões epistemológicas de longa data – principalmente aquelas relativas à natureza do conhecimento, seus componentes, suas origens, seu desenvolvimento e seu emprego." Já segundo Casti4 (1989), citado por Saracevic (1996, p. 51), a CC é um "...amálgama de psicologia, filosofia, antropologia, neurofisiologia, ciência da computação e lingüística, organizado em torno do uso do computador enquanto ferramenta capaz de extrair os segredos da mente". A CC apresentou grande desenvolvimento na última década, situando-se entre os mais novos campos interdisciplinares do conhecimento. A razão para isto é que ela tem encontrado alternativas para o estudo da mente, objeto que tem sido problematizado desde tempos remotos. Além disso, os profissionais da área de CC debruçam-se sobre estudos e pesquisas que têm por objeto modelos de instrumentos que permitam buscas relevantes nos sistemas eletrônicos de informação, especialmente na WWW. Aí se inserem as search engines e as diversas propostas de agentes inteligentes que pretendem substituir os processos humanos nos trabalhos de tratamento e organização da informação.
+
+Pode-se afirmar que as questões e tópicos que hoje são estudados por cientistas cognitivos tiveram início há alguns séculos. Durante anos, filósofos enfrentaram questões como a natureza da representação mental, buscando entender até que ponto o pensamento humano seria meramente um processo humano com base na relação entre a razão e o sentimento. René Descartes, citado por Gardner (1996, p.65), pode ser considerado o antecessor filosófico do protótipo da CC, no século XVII. Para Descartes5, "A mente fica separada do corpo humano e opera independentemente dele, é uma espécie de entidade totalmente diferente", tendo como peça central da filosofia sua própria experiência. Gardner (1996), em seu livro Como a mente funciona, descreve as opiniões de outros filósofos. Para John Locke, por exemplo, pode-se ter o conhecimento da existência de qualquer coisa pela sensação. George Berkeley, no entanto, acreditava na primazia do ser que experimenta, da mente que percebe, que é a única que torna possível as sensações ou a concepção de idéias. Compartilhando a opinião de Berkeley, David Hume afirma que nós só conhecemos a mente como conhecemos a matéria – pela percepção. O estudioso alemão Immanuel Kant partiu do pressuposto da individualidade do ego – cada indivíduo tem sua própria consciência e julgamento. Jerry Fodor, filósofo considerado cognitivista completo, admira a obra de Descartes 300 anos após ser escrita e enfatiza que se pode acreditar na existência de estados mentais e em sua eficácia causal, sem acreditar que existam duas substâncias – mente e matéria – que devem de alguma forma interagir uma com a outra. Em sua abordagem, ele acredita que deve haver uma linguagem do pensamento. Se os sistemas cognitivos envolvem representações, se as operações cognitivas envolvem a manipulação de representações simbólicas, então estas representações devem existir em algum lugar e ser manipuladas de alguma maneira. Ainda afirma que a linguagem do pensamento deve ser um veículo extremamente rico para poder executar os muitos processos cognitivos – percepção, raciocínio, aprendizagem da língua e de valores semelhantes – que os seres humanos são capazes de fazer.
+
+A CC foi reconhecida oficialmente por volta de 1956, a partir do Simpósio sobre Teoria da Informação, realizado no Massachusetts Institute of Technology, onde foram apresentados trabalhos de estudiosos das ciências humanas e da comunicação. O psicólogo George Miller destacou-se com a apresentação de um artigo em que afirmava que a capacidade da memória humana de curto prazo limitava-se a armazenar aproximadamente sete itens.
+
+A CC cresceu a partir de três pontos distintos:
+
+• desenvolvimento da psicologia do processamento da informação, na qual a meta era especificar o processamento interno envolvido na percepção, linguagem, memória e pensamento;
+
+• a invenção dos computadores e as tentativas de projetar programas que pudessem fazer tarefas que as pessoas fazem;
+
+• desenvolvimento da teoria da gramática generativa e outras derivações da lingüística.
+
+Durante os anos 60, começaram a surgir livros e outras publicações sobre a CC, disponibilizados principalmente a partir de estudos realizados em Harvard. Delinearam-se então, o que seriam as principais linhas de pesquisas da cognição, dando origem a um grupo de doze estudiosos que tinham, como objetivo comum, descobrir as habilidades representacionais e computacionais da mente e sua representação estrutural e funcional no cérebro. Esses autores definiram seis campos constituintes da CC (filosofia, psicologia, lingüística, inteligência artificial, antropologia e neurociência), elaborando um esquema inter-relacional, a que chamaram de hexágono cognitivo (figura 2). A reação da comunidade científica foi extremamente negativa a essa proposição, por incluir apenas os campos de interesse do grupo. Assim, nesse diagrama (Gardner, 1996, p. 50-52), a ciência da informação não é considerada um campo inter-relacional com a CC, diferentemente do que foi sugerido por Saracevic (1996, p. 48), na figura 1. A tendência em seguida à proposta do grupo de Harvard foi de autores, como Saracevic, de tentar encontrar seus próprios paradigmas relacionados à cognição. Em outro exemplo, Gardner (1996, p. 53) distingue cinco "sintomas" fundamentais da CC: (a) representações e (b) computadores, considerados pelo autor como "pressupostos centrais", (c) desenfatização da emoção, do contexto, da cultura e da história; (d) crença em estudos interdisciplinares e (e) raízes em problemas filosóficos clássicos, considerados como "aspectos metodológicos ou estratégicos".
+
+
+
+
+
+O objeto de estudo da CC é a mente, com suas idéias, conceitos e conhecimentos. O processo cognitivo envolve atividades mentais como o pensamento, a imaginação, a recordação, a solução de problemas, a percepção, o julgamento, a aprendizagem da linguagem, entre outras, as quais ocorrem diferentemente em cada indivíduo, dependendo do grau de habilidade de cada um.
+
+No Workshop Internacional sobre Ponto de Vista Cognitivo (International Workshop on the Cognitive Viewpoint) realizado na Universidade de Ghent, Bélgica, em 1977, o principal foco de pesquisa foram os sistemas de conceitos para usuários da informação. Durante o evento, Marc de Mey (1982, p.4) afirmou que "O ponto de vista cognitivo da ciência da informação implica que cada ato de processamento da informação, seja ele perceptivo ou simbólico, é mediado por um sistema de categorias e conceitos os quais, para o mecanismo de processamento da informação, constituem um modelo de mundo. Essa afirmativa, que ganhou a força de um paradigma, tem sido ostensivamente citada em várias pesquisas em diversos campos do conhecimento, como ciência da computação, psicologia, sociologia, inteligência artificial, lingüística e CI. Conceitualmente, o processamento da informação estaria centrado no conhecimento baseado no modelo de mundo do indivíduo, seja na recuperação ou no processamento da informação. A informação é associada ao contexto e à maneira de cada indivíduo ver o mundo, consiste no somatório de diferentes estruturas do conhecimento. Assim, todo estágio cognitivo implica contexto, que é organizado pelo sistema conceitual da informação.
+
+Ainda nesse workshop, Brooks (1977) foi um dos primeiros autores a utilizar o ponto de vista cognitivo para desenvolver uma teoria mais significativa e de impacto para a CI. Desde 1970, os autores que estudam informação e conhecimento, de alguma forma, falam de "estruturas cognitivas" e de sua ocorrência no processo de comunicação, já que seus dois agentes (produtor de mensagem e receptor/usuário) estão envolvidos em processos cognitivos. Segundo Mostafa & Moreira (1999, p.2), existe uma preocupação em estabelecer um padrão mínimo representativo do modelo mental do usuário, a fim de aproximá-lo do sistema. Assim, as estruturas do conhecimento podem referir-se simultaneamente ao indivíduo e aos sistemas de informação.
+
+Desta forma, o problema principal da pesquisa cognitiva em CI poderia ser apresentado na seguinte questão: "De que maneira as estruturas conceituais que formam o universo do usuário (enquanto processador da informação) têm correspondência com a estrutura conceitual que forma o universo do sistema de recuperação?"
+
+A compreensão de que o processamento da informação desempenhado pelo sistema simula o processamento mental que o indivíduo faz para entender o mundo é compartilhada por vários autores. Ingwersen (1996, p.11) diz que "Essencialmente, o núcleo deste ponto de vista é que a percepção e a geração da informação são atos de processamento da informação". Brooks (1977), citado por Belkin (1990, p.11), afirma que"... este ponto de vista é tal, que qualquer sistema de comunicação que a ciência da informação tratar terá, no seu início e fim,... a ocorrência do processo cognitivo". O próprio Belkin (1990) afirma: "A maneira como este processo ocorre depende do modelo de mundo do agente, seja ele ser humano ou máquina". Mas, acima de todos, o ponto de vista de Mey (1980), citado anteriormente, é que tem sido corroborado por diversos pesquisadores cognitivistas e utilizado como base para suas teorizações (Allen, 1991; Ingwersen, 1982; Ingwersen, 1996; Jacob & Shaw, 1998; Ellis, 1992; Daniels, 1986), cujo ponto comum tem sido os aspectos cognitivos em relação ao usuário e sua interação com o sistema, principalmente na RI.
+
+Garcia Marco & Esteban Navarro (1993), autores que citam a CI como parte da CC, apontam que, de maneira geral, tanto a psicologia cognitiva quanto a CI fazem parte da CC. Os dois campos estariam interessados em como a informação produz conhecimento, como esta informação é processada e como pode ser mais bem adaptada à realidade. Um outro aspecto abordado pelos autores é que o processo psicológico é que faz a mediação no círculo do processamento da informação.
+
+
+
+INTERSEÇÕES ENTRE AS CIÊNCIAS
+
+A partir das reflexões empreendidas no presente estudo, propõe-se a seguinte representação gráfica, que procura sintetizar as atividades prioritárias no processo da informação, em que ocorrem as interseções entre a CI e a CC (figura 3) no processamento da informação: categorização, indexação, RI e interação homem-computador.
+
+
+
+
+
+CATEGORIZAÇÃO
+
+Conforme foi visto, desde a época de Aristóteles já havia uma preocupação com as práticas de nomear, definir e categorizar. Muitos autores consideram os termos categorização e classificação como sinônimos (Gardner, 1996; Jacob & Shaw, 1991; Smith & Medin, 1981). Nas últimas três décadas, com o desenvolvimento de estudos na CC, a visão de como categorizamos sofreu modificações. A categorização passou de um processo cognitivo individual a um processo cultural e social de construção da realidade, que organiza conceitos baseando-se parcialmente na psicologia do pensamento. A informação perceptiva é fundamental na definição das extensões de uma categoria porque a categorização não é feita artificialmente, mas sim levando em conta as informações do mundo a que pertencemos e como respondemos a elas. Na categorização, o reconhecimento das similaridades e diferenças leva à criação de um conhecimento novo, pelo agrupamento de entidades, de acordo com as similaridades e diferenças observadas.
+
+Entre as definições de categorização que caracterizam o processo cognitivo, algumas se destacam. Para Jacob e Shaw (1998, p.155), "Categorização é um processo cognitivo de dividir as experiências do mundo em grupos de entidades ou categorias, para construir uma ordem física e social do mundo". Markman (1989)6, citado por Jacob & Shaw (1998, p.155), descreve a categorização como "um mecanismo fundamental que simplifica a interação individual com o ambiente: não somente facilitando o armazenamento e recuperação da informação, mas também reduzindo a demanda da memória humana". Para Piedade (1983), este é um processo mental habitual do homem, pois vivemos automaticamente classificando coisas e idéias, a fim de compreender e conhecer. Finalmente, para Gardner (1996, p.373), "as categorias têm uma estrutura interna, centrada em protótipos ou estereótipos, e outros exemplares são definidos como mais ou menos periféricos, dependendo do grau em que eles compartilham características cruciais com o protótipo central". Para organizar o conhecimento de qualquer área, da sua representação à sua recuperação, estudam-se primeiramente os conceitos que compõem esse campo do conhecimento e as relações entre eles. A influência do contexto é tão importante na categorização, que qualquer descrição individual na classificação que o desconsidere pode mostrar-se muito limitada. Categorias e hierarquias de categorias são a melhor maneira de organizar o conhecimento para recuperação, pelo óbvio motivo de que a informação estruturada é mais fácil de ser recuperada do que uma informação desorganizada. O processo de categorização estaria no bojo das questões de interesses das áreas da CI e da CC, no que tange à estratégia de se classificar objetos da cognição, como coisas, fatos e fenômenos.
+
+
+
+INDEXAÇÃO
+
+Indexação é o processo intelectual que envolve atividades cognitivas na compreensão do texto e a composição da representação do documento. E, por ser uma atividade intelectual, pode se beneficiar particularmente de teorias e métodos da Psicologia Cognitiva e da Teoria de Soluções de Problemas (David et alii, 1995, p.49). Wellish (1995)7, citado por Jacob & Shaw (1998, p.159), descreve indexação como o ato de indicar ou apontar o conteúdo intelectual de uma coleção. Esta definição mascara a natureza cognitiva do processo de indexação, por enfatizar o produto físico do processo, e não a análise de conteúdo.
+
+O processo de indexação possui três etapas: (1) análise do documento e estabelecimento do seu assunto; (2) identificação dos principais conceitos do documento; (3) tradução destes conceitos em termos de uma linguagem de indexação. A análise cognitiva aparece na análise e identificação de conteúdo do documento e no processo mental entre estímulo e resposta que transforma a informação. Por isto, é importante entender como a estrutura do sistema de informação afeta a interação entre a análise do documento, a representação do conteúdo e a recuperação. E, como a indexação é um processo de categorização, torna-se essencial considerar como a atividade do indexador e a estrutura da linguagem de indexação determinam a formação de categorias. As habilidades intelectuais na indexação poderiam ser harmonizadas de uma maneira mais eficiente, se as atividades pudessem simular processos cognitivos ou percepções sensoriais. Conforme Reed (1992, p.5), para interpretar o conteúdo de um documento, o indexador certamente passa por um processo cognitivo (figura 4). Após serem filtrados e reconhecidos os padrões de linguagem, ele utiliza a memória de curta duração (short-term memory, ou STM) e também a memória de longa duração (long-term memory, ou LTM). A informação selecionada passa por dentro da STM, onde ela é processada e armazenada temporariamente, ou é transferida, depois, para a LTM, onde é armazenada por períodos de tempo maiores.
+
+
+
+
+
+Nas duas primeiras etapas – (1) análise do documento e estabelecimento do assunto de que trata o item e (2) identificação dos principais conceitos do documento do processo de indexação –, o indexador capta os conceitos essenciais do documento, com uma compreensão a partir de sua memória, refletindo o processo cognitivo.
+
+Em uma descrição mais genérica (Ferreira, 1986, p.445), o termo "conceito" é tido como "a representação dum objeto pelo pensamento, por meio de suas características gerais. Ação de formular uma idéia por meio de palavras; definição; caracterização...". Uma das maiores estudiosas da área de CI, a alemã Dalberg (1978, p.143), define "conceito" como "... uma unidade de conhecimento, compreendendo afirmativas verificáveis sobre um item selecionado de referência, representado por uma forma verbal". A autora nos apresenta o Triângulo Semântico de Ogden & Richards (1972, p.35), que serve como modelo para construção de conceitos em que estão representadas as relações entre o objeto, o conceito e termo. O processo mental do conceito se dá mediante uma linha de pensamento que nos leva à elaboração do conhecimento, passando por um processo de assimilação pelo nosso cérebro e a transformação em informação. Após uma elaboração mental, o conceito pode ser modificado com base no conhecimento prévio sobre o assunto, transformando-se, então, de unidade de informação em uma unidade conceitual com objetivo de comunicação. O conceito pode ser expresso por símbolos ou palavras que formam um termo que, geralmente, tem significado único.
+
+
+
+RECUPERAÇÃO DA INFORMAÇÃO (RI)
+
+O conceito de recuperação da informação é muitas vezes tratado como sinônimo de "busca de informação", porque a necessidade de informação é que dispara o processo de busca da informação. Ingwersen (1982, p.167) propõe uma seqüência de nove etapas para identificar o processo mental no processo da recuperação da informação: (1) a necessidade de informação do usuário, (2) a questão sobre a informação formulada, (3) a negociação usuário-bibliotecário, (4) a formulação da estratégia de busca – análise do tópico, (5) a escolha das ferramentas de busca, (6) a procura na lista alfabética ou sistemática, (7) o julgamento baseado no índice (termos), (8) o julgamento baseado na descrição, resumos e títulos e (9) a avaliação do documento pelo usuário-bibliotecário. Ilustrando a inferência do aspecto cognitivo na RI, o autor desenvolve um fluxograma (figura 5, a seguir) para demonstrar o funcionamento do sistema de comunicação de uma biblioteca do ponto de vista cognitivo. Neste modelo, ele apresenta três imagens do mundo, ou dos pontos de vista, onde cada uma representa uma diferente estrutura de conhecimento. Essas três imagens – do usuário, do intermediário (bibliotecário) e do gerador da informação – devem estar em sintonia para que a RI se realize com sucesso.
+
+Para Jacob & Shaw (1998, p.147), a representação na RI envolve um processo complexo de correspondência entre o "campo modelado" (modeling domain) da linguagem de indexação e o "campo de objetivos múltiplos" (multiple target domain). O "campo modelo" inclui (1) a estrutura de conhecimento do autor do documento, (2) o conhecimento representado no documento, (3) a estrutura do conhecimento no "campo do discurso" (discourse domain) a que o documento pertence, (4) a compreensão do significado da palavra pelo indexador ou pesquisador, tanto do ponto de vista do "campo relevante" (relevant domain) quanto do sistema de recuperação. Neste processo, Harbo, Ingwersen & Timmermann (1977)8, citados por Ingwersen (1982, p.169) dizem que:
+
+"A tarefa [de recuperação da informação] é trazer as estruturas cognitivas dos autores, dos designers de sistemas e dos indexadores de acordo com as estruturas do profissional que lida com a informação e o usuário, para cobrir a necessidade atual."
+
+A organização da informação (entendida como um processo de armazenamento) e a sua recuperação fazem parte do mesmo processo, de tal forma que uma entrada de dados ineficaz implicará uma saída de dados também ineficaz. Nessa comunicação, os processos cognitivos influem tanto na entrada como na saída da informação e dependem da maneira como se dá nosso processo de abstração mental.
+
+Nos últimos anos, muitas pesquisas destinaram-se ao estudo e compreensão do processo de transferência da informação na recuperação. Várias dessas pesquisas têm sido relacionadas com a interação entre o sistema de RI e o usuário, com o intuito de melhorar a eficiência dos sistemas de recuperação de informação e os métodos de indexação. Jacob & Shaw (1998) observam que a ênfase em sistemas amigáveis para o usuário, com interfaces inteligentes, caracterizam as tendências de pesquisas cognitivas em ciência da informação. A abordagem cognitiva é usada na pesquisa em RI para descobrir características do comportamento do usuário que busca a informação e, então, reprogramar a interface homem-computador para acomodar essas características (Borgman et alii, 1989, p.86).
+
+O fluxograma elaborado por Ingwerson (1996, p.6), mostrado na figura 6, a seguir, demonstra que um processo de comunicação interativo ocorre entre o homem e a máquina e que as mensagens enviadas pela máquina ou pelo homem para um indivíduo podem transformar a informação abstrata em senso real. Entretanto, os sinais enviados pelo homem (ou pela máquina) para a máquina na verdade não se transformam em informação, embora eles sejam percebidos e embutidos nas estruturas cognitivas. Estes sinais permanecem como sinais ou continuam como informação potencial em suas estruturas lingüísticas.
+
+
+
+INTERAÇÃO HOMEM-COMPUTADOR
+
+Com o desenvolvimento da informática, o modelo da mente humana começou a ser aplicado ao computador. O cérebro e a mente humanos, por sua vez, têm sido comparados ao disco rígido e softwares dos computadores: "O cérebro é somente um computador digital e a mente é somente o programa de computador" (Searle, 1984, p.20).
+
+Na interseção da ciência da computação com a CI, tendo como base a aplicação dos computadores e da computação na RI, destacam-se as áreas da inteligência artificial (IA) e da interação homem-computador. A IA busca reproduzir a atividade mental do homem em tarefas como a compreensão da linguagem, a aprendizagem e o raciocínio. Essas tarefas estão associadas à CI e à CC no padrão de representação e nas atividades de processamento da informação, estabelecendo limites nos modelos de construção da representação do conhecimento.
+
+Como visto anteriormente, são várias as conceituações de IA. Para Minsky (1980)9, citado por Siqueira & Pereira (1989, p.42)
+
+" A inteligência artificial é a ciência que permite fazer com que as máquinas realizem tarefas que necessitariam de inteligência, se elas fossem efetuadas pelos homens".
+
+Siqueira e Pereira (1989, p.42) afirmam que
+
+"Inteligência artificial é a arte de escrever programas capazes de exibir um comportamento inteligente... é um ramo da engenharia do conhecimento e está ligada à ciência cognitiva, mantendo ligações privilegiadas com a lógica, a lingüística, a psicologia, a psicolingüística, a biologia e outras ciências".
+
+Finalmente, Gardner (1996, p.55) diz que a IA é
+
+"... a ciência construída em torno da simulação computacional, é por muitos considerada a disciplina central da ciência cognitiva e a que tem maior probabilidade de excluir, ou tornar supérfluos, outros campos de estudo mais antigos."
+
+De fato, podemos dizer que a IA é a arte e ciência de programar computadores para simular a inteligência humana. Atualmente, a IA está dividida em IA fraca e IA forte. A primeira concentra-se em técnicas de programação, enquanto a IA forte está mais preocupada com conceitos filosóficos da mente e do conhecimento.
+
+À CI interessam tanto a IA fraca quanto a IA forte. A primeira, como fonte de inovações nos sistemas de informação, como os sistemas inteligentes, hipertextos, bases de conhecimento, interfaces inteligentes e questões sobre a interação homem-computador. A segunda, como modelo teórico de cognição no qual a informação desempenha importante papel.
+
+Dentro do processo da recuperação da informação, é muito importante o sistema informacional possuir uma interface amigável. A abordagem cognitiva geralmente é utilizada em pesquisa na RI para descobrir características cognitivas no comportamento do usuário que busca informação, com objetivo de reformular a interface homem-computador e acomodar essas características. Dias (1994, p.1) define interface como "uma superfície de contato com a informação e também um envelope para o conteúdo, procurando-se adequar esta superfície aos fatores humanos envolvidos no processo de contato e às normas da organização da informação".
+
+
+
+CONCLUSÃO
+
+O campo da ciência da informação (CI) tem consolidado seus pontos de vistas e valores desde que ela foi reconhecida como uma disciplina social e científica no anos 60 e, mais recentemente, como uma área interdisciplinar que reúne a biblioteconomia, a ciência cognitiva (CC), a ciência da computação e a comunicação, com íntima dependência dos processos da comunicação humanos e da tecnologia no seu contexto contemporâneo. Entretanto, os profissionais da CI ainda não chegaram a uma concordância quanto a um paradigma consensual, muito menos hegemônico nessa área.
+
+A CC, também uma área nova que surgiu no anos 50, inclui valores das ciências humanas, sociais e exatas para explicar os processos mentais (LTM e STM). Diferentemente da CI, a CC já apresenta um paradigma bem aceito na comunidade científica. A experiência acumulada, investigações e testes experimentais utilizando abordagens cognitivas na CI já percorreram um percurso de mais de meio século.
+
+As possibilidades apontadas neste trabalho a partir da interseção entre a CI e a CC concentram-se nos processos de (1) categorização, (2) indexação, (3) recuperação da informação (RI) e (4) interação homem-computador, cujo potencial tem sido validado pelo campo da inteligência artificial (IA).
+
+
+
+REFERÊNCIAS
+
+ALLEN, Bryce L. Cognitive research in information science: implications for design. Annual Review of Information Science and Technology, v. 26, p. 3-37, 1991. 
+
+BELKIN, Nicholas J. The cognitive viewpoint in information science. Journal of Information Science, v. 16, p. 11-15, 1990. 
+
+BORGMAN, Christine L.; CHIGNELL, Mark H; VALDEZ, Felix. Designing in information retrieval interface based on children's categorization of knowlodge: a pilot study. In: ANNUAL MEETING OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE, 52., 1989. Washington, DC. Proceedings ... Medford, NJ : Learned Information, 1989. p. 81-87. 
+
+BORKO, H. Information science: what is it? American Documentation, v. 19, n. 1, p. 3-5, 1968. 
+
+BROOKS, B. C. Developing cognitive viewpoint in information science. In: INERNATIONAL WORKSHOP ON THE COGNITIVE VIWEPOINT. 1977, Belgium. [Belgium] : University of Ghent, 1977. p. 195-203. 
+
+CHRISTOVÃO, H. T. A ciência da informação no contexto da pós-graduação do IBICT. Cadernos do Programa de Pós-Graduação em Ciência da Informação, v. 1, n. 1, p. 25-30, jan./jun. 1995. 
+
+DANIELS, P. J. Cognitive models in information retrieval: an evaluative review. Journal of Documentation, v. 42, n. 4, p. 272-305, Dec. 1986. 
+
+DALBERG, I. Fundamentos teóricos-conceituais da classificação. Revista de Biblioteconomia, Brasília, v. 6, n. 1, jan./jun. p. 9-21, 1978. 
+
+DAVID, Claire et al. Indexing as problem solving: a cognitive approach to consistency. In: ANNUAL MEETING OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE, 58., 1995, Washington, DC. [Washington, DC], 1995. p. 49-55. 
+
+DIAS, Paulo. A abordagem da comunicação multidimensional na concepção e desenvolvimento de interfaces hipermedia. Disponivel em: <http://niee.educom.ufrgs.br/ribie98/CONG1994/volumeII/II3040.html>. Acesso em 05 dez. 2000. 
+
+ELLIS, David. The physical amd cognitive paradigmas in information retrieval research. Journal of Documentation, v. 48, n. 1, p. 45-64, Mar. 1992. 
+
+EUGÊNIO, Marconi; FRANÇA, Ricardo O; PEREZ, RUI C. Ciência da informação sob a ótica paradigmática de Thomas Kuhn: elementos de reflexão. Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p. 27-39, jan./jun. 1996. 
+
+FERREIRA, Aurélio Buarque de Holanda. Novo dicionário da língua portuguesa. Rio de Janeiro : Nova Fronteira, 1986. 
+
+FOSKETT, D. J. A ciência da informação como disciplina emergente: implicações educacionais: ciência da informação ou informática. Rio de Janeiro: Calunga, 1980. p. 53-69. 
+
+GARCIA MARCO, Francisco Javier; ESTEBAN NAVARRO, Miguel Angel. On some contributions of the cognitive sciences and epistomology to a theory of classification. Knowlodge of Information, v. 20, n. 3, p. 126-132, 1993. 
+
+GARDNER, Howard. A nova ciência da mente: uma história da revolução cognitiva. Sâo Paulo : EDUSP, 1996. 
+
+INGWERSEN, Peter. Cognitive perspectives of information retrieval interactions: elements as a cognitive IR theory. Journal of Documentation, v. 52, n. 1, p. 3-50, Mar. 1996. 
+
+_______. A cognitive view of three selected online search facilities. Online Review, v. 8, n. 5, 1984. 
+
+INGWERSEN, Peter. Information retrieval interaction. London : Taylor Graham, 1992. 
+
+______. Search procedure in the library – analysed from the cognitive point of view. Journal of Documentation, v. 38, n. 3, p. 165-191, Sept. 1982. 
+
+JACOB, Elin, K., SHAW, Debora. Sociocognitive perspectives on representation. Annual Review of Information Science and Technology, v. 33, p. 131-185, 1998. 
+
+MEY, Marc de. The cognitive paradgigm: na integrated understanding of scientific development Chicago : University of Chicago, 1992. 
+
+MOSTAFA, Solange P.; MOREIRA, Walter. Referenciais teóricos da área de informação. Transinformação, v. 11, n. 13, p. 1-13, jan./abril, 1999. 
+
+OGDEN C. K.; RICHARDS, I. A. O significado de significado: um estudo da influência da linguagem, sobre o pensamento e sobre a ciência do simbolismo. Rio de Janeiro : Zahar, 1972. 
+
+ORRICO, Evelyn G. Dill. Interdisciplinaridade: ciência da informação & linguistica. In: PINHEIRO, Lena Vania R. (Org.). Ciência da informação, ciências sociais e interdisciplinaridade. Brasília : IBICT, 1999. p. 143-154. 
+
+PIEDADE, M. A. Requião. Introdução à teoria da classificação. Rio de janeiro : Interciência, 1983. 
+
+REED. S. K. Cognition: theory and aplications. 3. ed. Pacific Groce : Brooks, Cole, 1992. 
+
+SANTOS, Boaventura de Sousa. Um discurso sobre as ciências. 9. ed. Porto : Afrontamento, 1997. 
+
+SARACEVIC, Tefko. Ciência da informação: origem, evolução e relações. Perspec. Ci. Inf., Belo Horizonte, v. 1, n. 1, p .41-62, jan./jun. 1996. 
+
+SEARLE, John. Minds, brains and science. Cambridge, MA : Harvard University, 1984. 
+
+SILVA, Júnia Guimarães e. Ciência da informação: uma ciência do paradigma emergente. In: PINHEIRO, Lena Vania R. (Org.). Ciência da informação, ciências sociais e interdisciplinaridade. Brasília : IBICT, 1999, p. 79-117. 
+
+SIQUEIRA, Idméa Semeghini Próspero; PEREIRA, Antonio Eduardo da Costa. Perspectivas de aplicação da inteligência artifical à biblioteconomia e à ciência da informação. Revista Brasileira de Biblioteconomia e Documentação, São Paulo, v. 22, n. 1/2, p. 39-80, jan./jun. 1989. 
+
+SMITH, Edward E.; MEDIN, Douglas L. Categories and concepts. Cambridge, Mass. : Havard University, 1981. 
+

@@ -58,7 +58,7 @@
 		<h2>Marca palavras e sintagmas nominais de um texto</h2>
     	<form action="Etiquetar" method="POST" >
     	<p> Digite ou cole o texto na área abaixo:</p>
-    		<textarea id="textarea" name="texto"  rows="20" cols="80" maxlength="60000" placeholder="Insira o texto aqui..."></textarea>
+    		<textarea id="textarea" name="texto"  rows="20" cols="80" maxlength="600000" placeholder="Insira o texto aqui..."></textarea>
       	<p>
         	<input type="submit" name="Submeter" value="Submeter texto" />
         	<input type="reset" name="Resetar" value="Resetar" />
@@ -69,9 +69,10 @@
 <%!
 
 	public List<String> extractSNSFromText(String texto, String caminho, String filename) {
+		texto = texto.replaceAll("[ \n\t\r]{2,}"," ");
 		String texto_etq = null;
-		texto_etq = JTreeTagger.getInstance(caminho + "/res/TreeTagger/").etiquetar(texto);//get texto etiquetado
-		
+		if (!texto.endsWith(".")) texto += ".";
+		texto_etq = JTreeTagger.getInstance(caminho + "/res/TreeTagger/").etiquetar(texto);
 	   	String resultado = JOgma.identificaSNTextoEtiquetado(texto_etq);
 	   	List<String> sns2 = new ArrayList<String>();
 	   	String[] frases = resultado.split(" ");
@@ -93,17 +94,22 @@
 
 	/* Extracts SNS from all .txt files in a directory. */
 	public List<List<String>> extractSNSFromDir(String dirPath, String stopFile, String caminho) throws Exception {
+		int i = 1;
 		File dir = new File(dirPath);
+		if (!dir.exists()) throw new Exception(dir.getAbsolutePath() + " not found");
 		File[] docList = MauiFileUtils.filterDir(dir, ".txt");
 		List<List<String>> allSNS = new ArrayList<>();
 		List<String> sns = null;
 		String docText = null;
 		for (File doc : docList) {
+			if (!doc.exists()) throw new Exception(doc.getAbsolutePath() + " not found");
 			docText = FileUtils.readFileToString(doc, "UTF-8");
-			docText = docText.replaceAll("[ \n\t\r]{2,}"," ");
-			sns = extractSNSFromText(docText, caminho, doc.getAbsolutePath());
+			System.out.println("Extracting SNS from document: " + doc.getPath());
+			sns = extractSNSFromText(docText, caminho, doc.getPath());
 			
-			if (sns.isEmpty()) throw new Exception("[ERROR]: No sns extracted from file '" + doc.getName() + "' located at " + doc.getAbsolutePath());
+			if (sns.isEmpty()) System.out.println("[ERROR]: No sns extracted from file '" + doc.getName() + "' located at " + doc.getAbsolutePath());
+			else System.out.println("Successufuly extracted sns from " + doc.getName() + ", " + i + " documents processed.");
+			i++;
 			allSNS.add(sns);
 		}
 		return allSNS;
@@ -127,7 +133,6 @@
 	String caminho = this.getServletContext().getRealPath("/WEB-INF");
 	System.out.println(caminho);
 	String stopFile = caminho + "/res/sn_stoplist.txt";
-	JTreeTagger.getInstance(caminho + "/res/TreeTagger/");
 	MPTCore.loadModel(caminho + "/data/models/standard_model");
 	MPTCore.setVocabPath(caminho + "/data/vocabulary/TBCI-SKOS_pt.rdf");
 	

@@ -1,0 +1,340 @@
+Estratégia de busca na recuperação da informação: revisão da literatura
+
+
+Resumo
+
+Os sistemas de recuperação de informação, também denominados de bancos de dados, apresentam uma complexidade indiscutível no processo de armazenamento e busca da informação, envolvendo uma série de aspectos que são interdependentes. Dentre estes, podem ser destacados os seguintes fatores: a tecnologia eletrônica conduz os usuários ao acesso democrático à informação ampliando a busca de informação em bases de dados geograficamente distantes; o alcance da qualidade na informação recuperada requer o planejamento de estratégias de busca específicas para cada base de dados. Esse artigo revisa a literatura publicada sobre estratégias de busca abordando os tópicos relativos a seus conceitos, suas principais técnicas e etapas para sua operacionalização.
+
+Palavras-chave
+
+Estratégia de busca; Recuperação da informação; Técnicas de estratégia de busca; Bases de dados; Artigo de revisão
+
+
+INTRODUÇÃO
+
+O acesso aos grandes sistemas de recuperação de informação, também denominados de bancos de dados e, conseqüentemente, às suas bases de dados veio ampliar significativamente a qualidade das buscas bibliográficas, visto que essas bases proporcionam diversificados pontos de acesso à informação. Esses sistemas possibilitam o planejamento de estratégias de busca com maior nível de complexidade envolvendo vários conceitos na mesma estratégia; permitem a utilização de busca de palavras apenas dos títulos e resumos dos documentos, isto é, termos da linguagem natural; buscam os termos específicos de linguagens controladas, nos campos de descritor; buscam por autores; por ano de publicação; por títulos de periódicos; por classificação; permitem, também, a busca de conceitos compostos ou simples e a possibilidade de truncagem de raízes de palavras e de substituição de caracteres no meio dos termos, dentre outros recursos de recuperação.
+
+A evolução histórica dos sistemas de recuperação da informação, segundo Lancaster (1993, p. 202) apresenta duas linhas principais de desenvolvimento. A primeira tem suas origens nos grandes sistemas de bases de dados desenvolvidas pelas instituições americanas: National Library of Medicine (NLM), Department of Defense (DOD) e pela National Aeronautics and Space Administration (Nasa), que indexavam suas bases de dados referenciais utilizando os thesauri específicos de suas áreas temáticas. A segunda linha teve o seu desenvolvimento no campo de direito e envolvia a geração da base de dados com o texto completo das leis. Tanto as bases de dados referenciais, quanto as textuais vão exigir um planejamento acurado da estratégia de busca, visando a uma recuperação de informação de acordo com as necessidades dos usuários.
+
+Os conteúdos de informação nos bancos de dados variam, de acordo com a diversidade temática das respectivas bases de dados oferecidas em cada banco. Algumas são orientadas para um determinado assunto, enquanto outras são orientadas para a missão da instituição que as desenvolvem, como, por exemplo, a base da agência americana sobre o meio ambiente Environmental Protection Agengy (EPA), que não se limita à indexação de documentos apenas em química, toxicidade ou saúde pública, porém amplia suas áreas temáticas para outros aspectos relacionados com sua missão de controle e regulamentação do meio ambiente. Esses e outros fatores devem ser levados em consideração no planejamento das estratégias de busca, assegurando a qualidade na recuperação da informação .
+
+A revisão da literatura versou sobre os seguintes tópicos: estudos teóricos e práticos sobre a estratégia de busca; estudos sobre as técnicas de planejamento da estratégia em bases de dados em linha e/ou em CD-ROM; e estudos sobre as etapas de elaboração da estratégia de busca. Na literatura nacional, o tema não tem sido objeto de estudo contínuo, motivo pelo qual foi enfatizada a literatura internacional. Modelos de estratégias de busca em bases de dados específicas e na World Wide Web não foram incluídos no presente estudo.
+
+
+
+ESTUDOS SOBRE ESTRATÉGIA DE BUSCA
+
+Objetivando situar o presente estudo no contexto da recuperação da informação, alguns conceitos fundamentais são apresentados para o entendimento da questão relacionada com o processo de planejamento das estratégias de busca, definindo-se os principais, como citados no Dicionário Aurélio Eletrônico1.
+
+Estratégia:
+
+1) arte militar de planejar e executar movimentos e operações de tropas, navios e/ou aviões, visando a alcançar ou manter posições relativas e potenciais bélicos favoráveis a futuras ações táticas sobre determinados objetivos; 2) arte militar de escolher onde, quando e com que travar um combate ou uma batalha; 3) arte de aplicar os meios disponíveis com vista à consecução de objetivos específicos.
+
+Busca:
+
+1) ato ou efeito de buscar; 2) procura com o fim de encontrar alguma coisa; 3) investigação cuidadosa: pesquisa, exame; 4) procura minuciosa: revista, exame; 5) movimento íntimo para alcançar um fim.
+
+Tática:
+
+1) parte da arte da guerra que trata da disposição e da manobra das forças durante o combate ou na iminência dele; 2) parte da arte da guerra que trata de como travar um combate ou uma batalha; 3) fig. processo empregado para sair-se bem num empreendimento.
+
+A partir desses conceitos, pode-se inferir que, para alcançar a resposta pretendida pelo usuário de informação, faz-se necessária a execução de movimentos e operações táticas, ora restringindo os resultados alcançados, ora ampliando-os para a obtenção de informações mais relevantes, conforme o pedido de busca demandado.
+
+No âmbito da recuperação da informação, a estratégia de busca pode ser definida como uma técnica ou conjunto de regras para tornar possível o encontro entre uma pergunta formulada e a informação armazenada em uma base de dados. Isto significa que, a partir de um arquivo, um conjunto de itens que constituem a resposta de uma determinada pergunta será selecionado.
+
+Bourne (1977) investigou o impacto dos erros ortográficos nas bases de dados bibliográficas e como eles afetam a produtividade das buscas em linha. Analisou erros ortográficos que ocorrem na linguagem natural, isto é, nos campos de títulos e resumos, assim como os que ocorrem nos campos de descritores das linguagens controladas. Relembra que os grandes bancos de dados oferecem múltiplas bases de dados para consulta, algumas com milhões de itens de informação, e que esses bancos desenvolveram linguagens de busca que permitem a consulta textual para pesquisa nas palavras contidas nos títulos, resumos e outros campos de dados. Afirma, ainda, que a disponibilidade e uso de todas essas facilidades têm contribuído para o desenvolvimento de linguagens de indexação associadas com essas bases de dados. Observa, entretanto, que a quantidade de erros de ortografia, formas variantes de palavras e mesmo erros ortográficos dos termos de indexação afetam consideravelmente os resultados das buscas. Lembra que, no índice impresso, essa alta incidência de erros ortográficos não é tolerada e, portanto, a mesma atitude deve ser mantida quanto ao índice das bases de dados.
+
+Constatamos, na vida profissional, que o usuário final está pouco habilitado a lidar com a incidência de erros ortográficos em bases de dados. O intermediário, que dispõe de maior habilidade para utilizar as linguagens controladas, obtém melhor desempenho em conseqüência do conhecimento prévio desses e de outros fatores durante o processo de planejamento e operacionalização da estratégia de busca.
+
+Harter (1984), em um estudo exploratório, analisou os diversos estilos de busca em linha, com ênfase no comportamento e atitude dos intermediários. Esse estudo revela que existem enormes diferenças entre os intermediários que operacionalizam as buscas. Os intermediários de instituições acadêmicas diferem daqueles de outros tipos de biblioteca, principalmente das especializadas, no que se refere ao aprofundamento das estratégias de busca.
+
+Esses resultados apresentados por Harter confirmam nossa observação pessoal ao longo de muitos anos atuando em programas de treinamento para o público das universidades brasileiras. Efetivamente, a superficialidade na abordagem dos temas solicitados pelos intermediários de bibliotecas acadêmicas está diretamente subordinado ao fato de a clientela atendida não exigir um maior aprofundamento nos resultados das buscas solicitadas. Entretanto, tal não ocorre com os intermediários de instituições especializadas onde o usuário, em um degrau profissional mais atuante, necessita aprofundar seus conhecimentos, muitas vezes, para solucionar problemas de laboratórios de pesquisa e desenvolvimento. Essa enorme diferença, como apontada pelo autor, influencia no planejamento dos programas de treinamento a serem oferecidos.
+
+Fidel (1986), em um estudo sobre sistemas especialistas desenvolvidos para auxiliar os usuários finais na consulta as bases de dados, demonstrou que a maioria desses sistemas é baseada na análise dos textos, e não nos modelos de busca humana. Por esse motivo, tais sistemas não podem processar os critérios relacionados com o pedido de busca e responder às questões relativas aos fatores de revocação e precisão. Uma análise do comportamento de busca dos intermediários revelou a rotina que utilizam no processo de seleção das chaves-de-busca quando optam por escolher termos e/ou conceitos da linguagem natural e/ou da linguagem controlada dentro de um conjunto de outras ações, que fazem parte do planejamento da estratégia de busca. A autora denominou essa etapa de Rotina de Seleção de Termos, afirmando que, com certos ajustes, ela pode ser automatizada, conduzindo o intermediário e/ou usuário para decisões adequadas quanto aos termos a serem incluídos no planejamento da estratégia de busca.
+
+Armstrong & Large (1988) organizaram um manual para os intermediários que executam as buscas, apresentando diversos modelos de estratégias de busca em bases de dados de engenharia, direito, multidisciplinares, de patentes e outras, enfatizando ainda o processo de entrevista dos usuários para as buscas nos sistemas de recuperação da informação.
+
+Bates (1987, 1988) conceituou a estratégia de busca como o "estudo da teoria, princípios e prática de planejar e executar táticas e estratégias de busca". A autora destaca-se na literatura por ter sido a primeira a definir teoricamente o conceito de estratégia de busca e a tática para a sua execução. Adaptando as definições ao ambiente de recuperação da informação, deu ênfase ao conceito de comportamento de busca, indagando: "o que as pessoas fazem, e como pode ser determinado o que elas pensam, quando estão executando uma busca de informação?" Nesse momento, cabe uma análise semântica dos principais termos que compõem o objeto de estudo, lembrando que o planejamento e a execução de uma estratégia de busca é uma "arte de escolher onde, quando e com que investigar cuidadosamente" a fonte de informação para alcançar os objetivos específicos do solicitante. A escolha de onde buscar, identificando qual a base de dados é a mais bem qualificada para atendimento das perguntas específicas do solicitante, depende de uma série de fatores relacionados com a abrangência de assunto e período da base, dos tipos de documentos indexados, da linguagem de indexação, dos campos de busca disponibilizados em determinado banco de dados e outros.
+
+Em um outro estudo sobre estratégias de busca, em 1990, Bates, separou o processo de busca em bases de dados em duas partes: uma realizada por indivíduos e a outra pelo sistema de recuperação. Observou que o processo de busca efetuado por pessoas é constituído por diferentes movimentos, táticas, estratagemas e estratégias. Definindo o movimento como um pensamento ou ação que é parte do processo de busca, demonstrou que a tática é composta por um ou mais movimentos executados no mesmo processo. O estratagema seria constituído pelo uso de múltiplas táticas e/ou movimentos, e a estratégia seria o planejamento que conteria os movimentos, as táticas e os estratagemas para a completa busca da informação. O processo de busca realizado pelo sistema de recuperação seria composto, entre outros, pela linguagem de busca do sistema e pela estrutura de informação da base de dados.
+
+Em um estudo mais recente, em 1990, Harter propôs uma metodologia para estudar os efeitos de seleção de termos e o ajuste dos resultados na recuperação da informação. Supondo que o agrupamento dos resultados de várias estratégias de busca formuladas por diferentes intermediários para um dado tema pode ocultar importantes relações, sugeriu então outras pesquisas para o aprimoramento da estratégia de busca.
+
+Wildemuth et alii (1991) analisaram o comportamento do usuário final no que concerne à formulação de suas frases de busca. Um estudo foi realizado para analisar como o usuário final se comporta quando está executando à sua própria estratégia de busca. Todas as táticas de busca foram identificadas visando à obtenção de dados que auxiliassem no desenvolvimento de programas de treinamento para os usuários finais. Observou-se que a preocupação com os problemas que afetam as buscas e com a obtenção de resultados mais satisfatórios vinham de longa data. No entanto, apesar dos estudos realizados para identificação de programas de treinamento que tornassem os resultados de busca dos usuários finais mais efetivos, não houve melhora no desempenho dos mesmos.
+
+Tenopir, Nahl & Howard (1991) aplicaram, em um experimento com usuários finais, uma medida de avaliação do comportamento dos mesmos durante o processo de planejamento e execução de suas próprias estratégias de busca. Nessa pesquisa, os usuários identificaram e descreveram como e por que foi escolhida cada estratégia. Os autores descreveram, ainda, a avaliação dos próprios usuários sobre a utilidade das referências recuperadas, comparando-as com as estratégias formuladas e operacionalizadas pelos mesmos.
+
+Figueiredo (1992), em um estudo sobre os serviços de referência, analisou o tema desenvolvimento da estratégia de busca, relacionando as falhas que ocorrem no processo de negociação com o usuário e sugerindo um roteiro básico para o planejamento das estratégias, similar ao sugerido por Fenichel (1979).
+
+Spink & Saracevic (1993), em uma série de experimentos sobre a seleção de termos e/ou conceitos para o planejamento da estratégia de busca de 1991 a 1993, estudaram usuários e intermediários em situações reais de buscas interativas em linha. Esses experimentos propunham-se a identificar em qual estágio do processo de busca os termos e/ou conceitos eram selecionados e de quais vocabulários controlados os mesmos eram obtidos. Analisaram, também, a seqüência na qual os termos eram selecionados nas diferentes linguagens controladas, para constatar a freqüência das mudanças ocorridas nessas seqüências. Afirmaram, baseados na prática profissional e em pesquisas, que a busca em sistemas de recuperação de informação é:
+
+"Um processo de alta complexidade envolvendo numerosos fatores e variáveis além de decisões e o entrelaçamento dos subprocessos inter-relacionados com a busca. Uma das chaves para um dos subprocessos é a da seleção de termos para a estratégia de busca que por sua vez é influenciada por outros fatores, particularmente os relacionados com os resultados. Sintetizam essa questão com uma pergunta para as investigações: - Que termos de busca devem ser selecionados para um determinado tema que represente efetivamente o problema de informação do usuário?" (Spink & Saracevic, 1993, p. 63).
+
+Essas e outras questões foram analisadas para a identificação de: padrões do discurso interativo entre os usuários e os intermediários; efeitos de diferentes variáveis no processo de recuperação e de obtenção dos resultados; guias para melhorar o desempenho das interações entre os mesmos; padrões de seleção dos termos para a estratégia de busca e da seqüência da escolha dos mesmos e das fontes desses termos.
+
+Esses experimentos analisados por Spink & Saracevic vêm contribuindo para o entendimento da complexidade do processo de busca. Porém, diversas outras implicações práticas podem ser mencionadas no contexto de recuperação em bases de dados. As primeiras estão relacionadas com os intermediários que operacionalizam as buscas, pois os mesmos devem ter o conhecimento continuamente aprofundado sobre as diferentes fontes de linguagens controladas e suas estruturas hierarquizadas ou não, para que os termos e/ou conceitos da estratégia de busca sejam os termos utilizados pelos indexadores no processo de entrada dos documentos na base.
+
+Outra implicação, nesse contexto, está diretamente relacionada com os usuários, que devem ser informados detalhadamente sobre todo o processo de busca. Dessa forma, eles poderão participar ativamente dessas ações, compreendendo sua complexidade, as limitações das bases e as interações que devem ser efetuadas para o alcance dos resultados desejados da busca. Uma terceira implicação está relacionada com o processo de entrevista, quando devem ser explicadas ao usuário todas essas negociações com as bases e os sistemas visando a assegurar a compreensão do problema e a utilização de todos os termos e/ou conceitos possíveis de serem usados na estratégia de busca para a obtenção de resultados satisfatórios.
+
+Ojala (1995) analisou os diversificados recursos de busca oferecidos pelos sistemas em linha que podem afetar a decisão do intermediário e/ou do usuário final na escolha do melhor sistema para a realização de uma busca de informação em uma determinada base de dados. Mencionou alguns fatores, como as variações no uso de operadores booleanos, o uso de operadores de proximidade, a quantidade de frases da estratégia de busca que podem ser operacionalizadas e outras. Em um outro estudo, em 1996, a autora analisou a influência do ritmo da busca dos intermediários e as implicações sobre as suas escolhas, em relação a bancos de dados, as bases a serem utilizadas e a própria elaboração da estratégia de busca.
+
+Wildemuth & Moore (1995) realizaram um estudo sobre as estratégias de busca utilizadas por usuários finais na base de dados Medline. Esse estudo tinha o objetivo de identificar as técnicas de planejamento da estratégia de busca, relacionando-as com a efetividade dos resultados obtidos, e revelou que, apesar da satisfação do usuário final com os seus próprios resultados de busca, ocorreram inúmeras falhas no planejamento da estratégia. Os recursos da base de dados foram totalmente subutilizados, e os resultados dos intermediários, comparados com o grupo de usuários finais, foram mais efetivos.
+
+Still (1996) realizou um estudo comparativo sobre o planejamento da estratégia de busca em livros-texto americanos e ingleses. Alertou para as formas diferenciadas de busca usando palavras-chave e/ou vocabulários controlados nos documentos, enfatizando as variações de palavras e as grafias dos termos.
+
+Nicholas (1996) apresentou uma análise comparativa sobre a estratégia de busca realizada por profissionais de informação e por usuários finais. Comparou os estilos de busca de cada grupo e revelou que o usuário final pesquisa de forma muito limitada no uso dos comandos, porém eles são mais econômicos e rápidos. Revelou, ainda, que o usuário final tem um comportamento e estilo de busca bastante generalista.
+
+Ward (1996) realizou um programa de treinamento sobre estratégia de busca a ser utilizado em várias bases de dados referenciais com o objetivo de tornar o usuário final mais independente para a realização de suas próprias buscas.
+
+Dimartino & Zoe (1996) apresentaram um estudo sobre as técnicas de estratégia de busca utilizadas pelo usuário final treinado, para verificar se eles estão ou não capacitados para executar as buscas efetivamente. Concluíram que 55% dos usuários finais ficam insatisfeitos com suas próprias buscas.
+
+Nahl & Tenopir (1996) analisaram o comportamento afetivo e cognitivo de usuários finais inexperientes, durante o processo de recuperação da informação em bases de dados textuais. A preparação e execução da estratégia de busca de cada usuário final proporcionaram uma análise qualitativa de cada etapa de busca, caracterizando as estratégias de acordo com os atos afetivos, cognitivos e sensório-motores de cada participante dos grupos estudados.
+
+Simon & Valdez-Perez (1997) investigaram um programa interativo de estratégia de busca em bases de dados que facilita a descoberta de informação especializada previamente desconhecida, porém de interesse científico. A partir dos títulos de documentos recuperados, o programa estabelece entradas possíveis de busca na base de dados, produzindo uma série de sugestões heurísticas que auxiliam na seleção de um segundo conjunto de artigos complementares ao primeiro resultado.
+
+Scwarzwalder (1997) propôs aos intermediários uma abordagem que os leva a agregar valores nas buscas realizadas para seus usuários. A partir do processo de entrevista, quando é possível detectar a real necessidade de informação do usuário, esse profissional obtém os resultados da busca e os analisa, sintetiza e avalia.
+
+Kennedy & Cole (1997) apresentaram um método para identificar todas as etapas de preparação da estratégia de busca em bases de dados em linha, em CD-ROM e nos OPACs. Esse método é totalmente dependente das necessidades de informação de cada usuário, ensinando-o a focalizar o seu problema para a elaboração da estratégia de busca.
+
+Yuan (1997) analisou o efeito da experiência de busca do usuário final e o seu comportamento no uso de sistemas de recuperação. A análise de um grupo de usuários novos e de usuários mais experientes não revelou resultados significativos entre os dois grupos, pois a quantidade de erros na formulação da busca ocorreu igualmente com os novos e com os experientes usuários finais.
+
+Kennedy & Cole (1999) examinaram diversas técnicas de estratégias de busca, comprovando que o intermediário que executa a busca para o usuário final interfere no pedido original de informação provocando uma incompatibilidade com as necessidades de informação desse usuário final.
+
+Bates (1999) salienta as dificuldades relacionadas com as habilidades de pesquisa em bases de dados e apresenta um breve roteiro com as qualidades necessárias para o intermediário que planeja e executa a estratégia de busca.
+
+Tenopir (2001) destaca as implementações realizadas nas bases de dados bibliográficas que objetivam proporcionar ao usuário final novas facilidades de acesso ao texto completo dos documentos nessas bases. Em um outro estudo (2000), a autora discute a importância do planejamento da estratégia de busca pelo intermediário, destacando a experiência prévia dos mesmos, com as correspondentes versões impressas das bases de dados. Relaciona ainda as fontes de informação que oferecem texto completo dos documentos, analisando também as tendências para os periódicos eletrônicos.
+
+Cabe destacar que esses estudos realizados em plena era do acesso à informação por meios eletrônicos, em que os usuários navegam na Internet com desenvoltura, ainda revelam as dificuldades inerentes ao processo de recuperação da informação em bases de dados. Apesar dos intensivos programas de treinamento oferecidos pelos produtores das bases de dados, pelos próprios sistemas de recuperação em linha, de toda a documentação existente sobre as características de cada base de dados e suas respectivas estruturas de informação, dos sistemas amigáveis que oferecem "menus" para guiar o usuário em cada etapa do processo de busca, das linguagens de busca com recursos especiais para se aproximarem cada vez mais do usuário inexperiente, o processo de busca continua apresentando um fator de dificuldade que ainda não foi minimizado pelas novas tecnologias disponíveis.
+
+
+
+TÉCNICAS DE ESTRATÉGIA DE BUSCA
+
+No planejamento da estratégia de busca, algumas ações ou táticas precisam ser criteriosamente relacionadas, principalmente com a seleção de termos e/ou conceitos e com as restrições e/ou limites determinados pelo solicitante entre outras questões.
+
+Bates (1974 e 1979) conceituou tática como um plano idealizado para a efetivação de uma busca, sendo que esse plano pode ser bem-sucedido ou não. A tática de busca requer do intermediário um constante julgamento na sua utilização, pois o mesmo tem que tomar a decisão sobre o melhor momento de implementá-la durante o processo de busca. Caso não seja usada no momento correto, existe o risco de que a tática de busca se torne inapropriada, e isto só pode ser detectado durante a execução do processo de busca. Nesses artigos, a autora definiu e analisou cerca de 13 táticas de busca. Entre outras, as de registro, de levantamento, de vizinho, de "ressoletrar" e a de "reespaçar".
+
+Em um outro artigo de 1978, Bates analisou o conceito de tática de busca distinguindo-a de estratégia de busca. Descreveu alguns testes realizados com grupos de usuários executando buscas manuais, com o objetivo de avaliar se essas táticas de busca ampliariam ou não o desempenho de um sistema específico de recuperação de informação.
+
+Markey & Atherton (1978) apresentaram um manual com o objetivo de treinar usuários e intermediários nas estratégias de busca em linha. A base de dados ERIC foi utilizada na investigação, e o estudo financiado pelo próprio produtor da base permitiu que, após esses experimentos, fosse elaborado o manual de treinamento da base ERIC, via banco de dados Dialog, com o objetivo de fornecer um roteiro seguro para o aperfeiçoamento dos intermediários. Esse manual possui várias sessões, sendo constituído por um modelo completo do processo de busca com as técnicas de formulação da estratégia, também citadas em Hawkins & Wagers (1982), e exercícios variados para cada etapa de busca, conduzindo o intermediário de forma segura no uso e no conhecimento da base.
+
+Dolan (1980), Schiffmann (1985) & Curnutt (1991) descreveram uma técnica de busca denominada "hedges", desenvolvida pela National Library of Medicine, que consiste no agrupamento de um conjunto de termos de busca, específicos de um assunto para futura utilização, e que pode ser aplicada em qualquer área de assunto. Esses "hedges" são escolhidos para definir grupos de termos relacionados que ocorrem em vários níveis de hierarquias das linguagens controladas e, normalmente, não estão reunidos nos diversos thesauri sob um mesmo conceito.
+
+Dolan (1980) exemplificou com o conceito relacionado a "pessoal", formando um conjunto de termos contendo mais de 50 (cinqüenta) possíveis termos de busca, que são usados por diversas linguagens controladas das bases de dados. O armazenamento desse conjunto de termos, que representam o conceito "pessoal", pode ser feito única vez em uma estratégia de busca e reutilizado para diferentes temas de busca relacionados com esse conceito.
+
+Uma significativa economia de custos pode ser obtida com essa técnica nas bases de dados em linha, pois esse agrupamento de termos para representar o conceito fica armazenado indefinidamente sob a senha do usuário. Sua utilidade nas bases em CD-ROM também é visível e possível, ampliando consideravelmente as possibilidades de recuperação da informação.
+
+Em um artigo, de revisão no ARIST, Bates (1981) salientou a inexistência de estudos sobre técnicas de busca. Definindo os vários aspectos relacionados com o tema, tais como mecânica da busca, formulação de busca, estratégia de busca e perfil de busca, a autora destacou alguns trabalhos realizados por Fenichel (1979, 1980) referentes ao comportamento do intermediário que executa a busca. Por esse motivo, esse artigo foi considerado por Bates como uma revisão sob a ótica psicológica das técnicas de busca, já que sua tentativa de analisar o tema, passando por tópicos, como busca física, psicologia de busca, estratégias em linha, uso do vocabulário controlado e termos livres, busca bibliográfica em índices de citações, heurística de busca e questões de busca e texto, não elucidou como o intermediário idealiza e executa a técnica de busca.
+
+Hawkins (1978) e Hawkins & Wagers (1982) apresentaram algumas técnicas para formulação da estratégia de busca e foram assim intituladas: construção em blocos, fracionamento sucessivo, crescimento da pérola de citação e pesquisa interativa. Essas técnicas representam apenas a parte mecânica da estratégia, e os autores não definem se os termos utilizados podem ser os da linguagem natural ou os da controlada. Apesar disso, são extremamente úteis para ajudar no raciocínio lógico usado com os operadores booleanos, mas não substituem o processo associativo feito anteriormente, no momento da identificação dos conceitos e suas relações. Os autores utilizam a expressão "crescimento da pérola de citação" para descrever uma técnica de busca similar à do "levantamento" designada por Bates (1974, 1979). Em Hawkins, parte-se de um único termo e/ou conceito, identificando-se pelo menos uma citação relacionada com o tema de busca. Nessa citação, outros termos e/ou conceitos são extraídos para ampliar o espectro de informação sobre o tema solicitado. Dessa forma, a primeira citação é considerada como uma pérola que vai conduzir a outras citações permitindo o crescimento do resultado de busca.
+
+Oldroyd & Schroder (1982) analisaram diversas técnicas de estratégia de busca e as possibilidades de uso dos operadores de proximidade dos bancos de dados, os quais permitem a combinação lógica de termos em qualquer ordem, além da busca nas frases dos títulos ou dos resumos e a combinação de descritores e suas subdivisões específicas, mencionando ainda o uso dos operadores booleanos e os recursos de truncagem de termos.
+
+Knap (1984) investigou a técnica de planejamento da estratégia de busca utilizando as citações mencionadas nas bases de dados do Institut for Scientific Information (ISI).
+
+Fidel (1984), em um estudo de caso relacionado com o comportamento do intermediário na operacionalização das estratégias de busca em linha, descreveu dois modelos de estilo de busca: o operacionalista e o conceitualista. Baseado na sistemática observação de intermediários experientes no momento da operação das estratégias de busca, esse estudo pode ser considerado como um ponto de partida para investigar tópicos gerais na recuperação da informação.
+
+Em um estudo posterior, Fidel (1985, p. 62) definiu o modelo operacionalista como "um movimento que usa as características do sistema de recuperação com o objetivo de modificar o conjunto recuperado sem mudar o significado conceitual que ele representa". Ao passo que o modelo conceitualista é definido como aquele que modifica o conjunto recuperado pela mudança de significado do conceito que ele representa. Analisando a estratégia de busca em bases de dados em linha, a autora detectou todas as etapas de operacionalização das estratégias, denominando-a técnica de "mover". Afirmou que a mais importante vantagem da busca em linha é "que os intermediários podem revisar suas estratégias definidas anteriormente ao longo do processo de busca em qualquer etapa da mesma". A técnica "mover" está diretamente relacionada com os dois estilos de busca: operacionalista ou conceitualista.
+
+Todos esses "movimentos" foram examinados e relacionados com as táticas de busca definidas por Bates (1974, 1979) e com as técnicas de estratégias de busca preconizadas por Markey & Atherton (1978) e por Hawkins (1978) e Hawkins & Wagers (1982).
+
+Kirkbride (1991) mencionou alguns dos critérios para seleção de bancos e bases de dados, alertando para as dificuldades inerentes ao processo de escolha dos termos para a estratégia de busca. Afirmou que a formulação de estratégia de busca depende do tema de pesquisa e da linguagem de busca dos diversos bancos de dados em disponibilidade. Portanto, é necessário um conhecimento minucioso das técnicas de estratégia de busca, dos prós e contras da estratégia no texto completo dos documentos, da busca em linguagem controlada, da política de indexação, da cobertura de assunto das bases de dados e das características das linguagens de recuperação dos diversos sistemas disponíveis. Em algumas ocasiões, um tema de pesquisa ou um tipo de formato solicitado exigem uma pré-seleção da base e do banco de dados, antes mesmo de se planejar qual técnica será usada na formulação da estratégia de busca. A autora sugeriu determinadas ações para a busca em bases de dados textuais, para as bases que utilizam vocabulários controlados, para a busca em linguagem natural e apresentou como regras de sobrevivência para o intermediário os seguintes requerimentos: flexibilidade, criatividade e habilidade lingüística.
+
+Harter & Cheng (1996) apresentaram um novo conceito e técnica para recuperação da informação denominado descritores "colinked". Esses descritores identificam termos de busca que hipoteticamente podem ser superiores àqueles inicialmente selecionados pelo intermediário. A teoria sobre esses descritores sugere a movimentação automática de um ou mais termos de busca para outros termos que devem ser superiores no desempenho da recuperação, sobre os termos usados originalmente. Esse estudo encontra-se ainda em fase experimental, e seus resultados preliminares têm sido promissores. Em uma revisão mais recente, Harter (1998) apresenta as diversas implementações efetuadas nos sistemas de recuperação da informação, enfatizando a necessidade de atualização nas linguagens de recuperação, tendo em vista sua disponibilidade na World Wide Web.
+
+Convém destacar que outros procedimentos técnicos permitem refinar e completar a equação da pesquisa, estando diretamente relacionados com os recursos da linguagem de busca da base e/ou do banco de dados e ainda com a especificidade do tema da pesquisa, a saber: ponderação ou atribuição de pesos nos descritores; a vinculação com outros termos e as restrições e/ou limitações por idioma, ano de publicação e outras. Existem inúmeras maneiras de economizar tempo de computador, devendo ser observado que o tempo de conexão com a base/banco e o do intermediário têm um custo, e, por esse motivo, estar conectado pelo menor tempo possível em cada base de dados vai assegurar a utilização de mais bases de dados que podem ser acessadas pelo mesmo valor. Além disso, recursos como o uso da truncagem do termo permitem a utilização da raiz da palavra para recuperar todas as possibilidades de expansão da mesma, podendo ser empregado esse recurso para reduzir o número absoluto de palavras em uma estratégia de busca e, portanto, menos tempo de input no terminal.
+
+Pode-se também economizar tempo e dinheiro com o uso de uma estratégia "universal" , isto é, uma estratégia planejada para ser operacionalizada em várias bases de dados de áreas correlatas. A estratégia "universal", quando empregada com comandos específicos de reexecução da busca nos bancos de dados ou nas bases em CD-ROM, é muito eficiente. Os comandos específicos para execução dessa operação dependem do sistema a ser acessado, mas são fáceis de aprender e podem economizar tempo de conexão, pois as palavras são digitadas apenas uma vez na estratégia de busca. Nas bases em CD-ROM do mesmo fornecedor, esses recursos também são oferecidos, implicando um estudo prévio dos campos de busca de cada base a ser consultada. Ao optar pelo uso desta técnica, deve-se estar certo de que a estratégia de busca pode ser transferida para outras bases de dados em que os campos que identificam cada item de um registro de informação podem ser reutilizados.
+
+A experiência do intermediário, do analista de informação e/ou do usuário final com as obras básicas de referência, combinada com um bom conhecimento das específicas bases de dados e com as linguagens de busca dos sistemas de recuperação da informação, permite aos mesmos a realização de buscas de qualidade nos sistemas em linha. Entretanto, o intermediário deve estar adequadamente preparado para trabalhar em conjunto com o solicitante da busca e, também, dedicar a maior parte do próprio tempo e esforço na estruturação da estratégia antes da conexão com o banco/base de dados.
+
+A preparação tática da estratégia de busca, bem como a seleção do banco/base de dados a ser consultada para responder a uma pergunta específica, exige do intermediário toda uma gama de conhecimentos especializados: idiomas, conhecimento da estrutura da informação na base de dados, conhecimento da linguagem de busca do banco de dados, instrumentos de auxílio para identificação da terminologia a ser usada, lógica booleana e demais recursos disponibilizados para a obtenção dos resultados esperados pelo solicitante. A implementação da estratégia de busca, portanto, requer do intermediário pré-requisitos intelectuais e pessoais para operacionalização da mesma, por exemplo, raciocínio lógico, autoconfiança, serenidade, além de outros atributos citados na literatura especializada.
+
+
+
+ESTRATÉGIA DE BUSCA - ETAPAS
+
+Oldroyd & Citroen (1977) identificaram três grandes etapas para decisão no processo de planejamento da estratégia de busca: decisão sobre qual a melhor base de dados para um determinado tema; decisão referente à seleção dos termos de busca e sua adequação para a base a ser consultada; decisão sobre a formulação lógica da estratégia.
+
+Adams (1979) recomendou que a estratégia de busca deve ser iniciada com a etapa de entrevista, na qual serão explicadas ao usuário as possibilidades de busca sobre o seu tema de interesse, a abrangência da base de dados e o funcionamento da lógica da pesquisa.
+
+Knox & Hlava (1979) demonstraram que a definição clara e precisa da necessidade de informação do usuário é fundamental para o planejamento e execução da estratégia de busca, sugerindo, entre outras, as seguintes etapas: entrevista para discussão do problema; manipulação dos documentos da base a ser consultada; formulação de uma estratégia preliminar; explanação sobre as possibilidades de restrição e/ou expansão do tema de busca; determinação dos parâmetros relevantes da busca.
+
+Kremer (1985) descreveu as etapas para o planejamento de estratégias de busca que podem ser utilizadas, em princípio, em qualquer banco de dados, relacionando os principais problemas que ocorrem no processo de busca e sugerindo a avaliação dos resultados obtidos.
+
+Tenopir (2000) apresenta os novos tipos de serviços e produtos de informação eletrônicos disponibilizados na Internet, ressaltando os que são disponibilizados pelos grandes bancos de dados em um cenário previsto para os próximos cinco anos.
+
+Para o planejamento da estratégia de busca, a identificação apropriada dos elementos descritivos de um item e/ou registro de informação contido em uma base de dados é de fundamental importância. Assim, a primeira etapa será verificar a documentação da base a ser consultada, a fim de identificar a codificação definida pelo banco de dados para cada campo do item de informação.
+
+Uma preparação adequada é indispensável tanto para a busca computadorizada quanto para a busca manual. Tipicamente, o pesquisador não é a pessoa que opera o terminal de computador, por conseguinte o técnico, intermediário ou cientista da informação deve assegurar uma definição adequada do tópico antes de começar a elaboração de uma revisão especializada da literatura em bases de dados em linha, ou em CD-ROM.
+
+Ajudar o pesquisador a definir clara e precisamente o problema é muito importante para a formulação de uma efetiva estratégia de busca. Apenas em raras ocasiões pode ser desejável conhecer algo acerca de algum problema. A maneira como se assessora o usuário na definição ou limitação do problema vai afetar as atividades efetuadas no momento de operacionalização da busca em linha, ou mesmo nos índices manuais impressos.
+
+É sabido que a maior parte dos usuários, ao dirigir-se a um serviço de informação, acredita possuir uma boa compreensão dos próprios problemas. Assim sendo, a tarefa imediata do intermediário junto aos sistemas é ajudar o usuário a definir e especificar o problema, com termos e conceitos que são apropriados para aquela fonte de informação específica que será utilizada para a busca. Ou seja, os termos usados em uma determinada área do conhecimento devem ajustar-se àqueles usados nas bases de dados mais relevantes que serão consultadas.
+
+Para a preparação da estratégia de busca, o usuário deve fornecer preferencialmente, em um formulário específico, os seguintes dados: escrever um título sucinto; escrever uma pequena definição do problema; listar os termos mais apropriados para o tópico de interesse; listar os termos que não são desejados. A partir desses dados, o intermediário poderá executar a busca de informação de uma forma relativamente simples. E, se vários dos maiores autores que publicam sobre o assunto solicitado puderem ser relacionados, então a busca será muito mais eficiente. Infelizmente, porém, essas condições são raríssimas.
+
+A seguir, são apresentadas orientações organizadas em etapas, que podem ajudar o intermediário da busca e o pesquisador a definir o problema, contribuindo, portanto, para acentuar a qualidade da busca.
+
+1a Etapa: Discussão do tópico geral da pesquisa
+
+Uma entrevista, mesmo uma chamada telefônica, pode eliminar muitos problemas. Se o tópico da busca não tiver sido claramente intitulado, definido e descrito pelo usuário, então é tarefa do intermediário ajudar a fazê-lo. É útil perguntar como os resultados da busca irão ser aplicados, porque a resposta pode mudar a direção ou a ênfase da busca.
+
+2a Etapa: Conhecimentos básicos sobre os instrumentos de busca
+
+Se o pesquisador se familiarizar com alguns dos instrumentos básicos de auxílio para a busca em seu campo, por exemplo, um thesaurus, isto pode ajudar a definir o tópico e gerar uma lista das palavras-chave a serem usadas na estratégia de busca. O pesquisador deve selecionar os termos que especifiquem o problema por causa do seu grande conhecimento do assunto; o intermediário deve ajudar, mas não deve definir o assunto, porque, na maioria das vezes, a definição obtida para o tema difere completamente do pesquisador.
+
+3a Etapa: Formulação "provisória" da estratégia de busca
+
+Após o pesquisador ter fornecido um tópico claro e descritores válidos, o intermediário pode formular uma estratégia de busca inicial (tentativa). A busca está bem definida se o intermediário for capaz de assegurar a recuperação de todas as citações para vários termos. Mas, tipicamente a informação mais complexa, aquela que requer a interseção de, pelo menos, dois conjuntos de termos, é desejável. Neste caso, o intermediário tem que ajudar o pesquisador a agrupar termos similares em um só conjunto e, sucessivamente, pode agrupar outros termos similares em outros conjuntos até alcançar a resposta solicitada. Porém, é realmente desejável é que a informação solicitada ocorra em ambos os conjuntos ao mesmo tempo.
+
+4a Etapa: Compreensão da lógica dos conjuntos de termos
+
+O intermediário deve ajudar o usuário a compreender as propriedades básicas da teoria dos conjuntos tal como é usada nas estratégias de busca por computadores. O uso da interseção de mais de dois conjuntos de termos deve ser evitado, porque, embora os resultados possam ser bem precisos, eles são muito limitados e podem provocar uma possível exclusão de informações relevantes.
+
+5a Etapa: Interdisciplinaridade
+
+Os intermediários que executam a busca nos sistemas precisam conhecer sobre os campos de pesquisa correlatos e como usá-los para responder a questões que demandam buscas interdisciplinares. Freqüentemente o pesquisador não está familiarizado com os campos de pesquisa relacionados; cabe, portanto, ao intermediário propor a expansão da busca para estes outros campos, aumentando, conseqüentemente, as possibilidades de documentos de interesse virem a ser recuperados.
+
+6a Etapa: Eliminação de termos indesejados
+
+Existem várias maneiras de se eliminarem termos indesejados de uma busca. Se o pesquisador não está interessado em citações sobre um determinado conceito, o intermediário pode eliminar do resultado final todas as citações que tiverem o termo citado. Mas existem problemas com este enfoque. Ocasionalmente, ambos os termos ocorrerão na mesma citação. Nesse caso, o solicitante deve ser avisado sobre esses possíveis problemas. Com o solicitante, o intermediário examinará a necessidade de exclusão de termos afins com o tema pesquisado. Os termos indesejados serão excluídos do resultado da busca depois de se ver o impacto dessa exclusão no resultado total da busca. A decisão para excluir termos nem sempre é fácil e, visualmente, depende da especificação do tópico.
+
+7a Etapa: Especificação dos parâmetros relevantes para a execução da busca
+
+Todos os parâmetros relevantes devem ser considerados para se determinarem os limites da busca. Quanto, em termos de recursos financeiros, pode ser gasto na busca? Deve a busca ser limitada nos anos mais recentes? Quais as bases de dados que provavelmente irão fornecer as mais relevantes citações? O pesquisador quer todas as citações que mencionam uma autoridade particular ou somente as que são autorizadas por uma pessoa particular? O pesquisador deve responder a estas questões, devidamente assistido pelo intermediário nessa tomada de decisões, que anotará todos os detalhes para o posterior planejamento da estratégia de busca.
+
+Essas etapas estão baseadas na experiência profissional adquirida e são como um roteiro sugerido para uso, por usuários e/ou intermediários iniciantes nas buscas em bases de dados em CD-ROM ou em linha. Em um programa de treinamento no uso de bases de dados, torna-se aconselhável seguir uma orientação que inclua todas as fases de negociação com o usuário da informação, a fim de se obterem resultados satisfatórios. Essas etapas podem ser categorizadas como pré-requisitos indispensáveis para o planejamento das estratégias de busca.
+
+
+
+CONCLUSÕES
+
+Observa-se que muitos autores desenvolveram estudos abordando as técnicas de planejamento das estratégias de busca, suas etapas e operacionalização, sem enfocar, entretanto, as implicações relacionadas com as próprias linguagens de recuperação do banco de dados onde as bases estão hospedadas, deixando de mencionar a estrutura de informação de cada base em um determinado sistema de recuperação de informação.
+
+Na segunda metade da década de 90, os estudos sobre o planejamento da estratégia de busca com ênfase no usuário final se ampliaram, destacando-se, dentre outros, os experimentos de Wildemuth & Moore (1995), Nicholas (1996), Nahl & Tenopir (1996) e Yuan (1997).
+
+Estudos sobre a importância do planejamento das estratégias de busca para bases de dados em linha ou em CD-ROM têm sido citados na literatura especializada, enfatizando-se os recursos das tecnologias da informação para a solução das questões relacionadas com a qualidade dos resultados e, conseqüentemente, com a satisfação dos usuários. Os bancos de dados, por outro lado, têm desenvolvido sofisticados recursos em suas linguagens de busca, objetivando ampliar as possibilidades de recuperação da informação para suas bases , oferecendo inclusive recursos para análises estatísticas e bibliométricas.
+
+As técnicas de busca, identificadas por Bates (1974, 1979, 1981, 1987), as recomendações de Oldroyd (1977, 1982), Kennedy & Cole (1999), Knox & Hlava (1979), os experimentos efetuados por Fenichel (1980), Ojala (1995, 1996), Harter (1984, 1996), as investigações realizadas por Fidel (1984, 1985), Tenopir (1985, 1991) e Spink & Saracevic (1993), entre outros, indicam que o planejamento da estratégia de busca obedece a padrões mínimos para a consecução de seus objetivos, ou seja, o alcance de resultados finais satisfatórios para os usuários da informação.
+
+
+
+REFERÊNCIAS
+
+ADAMS. A. L. Planning search strategies for maximum retrieval from bibligraphic databases. Online Review, v. 3, n. 4, p. 373-379, Dec. 1979. 
+
+ARMSTRONG, C. J. ; LARGE, J. A. (Ed). Manual of online search strategies. Boston : G.K. Hall, 1988. 
+
+BATES, Marcia J. How to use controlled vocabularies more effectively in online searching. Online, v. 12, n. 6, p. 45-56, Nov. 1988. 
+
+__________. How to use information search tactics online. Online, v. 11, n. 5, p. 47-54, May 1987. 
+
+__________. Information search tactics. JASIS, v. 30, n. 4, p. 205-214, 1974. 
+
+__________. Idea tactics. JASIS, v. 30, n. 5, p. 281-289, 1979. 
+
+__________. Search techniques. ARIST, v. 16, p. 139-169, l981. 
+
+__________. The testing of information search tactics. In: ASIS ANNUAL MEETING 41st, 1978. New York, Proceedings... New York, 1978. p. 25-27. 
+
+__________. Where should the person stop and the information search interface start? Information Processing and Management, v. 26, n. 5, p. 575-591, 1990. 
+
+BATES, M. E. The making of a super searcher. Searcher, v. 7, n. 10, p. 33-35, 1999. 
+
+BOURNE, C. Frequency and impact of spelling errors in bibliographic databases. Information Processing and Management, v. 13, p. 1-12, 1977. 
+
+CURNUTT, G. L. Reactive chemical hedges: a search tool for comprehensive retrieval of chemical safety data. Journal or Chemical Information and Computer Sciences, v. 31, n. 1, p. 116-119, 1991. 
+
+DICIONÁRIO AURÉLIO ELETRÔNICO. Rio de Janeiro : Nova Fronteira, 1996. versão 2.0. 
+
+DIMARTINO, D.; ZOE, L. R. End-user full-text searching: access or excess? Library and Information Science Research, v. 18, n. 2, p. 133-149, 1996. 
+
+DOLAN, D. R. Hedges for online searching. Database, v. 3, n. 1, p. 79-82, Mar. 1980. 
+
+FENICHEL, C. H. Before you touch the terminal: flowchart of the search formulation process. Database, v. 2, n. 4, p. 86-88, 1979. 
+
+__________.The process of searching online bibliographic databases, a review of research. Library Research, v. 2, p. 107-127, 1980. 
+
+FIDEL, Raya. Online searching styles: a case-study-based model of searching behavior. JASIS, v. 35, n. 4, p. 211-221, 1984. 
+
+__________. Moves in online searching. Online Review, v. 9, n. 1, p. 61-74, 1985. 
+
+__________. Towards expert systems for the selection of search keys. JASIS, v. 37, n. 1, p. 37-44, l986. 
+
+FIGUEIREDO, N. Serviços de referência & informação. São Paulo : Polis, 1992. p. 71, 97, 104. 
+
+HARTER, S. P. Information retrieval systems. Annual Review of Information Science and Technology, v. 32, p. 3-94, 1998. 
+
+__________. Online searching styles: an exploratory study. College & Research Libraries, v. 45, n. 4, p. 249-258, July 1984. 
+
+__________. Scientific inquiry: a model for online searchig. JASIS, v. 35, n. 2, p. 110-117, Mar. 1984. 
+
+__________. Search term combinations and retrieval overlap: a proposed methodology and case study. JASIS, v. 41, n. 2, p. 132-146, l990. 
+
+__________; CHENG, Y. R. Colinked descriptos: improving vocabulary selection for end-user searching. JASIS, v. 47, n. 4, p. 311-325, Apr. 1996. 
+
+HAWKINS, D. T. Multiple database searching: techniques and pitfalls. Online, v. 2, n. 2, p. 1-15, 1978. 
+
+__________; WAGERS, R. Online bibliographic search strategy development. Online, v. 6, n. 3, p. 10-15, May 1982. 
+
+KNAP, S. D. Cocitation searching: some useful strategies. Online, v. 8, n. 4, p. 43-48, July 1984. 
+
+KENNEDY, L.; COLE, C. Connecting online search strategies and information needs: a user-centered, focus-labeling approach. RQ, v. 36, n. 4, p. 562-568, Summer 1997. 
+
+__________. Reference and user services quarterly. v. 38, n. 3, p. 267-273, 1999. 
+
+KIRKBRIDE, P. Full text, free text and controlled vocabulary strategic search planning. In: ONLINE/CD-ROM 91. Chicago : Online, 1992. p. 73-78. 
+
+KNOX, D. R.; HLAVA, M. K. Effective search strategies. Online Review, v. 3, n. 2, p.148-152, 1979. 
+
+KREMER, J. M. Estratégia de busca. Revista Escola Biblioteconomia UFMG, Belo Horizonte, v. 14, n. 2, p. 187-220, set. 1985. 
+
+LANCASTER, F. W. Indexação e resumos: teoria e prática. Brasília : Briquet de Lemos/Livros, 1993. 
+
+MARKEY, K.; ATHERTON, P. Online training and practice manual for ERIC data base searchers. Syracuse : Syracure University, 1978. 
+
+NAHL, D. Creating user-centered instructions for novice end-users. Reference Services Review, v. 27, n. 3, p. 280-286, 1999. 
+
+__________; TENOPIR, C. Affective and cognitive searching behavior of novice end-users of a full-text database. JASIS, v. 47, n. 4, p. 276-286, Apr. 1996. 
+
+NICHOLAS, D. Are information professionals really better online searchers than end-users? Oxford : Learned Information, 1996. p. 383-387. 
+
+OJALA, M. The rhythm of searching. Online, v. 20, n. 4, p. 52-54, July/Aug. 1996. 
+
+__________. Who's hosting this search? Online, v. 19, n. 4, p. 88-92, 1995. 
+
+OLDROYD, B. K; CITROEN, C. L. Study of strategies used in online searching. Online Review, v. 1, n. 4, p. 295-310, 1977. 
+
+__________; SCHRODER, J. J. Studies of strategies used in online searching. 2. Positional logic. Online Review, v. 6, n. 2, p. 127-133, Apr. 1982. 
+
+SCHIFFMANN, G. N. Hedges... the sometimes ignored search technique that can save a lot of time. Online, v. 9, n. 6, p. 40-41, Nov. 1985. 
+
+SCWARZWALDER, R. Adding value to your online results. Database, v. 20, n. 1, p. 47-49, Feb./Mar. 1997. 
+
+SIMON, H. A.; VALDES-PEREZ, R. E. Scientific discovery and simplicity of method. Artificial Intelligence, v. 91, n. 2, p. 183-203, Apr. 1997. 
+
+SPINK, A.; SARACEVIC, T. Dynamics of search term selection during mediated online searching. In: ASIS ANNUAL MEETING, 56th, 1993, Columbus. Proceedings... New York, 1993. v. 30, p. 63-72. 
+
+STILL, J. A. A comparison of online search strategy formation as presented in British and American textbooks. Microcomputers for Information Management, v. 13, n. 3-4, p. 301-310, 1996. 
+
+TENOPIR, C. Are you a super searcher? Library Journal, v. 125, n. 4, p. 36-38, 2000. 
+
+__________. Finding full text for articles. Library Journal, v. 126, n. 6, p. 34-36, 2000. 
+
+__________. Links and bibliographic databases. Library Journal, v. 126, n. 4, p. 34-36, 2001. 
+
+__________. Online databases: trends for the next five years. Library Journal, v. 125, n. 16, p. 38-40, 2000. 
+
+__________. Searching Harvard business review: online... lessons in searching a full text database. Online, v. 9, n. 2, p. 71-78, Mar. 1985. 
+
+__________; NAHL, J. D.; HOWARD, D. L. Strategies and assessments online: novices's experience. Library and Information Science Research, v. 13, n. 3, p. 237-266, July/Sept. 1991. 
+
+WARD, D. M. More to research than ERIC: a quick attack on database dependency. Research Strategies, v. 14, n. 2, p. 108-11, Spring 1996. 
+
+WILDEMUTH, B. M. et al. A detailed analysis of end-user search behaviours. IN: ASIS ANNUAL MEETING, 54th, 1991, New York. Proceedinngs... New York, 1991. v. 28, p. 302-331. 
+
+WILDEMUTH, B. M.; MOORE, M. E. End-user search behaviors and their relationship to search effectiveness. Bulletin of the Medical Library Association, v. 83, n. 3, p. 294-304, July 1995. 
+
+YUAN, W. End-user searching behavior in information retrieval: a longitudinal study. JASIS, v. 48, n. 3, p. 218-234, Mar. 1997. 
+

@@ -1,0 +1,226 @@
+Biblioteca híbrida: um novo enfoque no suporte à educação a distância
+
+Resumo
+
+Discute-se o papel das bibliotecas híbridas no contexto atual, em face das transições pelas quais passam as bibliotecas convencionais, principalmente pelo surgimento da Internet e pela intensificação dos cursos no ensino a distância nas universidades, resultado do incremento da utilização da tecnologia da informação e comunicação no ensino. Enfoca-se a importância da flexibilização dos bens e serviços que devem ser oferecidos pelas bibliotecas híbridas para atender às necessidades de uma diversidade de tipos de usuários existentes na educação a distância.
+
+Palavras-chave
+
+Biblioteca híbrida; Tipos de usuários; Bens e serviços.
+
+
+INTRODUÇÃO
+
+Vive-se em uma época de profundas inquietações, na qual as reais necessidades do homem e das organizações modificam-se com a explosão permanente dos processos de mudança e com a constante inovação tecnológica. Tais mudanças também atingem as bibliotecas, que colaboram com a educação a distância, facilitando o acesso às diferentes fontes de informação. Os profissionais que atuam em bibliotecas acadêmicas confrontam-se com novas perspectivas de atendimento às necessidades de seus usuários, geradas com o advento da Internet, já que estas passaram a atender, além dos usuários locais, os usuários a distância, "tornando-se, deste modo, importantes âncoras das instituições de ensino". (Tiffin & Rajasingham apud Blattmann & Dutra, 1999, p. 2).
+
+As bibliotecas brasileiras devem ser parte ativa do universo globalizado à medida que o desenvolvimento se agiganta pela Internet. O acesso a novos bens e serviços* de informação, inteiramente eletrônicos, está cada vez mais distante das tipologias e formatos tradicionais, confrontando um espaço virtual operado progressivamente pelas chamadas bibliotecas não convencionais, de modo a atender às necessidades específicas de informação de seus usuários. Todavia, é importante focalizá-las, em se tratando de bibliotecas acadêmicas, quando se deparam com vários tipos de usuários, os off campus, os remotos e os presenciais, uma vez que os mesmos têm necessidade do contato com as bibliotecas convencionais e seus recursos para facilitar e concretizar suas pesquisas locais, porque o meio impresso ainda é muito mais abrangente, mais rico e mais seguro em relação ao meio digital, em contrapartida o meio digital possibilita o acesso mais rápido e menor custo na posse da informação. É importante fazer uma analogia entre o uso da biblioteca convencional e o da digital, pois mudou o paradigma do acesso e do meio (suporte). Os serviços tradicionais têm sido modificados, e novos serviços estão sendo introduzidos.
+
+Por este motivo, o conceito de biblioteca híbrida parece ser o mais adequado para satisfazer as atuais necessidades informacionais de transição pelas quais as bibliotecas convencionais vêm passando, e ela vem conciliar os tipos de atividades desenvolvidas pelos cursos a distância. Os usuários, na lógica do desenvolvimento atual, precisam do tipo de integração de serviços que as bibliotecas híbridas proporcionam.
+
+Levy (apud Cunha, 1997, p. 197) argumenta que a "atual definição de biblioteca digital é muito restrita e não irá satisfazer as necessidades futuras dos usuários. Assim, ele propõe que haja uma integração das mídias (documentos híbridos)"(grifo do autor).
+
+De acordo com Rusch-Feja (1999), a biblioteca híbrida deve integrar o acesso a diferentes tecnologias para o mundo da biblioteca digital e através de diferentes mídias. O nome biblioteca híbrida deve refletir o estado transacional da biblioteca, que hoje não pode ser completamente impressa nem completamente digital. Portanto, neste artigo, objetiva-se enfocar a importância do papel das bibliotecas híbridas no atendimento aos vários tipos de usuários dos cursos a distância, por meio da flexibilização dos bens e serviços oferecidos e da integração dos suportes impresso e digital, nesse momento de transição por que passam as bibliotecas convencionais.
+
+
+
+COMPARTILHAMENTO DE RECURSOS NAS BIBLIOTECAS HÍBRIDAS
+
+Para Rusbridge (1998), as bibliotecas híbridas devem propiciar uma vasta gama de interfaces, incluindo diferentes tipos e formatos de informação, descritos a seguir:
+
+• Online Public Access Catalogue - OPAC local (telnet/web);
+
+• Curl Online Public Access Catalogue - Copac - catálogo unificado (telnet/web), isto é, participação em consórcios, pois permite que uma comunidade acadêmica use os recursos bibliotecários de outras instituições, locais e regionais; neste caso, pode-se utilizar cartões para reconhecer o usuário como membro daquele consórcio, para que ele obtenha todas as facilidades propiciadas individualmente por biblioteca;
+
+• catálogo regional virtual unificado (web);
+
+• CD-ROMs e disquetes offline;
+
+• CD-ROMs de redes;
+
+• serviços completos de textos;
+
+• sistemas de reservas eletrônicas;
+
+• grupos de dados remotos nos centros de dados comunitários;
+
+• grupos de dados remotos em outras universidades;
+
+• grupos de dados remotos comerciais;
+
+• grupos de dados locais, por exemplo, bibliografias, coleções de panfletos e arquivos;
+
+• documentos locais, baseados na Web, de bibliotecas e instituições;
+
+• portais locais de recursos da Web;
+
+• portais remotos da Web de matérias/recursos;
+
+• recursos remotos da Web;
+
+• jornais eletrônicos remotos;
+
+• livros eletrônicos, locais e remotos.;
+
+• livros: para emprestar, para referências e disponíveis para empréstimos entre bibliotecas;
+
+• jornais impressos;
+
+• coleções especiais, mapas, slides, gravações de áudio e vídeo;
+
+Segundo o mesmo autor, é muito importante integrar estas mídias e acabar com a incompatibilidade existente entre as várias fontes de informações, devido a inúmeras estruturas de direção e de fundos, podendo haver união entre as bibliotecas públicas, acadêmicas, museus e arquivos, entre o governo, setores acadêmicos, comerciais, editores e fornecedores de dados. É essencial trabalhar para integrar o acesso dos usuários finais à informação, tanto quanto for possível, pois existe uma variedade enorme de informações disponíveis, e o papel da biblioteca acadêmica é tornar estes recursos acessíveis. "A biblioteca tem um papel no mundo digital assim como no mundo impresso, não apenas excluindo o acesso ao lixo, mas encorajando caminhos de acesso à qualidade". (Rusbridge, 1998, p. 10).
+
+Os bens e serviços oferecidos aos usuários devem ser integrados (biblioteca híbrida) proporcionando a flexibilização necessária para a oferta de serviços de qualidade, que agreguem valor, adaptados à diversidade de usuários e diferentes locais para viabilizar o produto, com foco no cliente, já que cada pessoa ou grupo tem uma diferente necessidade de informação (figura 1). E este é o papel dessas bibliotecas: identificar pequenos grupos de usuários e oferecer serviços mais especializados de valor agregado, com grande flexibilidade e criatividade em sua realização e forma, por meio do diagnóstico do que o usuário deseja, realizado de uma forma continuada.
+
+
+
+
+
+Para Sabbatini (1999), o sistema futuro terá de unificar materiais de muitas bibliotecas existentes em diferentes formatos, linguagem, e sumarizar a informação encontrada de tal modo que se torne fácil e rápido para o usuário navegar pelo mesmo.
+
+Os gerenciadores de informações estão muito preocupados em conceituar bibliotecas, nomeando-as das mais variadas formas, de acordo com suas características. Porém, o que os usuários realmente querem é que suas expectativas sejam atendidas, não lhes importando o que se passa no back-room**, se a biblioteca é virtual, eletrônica, digital, convencional ou assim por diante. E, se estas mídias não estiverem integradas, sempre existirão falhas na prestação dos serviços, e o atendimento às expectativas dos usuários não terá a qualidade esperada.
+
+O compartilhamento de recursos (informacionais e tecnológicos) é o único meio para enfrentar a situação presente e para conhecer as demandas de usuários das bibliotecas, assegurando acesso aos recursos disponíveis em várias bibliotecas, acadêmicas, especiais e públicas. Isto só será possível mediante esforços em comum de todas as unidades informacionais existentes, pois a utilização dessas instalações, infra-estrutura e recursos possibilitará, ao usuário, cada vez mais pesquisas relevantes, sendo esperado que permaneçam ativas nos feriados e no período noturno, para suprir as necessidades dos usuários remotos e off campus, sem a imposição de um custo financeiro adicional.
+
+
+
+FLEXIBILIZAÇÃO DE SERVIÇOS EM BIBLIOTECAS HÍBRIDAS
+
+O termo flexibilidade descreve a habilidade que uma biblioteca tem para oferecer diferentes bens e serviços, de acordo com as necessidades individuais ou grupais de seus usuários. Quanto maior a habilidade de flexibilização, maior será a satisfação do cliente, uma vez que a biblioteca estará excedendo as suas expectativas. Em síntese, as empresas que se sobressaem no conhecimento estreito dos usuários combinam esse conhecimento detalhado com a flexibilidade operacional de modo que possam responder com rapidez à praticamente qualquer necessidade, desde a recuperação de um documento, passando pela personalização de um produto, até à satisfação de exigências especiais.
+
+Portanto, faz-se necessário que as bibliotecas acadêmicas extrapolem os limites da estratégia convencional, procurem visualizar o futuro e criem mecanismos para alcançar o propósito de atender às necessidades e expectativas de seus usuários. Cabe a elas estabelecer uma estrutura adequada à nova filosofia e dar os primeiros passos em busca da melhoria continuada, planejando adequadamente seus bens e serviços dentro de uma nova ótica, ou seja, prevendo, tendo uma visão holística, redesenhando suas atividades e seus processos, simplificando-os, agilizando-os e tornando-os mais eficazes e flexíveis. A qualidade dos produtos informacionais deve ser pensada já na etapa do projeto, sendo fundamental diagnosticar necessidades antes da implementação de novos bens e serviços, dispondo de estrutura adequada às ações que serão realizadas.
+
+A biblioteca híbrida é designada para agregar diferentes tecnologias, diferentes fontes, refletindo o estado que hoje não é completamente digital, nem completamente impresso, utilizando tecnologias disponíveis para unir, em uma só biblioteca, o melhor dos dois mundos (o impresso e o digital).
+
+
+
+O PROCESSO DE PRESTAÇÃO DE SERVIÇOS PARA CADA TIPO DE USUÁRIO
+
+As bibliotecas acadêmicas, para competir no mercado, devem flexibilizar suas operações de serviços e, com isto, ampliar sua faixa de mercado, ou seja, elas devem possuir operações diferenciadas para cada tipo de usuário (eficácia), uma vez que estes possuem necessidades e expectativas individualizadas. Elas terão de se adaptar aos novos tempos para ir ao encontro das necessidades dos novos usuários deste final de século, e para isso as bibliotecas híbridas têm seu papel inovador nessa fase transacional.
+
+Neste sentido, a educação do futuro deverá dar mais ênfase ao papel da busca e ao acesso à informação, pois as bibliotecas que já estavam sendo desafiadas pelo impacto das novas tecnologias têm agora de repensar o seu papel diante do crescimento e da complexidade dos novos usuários, advindos da Internet e da educação a distância.
+
+Portanto, apresenta-se uma classificação de usuários de bibliotecas acadêmicas, descrevendo-se como cada tipo de usuário procede para buscar informações, são eles: usuário presencial, off campus, remoto e bibliotecas cooperantes e participantes (que fazem parte de consórcios ou de redes de informações).
+
+• Usuário presencial - São pesquisadores, alunos e professores das instituições de ensino, que podem ser intermediados ou não pelos gerenciadores da informação na busca por informação e que estão geograficamente próximos à sede física da biblioteca.
+
+O processo de acesso à informação, para o usuário presencial, inicia-se com uma pergunta de referência, que pode ser de autor, título, assunto e localização; o bibliotecário analisa o assunto, seleciona as palavras-chave e escolhe as ferramentas disponíveis para proceder às buscas ou orienta o usuário para proceder a tais operações; utiliza as fontes internas e/ou externas: catálogos Opac (Online Public Access Catalogue), Copac (Curl Online Public Access Catalogue), recursos remotos da Web e canais informais; obtém a informação, em resumo ou full text, e, quando não é suficiente, reinicia a pesquisa (figura 2).
+
+
+
+
+
+• Usuário off campus - São professores, alunos e pesquisadores que se encontram distantes geograficamente das bibliotecas, mas estão inseridos nos programas de ensino, pesquisa e extensão das instituições educacionais, que também podem ou não ser intermediados pelos gerenciadores da informação.
+
+O processo de acesso à informação, para o usuário off campus, inicia-se via Internet, correio eletrônico, telefone e fax, ou mesmo localmente em bibliotecas consorciadas; o usuário efetua a busca por informação, que pode ser por meio de acesso às bases de dados, como biblioteca híbrida (digital e local), isto é, fontes internas e/ou catálogos Opac local (Online Public Access Catalogue) (telnet/web) e Copac (Curl Online Public Access Catalogue), recursos remotos da Web e canais informais, que estão disponibilizados no home site das bibliotecas acadêmicas; escolhe a(s) base(s) e efetua a pesquisa; obtém a informação, se estiver disponibilizada, e/ou solicita a informação; se a informação não for relevante, reinicia a pesquisa (figura 3).
+
+
+
+
+
+• Usuário remoto - São pesquisadores e profissionais liberais que podem ter ou não vinculação com a instituição provedora; o contato pode ser virtualmente, por correio eletrônico, telefone e fax.
+
+O processo de acesso à informação, para o usuário remoto, inicia-se com uma pergunta ao gerenciador da informação por meio de acesso às bases de dados, como biblioteca híbrida (digital e local), isto é, fontes internas e/ou catálogos Opac local (telnet/web) e Copac, recursos remotos da Web e canais informais, que podem estar disponibilizados no home site das bibliotecas acadêmicas; escolhe a (s) base (s) e efetua a pesquisa; obtém a informação, se estiver disponibilizada, e/ou solicita a informação; se a informação não for relevante, reinicia a pesquisa (figura 4, a seguir).
+
+
+
+
+
+• Bibliotecas participantes e cooperantes - Bibliotecas que também são usuárias e prestam atendimento, simultaneamente, tanto a seus usuários locais, off campus e remotos, bem como às bibliotecas que participam de sistemas de rede. O processo de acesso à informação para as bibliotecas participantes e cooperantes: as bibliotecas participantes utilizam e disseminam os serviços prestados pelas bibliotecas provedoras das redes e as cooperantes alimentam essas bases. Estas últimas gozam de vantagens competitivas em relação à primeira, como treinamentos, pagamento reduzido pelos serviços oferecidos pela provedora, entre outras.
+
+O processo das bibliotecas cooperantes e participantes inicia-se com uma pergunta ao bibliotecário local. Este utiliza todos os recursos locais, regionais, eletrônicos e impressos, bem como disponibiliza os bens ou serviços solicitados, enviando a informação por fax, e-mail e correio, de acordo com a demanda informacional (figura 5, a seguir).
+
+
+
+
+
+ACESSO À INFORMAÇÃO EM BIBLIOTECAS HÍBRIDAS
+
+As bases de dados constituem ferramentas indispensáveis para a busca da informação, que podem se apresentar como uma coleção de textos completos ou citações bibliográficas, acompanhadas ou não de resumos, no formato digital ou impresso, que podem ser acessadas remotamente ou mesmo por meio de buscas locais. As informações podem estar armazenadas em meios ópticos ou magnéticos, local ou remotamente em um sistema de bibliotecas, redes que representem acervos de bibliotecas ou compilações de informações - como a Internet.
+
+A integração de suportes para a prestação de produtos oferecidos no front office das unidades de informações agrega valor à informação, pois é claramente percebida pelo usuário tanto presencial, off campus, quanto remoto. Esta integração tem sido observada na literatura e nas experiências vivenciadas, ressaltando-se que grande parte das unidades de informações existentes executa tal prática, que tem características de bibliotecas híbridas (ver figura 6, a seguir).
+
+
+
+
+
+Para ter acesso à informação, é necessário que se utilizem estratégias de busca, tanto por parte dos usuários quanto dos profissionais da informação. Para Rowley (1994), o objetivo das estratégias de busca é recuperar um número suficiente de registros relevantes; evitar que sejam recuperados registros irrelevantes; recuperar um número excessivo de registros; recuperar um número insignificante de registros. Isto aponta a importância da elaboração de uma estratégia de busca apropriada, com descritores e cabeçalhos de assuntos adequados e colocados à disposição dos usuários para alcançar o fim desejado, pois constata-se, na prática, que quanto menor o índice de recuperação da informação, maior a sua relevância.
+
+A extensão da busca dependerá da intensidade que o usuário julgar necessária, da quantidade inicial de informação disponível e dos custos e benefícios que forem percebidos. O ritmo acelerado da produção do conhecimento e as transformações da sociedade exigiram que as bibliotecas implantassem infra-estrutura compatível com a demanda crescente, incorporando novas tecnologias que proporcionassem o acesso mais rápido à informação. Portanto, um dos objetivos específicos dos serviços de bibliotecas é minimizar o tempo de entrega de documentos o mais rapidamente possível ao usuário. Dado este objetivo, podemos supor que a satisfação do usuário é diretamente proporcional ao tempo de entrega de documentos solicitados. Define-se, então, acessibilidade como o grau de dificuldade experimentado pelo usuário para obter o que procura.
+
+De acordo com Ramos (1999), os bibliotecários ainda não se conscientizaram da importância do fator tempo na obtenção da informação pelos usuários, princi-palmente nos dias de hoje, quando se apresenta uma realidade totalmente voltada à competitividade e qualidade dos serviços buscados. No contexto atual, não se admite mais a falta de tecnologia para agilizar o processo de recuperação e acesso à informação, onde quer que ela esteja. "As abordagens sobre o uso centram-se na percepção da utilidade e na dificuldade que impelem ou dificultam a adoção de novas tecnologias" (Castellani, Silva & Brito (1997), Lamb (1996)). A tecnologia permite acelerar os processos informativos, fazê-los mais exatos e exaustivos, condensar maiores volumes de informação em espaços mais reduzidos, para facilitar sua transmissão, armazenamento, conservação e, sobretudo, para que se possa obter a informação o mais rapidamente possível, na forma, conteúdo, volume e lugares, onde se necessita.
+
+Segundo Oberhofer (1983), sob a ótica do usuário, a acessibilidade pode ser avaliada em termos de custos, que podem ser medidos em duas dimensões diferentes:
+
+- custo em termos de tempo gasto - corresponde ao tempo gasto pelo usuário na busca de informações, identificação e localização de itens procurados;
+
+- custo em termos do atraso experimentado - está relacionado à distribuição do tempo empregado, tais como reservas, empréstimo entre bibliotecas, prazo de retenção etc., que compõe o tempo de espera para a obtenção do documento.
+
+Roberts (1973), Lancaster (1974) e Wood (1971) recomendam que o tempo de resposta é fator importante da efetividade. Não é suficiente que a biblioteca satisfaça a demanda de seus usuários; é necessário que o faça em tempo útil. Uma descoberta altamente generalizável é a de que os serviços de informação são basicamente escolhidos para uso em função de seu acesso físico e de uso fácil - princípio do menor esforço - muito mais do que por ter a informação mais útil ao usuário. Conforme estes mesmos autores, descobriu-se que os executivos e o público em geral não têm à sua disposição as condições para um acesso ilimitado a fontes de informações, com interfaces amigáveis. E estes preferem serviços facilitadores, selecionados, com valor agregado, talvez pela convicção de que a busca da informação requer tempo e esforço, porque vivemos em um universo caracterizado pela abundância de dados e pouca objetividade. Por conseguinte, quanto mais fácil o uso, melhor para o usuário, que age sempre de acordo com a lei do menor esforço.
+
+A formulação eficaz da estratégia de busca exige conhecimento do assunto, das bases de dados e da bibliografia; portanto, deve ser realizada pelo usuário treinado ou pelo bibliotecário (Ramos, 1999). Para Miranda (1996), é muito importante desenvolver sistemas de comunicação que permitam reduzir as barreiras atuais para que sejam mais compatíveis e flexíveis, objetivando facilitar a transferência de dados ao nível multidisciplinar e interinstitucional, incluindo a possibilidade de multiplicar catálogos coletivos que simplifiquem as buscas de informações. Na atualidade, tem-se que navegar por diversos catálogos que requerem informações de buscas às vezes exclusivas e intransferíveis de uma base para outra, redundando em perda de tempo, de dinheiro e na impossibilidade de utilizar uma excessiva quantidade de fontes existentes por dificuldades técnicas.
+
+
+
+VANTAGENS APRESENTADAS PELAS BIBLIOTECAS HÍBRIDAS
+
+São muitas as vantagens oferecidas pelas bibliotecas híbridas, uma vez que na educação a distância é necessário atender a uma diversidade de usuários. Dentre elas, citam-se as mais relevantes:
+
+• acesso fácil, pois disponibilizam a informação específica em suas bases;
+
+• disponibilizam e selecionam os melhores sites da Internet, sob a ótica do usuário;
+
+• agilizam as operações, ficando a critério do usuário o tempo de recebimento das informações, graças às facilidades apresentadas pela tecnologia da informação;
+
+• por sua cobertura nacional, regional, local e internacional, elas oferecem na hora a informação, tanto por meio de citações, que podem ser sinaléticas ou analíticas, ou texto na íntegra, nos formatos eletrônicos e impressos;
+
+• associam-se com bibliotecas, centros de informações, arquivos, museus etc., para disponibilizar acervos tanto virtuais, quanto para atendimento de usuários que residem próximo às mesmas, agregando maior abrangência de sua área de competência, diferenciando mais seus serviços, ampliando-os, importando as tecnologias desses centros, com isso, agregando maior valor na prestação de seus serviços;
+
+• formam alianças, por meio de redes e consórcios inter-bibliotecas, também propiciam a ampliação do grau de abrangência e maior acesso a uma variedade de bens e serviços;
+
+• personalizam atendimento, por meio de perfis de usuários, que podem ser tanto manuais como eletrônicos (knowbot);
+
+• passam a ter vantagens competitivas, por seu pioneirismo no mercado, difusoras de novas tecnologias;
+
+• tornam-se mais eficazes, porque objetivam adequar seus produtos às necessidades e expectativas de seus usuários;
+
+• são mais eficientes, uma vez que flexibilizam suas operações utilizando recursos internos e externos na produção de informações adequadas às necessidades e expectativas de sua clientela;
+
+• são prestadoras de serviços, porque, em sua função primordial, está a de armazenar e disponibilizar a informação, visando a atender a um público específico, de forma precisa e rápida, já que a informação só tem valor quando absorvida em tempo hábil.
+
+
+
+Artigo aceito para publicação em 29-01-2001
+
+
+
+REFERÊNCIAS
+
+BORBA, M. do S.de A. Recursos humanos em bibliotecas: treinamento. In: SEMINÁRIO NACIONAL DE BIBLIOTECAS UNIVERSITÁRIAS, 7., 1991, Rio de Janeiro. Anais... Rio de Janeiro : UFRJ, 1992. 
+
+CASTELLANI, M. R.; SILVA, S. M. da.; BRITO, M. J. de. Redes de comunicação eletrônica (Internet), aspectos culturais em pesquisa acadêmica: um estudo entre professores e alunos da FEA-USP. São Paulo : ENAMPAD, p. 187-102, 1997. 
+
+COOPER, R et al. Library users-needs and expectations. Library Trends, Summer 1998. 
+
+GARCEZ, E. M. S. Identificação de necessidades e expectativas de usuários de bibliotecas nos cursos de educação a distância. 2000. 143 f. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina, Florianópolis, 2000. 
+
+LAMB. R. Informational imperatives and socially mediated relationships. Information Society, v. 12, p. 17-37, 1996. 
+
+LANCASTER, F. W. Assessment of technical information requirements of users. In: REES, A. (Ed.). Contemporary problems in technicals library and information centers: management a state of the art. Washington : ASSIS, 1974. 
+
+MIRANDA, A .L. C. de. Globalización y sistemas de información: nuevos paradigmas y nuevos desafios. Ciência da Informação, Brasília, v. 25, n. 3, p. 308-313, set./dec. 1996. 
+
+OBERHOFER, C. A. Acessibilidade de documentos e satisfação da demanda: um modelo de avaliação. Revista de Biblioteconomia de Brasília, Brasília, v. 11, n. 1, p. 19-33, jan./jun. 1983. 
+
+RAMOS, M. E M. (Org). Tecnologia e novas formas de gestão em bibliotecas universitárias. Ponta Grossa : UEPG, 1999. 257 p. 
+
+ROBERTS, D. E. H. An analysis of the request and reservation service of Nottighmshire County Library. Journal of Librarianship, v. 5, n. 1, p. 9-27, jan. 1973. 
+
+ROWLEY, J. Informática para bibliotecas. Brasília : Briquet de Lemos/Livros, 1994. 
+
+RUSCH-FEJA, D. Digital libraries:informatioform de zunkunft fur die informationsversorgung und informationsbereitstellung? Disponível em: < http://www.b-i-t-online.de/archiv/1999-02/fachbeit/rushfeja/artikel.htm>. Acesso em: 19 jun. 2000. 
+
+RUSBRIDGE, C. Towards the hybrid library. D-Lib Magazine, Jul./Ago. 1998. 
+
+SABATTINI, R. Bibliotecas digitais. Disponível em: <http://www.epub.org.br/correio/cp990605.htm>. Acesso em: 26 out. 1999. 
+
+WOOD, D. N. User studies: a review of the literature from 1966-1970. Aslib Proceedings, v. 23, n. 1, p. 11-23, Jan. 1971. 

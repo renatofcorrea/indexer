@@ -1,0 +1,468 @@
+Information literacy: princípios, filosofia e prática
+
+
+RESUMO
+
+Surgida na literatura em 1974, a information literacy liga-se à necessidade de se exercer o domínio sobre o sempre crescente universo informacional. Incorporando habilidades, conhecimentos e valores relacionados à busca, acesso, avaliação, organização e difusão da informação e do conhecimento. A information literacy é a própria essência da competência em informação. O objetivo deste trabalho é definir a information literacy a partir do entendimento do conceito, objetivos e práticas relacionadas, com ênfase no papel educacional das bibliotecas e do bibliotecário. Inicialmente, apresenta-se a evolução do conceito segundo um referencial histórico. Examina-se a information literacy enquanto processo de interiorização de conhecimentos, habilidades e valores ligados à informação e ao aprendizado. Define-se a expressão, suas características e objetivos. Discutem-se diferentes concepções de information literacy, segundo três referenciais: informação, conhecimento e aprendizado. Em seguida, são elencados pontos relevantes de atuação de bibliotecas e bibliotecários na implementação de uma educação voltada para a information literacy. Explorando a information literacy education, evidencia-se a necessidade de construção de um novo paradigma educacional ante a sociedade atual que incorpore a competência em informação.
+
+Palavras-chave: Information literacy; Competência em informação; Alfabetização informacional; Biblioteca aprendente; Bibliotecário educador; Sociedade de aprendizagem; Habilidades informacionais.
+
+
+INTRODUÇÃO
+
+A informação passou a ser reconhecida como elemento-chave em todos os segmentos da sociedade. Tal é sua importância que se manter informado tornou-se indicador incontestável de atualidade e sintonia com o mundo. Paradoxalmente, como resultado da ampla e por vezes caótica disponibilização de informações, principalmente via Internet, surgiram barreiras relacionadas ao seu acesso, tais como o número ilimitado de fontes e o desconhecimento de certos mecanismos de filtragem, organização e mesmo de apropriação da informação.
+
+Neste cenário, a information literacy ganha cada vez mais espaço e transforma-se no principal propósito de bibliotecas e bibliotecários, particularmente no ensino universitário, conforme será demonstrado no desenvolvimento deste trabalho.
+
+Desde o surgimento da expressão na década de 701, a information literacy enquanto conceito permanece um tanto indefinida, como uma metáfora bem construída2,3, carregada de conotações, nem sempre bem vista ou entendida. Enquanto diversos autores advogam esta causa4, 5, 6, 7, 8, 9, outros afirmam que a information literacy é apenas um exercício de relações públicas, um nome mais atual para práticas biblioteconômicas consolidadas10,11.
+
+À parte da polêmica, a gênese e popularização da expressão advêm de uma necessidade bem real: a de sobreviver à realidade atual, tal qual um consumidor de informação, mergulhado no universo informacional; a informação entendida neste primeiro momento como produto a ser consumido. Muitos estudos têm sido realizados sobre information literacy, definição, características, diferentes concepções, casos, análise da expressão. Porém, a pesquisa em information literacy ainda está em sua infância, um território ainda indefinido12. Sendo um conceito dinâmico, constantemente é repensado13.
+
+A information literacy apresenta um significado que vai além da soma de suas partes (information e literacy). Admitindo que informação é um conceito muito complexo que engloba muitas definições e interpretações, conforme a área de conhecimento na qual se insere, não é pretensão deste trabalho discutir profundamente o tema. Porém, de forma simplificada, a informação é o conjunto de representações mentais codificada e socialmente contextualizadas que podem ser comunicadas, estando, portanto, indissociadas da comunicação.
+
+Quanto à literacy, segundo Lyman14, pode ser definida como "a habilidade de compreender matérias, ler criticamente, usar materiais complexos e aprender por si mesmo". Entretanto, o termo não apresenta um significado preciso. Novas ênfases têm emergido, acomodando novos significados.
+
+Na última década, uma ampla variedade de literacies tem sido proposta7,15, incluindo a cultural, tecnológica, acadêmica, marginal etc., aspectos compartimentalizados de literacy, termos exclusivos. A information literacy, ao contrário, é um termo inclusivo, englobando todas as demais5. Praticamente inexplorada no Brasil16,17, a expressão ainda não possui tradução para a língua portuguesa. Porém, algumas expressões possíveis seriam alfabetização informacional, letramento, literacia, fluência informacional, competência em informação.
+
+A utilização da expressão competência em informação parece ser a mais adequada em função de sua definição voltar-se a um saber agir responsável e reconhecido, que implica mobilizar, integrar, transferir conhecimentos, recursos, habilidades, que agreguem valor...18, direcionados à informação e seu vasto universo.
+
+Não é objetivo deste artigo propor uma tradução da expressão nem resolver eventuais questões de gênero. Desta forma, ao longo do artigo, será adotada a expressão "a information literacy", apenas a título de uniformização.
+
+A information literacy é, sem dúvida, um tema ainda novo e instigante. Uma análise mais profunda deste território inicia-se no mapeamento da literatura sobre o tema, bem como na evolução histórica e geográfica do conceito.
+
+
+
+EVOLUÇÃO DA INFORMATION LITERACY
+
+Década de 70 – os precursores
+
+A expressão information literacy surgiu pela primeira vez na literatura em 1974 em um relatório intitulado The information service environment relationships and priorities, de autoria do bibliotecário americano Paul Zurkowski.
+
+Em seu trabalho, Zurkowski1 descreveu uma série de produtos e serviços providos por instituições privadas e suas relações com as bibliotecas. Sendo o então presidente da Information Industry Association, Zurkowski antevia um cenário de mudanças e recomendava que se iniciasse um movimento nacional em direção à information literacy. Sugeria que os recursos informacionais deveriam ser aplicados às situações de trabalho, na resolução de problemas, por meio do aprendizado de técnicas e habilidades no uso de ferramentas de acesso à informação.
+
+Em 1976, o conceito de information literacy reapareceu agora mais abrangente, ligado a uma série de habilidades e conhecimentos; incluía a localização e uso da informação para a resolução de problemas e tomadas de decisão 2. Não se tratava apenas de buscar a informação, tratava-se de fazer uso dela para tomar decisões e resolver problemas.
+
+Ainda em 1976, um novo significado para a information literacy surgiu: dois autores (Hamelink e Owens) anteviram a information literacy (IL) como instrumento de emancipação política1. Nesse momento, a inserção do conceito no contexto da cidadania elevou a IL a um novo patamar, pois esta ia além da simples aquisição de habilidades e conhecimentos ligados à informação. Incluía-se agora a noção dos valores ligados à informação para a cidadania.
+
+Entretanto, a ênfase nas habilidades técnicas tornaria a aparecer na literatura em 1979, com autores como Taylor19 e Garfield20, que abordaram a questão da capacitação em informação como sendo o domínio de técnicas e habilidades de uso das ferramentas informacionais na modelagem de soluções para os problemas, um dos requisitos para a competência.
+
+Neste cenário de preocupação crescente em relação ao número de informações disponibilizadas (seu acesso físico e organização), a década de 70 se caracterizou pela admissão de que a informação é essencial à sociedade. Portanto, um novo conjunto de habilidades era necessário para o uso eficiente e eficaz da informação. Antevia-se uma realidade de mudanças nos sistemas de informação e no papel exercido pelos bibliotecários.
+
+A década de 80 – Os exploradores
+
+Os anos 80 se iniciam fortemente influenciados pelas novas tecnologias de informação, que começavam a alterar os sistemas de informação e as bibliotecas, principalmente nos Estados Unidos. A ascensão e a difusão da tecnologia da informação alteraram as bases de produção, controle, guarda, disseminação e acesso à informação, colocando o computador em foco e alterando definitivamente os sistemas de informação. Inúmeros trabalhos surgiram enfocando a IL como information tecnology literacy.
+
+A concepção da information literacy com o sentido de capacitação em tecnologia da informação se popularizou, principalmente no ambiente profissional, e começava a ser implementada nas escolas secundárias. Admitia-se a necessidade dessa capacitação, porém não havia ainda programas educacionais estruturados. Esta ênfase na tecnologia da informação restringia a noção do que seria information literacy, dando-lhe uma ênfase instrumental. Todavia, a tecnologia da informação era o foco naquele momento.
+
+A partir do estudo de usuários de Breivik21, da reação à publicação do documento governamental americano intitulado Nation at Risk2 e da divulgação do Information Power,2 os bibliotecários começavam a prestar atenção às conexões existentes entre bibliotecas e educação, a information literacy e o aprendizado ao longo da vida2.
+
+Para Breivik, a information literacy era um conjunto integrado de habilidades (estratégias de pesquisa e avaliação), conhecimentos de ferramentas e recursos, desenvolvidos a partir de determinadas atitudes. Seu trabalho foi de suma importância, pois constituiu um dos primeiros passos em relação à aproximação e integração do trabalho desenvolvido por bibliotecários, docentes e educadores em geral, na implementação de programas educacionais voltados para a information literacy.
+
+Em 1987, surge no cenário a monografia de Karol C. Kuhlthau intitulada Information Skills for an Information Society: a review of research (ERIC Document, 1987, EUA), na qual lança as bases da information literacy education, ou seja, a educação voltada para a information literacy, segundo dois eixos fundamentais:
+
+– a integração da information literacy ao currículo, a partir da proficiência em investigação, identificada como a meta das bibliotecas do ensino médio;
+
+– o amplo acesso aos recursos informacionais, cruciais ao aprendizado estudantil, a partir da apropriação das tecnologias de informação. Os estudantes usam as tecnologias de informação como ferramentas na busca pelas informações mais apropriadas ao seu aprendizado7.
+
+O ponto importante é a integração da information literacy ao currículo, o que significa entendê-la não como uma disciplina isolada, autônoma e desprovida de contexto, mas sim em harmonia com o universo do aprendiz. Ao referir-se à proficiência investigativa como meta educacional e ao amplo acesso aos recursos informacionais, Kulthau amplia o conceito da information literacy, desfazendo a noção corrente na época de que as habilidades informacionais se restringiam à biblioteca e aos materiais científicos bibliográficos.
+
+O foco estava no ser humano e em seu aprendizado. A autora também situa-se diante da realidade das tecnologias de informação, fornecendo-nos sua real dimensão: as tecnologias de informação são apenas ferramentas de aprendizado.
+
+Provavelmente o trabalho mais proeminente neste período tenha sido o de Karol C. Kuhlthau, por construir, a partir de experiências de busca e uso da informação, um modelo descritivo dos processos de aprendizado a partir da busca e uso da informação. Em anos posteriores, daria prosseguimento a seus estudos definindo a information literacy como um modo de aprender22, 23, 24 , enfatizando a noção de processo cognitivo, construindo o que se convencionou chamar de modelo alternativo centrado no usuário.
+
+A década de 80 também foi marcada pela publicação de dois documentos fundamentais para a information literacy, ambos enfocando o papel educacional das bibliotecas acadêmicas e a importância dos programas educacionais em IL, para a capacitação dos estudantes.
+
+O primeiro documento foi o livro editado por Patricia S. Breivik e E. Gordon Gee5 intitulado "information literacy: Revolution in the Library". Enfatizando a cooperação entre bibliotecários e administradores das universidades, Breivik e Gee introduziram o conceito da educação baseada em recursos (resource-based learning), que enfatiza os processos de construção de conhecimento a partir da busca e uso da informação, de maneira integrada ao currículo, cuja filosofia via a biblioteca como elemento-chave na educação.
+
+O segundo documento importante foi o da ALA – American Library Association, Presential Committe on information literacy: Final Report 25, preparado por um grupo de bibliotecários e de educadores. Largamente reproduzida e disseminada, é uma das definições mais citadas na literatura:
+
+"Para ser competente em informação, uma pessoa deve ser capaz de reconhecer quando uma informação é necessária e deve ter a habilidade de localizar, avaliar e usar efetivamente a informação... Resumindo, as pessoas competentes em informação são aquelas que aprenderam a aprender. Elas sabem como aprender, pois sabem como o conhecimento é organizado, como encontrar a informação e como usá-la de modo que outras pessoas aprendam a partir dela." (American Library Association – Presidential Committee on information literacy, 1989, p.1)3
+
+O relatório da ALA ressalta a importância da information literacy para indivíduos, trabalhadores e cidadãos. As recomendações se concentram na implantação de um novo modelo de aprendizado, com a diminuição da lacuna existente entre sala de aula e biblioteca.
+
+Esse novo modelo de aprendizado só é possível a partir de uma reestruturação curricular na qual seja privilegiado o uso dos recursos informacionais disponíveis, para a aprendizagem e resolução de problemas, de forma contextualizada, a fim de incutir nos aprendizes o hábito de buscar e utilizar criticamente a informação (e a biblioteca).
+
+A década de 90 – a busca de caminhos
+
+Nos anos 90, a definição da ALA25 foi amplamente aceita. Conseqüentemente, uma série de programas educacionais voltados para a information literacy começou a ser implementada ao redor do mundo, principalmente a partir das bibliotecas universitárias. Vários estudos de caso começaram a aparecer na literatura, a partir de programas criados nas universidades, principalmente nos Estados Unidos e Austrália4.
+
+Os profissionais da informação, conscientes da necessidade de possibilitar o acesso rápido e fácil ao novo universo informacional, voltam-se para a information literacy. Objetivam então tornar os usuários (agora usuários da informação) aprendizes independentes, enfatizando a integração curricular e a cooperação com a comunidade.
+
+Entretanto, muitos bibliotecários deixavam transparecer que utilizavam a expressão apenas como uma terminologia alternativa para a educação de usuários8. Não havia ainda, em muitas instituições americanas, uma verdadeira mudança de paradigmas.
+
+Doyle7 buscou uma definição para a expressão a partir de suas experiências conduzidas junto ao grupo intitulado National Forum on Information Literacy (NFIL), criado em resposta às recomendações da ALA25. Doyle traçou as diretrizes da IL, considerando-a um conjunto integrado de habilidades, conhecimentos e valores ligados à busca, acesso, organização, uso e apresentação da informação na resolução de problemas, utilizando, para tanto, o pensamento crítico5. O resultado de seu relatório levou à definição do conjunto de metas que nortearam a National Educational Goals de 1990, para o ensino médio.
+
+O período foi marcado pela busca de uma fundamentação teórica e metodológica sobre a information literacy, destacando-se, além de Doyle, os estudos de Behrens 2, Candy et alii (apud Bruce6), Kuhlthau23 e Eisenberg26. Outros modelos de processos de busca e uso da informação surgiram nesta época, como Infozone, Follett's, Organizer Investigator, The Research Cycle, Dan's Generic Model, Seven Pillars Model etc. (Dudziak16).
+
+Todos estes modelos incorporam as atividades básicas de identificação, acesso, avaliação e uso da informação, diferenciando-se com relação às atividades pré e pós-pesquisa.
+
+A ênfase na busca e uso da informação enquanto processo cognitivo para a resolução de problemas, direcionando o aprendiz ao pensamento crítico e criativo, foi explorada por muitos outros educadores.
+
+Porém, se de um lado crescia a preocupação com os processos ligados a information literacy, a ênfase nas tecnologias de informação e nos ambientes eletrônicos fez surgir vários neologismos relacionados – digital literacy, multimedia literacy – ligados ao ciberespaço, no qual se estabelecem as comunidades virtuais. Information technology literacy . mediacy – definida como treinamento/capacitação em navegação eletrônica, prevalecendo o contato visual com a informação, inserido em digital literacy e na comunicação mediada por computadores.
+
+Em 1997, Cristine Bruce6 introduziu um novo entendimento a respeito da IL e denominou-o modelo relacional. Tomando como ponto de partida os estudos de Candy e seus colaboradores, defendeu sua tese intitulada Information literacy: a phenomenography. Bruce desenvolveu um estudo baseado nas experiências de educadores e profissionais de informação de duas universidades australianas sobre o que significaria ser competente em informação.
+
+Considerando a information literacy como fenômeno, Bruce6 parte do pressuposto de que a information literacy está acima do desenvolvimento de competências; é muito mais uma questão situacional experimentada pelos sujeitos, resultando disso uma ênfase em determinadas concepções e experiências.6
+
+Bruce tem publicado diversos trabalhos sobre information literacy, sendo uma das autoras que tem realizado importantes pesquisas sobre o tema12, 27, 28.
+
+Ainda em 1997, foi criado o Institute for information literacy da ALA - ACRL, destinado prioritariamente a treinar bibliotecários e dar suporte à implementação de programas educacionais no ensino superior. Atualmente oferece um programa de imersão para treinamento e capacitação de bibliotecários a fim de torná-los agentes multiplicadores de IL em suas instituições.
+
+Outra organização que recebe suporte da ALA é a Library Instruction Round Table LIRT, voltada para a information literacy, a instrução e orientação bibliográfica, disponibilizando um site com publicações, conferências, comitês e diversos links a programas educacionais. A LOEX Clearinghouse for Library Instruction promove a disseminação da orientação bibliográfica e da IL fornecendo textos, exemplos de programas educacionais e tutoriais em IL, organizando anualmente a LOEX Conference on Library Instruction.
+
+Hannelore B. Rader, diretora da Cleveland State University Library, Ohio, EUA, publica anualmente, desde 1991, uma revisão de artigos na área (Bibliographic instructions and information literacy) e afirma que o número de publicações sobre o assunto tem aumentado e se difundido. Outro fato significante levantado por Rader29 é a crescente integração e colaboração entre bibliotecários e docentes na implementação de programas educacionais voltados para a information literacy, principalmente no ambiente universitário. O bibliotecário cada vez mais é visto como educador, sendo valorizado o trabalho cooperativo com docentes e administradores na implementação da information literacy education (ILE).
+
+Em março de 1998, a American Library Association ALA30 lançou um relatório de atualização. Nesse documento, delineia seis recomendações relativas ao assunto, reafirmando a premissa de adequação de sistemas e de profissionais de informação à realidade atual de multiplicidade de recursos e fontes informacionais e a necessidade de atuação interdisciplinar, integrando também os ambientes educacional e profissional.
+
+Em dezembro de 1998, pesquisando a Internet através do mecanismo de busca Altavista (http://www.altavista.com), foram encontrados cerca de 9.510 web itens com a expressão information literacy, o que denota um interesse cada vez maior pelo tema. E o número de sites disponíveis sobre o assunto tem crescido no cotidiano.
+
+Várias organizações se estabeleceram nos anos 90, e a information literacy ganhou dimensões universais, disseminando-se nos vários continentes, havendo uma busca constante pela elucidação do conceito, procurando torná-la acessível a um número cada vez maior de pessoas. Os países que mais publicam sobre o tema são Estados Unidos, Austrália, Reino Unido, Canadá e África do Sul16.
+
+Como demonstrado, influências conceituais que agem sobre a information literacy acabam por determinar diferentes concepções. Examinando a literatura, constata-se a convivência simultânea dessas várias concepções, dependendo da ênfase dada pelos autores, seu contexto e experiência, o que determina diferentes objetivos e atividades. Tais concepções também podem ser definidas como níveis de complexidade.
+
+
+
+INFORMATION LITERACY NO BRASIL
+
+No Brasil, dadas as devidas proporções, os precursores da information literacy estão entre aqueles bibliotecários que desenvolveram estudos relativos à educação de usuários.
+
+Porém, apesar de todas as iniciativas, constata-se a falta de uma política integradora junto à comunidade acadêmica, com relação aos processos de ensino-aprendizagem.
+
+Seguindo a tradição de preocupação social-educativa, ação cultural bibliotecária, interação biblioteca-escola e interação biblioteca-usuário, muitos foram os autores brasileiros que podemos considerar como precursores da information literacy no Brasil, dentre os quais podemos apontar Alves, Breglia, Cerdeira , Flusser, Luck et alii, Milanesi, Moran et alii, Obata e Perroti (apud Dudziak16).
+
+Mencionam-se projetos como o Proesi, Programa Serviços de Informação em Educação (ECA-USP), voltado para a biblioteca interativa e ao NCE, Núcleo de Comunicação e Educação (ECA-USP), voltado às inter-relações entre comunicação e educação.
+
+Especial destaque a Belluzzo17, Caregnato31 e à dissertação de Hatschbach32 recentemente concluída, intitulada information literacy: aspectos conceituais e iniciativas em ambiente digital para o estudante de nível superior.
+
+
+
+INFORMATION LITERACY
+
+Definição da expressão
+
+A partir da análise da evolução do conceito e seguindo a concepção de information literacy voltada ao aprendizado ao longo da vida, pode-se defini-la como o processo contínuo de internalização de fundamentos conceituais, atitudinais e de habilidades necessário à compreensão e interação permanente com o universo informacional e sua dinâmica, de modo a proporcionar um aprendizado ao longo da vida.
+
+Objetivos da information literacy
+
+Information literacy tem como objetivo formar indivíduos que:
+
+saibam determinar a natureza e a extensão de sua necessidade de informação como suporte a um processo inteligente de decisão, uma vez que:
+
+– dialogam com colegas, docentes, educadores, definindo e articulando suas necessidades de informação;
+
+– identificam potenciais fontes informacionais, em variados formatos e níveis de profundidade;
+
+– consideram custos e benefícios em relação à natureza e extensão de seus propósitos;
+
+– definem critérios de escolha e tomadas de decisão dentro de um plano predeterminado.
+
+Conheçam o mundo da informação e sejam capazes de identificar e manusear fontes potenciais de informação de forma efetiva e eficaz, uma vez que:
+
+– estão familiarizadas com as várias mídias de informação, incluindo jornais, revistas, televisão, internet, além das pessoas;
+
+– sabem como o mundo da informação é estruturado, como acessar as redes formais e informais de informação;
+
+– selecionam os métodos investigativos mais apropriados;
+
+– constroem e implementam estratégias de busca planejadas e efetivas;
+
+– recuperam a informação a partir de variadas interfaces e sistemas, utilizando as tecnologias de informação;
+
+– redefinem estratégias de ação;
+
+– criam um sistema de organização da informação, registrando as informações pertinentes para futuros usos;
+
+– elaboram mapas mentais, esquemas e anotações.
+
+Avaliem criticamente a informação segundo critérios de relevância, objetividade, pertinência, lógica, ética, incorporando as informações selecionadas ao seu próprio sistema de valores e conhecimentos, uma vez que:
+
+– extraem informações de textos e documentos, sintetizando-os;
+
+– examinam e comparam informações de variadas fontes considerando confiabilidade de fontes, distinguindo fatos de opiniões;
+
+– analisam a estrutura e a lógica que sustentam os argumentos ou métodos;
+
+– comparam os novos conhecimentos com os conhecimentos preexistentes, examinando contradições, novidade;
+
+– sintetizam as idéias construindo novos conceitos;
+
+– integram novas informações às informações ou conhecimentos preexistentes.
+
+Usem e comuniquem a informação, com um propósito específico, individualmente ou como membro de um grupo, gerando novas informações e criando novas necessidades informacionais, uma vez que:
+
+– organizam conteúdos;
+
+– articulam conhecimentos e habilidades na construção de produtos ou atuações informacionais;
+
+– manipulam textos digitais, imagens, dados, ferramentas de apresentação e redação;
+
+– sabem comunicar apropriadamente suas idéias, incorporando princípios de planejamento comunicacional e de abertura ao diálogo.
+
+Considerem as implicações de suas ações e dos conhecimentos gerados, observando aspectos éticos, políticos, sociais e econômicos extrapolando para a formação da inteligência, uma vez que:
+
+– são responsáveis por suas escolhas;
+
+– identificam e discutem questões relativas à propriedade intelectual;
+
+– demonstram entendimento acerca dos aspectos políticos, sociais e ambientais relativos às suas ações;
+
+– demonstram visão sistêmica da realidade.
+
+Sejam aprendizes independentes, uma vez que:
+
+– assumem a responsabilidade por seu próprio aprendizado;
+
+– são capazes de aprender a partir dos recursos informacionais disponíveis;
+
+– procuram a informação de que necessitam para a resolução de seus problemas ou tomadas de decisão, mantendo redes interpessoais de relacionamento;
+
+– mantêm-se atualizados;
+
+– assumem atitude proativa de aprendizado.
+
+Aprendam ao longo da vida, uma vez que:
+
+– assumem o aprendizado como um continuum em suas vidas;
+
+– internalizam valores que promovem o uso da informação como criação de significado para suas vidas;
+
+– incorporam os processos investigativos à sua vida diária;
+
+– estão sempre dispostos a vencer desafios.
+
+Características da information literacy
+
+É um processo de aprendizado contínuo que envolve informação, conhecimento e inteligência. É transdisciplinar, incorporando um conjunto integrado de habilidades, conhecimentos, valores pessoais e sociais; permeia qualquer fenômeno de criação, resolução de problemas e/ou tomada de decisões.
+
+Componentes da information literacy
+
+Os componentes que sustentam o conceito da information literacy são:
+
+– o processo investigativo;
+
+– o aprendizado ativo;
+
+– o aprendizado independente;
+
+– o pensamento crítico;
+
+– o aprender a aprender;
+
+– o aprendizado ao longo da vida.
+
+
+
+DIFERENTES CONCEPÇÕES DA INFORMATION LITERACY
+
+A partir da análise da evolução do conceito, três concepções de information literacy se destacam: a concepção da informação (com ênfase na tecnologia da informação); a concepção cognitiva (ênfase nos processos cognitivos); a concepção da inteligência (ênfase no aprendizado). Tais concepções determinam diferentes níveis de complexidade da information literacy, que serão brevemente analisados a seguir.
+
+Concepção ou nível da informação: ênfase na tecnologia da informação
+
+A information literacy com ênfase na tecnologia da informação prioriza a abordagem do ponto de vista dos sistemas, com o aprendizado de mecanismos de busca e uso de informações em ambientes eletrônicos. Limitado ao simples aprendizado de habilidades e conhecimentos instrumentais, praticamente mecânicos, tem como foco o acesso à informação.
+
+Associada à sociedade da informação, marcada pela forte influência da tecnologia, o conceito de competência em informação é definido como a pesquisa, estudo e aplicação de técnicas e procedimentos ligados ao processamento e distribuição de informações com base no desenvolvimento de habilidades no uso de ferramentas e suportes tecnológicos.
+
+Neste contexto, a biblioteca aparece como suporte ao ensino/pesquisa e proporciona o acesso físico à informação organizada. O profissional da informação assume o papel de intermediário da informação. O paradigma informacional e educacional reproduzido é o tradicional, apesar do aporte tecnológico.
+
+Concepção ou nível do conhecimento: ênfase nos processos cognitivos
+
+Muitos autores relacionam a competência em informação aos processos de busca da informação para construção de conhecimento. Envolvendo uso, interpretação e busca de significados, dentro da perspectiva da sociedade do conhecimento, procura-se a construção de modelos mentais, não apenas respostas às perguntas. O foco está no indivíduo, em seus processos de compreensão da informação e seu uso em situações particulares.
+
+Os sistemas de informação são examinados à maneira como são percebidos pelo indivíduo. Os pesquisadores que se dedicam a essa concepção de information literacy procuram entender como as pessoas buscam sentido para seus questionamentos e pesquisas, a partir de suas habilidades e conhecimentos.
+
+A biblioteca é concebida como espaço de aprendizado, e o profissional da informação aparece ora como gestor do conhecimento, ora como mediador nos processos de busca da informação. O paradigma educacional que dá suporte a esse modelo de information literacy é o alternativo, que privilegia o processo de ensino/aprendizado, tendo o foco no indivíduo/aprendiz.
+
+Concepção ou nível da inteligência: ênfase no aprendizado ao longo da vida
+
+Alguns autores relacionam a competência em informação com o aprendizado, considerando que a information literacy deveria englobar, além de uma série de habilidades e conhecimentos, a noção de valores ligados à dimensão social e situacional. A construção de redes de significados a partir do que os aprendizes lêem, ouvem e refletem constitui o que se chama de estrutura de aprendizado, essencial à extrapolação do entendimento. As ligações que se estabelecem entre habilidades, conhecimentos e valores determinam o aprendizado, levando a mudanças individuais e sociais.
+
+Entender a information literacy nesse nível é considerar a dimensão social e ecológica do aprendiz, percebendo-o não mais como usuário, nem tampouco como indivíduo, antes como sujeito, que é o indivíduo enquanto ator social, cidadão (Tourraine apud Castells), inserindo-o perfeitamente na chamada sociedade de aprendizado65. É incorporar as concepções anteriormente descritas, considerando, porém, que sociedade, instituições, docentes, bibliotecários e estudantes compõem um sistema relacionado em que todos devem ser aprendizes.
+
+Isto pressupõe mais que a apropriação tecnológica ou a mudança nos processos cognitivos. Presume a incorporação de um estado permanente de mudança, a própria essência do aprendizado como fenômeno social. Neste cenário, a biblioteca aparece como espaço de expressão do sujeito, e o profissional da informação transforma-se em agente educacional33, ativamente envolvido com a comunidade34,35. Mais que mediador (conceito definido por Kuhlthau23), o trabalho do bibliotecário como agente educacional está direcionado à mediação do aprendizado.
+
+
+
+INFORMATION LITERACY EDUCATION
+
+Se a information literacy é uma forma de conceber nossa interação com o mundo, uma metáfora da própria condição humana de aprendizado permanente, diretamente ligada que está ao aprender a aprender e ao aprendizado ao longo da vida (lifelong learning), a educação voltada para a information literacy (information literacy education - ILE) é o caminho que nos leva a ela.
+
+A mudança nos paradigmas educacionais no sentido da inclusão da information literacy não é tarefa simples, pois se trata de um longo processo de mudança cultural, de filosofia educacional ("Qual é a missão da educação?"). Exige um amplo questionamento não só em relação às políticas educacionais, à busca por novas abordagens do aprendizado, à necessidade de construção de novos perfis profissionais.
+
+Historicamente, a finalidade da formação educacional foi a de formar profissionais para um trabalho estável, por toda a vida, aptos a exercer uma função especializada. Atualmente, cresce cada vez mais a demanda por profissionais flexíveis, multicapacitados, capazes de aprender ao longo da vida. Informação, conhecimento e habilidade de lidar com grandes massas de informações, assim como demandas pessoais e profissionais, transformaram-se nos maiores determinantes dos avanços sociais e econômicos.
+
+Novos projetos educacionais passaram a ser planejados e implementados em todo o mundo, buscando estabelecer uma educação centrada no aprendiz, em seus processos de construção de conhecimento e de cidadania. As práticas pedagógicas buscam mais do que nunca a transferência do foco de aprendizagem do docente para o aprendiz e dos conteúdos para os processos de aprendizado, enfatizando a formação totalizante do indivíduo: conhecimentos, habilidades e valores36 .
+
+
+
+
+
+A educação de qualidade privilegia o aprender a aprender e a capacidade de intervenção alternativa, baseada em uma cultura educacional que prioriza a atitude investigativa, de autonomia crítica, a busca criativa. Em resumo, ao estabelecimento da cultura da pesquisa construtiva37, 38, 39 . Neste contexto, a mudança somente se faz a partir de amplo questionamento a respeito das políticas educacionais, direcionando as discussões para os parâmetros de qualidade educacional almejados, o aprendizado e a inclusão da informação em todos os processos educacionais, no estabelecimento de uma cultura da informação.
+
+A partir da conscientização e comprometimento da comunidade, é possível iniciar um movimento em direção à transformação dos paradigmas educacionais existentes. Nessa dimensão da educação é que se insere a information literacy. O desenvolvimento de programas educacionais voltados para a information literacy se faz a partir de uma mudança de filosofia de educação, não mera inclusão de atividades que objetivem a habilitação em certas atividades ligadas à informação.
+
+A information literacy education é antes de tudo um processo que se inicia com a percepção da necessidade de informação, de socialização do acesso físico e intelectual à informação; acontece lentamente e envolve toda a comunidade educacional, tendo seu desenvolvimento neste contexto.
+
+A educação voltada para a information literacy aqui preconizada encontra respaldo em práticas curriculares, como o currículo integrado (baseado na transdisciplinaridade) e o aprendizado baseado em recursos (resource-based learning), tendo como objetivo maior instrumentalizar e interiorizar comportamentos que levem à proficiência investigativa, ao pensamento crítico, ao aprendizado independente e ao aprendizado ao longo da vida.
+
+O currículo integrado pretende organizar os saberes escolares a partir de grandes temas-problema que permitem ir além da visão fragmentada que é produzida pela compartimentalização curricular, por meio de atividades que envolvem estratégias de busca, ordenação, análise, interpretação e representação da informação, de maneira a permitir um aprendizado colaborativo, ativo e independente, orientado pelo próprio aprendiz, com o docente atuando como facilitador. Um dos marcos da abordagem do currículo integrado, definida por Hernández40 e outros autores, é a transdisciplinaridade ou aprendizado transdisciplinar.
+
+O aprendizado baseado em recursos (resource-based learning) tem como base a reunião de variados interesses, aliada a variadas fontes e recursos de informação e conhecimento41. Desta forma, o aprendizado e a estrutura curricular se adaptam aos interesses e à motivação dos aprendizes e considera-se que o verdadeiro aprendizado só é possível se for um aprendizado ativo, independente e multifacetado. O aprendiz tem controle sobre seu aprendizado, ficando o docente livre de seu papel de expert onisciente. O docente é visto como facilitador, em interação com grupos de estudo ou individualmente.
+
+De acordo com as abordagens educacionais do currículo integrado e do aprendizado baseado em recursos, depreende-se que as práticas pedagógicas se voltam necessariamente para a valorização do aprendizado a partir de duas vertentes: a resolução de problemas (essencialmente um aprendizado reativo) e a elaboração de projetos (essencialmente um aprendizado criativo).
+
+A educação voltada para a competência em informação é aquela que valoriza tais práticas, socializa o acesso à informação, ao conhecimento e ao aprendizado. Incentiva a participação ativa da comunidade (ou seja, seu comprometimento) na definição de objetivos educacionais. Busca o aprendizado enquanto processo de conteúdos significativos. Enfatiza a integração curricular e a educação baseada em recursos. Adota práticas pedagógicas voltadas para a construção de conhecimento, o aprendizado independente e o aprendizado ao longo da vida, a partir da elaboração de projetos de pesquisa e da resolução de problemas.
+
+Indubitavelmente, se almejamos uma nova educação (voltada para a competência em informação, o aprender a aprender e o aprendizado ao longo da vida), é necessário alterar as bases de comunicação dentro das instituições e, em última análise, as estruturas de poder das instituições, se considerarmos que informação é poder.
+
+A base de uma cultura da informação é sua democratização, mediante abertura de canais diretos de comunicação, divulgação e respeito a normas, procedimentos, dados, fatos, acontecimentos e resoluções que afetem a comunidade. Teias de comunicação e informação devem envolver administradores, docentes, bibliotecários, técnicos, funcionários e estudantes, em seus mais variados níveis organizacionais, como condição essencial, de forma que se desfaçam os nós que tradicionalmente amarram as instituições e se abram caminhos para as mudanças.
+
+O papel do bibliotecário como agente educacional
+
+A inserção do bibliotecário na comunidade educacional nem sempre é fácil. Embora muitos bibliotecários se considerem educadores e possuam status para tal, nem sempre as escolas e faculdades às quais estão vinculados percebem esses profissionais como colegas engajados no processo educacional. Em geral, admite-se que as coleções das bibliotecas são essenciais para a formação do estudante, mas a necessidade de se educar para ter o domínio da informação fica muitas vezes em segundo plano. Apesar de novos projetos educacionais terem surgido, ainda não se discutiu amplamente a implementação de um projeto educacional voltado para a informação. Isto exige uma transformação nos papéis sociais e profissionais atuais, no âmbito da comunidade educacional e ante a sociedade.
+
+Alguns estudos42,43 demonstram que bibliotecários e docentes não compreendem os papéis e as expectativas um do outro.
+
+A cooperação entre administradores, bibliotecários, docentes e técnicos é uma das premissas para que se desenvolvam programas educacionais voltados para a information literacy. Vários autores têm se referido à necessidade do estabelecimento de parcerias entre bibliotecários e docentes44,. Essa cooperação depende do modo como bibliotecários se relacionam com a comunidade e como vêem a si mesmos inseridos no contexto educacional.
+
+Como agente educacional, o bibliotecário poderá iniciar os processos culturais de transformação da educação e da comunidade educacional e social. A biblioteca enquanto instituição multicultural, pluralista e aprendente é a base desta transformação. O bibliotecário deve direcionar seu trabalho para a mediação de aprendizado, que é definida a partir de quatro conceitos:
+
+– intencionalidade (que ocorre quando o bibliotecário educador direciona a interação e o aprendizado);
+
+– reciprocidade (quando o bibliotecário está envolvido em um processo de aprendizado, ambos aprendem);
+
+– significado (quando a experiência é significativa para ambos);
+
+– transcendência (quando a experiência vai além da situação de aprendizagem, é extrapolada para a vida do aprendiz)33.
+
+A verdadeira mediação educacional ocorre quando o bibliotecário convence o aprendiz de sua própria competência, incutindo-lhe autoconfiança para continuar o aprendizado, transformando-o em um aprendiz autônomo e independente. A natureza da experiência do aprendizado mediado no âmbito da biblioteca pode variar de acordo com cada situação e o grau de interação humana. O usuário em uma rápida entrevista de referência não vai ser mediado em seu aprendizado da mesma forma que outro usuário que desenvolve um projeto.
+
+O educador deve manter o foco nos processos de aprendizado dos estudantes, levando-os ao aprendizado, devendo considerar as diferenças culturais e de estilos de aprendizagem de cada um: verbal/lingüístico; lógica/matemático; visual/espacial; cinético/corporal; musical/rítmico; interpessoal e intrapessoal. Ser educador significa dominar seu processo e campo específicos de trabalho, fazendo seus conhecimentos, a ponto de ter a capacidade de reelaborá-los e reconstruí-los de acordo com sua proposta pedagógica.
+
+Desta forma, os bibliotecários necessitam se reinventar, adotando uma postura mais ativa, deflagrando processos e projetos de inovação organizacional, tanto no âmbito da biblioteca, quanto no âmbito das instituições de ensino. Neste sentido, devem buscar o aprendizado contínuo, a melhoria de suas qualificações e competências, principalmente em relação à comunicação, estabelecendo parcerias com docentes, administradores, alunos e mesmo com seus pares, de modo a ampliar suas redes de comunicação e sua visibilidade profissional. Ao difundir a cultura da informação, os bibliotecários estarão promovendo a information literacy46, 47.
+
+A biblioteca como organização aprendente
+
+Em relação à information literacy, as bibliotecas enfrentam o desafio de se transformarem, de repositório de informações e prestadoras de serviços, em organizações provocadoras de mudanças nas instituições em que atuam. Para se constituírem em organizações aprendentes e espaços de expressão, têm de buscar sua própria revolução, adotando práticas de inovação organizacional48.
+
+De forma geral, a biblioteca tem permanecido isolada dos processos de redefinição educacional, preocupada com os aspectos administrativos e operacionais. Segundo Fujino49, a abordagem na literatura a respeito da participação da biblioteca na consecução dos objetivos educacionais é superficial, quando mencionada. Geralmente, a biblioteca é considerada apenas como um serviço de apoio ao ensino e à pesquisa, apresentando-se dissociada da comunidade à qual se liga.
+
+A consonância entre as atividades desenvolvidas pela biblioteca e os programas de ensino, pesquisa e extensão implementados pelas instituições educacionais é o fator que determina seu real sentido. Essa consonância é alcançada por meio do entendimento das estruturas curriculares, bem como a interação com a comunidade e a integração ao modelo político-educacional almejado pela instituição. A clareza com relação aos objetivos e atividades pertinentes à biblioteca, como serviço de informação que é, dentro de sua comunidade também é fator determinante nessa integração.
+
+A chave para uma nova biblioteca implica que sua estrutura organizacional seja reorientada para a concepção de organização em redes, que dê atenção aos processos de pensamento e planejamento que precedem suas ações, aliada a uma atitude exploratória sob orientação e administração competentes. Impõe-se politicamente na comunidade mediante uma organização sólida, baseada em princípios claros, de modo que seu exterior reflita a ideologia subjacente50.
+
+Enquanto instituição pluralista, a biblioteca deve valorizar o intercâmbio cultural, promovendo a integração e a comunicação ampla internamente, com outras instituições e com a comunidade que a cerca.
+
+A transformação da biblioteca em organização aprendente se inicia a partir da reflexão sobre sua própria cultura organizacional, os modelos mentais subjacentes, avaliando as dificuldades de comunicação e interação entre núcleo e linha de frente, a departamentalização e a hierarquização, estruturas organizacionais verticalizadas que tendem a cercear a livre comunicação e a criatividade, sementes da inovação e do aprendizado organizacional.
+
+
+
+CONSIDERAÇÕES FINAIS
+
+Enquanto os estudos no exterior sobre a information literacy avançam teórica e metodologicamente e também na prática diária, no Brasil apenas se iniciam a exploração e o entendimento sobre o tema. É necessário buscar o trabalho cooperativo para o desenvolvimento de novas abordagens relativas à filosofia e às práticas educacionais ligadas à information literacy.
+
+Os desafios são grandes, e o aprendizado é longo, mas possível. Repensar o papel do bibliotecário e repensar a biblioteca enquanto organização são caminhos acertados que conduzirão à expansão da transformação da educação e da implementação de programas educacionais voltados para a competência em informação.
+
+
+
+REFERÊNCIAS
+
+1. ZURKOWSKI, P. G. Information services environment relationships and priorities. Washington D.C. : National Commission on Libraries, 1974. 
+
+2. BEHRENS, S. J. A conceptual analysis and historical overview of information literacy. College & Research Libraries, v. 55, n. 4, p. 309-323, 1994. 
+
+3. SHAPIRO, J. J. ; HUGHES, S. K. Information literacy as a liberal art: enlightenment proposals for a new curriculum. Educom Review, v. 31, n. 2, p. 31-35, 1996. Disp. em: <http://www.educause.edu/pub/er/review/r eviewArticles/31231.html>. Acesso em: 04 abr. 2002. 
+
+4. ARP, L. Information literacy or bibliographic instruction: semantics or philosophy? RQ, v. 30, n. 1, Fall, p. 46-49, 1990. 
+
+5. BREIVIK, P. S.; GEE, E. G. Information literacy: revolution in the library. New York : Collier Macmillan, 1989. 
+
+6. BRUCE, C. S. Seven faces of information literacy. Adelaide : Aslib, 1997. 
+
+7. DOYLE, C. S. Information literacy in an Information Society: a concept for the information age. New York : Syracuse University, 1994. 
+
+8. McCRANK, L. J. Information literacy: a bogus bandwagon? Library Journal, v. 116, p. 38-42, May, 1991. 
+
+9. RADER, H .B. Bibliographic instruction or information literacy. College and Research Libraries News, v. 51, n. 1, p. 18-21, 1990. 
+
+10. FOSTER, S. Information literacy: some misgivings. American Libraries, v.24, n.4, p. 344-346, 1993. 
+
+11. WHITE, H. S. Bibliographic Instruction, information literacy, and Information Empowerment. Library Journal, v. 117, n. 1, p. 76-78, 1992. 
+
+12. BRUCE, C .S. Information literacy research: dimensions of the emerging collective consciouness. Australian Academic & Research Libraries, v. 31, n. 2, p. 91-106, 2000. 
+
+13. MARCUN, J. W. Rethinking information literacy. Library Quarterly, v. 72, n. 1 p. 1-26, 2002. 
+
+14. LYMAN, L. Literacy education as library community service. Library Trends, v. 28, n. 2, p. 193-217, 1979. 
+
+15. RAFFERTY, C. D. Literacy in the information age. Educational Leadership, v. 5, n. 2, p. 22-25, 1999. 
+
+16. DUDZIAK, E. A. A information literacy e o papel educacional das bibliotecas. 2001. Dissertação (Mestrado) – ECA-USP. São Paulo, 2001. 
+
+17. BELLUZZO, R. C. B. A information literacy como competência necessária à fluência científica e tecnológica na Sociedade da Informação: uma questão de educação. In: SIMPÓSIO DE ENGENHARIA DE PRODUÇÃO DA UNESP, 7., 2001, Bauru. Anais... Bauru : UNESP, 2001. Disponível em: http://www.simpep.feb.unesp.br/ana8.html. Acesso em: 04 abr. 2002. 
+
+18. FLEURY, A.; FLEURY, M. T. Estratégias empresariais e formação de competências: um quebra-cabeça caleidoscópico na indústria brasileira. São Paulo : Atlas, 2000. 
+
+19. TAYLOR, R. S. Reminiscing about the future. Library Journal, v. 104, p. 1895-1901, Sept. 1979. 
+
+20. GARFIELD, E. An Information Society? Journal of Information Science, v.1, p. 210, 2001. 
+
+21. BREIVIK, P. S. Putting libraries back in the information society. American Libraries, v. 16, n. 1, 1985. 
+
+22. KUHLTHAU, C. C. Inside the search process: information seeking from the user's perspective. Journal of the American Society for Information Science, v. 42, n. 5, p. 361-71, 1991. 
+
+23. _______. Seeking meaning. Norwood : Ablex, 1993. 
+
+24._______. The process of learning from information. In: The VIRTUAL School Library: gateway to the information superhighway. Englewood : Libraries, p. 95-104, 1996. 
+
+25. AMERICAN LIBRARY ASSOCIATION. Report of the Presidential Committee on information literacy: Final Report. [S. l.], 1989. Disponível em: < http://www.ala.org/acrl/nili/ilit1st.html >. Acesso em: ago. 2000. 
+
+26. EISENBERG, M. B. Big 6: teaching information problem solving. Emergency Librarian, Mar/Apr. 1998. 
+
+27. . BRUCE, C. S. Information literacy blueprint. Griffith : Griffith University, 1996. Disponível em: <http://www.gu.edu.au/ins/lils/infolit/blueprint/home.html>. 
+
+28. _______. Information literacy: an international review of programs and research. In: LIANZA CONFERENCE, 1999, Aukland. Proceedings... Disponível em:.<http://www.aukland.ac.nz/lbr/conf99/bruce.htm>. 
+
+29. RADER, H. B. Information literacy and the undergraduate curriculum :the library and undergraduate education. Library Trends, v. 44, n. 2, p. 270-279, 1995. 
+
+30. AMERICAN LIBRARY ASSOCIATION. A progress report on information literacy: an update on the American Library Association Presential Committee on Information Literacy: Final Report. [S. l.], 1998. Disponível em: <http://www.infolit.org/documents/progress.html>. Acesso em: jan. 2000. 
+
+31. CAREGNATO, S. E. O desenvolvimento de habilidades informacionais: o papel das bibliotecas universitárias no contexto da informação digital em rede. Revista de Biblioteconomia & Comunicação, Porto Alegre, v. 8, p. 47-55, 2000. 
+
+32. HATSCHBACH, M. H. L. Information literacy: aspectos conceituais e iniciativas em ambiente digital para o estudante de nível superior. 2002. Dissertação (Mestrado em Ciência da Informação) - IBICT, UFRJ, Rio de Janeiro, 2002. 
+
+33. ROE, D. ; MOODY, D. The librarian as mediator: a significant change in the educational role of librarians. In: ACRL NATIONAL CONFERENCE, 9., 1999, Detroit. Proceedings... [S. l.], 1999. Disponível em: <http://www.ala.org/acrl/>. 
+
+34. YOUNG, R. M.; HARMONY, S. Working with faculty to design undergraduate information literacy programs: a how-to-do-it manual for librarians. New York : Neal-Schuman, 1999. (How-to-do-it manuals for librarians, n. 90). 
+
+35. MENOU, M. A Sociedade de aprendizagem: uma nova abordagem do desenvolvimento e um desafio para os profissionais da informação. Florianópolis : [S. n.], 2000. (Apostila). 
+
+36. MASETTO, M. (Org.). Docência na Universidade. Campinas: Papirus, 1998. 
+
+37. LITTO, F. M. Um modelo para prioridades educacionais numa sociedade de informação. Pátio Revista Pedagógica, Porto Alegre, v. 1, n. 3 1997/1998. 
+
+38. DEMO, P. Educação e qualidade. Campinas : Papirus, 1994. (Coleção Magistério: formação e trabalho pedagógico). 
+
+39. ESCOLA DO FUTURO DA USP (São Paulo, SP). Educação para o pensar e comunidade de investigação. São Paulo : [s. n.], 1998. Disponível em: <http://www.bibvirtu.futuro.usp.br>. Acesso em: nov. 1999. 
+
+40. HERNÁNDEZ, F. Transgressão e mudança na educação: os projetos de trabalho. Porto Alegre : ArtMed, 1998. 
+
+41. LAVERTY, C. Resource-based learning. [S. l. : s. n.], 1997. Disponível em: <http://stauffer.queensu.ca/inforef/tutorials/rbl/index.htm>. Acesso em: 09 abr. 2002. 
+
+42. LECKIE, G. J.; FULLERTON, A. Information literacy in science and engineering undergraduate education: faculty attitudes and pedagogical practices. College & Research Libraries, v. 60, n. 1, p. 9-29, 1999. 
+
+43. HARDESTY, L. Faculty culture and bibliographic instruction: an exploratory analysis. Library Trends, v. 44, p. 348-363, Fall, 1995. 
+
+44. CROWLEY, B. Redefining the status of the librarian in high education. College & Research Libraries, v. 57, p. 113-121, Mar. 1996. 
+
+45. ROCKMAN, I. Managing partnership with university support units. In: IFLA COUNCIL AND GENERAL CONFERENCE, 67., 2001, Boston. Proceedings... Boston, 2001. Disponível em: <http://www.ifla.org>. Acesso em: 23 mar. 2002. 
+
+46. KIRK, J.; TODD, R. Information literacy: challenging roles for information professionals. In: NATIONAL INFORMATION LITERACY CONFERENCE: THE AUSTRALIAN AGENDA, 1992, Adelaide. Proceedings... Adelaide : USAL, 1995. p. 126-135. 
+
+47. BEHRENS, S. J. Librarians and information literacy. Mousaion, v.10, n. 1, 1992. 
+
+48. PHIPPS, S. E. Transforming libraries into learning organizations: the challenge for leadership. Journal of Library Administration, v. 18, n. 3-4, p. 19-20, 1993. 
+
+49. FUJINO, A . Serviços de informação no processo de cooperação universidade-empresa: proposta de um modelo de mediação institucional para micro e pequenas empresas. 2000. (Doutorado em Ciência da Comunicação) – USP, ECA,' São Paulo, 2000. 
+
+50. SIMONS, K. et al. The learning library in context: community, integration, and influence. Research Strategies, v. 17, n. 2-3, p. 123-132, 2001. 
+

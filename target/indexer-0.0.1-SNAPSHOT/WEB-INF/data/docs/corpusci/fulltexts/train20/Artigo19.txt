@@ -1,0 +1,499 @@
+Inteligência Empresarial: uma avaliação de fontes de informação sobre o ambiente organizacional externo
+
+
+
+Resumo: O artigo relata um estudo sobre o processo de monitoração do ambiente organizacional externo. Os 91 participantes da pesquisa registraram, dentre outros fatores, a freqüência com que utilizam diversos tipos de fontes de informação. Essas fontes foram também analisadas de acordo com o seu grau de relevância e confiabilidade. Os resultados indicam uma elevada taxa de utilização de fontes eletrônicas de informação, porém as mesmas são vistas como pouco confiáveis e relevantes. As pessoas (colegas, subordinados e superiores hierárquicos) são vistas como as fontes mais confiáveis. As bibliotecas e centros de informação internos, embora considerados as fontes mais confiáveis, encontram-se entre as menos utilizadas e menos relevantes.
+
+Palavras-chave: Inteligência Empresarial, Monitoração Ambiental, Fontes de Informação, Gestão do Conhecimento, Gestão da Informação
+
+
+
+1) Introdução
+
+Os ambientes de negócio das organizações contemporâneas têm passado por profundas modificações nos últimos anos. Em primeiro lugar, esses ambientes têm se tornado cada vez mais complexos. Os administradores, hoje em dia, precisam acompanhar uma multiplicidade de aspectos relativos ao ambiente de negócios de suas organizações. Dentre tais aspectos, destacam-se as mudanças no comportamento e preferências de seus consumidores, as constantes inovações tecnológicas, novidades no que se refere à legislação, tendências do mercado internacional, desenvolvimentos no plano político etc.
+
+Além de o conjunto de elementos ou componentes do ambiente externo ser cada vez mais complexo, eles tendem a modificar-se cada vez mais rapidamente. Ou seja, aumentam, a cada dia, o grau de complexidade e a velocidade com que o ambiente organizacional se altera. Nesse contexto, os administradores precisam enfrentar o desafio, não apenas de acompanhar essas mudanças, mas também de identificar as suas implicações para as organizações às quais pertencem.
+
+As informações a respeito do ambiente organizacional externo podem ser obtidas por intermédio de uma enorme variedade de fontes. Na internet apenas, o serviço de busca Google registra a existência de mais de 120 milhões de páginas que contêm informações sobre negócios. O mero acesso a essas páginas, no entanto, pouco significa, uma vez que as informações, mesmo quando disponíveis, são fragmentadas, ambíguas e, portanto, de pouca utilidade para seus eventuais usuários.
+
+As dificuldades acima apontadas salientam a importância de se estudar as formas e meios pelos quais gerentes e outros profissionais obtêm informações a respeito do ambiente externo de suas organizações. Essa é uma área de estudo interdisciplinar, situada na interface entre o planejamento estratégico e a ciência da informação, e que muito tem a contribuir para um melhor entendimento do comportamento informacional das pessoas em ambientes profissionais.
+
+O desenrolar de eventos e tendências do ambiente organizacional é tipicamente acompanhado, por parte dos administradores, de maneira informal. Essa busca se faz, normalmente, por intermédio de veículos de comunicação de massa ou mediante contatos com outras pessoas. Além de ser atividade pouco formalizada nas organizações, a monitoração ambiental ou inteligência empresarial recebem pouca ênfase nos currículos das escolas de administração[*].
+
+Em um contexto mais amplo, a inteligência empresarial constitui-se como elemento central para o processo de desenvolvimento do conhecimento organizacional. De acordo com Choo (1998), a formação de sentido (sensemaking) a respeito do ambiente externo, a criação de conhecimento ou aprendizagem organizacional e o processo decisório constituem os pilares da gestão do conhecimento nas organizações.
+
+A presente pesquisa foi realizada com o intuito de contribuir para o melhor entendimento do processo pelo qual gerentes e outros profissionais brasileiros buscam informações sobre o ambiente organizacional externo. Em termos específicos, procurou-se estudar os seguintes aspectos: a) o grau de importância e a velocidade com que ocorrem mudanças de setores do ambiente externo; b) a freqüência de uso de uma série de fontes de informação; c) a relevância dessas fontes e d) o grau de confiabilidade das fontes.
+
+
+
+2) Monitoração do ambiente organizacional
+
+O processo de busca de informações a respeito do ambiente organizacional externo tem sido estudado por numerosos pesquisadores, que, por sua vez, utilizam perspectivas e definições diversas a respeito do fenômeno. Em sua maioria, os autores interessados nesse campo adotam a definição de Aguilar, para quem monitoração ambiental (MA) é a "busca de informações sobre eventos e relacionamentos no ambiente externo de uma empresa, o conhecimento dos quais irá auxiliar os executivos principais na tarefa de definir a futura linha de ação da empresa" (AGUILAR, 1967, p. 1).
+
+Diversos são os processos gerenciais que se relacionam com a monitoração ambiental. Existe, por exemplo, o conceito de inteligência competitiva, que diz respeito ao estudo das características e ações dos concorrentes. Há também o conceito de inteligência empresarial, que compreende o estudo da natureza da concorrência sob uma perspectiva mais ampla. Esta procura incorporar, em sua análise, fenômenos econômicos, sociais e políticos que possam ser de importância para o sucesso da empresa (HOHHOF, 1994).
+
+Embora menos presentes na literatura sobre administração de empresas, dois outros conceitos se relacionam com o de monitoração ambiental. O primeiro, originário do campo da administração pública, diz respeito ao gerenciamento de questões estratégicas (issues management). Tem como foco a análise de questões de interesse para os planejadores desse setor. Já o processo de inteligência social envolve um processo de monitoração no âmbito de sistemas sociais mais amplos, tais como sociedades e países (CRONIN & DAVENPORT, 1993). Esses processos diferem em termos de abrangência e de seu horizonte temporal. A figura abaixo apresenta o relacionamento entre esses conceitos.
+
+FIGURA 1
+
+Relacionamento entre Conceitos Associados à Monitoração Ambiental
+
+
+
+Fonte: Adaptado de CHOO (1995)
+
+
+
+Como se pode observar na figura acima, os processos de inteligência do concorrente, inteligência competitiva, inteligência empresarial, monitoração ambiental e inteligência social diferem em termos de sua perspectiva temporal e de seu escopo na coleta de dados. Ou seja, enquanto a inteligência do concorrente diz respeito a questões de curto prazo, a inteligência empresarial preocupa-se com uma maior diversidade de fenômenos que tendem a se desenrolar em um horizonte temporal mais amplo.
+
+Por outro lado, o que esses processos têm em comum é o enfoque nos mecanismos pelos quais os dados e informações do ambiente organizacional externo são adquiridos, disseminados e utilizados no processo decisório em nível estratégico. Um conceito-chave para a análise de tais processos é a própria idéia de ambiente organizacional, que será abordada a seguir.
+
+
+
+3) O ambiente organizacional externo e seus componentes
+
+As organizações podem ser concebidas como sistemas abertos, que mantêm contínua interação com seus ambientes (KATZ & KAHN, 1987). Assim, as formas pelas quais essa interação se processa constitui importante questão de pesquisa, não apenas para os estudiosos das organizações, mas também para aqueles interessados nos fluxos informacionais que viabilizam essa interação.
+
+O ambiente organizacional é uma construção abstrata que pode ser vista a partir de uma série de perspectivas. Dois dos autores mais influentes nesse campo de estudo são Emery e Trist (1965), para quem os ambientes podem variar em termos de seu grau de complexidade e mudança. Sob essa perspectiva, os ambientes do tipo turbulento se modificam constantemente e introduzem elevados graus de incerteza na organização (MORESI, 2001).
+
+Além da dimensão estabilidade - turbulência, o ambiente organizacional pode ser visto sob outros ângulos. Por exemplo, pode ser considerado fonte de recursos (financeiros, humanos, tecnológicos etc.), dos quais a organização depende. Além disso, o ambiente pode ser fonte de variação, na medida em que apresenta desafios capazes de conduzir a um processo de seleção das organizações mais aptas a sobreviverem em ambientes instáveis (HANNAN & FREEMAN, 1977).
+
+A visão do ambiente que o presente trabalho pretende focalizar é aquela segundo a qual as organizações operam como unidades processadoras de informação. Essa perspectiva é compartilhada por importantes autores do campo da teoria das organizações, dentre os quais destacam-se Dill (1958), Cyert e March (1963) e Lawrence e Lorsh (1967).
+
+Existem várias propostas de classificação dos componentes do ambiente organizacional externo. Katz & Kahn (1987), por exemplo, defendem a idéia de que esses componentes são: a) valores sociais, b) aspectos políticos, c) aspectos econômicos, d) aspectos informacionais e tecnológicos, e) aspectos físicos. No presente estudo, será adotada a classificação de Daft et al. (1988) e de Auster e Choo (1994), para quem o ambiente organizacional pode ser subdividido nos seguintes setores ou segmentos:
+
+- setor cliente, que se refere àquelas empresas ou indivíduos que adquirem os produtos ou serviços da empresa;
+
+- setor concorrência, que abrange todas as empresas com as quais a empresa em questão compete no mercado;
+
+- setor tecnológico, que consiste de tendências relativas ao desenvolvimento de novos produtos e processos, inovações em tecnologia de informação, tendências científicas e tecnológicas etc:
+
+- setor regulatório, que envolve legislação e regulamentação nacional, regional ou local e desenvolvimentos políticos nos diversos níveis de governo;
+
+- setor econômico, que abrange fatores relativos a mercados de capitais, mercados de ações, taxas de inflação, resultados de balança comercial, orçamentos do setor público, taxas de juros, índices de crescimento econômico, dentre outros;
+
+- setor sócio-cultural, relativo a aspectos, tais como, valores da população, ética referente ao trabalho, tendências demográficas e outros.
+
+Os setores do ambiente possuem diferentes graus de importância para os gerentes. Por exemplo, Auster e Choo (1994) observam que as atividades de monitoração ambiental, no segmento canadense de telecomunicações, concentram-se nos setores: competitivo, clientela, regulamentador e tecnológico. Em contraste, os setores econômico e sócio-cultural merecem uma atenção muito menor.
+
+O presente estudo revela como os diversos componentes do ambiente são percebidos, em termos de seu grau de importância e taxa de mudança, por uma amostra de profissionais brasileiros.
+
+
+
+4) Fontes de informação sobre o ambiente organizacional
+
+CExiste, atualmente, uma enorme variedade de fontes de informação sobre o ambiente externo das organizações. Essas fontes abrangem os mais diversos aspectos do ambiente empresarial e constituem importante recurso de informação para os negócios. Diversos trabalhos descrevem e analisam fontes de informação que podem ser utilizadas no processo monitoração do ambiente organizacional. Por exemplo, Porter (1980) lista uma série de fontes de informação, tais como, relatórios de estudos sobre setores industriais (livros ou relatórios especializados), associações comerciais, publicações comerciais, imprensa especializada em negócios, diretórios, relatórios anuais e publicações governamentais, dentre outras. Um estudo realizado por Sutton (1988) identificou a seguinte lista de fontes assinaladas pelos gerentes como sendo importantes ou moderadamente importantes para o processo de inteligência empresarial:
+
+- fontes internas: setores de vendas, de pesquisa mercadológica, de planejamento, de engenharia, de compras, análise de produtos concorrentes, ex-empregados de concorrentes;
+
+- contatos diretos com o setor de negócios: clientes, encontros, demonstrações de vendas, distribuidores, fornecedores, associações comerciais, consultores, varejistas, empregados dos concorrentes; agências de publicidade;
+
+- informações publicadas: periódicos do setor, material promocional das empresas, relatórios anuais, relatórios de analistas financeiros, periódicos financeiros, discursos dos gerentes, periódicos de negócios, jornais nacionais e locais, diretórios, publicações governamentais;
+
+- outras fontes: analistas financeiros, bases de dados eletrônicas, bancos de investimento e comerciais, anúncios.
+
+De acordo com Choo (1994), as fontes de informação sobre o ambiente organizacional podem ser classificadas em quatro categorias: externas e pessoais, externas e impessoais, internas e pessoais e internas e impessoais. A tabela 1, abaixo, sintetiza essas fontes.
+
+TABELA 1
+
+Fontes de Informação Organizacional
+
+
+
+PESSOAIS IMPESSOAIS
+
+EXTERNAS Clientes
+
+Concorrentes
+
+Contatos comerciais/ profissionais
+
+Funcionários de órgãos governamentais Jornais, periódicos
+
+Publicações governamentais
+
+Rádio, televisão
+
+Associações comerciais e industriais
+
+Conferências, viagens
+
+INTERNAS Superiores e subordinados hierárquicos
+
+Equipe de funcionários Memorandos e circulares internos
+
+Relatórios e estudos internos
+
+Biblioteca da organização
+
+Serviços de informação eletrônica
+
+
+
+Fonte: Adaptado de AUSTER & CHOO, 1994.
+
+A identificação das fontes de informação de acordo com sua origem envolve um certo grau de ambigüidade. Isto ocorre porque a informação é transmitida ao longo dos elos de uma "cadeia alimentar informacional" (CHOO, 1995). Ou seja, as diversas fontes se "alimentam umas das outras, formando diversas cadeias alimentares inter-relacionadas, de forma que a informação é tipicamente transferida através de vários consumidores intermediários antes de chegar ao usuário final" (p. 139).
+
+O presente estudo analisou, sob o ponto de vista de sua freqüência de acesso, relevância e confiabilidade das informações, as seguintes fontes:
+
+Fontes pessoais externas
+
+* Clientes
+
+* Concorrentes
+
+* Funcionários públicos
+
+* Parceiros e associados (fornecedores, distribuidores, banqueiros, advogados, consultores, outros empresários etc.)
+
+
+
+Fontes documentais externas
+
+* Jornais e revistas (em papel)
+
+* Jornais e revistas (mídia eletrônica)
+
+* Publicações governamentais
+
+* Rádio e televisão
+
+* Serviços externos de informação eletrônica (bases de dados on-line, serviços de notícias on-line, grupos de discussão na web etc.)
+
+
+
+Outras fontes externas
+
+* Associações empresariais
+
+* Congressos, feiras, viagens
+
+
+
+Fontes pessoais internas
+
+* Superiores hierárquicos
+
+* Colegas do mesmo nível hierárquico
+
+* Subordinados hierárquicos
+
+
+
+Fontes documentais internas
+
+* Memorandos, circulares e relatórios internos (em papel)
+
+* Memorandos, circulares e relatórios internos (rede interna de computadores)
+
+* Biblioteca/Centro de Informação ou Documentação interno
+
+
+
+Deve-se observar que as fontes documentais acima podem ainda ser classificadas como fontes em papel ou em meio eletrônico.
+
+As informações obtidas por intermédio dessas fontes foram analisadas sob o aspecto de sua relevância e confiabilidade. Nesta pesquisa, uma informação é considerada relevante quando é necessária e útil para o alcance dos objetivos e metas da organização. Já uma informação é confiável quando provém de uma fonte idônea e, por esse motivo, pode ser utilizada como base para se tomar decisões. Parte dos ítens do questionário utilizado neste estudo foi retirada de instrumento de coleta de dados desenvolvido por Auster e Choo (1994).
+
+
+
+5) Resultados
+
+O questionário foi aplicado a 91 participantes de cursos de especialização na área de administração, em Belo Horizonte. Esses profissionais pertencem aos quadros de empresas privadas nacionais (63,7%) e multinacionais (13,2%), organizações do setor público (12,1%) além de organizações de outras naturezas (11%). As empresas que atuam nos setores de educação, informática, comércio e telecomunicações constituem 45,1% da amostra. Há também um número expressivo de organizações (39,6%) que atuam em setores não classificados no instrumento de coleta de dados. Destas, seis pertencem ao setor financeiro. As demais empresas foram classificadas como pertencentes aos setores de prestação de serviços, consultoria, distribuição, dentre outros.
+
+Os participantes do estudo atuam em empresas de diversos portes. A maior concentração de empresas (28,6%) encontra-se na faixa de cem a 499 funcionários. É também expressivo o número de representantes de empresas com mais de dois mil funcionários (26,4%) e com menos de vinte funcionários (20,9%). Em suma, os dados acima revelam uma composição diversificada de organizações. Elas são, em sua maioria, pequenas e médias empresas particulares e que se concentram no setor de serviços.
+
+Quanto ao perfil das pessoas que participaram da pesquisa, verifica-se que, das noventa pessoas que responderam esse item do questionário, 45 são do sexo feminino e 45 são do sexo masculino. Os respondentes são jovens; 60% da amostra é constituída por profissionais com idade até 34 anos. Profissionais com idade superior a 45 anos correspondem a apenas 5,6% do grupo de respondentes.
+
+As tabelas 2 e 3 sintetizam a distribuição dos participantes da pesquisa em termos de sua área de formação em curso superior e de sua área de atuação profissional. Quanto ao primeiro aspecto, registra-se o fato de que mais de dois terços (69%) dos respondentes graduaram-se nas áreas de administração/ contabilidade, computação/ sistemas de informação e em biblioteconomia/ sistemas de informação.
+
+TABELA 2
+
+Área de Formação Superior
+
+
+
+Freqüência Porcentagem
+
+Administração/ contabilidade 31 34,44
+
+Computação/ sistemas de informação 20 22,22
+
+Biblioteconomia/ documentação 12 13,33
+
+Engenharia 8 8,89
+
+Comunicação 6 6,67
+
+Educação/ psicologia 5 5,56
+
+Matemática/ estatística 2 2,22
+
+Economia 1 1,11
+
+Medicina/ veterinária/ enfermagem 1 1,11
+
+Arquitetura/ urbanismo 1 1,11
+
+Outra área 3 3,33
+
+Total 90 100,00
+
+
+
+Quanto às suas áreas de atuação profissional, os respondentes concentram-se nas áreas de sistemas de informação, direção/ administração geral e marketing/ vendas. Essas categorias perfazem 69,23% do total de participantes da pesquisa. Há, portanto, uma clara tendência desses profissionais estarem associados a atividades de gerência e/ou de sistemas de informação.
+
+TABELA 3
+
+Área de Atuação Profissional
+
+
+
+Freqüência Porcentagem
+
+Sistemas de informação 26 28,57
+
+Direção/ administração geral 20 21,98
+
+Marketing/ vendas 17 18,68
+
+Produção/ operações 8 8,79
+
+Planejamento 6 6,59
+
+Finanças/ contabilidade 3 3,30
+
+Recursos humanos 3 3,30
+
+Outra área 8 8,79
+
+Total 91 100,00
+
+
+
+Feita a descrição dos participantes do estudo e das organizações por eles representadas, a próxima seção descreve a maneira pela qual o ambiente organizacional externo é percebido.
+
+5.1) Percepção do ambiente externo
+
+Os setores do ambiente organizacional externo foram analisados sob os aspectos de sua importância e de sua taxa de mudança. Os resultados dessa avaliação estão apresentados na tabela 4.
+
+TABELA 4
+
+Importância e Taxa de Mudança de Setores do Ambiente
+
+
+
+Setor Importância Rank Taxa de mudança Rank
+
+Clientes 4,60 1 2,87 4
+
+Regulatório 3,92 2 2,82 5
+
+Tecnológico 3,90 3 3,55 1
+
+Concorrência 3,89 4 3,03 3
+
+Econômico 3,80 5 3,48 2
+
+Sócio-cultural 3,21 6 2,69 6
+
+
+
+Como se pode observar, o setor clientes destaca-se, de maneira muito nítida, como o foco mais importante de monitoração do ambiente externo. No extremo inferior da escala de importância, encontra-se o setor sócio-cultural. Os demais setores praticamente não se distinguem em termos de sua importância.
+
+No que se refere à taxa de mudança, o setor tecnológico, ao lado do setor econômico, destaca-se dos demais setores. Estes não são considerados como particularmente dinâmicos. A figura 2, abaixo, apresenta, na forma de um gráfico, o relacionamento dos setores do ambiente em termos de sua importância e dinamismo.
+
+FIGURA 2
+
+Relação entre Importância e Taxa de Mudança de Setores do
+
+Ambiente Organizacional
+
+
+
+
+
+Esses resultados são divergentes, em parte, daqueles encontrados por Auster e Choo (1994) em seu estudo no setor canadense de telecomunicações. Lá, os maiores níveis de importância foram atribuídos aos concorrentes, clientes, regulamentação e tecnologia.
+
+O relacionamento entre a freqüência de monitoração e o grau de incerteza existente no ambiente externo foi medido por intermédio dos coeficientes de correlação entre quatro variáveis: a) taxa de mudança no setor clientela (MUDCLI), b) freqüência de acesso ao setor clientela (FRECLI), c) taxa de mudança no setor concorrência (MUDCON) e d) freqüência de acesso aos concorrentes (FRECON). Os coeficientes de correlação de Pearson entre essas variáveis encontram-se apresentados na tabela 5, abaixo.
+
+TABELA 5
+
+Correlação entre Freqüência de Acesso e Taxa de Mudança
+
+dos Setores Clientela e Concorrência
+
+
+
+MUDCLI MUDCON FRECLI FRECON
+
+MUDCLI 1
+
+MUDCON ,695** 1
+
+FRECLI ,318** ,293* 1
+
+FRECON ,403** ,373** ,432** 1
+
+
+
+* Coeficiente de correlação significativo no nível de 0.05 (bi-modal)
+
+** Coeficiente de correlação significativo no nível de 0.01 (bi-modal)
+
+Os dados demonstram a existência de correlações positivas e significativas entre as quatro variáveis. O coeficiente mais elevado (r = 0,695) refere-se à associação entre as taxas de mudança nos setores clientes e concorrência. Já os coeficientes de correlação entre as taxas de mudança e as freqüências de acesso, embora significativos do ponto de vista estatístico, não parecem indicar uma associação lógica entre o grau de incerteza existente no ambiente (aqui medido por intermédio das taxas de mudança percebidas) e a freqüência de monitoração.
+
+5.2) Fontes de informação: uma visão geral
+
+A tabela 6, abaixo, contém uma visão geral de como os participantes da pesquisa avaliam as diversas fontes de informação aqui focalizadas. Os dados representam as médias, em uma escala de um a cinco, da freqüência de acesso, relevância e confiabilidade das fontes estudadas.
+
+Na tabela, as dezessete fontes foram ordenadas de acordo com a freqüência com que são acessadas. Observa-se, portanto, que jornais e revistas em meio eletrônico são as fontes mais freqüentemente acessadas. No outro extremo, os funcionários públicos são as fontes menos utilizadas.
+
+TABELA 6
+
+Freqüência de Acesso, Relevância e Confiabilidade de Fontes de Informação
+
+
+
+Fonte de informação Freqüência de acessoa Relevânciab Confiabilidadec
+
+média rank n média rank n média rank n
+
+Jornais e revistas (mídia eletrônica) 4,34 1 89 3,99 7 90 3,59 12 91
+
+Jornais e revistas (em papel) 4,30 2 89 3,93 9 89 3,57 13 91
+
+Colegas do mesmo nível hierárquico 4,09 3 87 4,14 2 90 3,89 7 91
+
+Memorandos, circulares e relatórios internos (rede interna de computadores) 4,08 4 88 4,07 6 88 4,00 5 88
+
+Rádio e televisão 4,06 5 87 3,57 15 89 3,22 15 90
+
+Serviços externos de informação eletrônica (base de dados on-line, serviços de notícias on-line, grupos de discussão na web, etc.) 3,77 6 90 3,97 8 90 3,62 11 91
+
+Subordinados hierárquicos 3,75 7 85 3,85 11 85 3,69 10 87
+
+Memorandos, circulares e relatórios internos (em papel) 3,48 8 86 3,77 13 86 3,99 6 89
+
+Superiores hierárquicos 3,43 9 89 4,10 3 88 4,04 3 90
+
+Clientes 3,32 10 90 4,73 1 90 4,01 4 90
+
+Biblioteca/ Centro de informação ou documentação interno 3,10 11 87 3,70 14 86 4,21 1 87
+
+Parceiros e associados (fornecedores, distribuidores, banqueiros, advogados, consultores, outros empresários, etc.) 3,09 12 86 4,08 5 84 3,79 8 87
+
+Publicações governamentais 3,07 13 87 3,79 12 86 4,18 2 88
+
+Concorrentes 2,72 14 90 4,10 3 90 3,07 16 90
+
+Associações empresariais 2,52 15 87 3,43 16 89 3,53 14 90
+
+Congressos, feiras, viagens 2,35 16 89 3,91 10 89 3,71 9 89
+
+Funcionários públicos 1,74 17 82 2,53 17 88 2,76 17 84
+
+
+
+a 1= menos de uma vez ao ano; 2 = algumas vezes ao ano; 3 = pelo menos uma vez ao mês; 4 = pelo menos uma vez por semana e 5 = pelo menos uma vez ao dia.
+
+b 1 = totalmente irrelevante; 2 = irrelevante; 3 = de alguma relevância; 4 = relevante; 5 = extremamente relevante.
+
+c 1 = nem um pouco confiável; 2 = pouco confiável; 3 = medianamente confiável; 4 = confiável; 5 = extremamente confiável.
+
+Os dados mostram que as fontes documentais externas (jornais, revistas, rádio e televisão), bem como serviços externos de informação eletrônica, destacam-se em termos da freqüência com que são acessados. Por outro lado, essas fontes são consideradas pouco confiáveis e, no seu conjunto, apenas medianamente relevantes. As publicações governamentais, no entanto, são muito confiáveis, embora sejam pouco utilizadas e consideradas pouco relevantes. As demais fontes externas, ou seja, associações empresariais e congressos/ feiras/ viagens, destacam-se, no seu conjunto, pelo seu baixo grau de utilização, relevância e confiabilidade. Congressos e feiras de negócios foram considerados medianamente relevantes e confiáveis.
+
+Colegas do mesmo nível hierárquico constituem a fonte pessoal interna mais utilizada. Subordinados e superiores hierárquicos não são contatados com grande freqüência. Por outro lado, os superiores são considerados fontes de alta confiabilidade. Deve-se destacar aqui o baixo número de respostas válidas para o item subordinados hierárquicos. Depreende-se, com isso, que diversos respondentes não ocupam cargos de supervisão ou gerência. As fontes pessoais externas, ou seja, clientes, concorrentes, parceiros e associados, bem como funcionários públicos, são pouco contatadas.
+
+Sob o ponto de vista de sua relevância, destacam-se os clientes, colegas, concorrentes, superiores hierárquicos e os parceiros e associados. Os dados realçam a importância das fontes pessoais de informação, que podem ser consideradas insubstituíveis, a despeito do grande desenvolvimento das fontes eletrônicas de informação. Esse resultado vai ao encontro da necessidade de se promover o compartilhamento da informação e do conhecimento dentro da organização e mesmo além de suas fronteiras.
+
+O estudo revela claramente a importância adquirida pelos meios eletrônicos de comunicação. Os jornais e revistas em meio eletrônico são tão utilizados quanto os seus correspondentes em papel. Por outro lado, os memorandos, circulares e relatórios internos em meio eletrônico são mais freqüentemente utilizados do que suas versões em papel. De fato, um teste de diferença entre as médias das freqüências de acesso a memorandos em meio eletrônico e em papel (4,08 e 3,48, respectivamente) mostra que essa diferença é estatisticamente significativa no nível de confiança de 98%. Ou seja, esse dado confirma a consolidação das redes de computadores dentro das organizações pesquisadas.
+
+No contexto desta pesquisa, a maneira pela qual os participantes utilizam e percebem as bibliotecas e os centros de informação e documentação internos merece especial destaque. Tais unidades de informação são percebidas como altamente confiáveis, mas são consideradas pouco relevantes e, talvez como conseqüência, sejam pouco utilizadas. Lembre-se de que, no contexto deste estudo, uma informação é considerada relevante quando é necessária e útil para o alcance dos objetivos e metas das organizações. Assim, os dados parecem indicar um baixo grau de sintonia entre os acervos mantidos por essas unidades de informação e os objetivos das organizações estudadas. Uma interpretação semelhante se aplica à maneira pela qual as publicações governamentais foram analisadas.
+
+5. 3) Setores responsáveis por informações externas
+
+Os participantes da pesquisa foram solicitados a indicar se as suas organizações possuem um setor responsável pela coleta, organização e distribuição de informações sobre o ambiente organizacional externo. Dentre as 91 respostas, constatou-se a existência de 33 (36,3%) empresas nas quais existe um certo grau de institucionalização da busca de informações externas. Esses setores são, principalmente, os de marketing e vendas (12,1%) e de comunicação (8,8%).
+
+Esperava-se que a existência desses setores fosse mais freqüente nas empresas de maior porte. A tabela 7 demonstra que a relação entre o tamanho da organização e o grau de institucionalização das atividades de inteligência empresarial é complexa.
+
+TABELA 7
+
+Associação entre porte e existência de setor responsável por informações externas
+
+
+
+Porte Existência de setor responsável por informações externas Total
+
+Não Sim
+
+Até 500 funcionários 39 16 55
+
+500 funcionários ou mais 18 18 36
+
+Total 57 34 91
+
+
+
+Enquanto as empresas com até quinhentos funcionários tendem a contar, em sua estrutura, com setores responsáveis pela coleta, organização e distribuição de informações sobre o ambiente externo, essa relação não se observa nas empresas de maior porte. Estes resultados evidenciam a necessidade de estudos mais aprofundados.
+
+
+
+6) Conclusões e recomendações
+
+A pesquisa revela uma série de aspectos importantes sobre o processo de monitoração ambiental em organizações brasileiras. Os dados confirmam que, em decorrência do aumento do grau de informatização dessas organizações, as fontes eletrônicas de informação adquiriram grande destaque como meios de comunicação no contexto organizacional. Sobre esse aspecto, um ponto de destaque é o maior grau de utilização de redes de computadores nas comunicações internas nas empresas estudadas.
+
+Os dados evidenciam também a importância das pessoas como fontes de informação profissional. De fato, dentre as 17 fontes analisadas, as fontes pessoais ocuparam as cinco primeiras posições em termos de relevância. Ou seja, mesmo em um contexto cada vez mais rico de fontes eletrônicas de informação, as pessoas continuam sendo as principais referências no contexto da gestão da informação e do conhecimento nas organizações. Esses dados reforçam a idéia de que a introdução da tecnologia da informação não diminui a importância dos contatos interpessoais, e que todas as mídias disponíveis devem ser combinadas para o atendimento das necessidades de informação dos clientes organizacionais. Os dados frisam também a importância de se implementar e aperfeiçoar, de forma continuada e intensiva, mecanismos internos de compartilhamento da informação (DAVENPORT, 1998). Vale ressaltar ainda que tais mecanismos de compartilhamento não devem se restringir apenas ao ambiente interno; devem se estender para além das fronteiras organizacionais e alcançar também clientes e concorrentes, por exemplo.
+
+O presente trabalho sugere a necessidade de se estudar em profundidade as atividades dos setores de informação dentro das empresas. Tais setores são considerados altamente confiáveis, embora não sejam percebidos como relevantes aos olhos dos profissionais que os utilizam. Nesse sentido, aspectos que poderiam ser estudados são: a natureza de seus acervos, os produtos e serviços por eles oferecidos, o perfil dos profissionais que neles atuam, dentre outros.
+
+Os resultados aqui apresentados ressaltam a importância de novos estudos sobre o processo de monitoração do ambiente organizacional externo. Em especial, merece investigação mais profunda o possível relacionamento entre características pessoais, tais como nível educacional e área funcional, e as maneiras pelas quais as pessoas monitoram o ambiente externo. Na mesma linha, poderiam ser estudadas as associações entre características das empresas, tais como, o seu porte e setores de atividade e os comportamentos de monitoração ambiental de seus integrantes.
+
+O alto grau de informatização alcançado pelas organizações brasileiras - e confirmado na presente pesquisa - sugere também a realização de novos estudos para se identificar a utilização da Internet e das redes internas de comunicação como fontes de informação para negócios.
+
+Dentre as implicações gerenciais do presente estudo, destaca-se a importância de se aprimorar as formas de obtenção de informações a respeito de clientes e de concorrentes. Isso reforça a premissa de que a inteligência empresarial constitui importante fator de competitividade. Nesse sentido, pode ser sugerida a criação de equipes multidisciplinares para lidar com a informação externa no contexto organizacional. Por certo, essa sugestão não se aplica a empresas de pequeno porte. Para essas, a utilização de serviços externos de informação pode ser considerada uma alternativa viável.
+
+O presente estudo revela uma série de aspectos relevantes a respeito do comportamento informacional de profissionais brasileiros no que se refere ao processo de monitoração do ambiente organizacional externo. Além disso, suscita uma série de tópicos para futuros estudos no campo da gestão da informação e da inteligência empresarial. Levando-se em conta que o uso efetivo da informação e do conhecimento contribuem, cada vez mais, para gerar vantagens competitivas em ambientes de negócio de alta volatilidade, acredita-se que a implantação das sugestões aqui apresentadas vai contribuir para a melhoria do desempenho das organizações brasileiras.
+
+
+Referências Bibliográficas
+
+[1] AGUILAR, F. J. Scanning the business environment. New York: The Macmillan Company, 1967.
+
+[2] AUSTER, E., CHOO, C. W. CEOs, information, and decision-making: scanning the environment for strategic advantage, Library Trends, v.43, n.2, p.206-225, Fall 1994.
+
+[3] BARBOSA, R. R. Monitoração ambiental: uma visão interdisciplinar, Revista de Administração, v. 32, n. 4, p. 42-53, out./dez. 1997.
+
+[4] CHOO, C. W. The knowing organization. New York: Oxford University Press, 1998.
+
+[5] CHOO, C. W. Information management for the intelligent organization. Medford, NJ: Information Today, 1995.
+
+[6] CRONIN, B., DAVENPORT, E. Social intelligence. In: WILLIAMS, M. (Ed.). Annual Review of Information Science and Technology. Medford, NJ: Learned Information, p. 3-44.
+
+[7] CYERT, R. M., MARCH, J. G. A behaviorial theory of the firm. Englewood Cliffs, NJ: Prentice Hall, 1963.
+
+[8] DAFT, R.L., SORMUNE, J., PARKS, D. Chief executive scanning, environmental characteristics, and company performance: an empirical study, Strategic Management Journal, v. 9 n.2, p.123-139, 1988.
+
+[9] DAVENPORT, T. Ecologia da informação. São Paulo: Futura, 1998.
+
+[10] DILL, W. R. Environment as an influence on managerial autonomy, Administrative Science Quarterly, v.2, n.4, p.409-443, Mar. 1958.
+
+[11] EMERY, F.E., TRIST, E.L., The causal texture of organisational environments, Human Relations, v 18 , p. 21-32, 1965.
+
+[12] HANNAN, M. T., FREEMAN, J. The population ecology of organizations, American Journal of Sociology, v.82, n.5, p.929-964, Mar. 1977.
+
+[13] HOHHOF, B. Developing information systems for competitive intelligence support, Library Trends, v.43, n.2, p.226-238, Fall 1994.
+
+[14] KATZ, D., KAHN, R. L. The social psychology of organizations. 2 ed. New York: John Wiley & Sons, 1978.
+
+[15] LAWRENCE, P. R., LORSCH, J. W. Organization and environment: managing differentiation and integration. Boston, MA: Harvard University Press, 1967.
+
+[16] Libraries - The University of North Carolina at Chapel Hill. Disponível em: <http://www.lib.unc.edu/instruct/tutorial/evaluating/relevance.html>. Acesso em: 8 ago. 2002.
+
+[17] MORESI, E. A. D. O contexto organizacional. In: TARAPANOFF, K (Org.). Inteligência organizacional e competitiva. Brasília: Ed. UnB, 2002. p. 51-91.
+
+[18] PORTER, M. Competitive strategy: techniques for analysing industries and competitors. New York, NY: The Free Press, 1980.
+
+[19] RBA Information services. Business information on the internet. Disponível em: <http://www.rba.co.uk/sources>. Acesso em: 24 jul. 2002.
+
+[20] SUTTON, H. Competitive intelligence (Conference Board Research Report n. 913). New York: The Conference Board, 1988.
+

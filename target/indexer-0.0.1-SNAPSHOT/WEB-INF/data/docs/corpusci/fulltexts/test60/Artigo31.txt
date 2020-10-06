@@ -1,0 +1,363 @@
+Novos cenários políticos para a informação
+
+Resumo
+
+Poderíamos dizer que hoje, nos cenários mundiais, a economia do conhecimento é proposta, sem mais nem menos, como o novo conteúdo e referência da política da informação ou, em certa forma, da totalidade do político. Consideramos que contribui, para essa subversão de sentido, um terceiro termo, que para uns seria "infra-estrutura", e para outros, "sociedade da informação". Se o modus operandi dessa virada estratégica seria a transubstanciação do informacional e semiótico no econômico, através da mediação tecnológica e dos mercados, optamos por considerar as mudanças do papel do Estado – como modus cognoscendi dessas transformações, que afetam profundamente o que, até agora, denominara-se – em sentido restrito – "Política de informação". Nossa análise remiter-se-á à revisão do conceito "governança", adotando como apoio argumentativo o conceito de "regime de informação". A partir da consideração de alguns dos pressupostos da governança, indagaremos quais estruturas de informação poderiam sustentar os processos de formação, circulação e institucionalização do poder, em um horizonte democrático.
+
+Palavras-chave
+
+Política de informação; Sociedade da informação; Internet; Institucionalização da informação; Estado.
+
+
+POLÍTICA E INFORMAÇÃO: DOMÍNIO DE VIGÊNCIA DA RELAÇÃO
+
+A política de informação emerge como tema e domínio relativamente autônomo, em nível nacional e internacional, no cenário do pós-guerra, associada às políticas de ciência e tecnologia. O nexo da informação com a política seria então estabelecido por sua inclusão na esfera de intervenção do Estado, agora não só como dimensão de racionalidade administrativa, mas como fator estratégico do desenvolvimento científico-tecnológico.
+
+As vinculações políticas da informação e suas inscrições documentais e tecnológicas poderiam remeter-se, de fato, à própria constituição do modelo moderno de soberania, conforme o qual o Estado age como agente privilegiado de geração, recepção e agregação das informações, gerando um "duplo" representacional de seus domínios de intervenção territorial, social e simbólica. Tal seria a função e finalidade da estatística, da cartografia, das escritas oficiais formalizadoras, das bibliografias nacionais e de outros instrumentos de representação documentais e arquivísticos1. Tendo essa competência de sobrecodificar e acumular excedentes de conhecimento e informação, um capital informacional (junto ao capital de força física e capital econômico) compõe o "metacapital" do Estado, que assegura seu poder sobre todos os outros campos de atividade e suas formações de capital social, bem como todos os outros capitais (ver respeito Bordieu,1996, p.99 e seguintes).
+
+Consideramos que a reconstrução da forma moderna de soberania não se esgotaria, porém, nessa figura de um "logos" estadocêntrico "pairando" sobre a construção das nações modernas. Implicaria igualmente, de modo paradoxal, princípios de integração social que têm como garantia as expectativas e os dispositivos jurídicos de um regime de Direito. Uma "constituição comunicacional" implícita seria o pré-requisito de todos os contratos sociais, cujas premissas tácitas deveriam incluir a vinculação comunicacional e a circulação de informações entre todos os atores sociais, seja como condição de constituição dos "coletivos das pessoas privadas" que deverão assumir papéis programados nos planos institucionais de ação, seja pela demanda de publicidade dos atos de governo, como responsabilidade dos representantes diante dos representados.
+
+O papel central do conhecimento e sua expressão maximizada, a ciência, que, como princípio de credenciamento e habilitação dos novos empreendimentos produtivos e civilizatórios, demandava ao mesmo tempo a interiorização – pelos "muitos" – de motivações e modelos de ação racional meio-fim, assim como uma pluralidade de saberes especializados e hierarquizados.
+
+Em seu conjunto, a modernização cultural exigia assim a multiplicação das instituições pedagógicas e informacionais (escolas, universidades, bibliotecas, museus).
+
+De fato, tanto os pressupostos da racionalidade funcional-produtivista quanto as premissas de legitimação e interação deliberativa de uma "constituição comunicacional e informacional" nunca alcançariam uma plena realização, ainda mais nos países pós-coloniais sujeitos a uma modernização subalterna e conservadora. Figuras patrimonialistas e clientelistas de privatização do público; estratégias comunicacionais próprias dos modelos competitivos de mercado – com suas exigências de segredo e regulação estratégica da informação e a desinformação – terão uma intervenção cada vez maior em espaços societários com fortes referências à "res pública", como os serviços públicos, os setores da saúde, da educação e da pesquisa científica. A ausência de processos comunicativos dinâmicos e contínuos não chegaria a equacionar a coexistência de fluxos e estruturas de informação e desinformação2.
+
+Sobre essas questões de vigência ou reformulação da "constituição comunicacional e informacional" e das novas distribuições de poder entre o Estado e os atores econômicos nos domínios intelectuais e tecnológicos da informação, propomos agora aproximações parciais.
+
+
+
+DA "POLÍTICA NACIONAL DE INFORMAÇÃO" AOS NOVOS ENUNCIADOS DA INFRA-ESTRUTURA DE INFORMAÇÃO" E DA "SOCIEDADE DA INFORMAÇÃO"
+
+A relação entre política e informação, no escopo e abrangência do paradigma moderno de soberania, ficaria assim estabelecida por uma dupla referência ao Estado e a uma "constituição comunicacional" de realização flexibilizada e desigual. É, porém, a partir da década de 50, que essa relação começaria a ser explicitada em termos de programas de governo e de políticas públicas.
+
+Entre alguns dos principais fatos que sinalizam a constituição de um campo prático-discursivo diferenciado e relativamente autônomo das políticas de informação, cabe destacar o "Weinberg Report" (U.S. President's Science and Advisory Commitee, 1963) do governo norte-americano e as agendas internacionais estabelecidas pela Organização das Nações Unidas para a Educação, Ciência e Cultura (Unesco). Se o primeiro documento define como escopo e abrangência de uma política de informação a transferência de informação científica, sob a responsabilidade do governo – que por sua vez convoca as competências de uma intelligentzia técnica –, as intervenções da Unesco dirigiam-se a estabelecer um programa intergovernamental e cooperativo para promover e otimizar o acesso e uso da informação, buscando superar as brechas científico-informacionais entre países centrais e periféricos3 e tendo estes últimos como alvo principal (Jardim, 1995, p.19 e ss.).
+
+Organizando o campo definicional da política de informação, teríamos agora o Estado como agente privilegiado de sua elaboração e implantação, e a ciência e a tecnologia, como domínio de seu exercício.
+
+Apesar de muitos e importantes esforços, a formulação das políticas de informação não consegue o sucesso esperado nos países em desenvolvimento.
+
+A convicção no papel causal da informação na modernização e desenvolvimento não se mostraria igualmente eficaz para consolidar, para a informação científico-tecnológica, estruturas institucionais, duradouras e progressivas na formulação de seus parâmetros organizacionais e tecnológicos. Nos fatos, os sistemas nacionais de informação científico-tecnológica não encontram expressão em um domínio estável e transparente de agentes, instituições, espaços e agendas de formulação de políticas públicas, seja porque a informação é objeto de políticas indiretas e tácitas, seja porque o escopo e abrangência das políticas de informação recortadas sobre o grande mapa das políticas públicas são deslocados freqüentemente, de acordo com definições de prioridades conjunturais e em constante mudança.
+
+Nos fins da década de 70, um outro cenário começaria a ser construído a partir da junção das novas tecnologias de informação e comunicação.
+
+Diferentes discursos e abordagens passariam a estudar as relações entre essa nova geração de tecnologias de comunicação e informação e transformações nos modos de expressão e acesso cultural, nos processos de trabalho, nas práticas e modelos de gestão da administração pública e na esfera da empresa e dos negócios.
+
+A proliferação desses discursos não implica, de fato, um acordo sobre a natureza e alcance das mudanças: para uns, estaríamos diante de uma mudança revolucionária do modo de produção, substituído pelo que se chamaria agora 'modo de informação' (Poster, 1997); para outros, a ruptura se estabeleceria na passagem de uma sociedade industrial a uma pós-industrial (Bell, 1976 ); para outros, ainda, tratar-se-ia da transição de um modo fordista a um modo pós-fordista de produção, sendo os dois o desdobramento e expansão mundializada de um modo de produção industrial-capitalista instaurado na modernidade (Tremblay, 1995 ). Castells (1999) e Latour (2000) utilizam o conceito de 'rede' para representar os novos arranjos relacionais do Estado.
+
+Para Castells, o Estado-rede representa uma nova fórmula político-institucional, caracterizada pela redistribuição de competências e recursos de coordenação entre distintos atores, jurisdições e níveis institucionais e organizacionais governamentais e não-governamentais chamados a compor os processos decisórios contemporâneos. As novas tecnologias de comunicação e informação forneceriam os meios para manter ativas as relações entre os agentes e as instituições envolvidos nas novas cadeias decisionais e acionais, com diversas modalidades de complexidade e extensão: locais, regionais, transnacionais (Castells, 1999; Jessop, 1998 ).
+
+Sem entrar neste momento na discussão dos grandes quadros teóricos ou históricos, interessa-nos resgatar enunciados e acontecimentos mais específicos que contribuam para o reconhecimento do estatuto atual da relação entre política e informação.
+
+Entre o final da década de 70 e início da década de 80, encontraremos as primeiras enunciações que se mostram significativas para nosso objetivo.
+
+Porat (1977) considerava como traços principais da mudança em andamento a emergência de atividades econômicas que tinham como função principal a produção, processamento ou distribuição da informação, diferentemente daquelas atividades em que a informação tinha uma função secundária e subordinada a uma outra função principal. Para corroborar sua afirmação, apresentava um quadro que evidenciaria o crescimento relativo dos trabalhadores da informação entre outras categorias ocupacionais, abrangendo quase 50% de toda a força de trabalho norte-americana – ainda que este número e as metodologias de seu cálculo tenham sido imediatamente contestados por diversos autores (Schemmet, 1990). Tratava-se do estabelecimento de um novo setor econômico (o ' quarto' setor), relativamente autônomo e suficientemente significativo para afetar e dinamizar a economia como um todo.
+
+"Colocamo-nos uma questão diferente: que ocupações estão principalmente (primarily) envolvidas na produção, processamento ou distribuição de informação como seu produto (output) e que ocupações desenvolvem tarefas de processamento de informação como atividades subordinadas (ancillary) à função principal (primary function)?" (Porat, 1977, p. 105, apud Schemment, 1990)
+
+O discurso dos sistemas nacionais de informação científico-tecnológica, colocado como questão de Estado, começava a ser substituído por um discurso de cunho econômico.
+
+Zurkowski (1984), presidente da Associação das Indústrias da Informação4, usa o conceito de ' infoestrutura' como uma composição dos termos ' informação' e 'estrutura' para designar "a miríade de elementos necessários para sustentar a sofisticada capacidade de manipular informação" que caracterizaria a economia dos Estados Unidos, na qual se depositaria a expectativa de incrementar sua produtividade e instrumentar a máxima realização de seus talentos humanos. Ao mesmo tempo em que procura mapear essa "infoestrutura" em sua crescente complexidade e expressão, Zurkowski se pergunta pelas possibilidades de integração das tecnologias, dos mercados e dos diferentes segmentos das indústrias da informação como o caminho de sobrevivência e oportunidade de fortalecimento do setor, superando assim suas atuais segmentações, suas justaposições e conflitos, suas formas oportunistas e imprevisíveis de agregação e de expansão.
+
+Diferentemente da indústria cultural, que implicava, desde seu início, uma expectativa de homogeneização de seu público, no pólo da recepção, a indústria da informação, desde sua gênese, incluía uma vontade de integração econômica, no pólo da produção5.
+
+Zurkowski e Porat, nestes textos, põem de manifesto duas tendências que se dissociariam com o andar do tempo: uma indicando a crescente autonomia e importância econômica, política e social dos fenômenos de comunicação e informação que, a partir dos novos modelos econômicos e tecnológicos, ganham uma dimensão estrutural e estruturante das atividades sociais; outra sustentando a constituição de um setor diferenciado das atividades, da indústria e dos mercados de informação, considerados como "o quarto setor", diferenciado do setor de serviços.
+
+A evolução da primeira tendência, porém, pareceria ter interceptado o desenvolvimento da segunda: fenômenos, processos, atividades de informação passaram a ser reconhecidos como um plano constitutivo de todas as atividades e manifestações econômicas, sociais e culturais, de um modo como nunca antes o tinham sido. Dois termos são indicativos desta situação: "sociedade da informação" e "infra-estrutura de informação".
+
+O deslocamento discursivo de sua posição preferencial no campo estratégico do Estado ao campo da economia e a passagem do modelo do ' 4º setor' à ' infra-estrutura de informação' – perpassando todas as atividades sociais – anunciam um programa de profunda alteração dos cenários da informação e a reformulação dos agregados de atores políticos, econômicos e sociais que deveriam compor os novos arranjos organizacionais do domínio. Castells, não por acaso um dos autores mais divulgados nos mais diversos espaços de leitura, procura esclarecer o ponto crítico da mudança:
+
+"O termo sociedade da informação destaca o papel desta última na sociedade. Sustentarei, porém, que a informação, em seu sentido mais amplo, ou seja, como ' comunicação do conhecimento', tem sido fundamental em todas as sociedades, incluída a Europa medieval, que estava estruturada e em certa medida unificada em torno do escolasticismo, isto é, em conjunto, um marco intelectual... Em contraste, o termo informacional indica o atributo de uma forma específica de organização social na qual a geração, processamento e transmissão da informação convertem-se em fontes fundamentais da produtividade e do poder, devido às novas condições tecnológicas que surgem neste período histórico". (Castells, 1997, p.47)
+
+O programa da Global Information Infrastructure (GII), como um dos carros-chefes da política norte-americana, no governo de Clinton, seria apresentado em 1994, por Al Gore, vice-presidente dos Estados Unidos, na reunião da International Telecommunication Union (ITU), em Buenos Aires. Nesse discurso, consolida-se a associação dos conceitos de infra-estruturas e informação6 aos conceitos de 'rede', 'mercado' e 'globalização'. O conceito de 'infra-estrutura', definido em seu sentido genérico como o conjunto de recursos, instalações e meios prévios requeridos para o funcionamento de uma atividade, organização ou sociedade, em composição com o termo ' informação', introduz uma ruptura paradigmática. Com efeito, pareceria reformular a "metáfora espacial", conforme a qual a ' infra-estrutura' era considerada como o conjunto de relações de produção, de natureza econômica, determinantes das demais relações sociais, e seu antônimo, a "superestrutura", como a esfera do "agir", das atividades preferentemente de caráter "ideacional", discursivas ou "ideológicas"7. A infra-estrutura de informação propõe-se como comunicacional e produtiva, nela acontece tanto a transmissão como a geração de valor.
+
+Liderando um modelo aberto e expansivo da "pax" globalizada, lançava-se uma convocatória de investimento nesse novo tipo de infra-estrutura que, diferente das redes viárias e territoriais, caracterizava-se por seu alcance global e sua capilaridade local, sua capacidade de ligar nações e domicílios, organizações poderosas e indivíduos anônimos, sem passar necessariamente pelas fronteiras instituídas: as geopolíticas, as institucionais, as disciplinares.
+
+Ao contrário da 'mídia', a GII não teria como primeiro objetivo a formação de um público receptor ou consumidor. No modelo da inteligência distribuída, cada um e todos formam parte de uma cadeia heterogênea, mas com conexões densas, onde cada um e todos são tanto produtores como consumidores.
+
+No programa enunciado por Al Gore, a montagem da GII aconteceria em e para os mercados, sendo que a universalização do acesso aconteceria pela facilitação da aquisição de equipamentos tecnológicos (preços acessíveis para as pessoas de todos os níveis de renda) e pela padronização, interoperabilidade e transportabilidade de produtos e serviços, garantida pela metrologia.
+
+Renovar-se-iam, nas arenas da economia da informação, o projeto moderno de integração, reformulado na aposta de conjugação da democracia neoliberal, a "pax" global e os mercados concorrenciais.
+
+Outros grandes atores representativos do cenário político contemporâneo vão aderir a um processo que ora se apresenta como irreversível e em andamento, ora como desejável e exigindo iniciativas de implementação.
+
+A pedido da Comunidade Européia, será elaborado um outro documento, intitulado Europa e a Sociedade Global da Informação, mais conhecido como o Bangemann Report, apresentado na reunião do Conselho Europeu, em Corfu, 1994.
+
+Em seu quadro de análise, o relatório Bangemann remete à "revolução baseada na informação, ela mesma expressão do conhecimento humano". O termo utilizado para designar as transformações, que o relatório afirma serem de ruptura com a sociedade industrial, não é já 'infra-estrutura', mas 'sociedade da informação'. "Sociedade" indica a convocação dos atores da iniciativa privada para implementar as mudanças; "informação" enfatiza as aplicações e conteúdos culturais, atendendo tanto à diversidade cultural e lingüística da Europa como anunciando às potencialidades de seu capital artístico e intelectual.
+
+Dada a importância de manter a integração tecnológica e comunicacional dos países membros da Comunidade Européia, será necessário desenvolver ações de coordenação e de harmonização das estruturas reguladoras e organizacionais. "Comitês" interorganizacionais e outras figuras de cooperação auto-reguladoras (como os "consórcios") surgirão para atender às novas situações, estabelecer padrões e prover a interconexão de redes e serviços, nas principais atividades econômicas, culturais e sociais.
+
+Também em meados da década de 90, a Unesco, cujas intervenções no domínio da informação tiveram sempre um papel significativo em nível internacional e na América Latina, em especial, iniciará a modificação de seus principais programas no domínio informacional, o General Information Programme (PGI) e o Intergovernmental Informatics Programme (IIP). Conforme a própria Unesco, "a revolução informacional levou à crescente justaposição dos dois programas", sendo necessário reformular sua inserção organizacional: a partir de 1996 são integrados em uma única secretaria – Divisão de Informática e Informação –, sendo finalmente substituídos por um novo programa, cujo objetivo é "contribuir para configuração de uma sociedade da informação, justa e com objetivos de benefícios universais" (Unesco, 2000).
+
+O Grupo dos 78, em 1995, anuncia sua colaboração para a construção da "infra-estrutura global de informação", tendo os mesmos princípios que os apresentados pela Organização Internacional do Trabalho (OIT), na Reunião de Buenos Aires, com respeito aos aspectos tecnológicos (interoperabilidade, interconectividade, acesso aberto), à forma de financiamento das infovias, por meio de investimentos privados, à demanda de ambientes regulatórios flexíveis e à garantia de universalidade dos princípios. O Grupo dos 7, como outras iniciativas de países europeus, agregaram diretrizes acerca dos conteúdos, além daquelas referentes aos canais (Borgmann, 2000 ).
+
+Sumarizando, a relação entre política e informação deverá ser reconstruída a partir de sua ' imersão' nas novas configurações das infra-estruturas de informação e da Sociedade da Informação.
+
+
+
+O DOMÍNIO ORGANIZACIONAL DA INTERNET: PARADOXOS E DESAFIOS
+
+Sob a influência dos novos fatos e modelos, as demandas de intitucionalização das 'políticas de informação' sustentadas na versão de Weinberg darão lugar a novos conteúdos e espaços de enunciação.
+
+Em um movimento que acompanha o deslocamento da ênfase no desenvolvimento setorial da indústria de informação ao projeto de atualização e de extensão da infra-estrutura de informação, foram sendo substituídas as premissas que estabeleciam uma relação estrutural e intrínseca entre a ordem política estadocêntrica e a ordem informacional. As novas premissas afirmam a relação estrutural da informação com a tecnologia e a economia. O caráter decisional inscrito nas políticas de informação seria recuperado em meados da década do 90, mas circunscrito agora aos programas de institucionalização da Internet e da universalização do acesso a suas aplicações e serviços.
+
+Está ainda em aberto qual será a configuração política final ou dominante nos próximos anos do que é denominado "Internet": se vai constituir um domínio político autônomo e capaz de organizar em uma sinergia própria todos os outros domínios organizacionais da comunicação e a informação, se vai constituir um subdomínio de um campo organizacional mais amplo que agregue, por exemplo, as políticas de comunicação, conhecimento, educação e informação, ou se tenderá a estabelecer, sob algum outro modelo institucional, alguma forma de articulação mais intensa com cada um dos domínios funcionais em que se envolve (ciência e tecnologia, saúde, cultura, educação, trabalho, indústria, entre outros).
+
+Werle (1999) considera que a Internet, agregando agentes, ações e recursos do campo da mídia eletrônica, da computação e da telecomunicação, estaria gerando, em seu país de origem, um novo domínio de formação e circulação de poder informacional. A partir da metade da década de 90, a Internet se distancia aceleradamente do projeto que caracterizara sua segunda fase de expansão, como projeto ligado à National Science Foundation e à comunidade acadêmica, e passa a interessar a diferentes contextos organizacionais, atentos a sua capacidade de penetração e sua viabilidade comercial. Nessas circunstâncias, a Internet tenderia a constituir-se domínio político por seu próprio direito, nos Estados Unidos e em outros países sob sua influência (Werle, 1999, p.172).
+
+A "convergência digital" e a potencialidade para reunir fluxos de informação analógica e digital (Borgmann, 2000) são destacadas como o princípio operacional decisivo que desencadearia, com as redes eletrônicas, um processo irreversível de construção de um infrapoder informacional.
+
+De fato, tais processos de intervenção tecnológica sobre os diversos domínios de ação (negócios, governo, saúde, educação etc.) despertam complexas demandas de "tradução de interesses" e de negociação organizacional.
+
+Em uma visão rápida e formal do modelo norte-americano da década de 90, a Internet não estaria representada por uma organização ou instituição específica, mas por um agregado de organizações9 – associações de provedores de serviços, de empresas que geram e vendem tecnologia, de operadores da rede e de grupos defensores dos direitos civis e organizações do terceiro setor – as quais partilhariam o domínio de construção da "rede de redes" junto às agências do governo que, ainda manifestando seu propósito de não intervir diretamente no domínio, tomaria numerosas medidas acerca de sua constituição e regulação. O Icann10 seria oferecido como exemplo do compartilhamento das decisões sobre a rede de redes, no domínio local e internacional.
+
+Seja qual for, o modelo organizacional norte-americano de institucionalização da Internet deverá ter um peso modelar sobre outros países, tanto por sua hegemonia no desenvolvimento e a oferta de software e aplicativos, tecnologias e serviços de Internet, quanto pela generalização e densidade do uso da Internet naquele país – de extranets e intranets –, tanto nas diversas atividades econômicas, governamentais, educacionais, quanto nos ambientes domésticos.
+
+No Brasil, assim como outros países da América latina, a definição da forma de institucionalização da Internet requer a articulação de três domínios. Por um lado, a institucionalização da Internet no domínio do Estado, em seu duplo papel: de Estado que convoca no Programa da Sociedade da Informação e que é convocado no Programa de Governo Eletrônico; por outro lado, a inclusão dos setores econômicos e de investimentos na economia dos mercados digitais e, ao mesmo tempo, a definição dos modos de inclusão da cidadania e seus direitos. Nesse contexto, a reformulação da Constituição Comunicacional e Informacional11, conforme os novos paradigmas das redes e infra-estruturas de informação, deverá arcar com a dívida dos preceitos modernos insatisfeitos, dadas as desigualdades sociais e regionais de acesso a escolas e universidades, bibliotecas, museus e outros recursos culturais e informacionais.
+
+
+
+DAS POLÍTICAS PÚBLICAS ÀS MICROPOLÍTICAS
+
+Em sua manifestação mais ampla e expressiva, a relação entre política e informação, nos novos cenários, deverá ser buscada em sua imersão nos domínios econômicos e tecnológicos, desde onde atua no plano implícito das micropolíticas, inscrita em componentes técnicos e não técnicos do desenho e operacionalização dos dispositivos de informação ou através de figuras econômicas – como as tendências oligopólicas ou monopólicas. O "vazio" normativo constituído nas redes extensas e heterogêneas de informação poderia gerar, por sua vez, figuras subjetivas de "anomia informacional" (ver STAR et alii, 1998).
+
+Considerado isoladamente, em seu sentido mais amplo, 'infra-estrutura de informação' designa a convergência das tecnologias comunicação, telecomunicação e informática, tendo a Internet como principal locus de realização dessa convergência.
+
+Trataremos de analisar, brevemente, alguns dos aspectos próprios das redes e infra-estrutura que permitem reconhecer algum plano de conexão entre a informação e a política como expressão de interesses e desejos, escolha e decisão.
+
+Em primeiro lugar, consideraremos que políticas tácitas estão embutidas no design e formas de operação das infra-estruturas de redes. A inscrição de padrões nas infra-estruturas de informação12 – não visíveis ou implícitos desde o ponto de vistas dos usuários – faz aparecer, como determinações funcionais e instrumentais, as decisões e alternativas que resultam das negociações de interesses, dos objetivos, projetos e escolhas organizacionais que, de modo prescritivo, antecipam operações e relações preferenciais nas redes, entre sujeitos, organizações e informações. Os "padrões" seriam regras constituídas por atores em práticas sociais e operações técnico-instrumentais, os quais podem ser "de jure" – sancionados em processos institucionais ou jurídicos –, "formais" ou convencionais, gerados em processos "quase-democráticos", por corpos colegiados e "padrões de fato", embutidos com caráter prescritivo em processos, serviços e produtos pelas forças do mercado (Hanseth, 1998, entre outros).
+
+Seriam esses padrões de comunicação infra-estrutural os que produzem nas redes um primeiro plano de zoneamento discursivo, dentro do qual são facilitadas certas relações, trajetórias e ocorrências semânticas, enquanto outras são desativadas ou dificultadas. Pensar nas conseqüências da escolha de um sistema Windows ou Lynnus em uma grande rede de comunicação computarizada (como as escolas ou os hospitais de um país) são rápidos exemplos que nos lembram o caráter regulatório dos padrões tecnológicos, que interferem como micropolíticas tácitas sobre os processos de comunicação e informação.
+
+A estabilização e a configuração dos macrossistemas tecnológicos não seguiriam assim uma trajetória obrigatória, devido a condições determinantes e funcionais das próprias tecnologias, mas responderiam aos contínuos processos de negociação de interesses. Latour chama "tradução" ao modo como os interesses são negociados, buscando corporalizar-se e constituir caixas-pretas ou cadeias de relações irreversíveis (Latour, 2000 ). Os sistemas tecnológicos passariam assim por fases, estando nas fases iniciais mais sujeitos à negociação, mas tendendo a compor – por seus desenhos funcionais e suas definições estruturais – programas de ação duradouros e menos flexíveis que antecipam e restringem as possibilidades de ação de seus usuários.
+
+A convergência tecnológica, já antecipada nos trabalhos de Zurkowski, favoreceria a formação de grandes corporações, oligopólios e quase-monopólios. Pode agregar os mais diversos segmentos das indústrias eletrônicas, audiovisuais, editoras, empresas de telecomunicação, rádio, televisão, cadeias de broadcasting, publicações, serviços audiovisuais, serviços de informação on-line (acesso a bases e bancos de dados), reunidos pelas plataformas de serviços eletrônicos. Conforme Mosco (1999), entre outros, os princípios de convergência tecnológica e econômica favoreceriam a repetição, no domínio da Internet, de arranjos monopólicos já experimentados no domínio das telecomunicações.
+
+Nesse quadro, a Internet estaria hoje na encruzilhada entre o desenvolvimento de experiências democráticas e inovadoras ou o fortalecimento de tendências monopólicas, sobrecodificadoras, de regulamentação. O grupo de pesquisa sobre governos eletrônicos, CYPRG, por exemplo, considera que as motivações iniciais de dar à publicidade as informações públicas teria dado lugar a uma preocupação maior com as "estratégias de navegação" e com um estilo jornalístico de construção discursiva, em uma crescente "mediatização" da Web (ver La Porte et alii, 2000).
+
+Não seria, porém, a política de informação a única afetada pelas novas formas de vinculação e desvinculação de sujeitos, informações e discursos: o que estaria em jogo, após ser verificada a impossibilidade de vigência ou reformulação da "constituição comunicacional", seria a possibilidade do político, em geral.
+
+A concretização dos modelos de Estado Organizacional (Knocke, 1996 ) ou da sociedade-rede, descentradas ou policêntrica, onde cada subsistema funcional desenvolveria de maneira autônoma suas semânticas especializadas – limitando seletivamente as trocas com o ambiente local –, e onde cada subsistema constrói uma imagem tematicamente diversificada do social, comprometendo toda composição político-cognitiva de uma visão abrangente do social, mediada por processos de comunicação pública. Habermas ressalta os efeitos dos modelos de Estado organizacional enquanto reforço semântico da desativação do público-político.
+
+"Eles (os sistemas funcionais) perdem o domínio sobre uma linguagem comum, na qual seria possível representar, para todos e da mesma maneira, a unidade da sociedade. O entendimento, fora dos códigos específicos, passa a ser tido como coisa ultrapassada. Isso equivale a afirmar que cada sistema perde a sensibilidade em relação aos custos que inflige a outros sistemas. Não há mais um lugar onde problemas relevantes para a reprodução da sociedade em sua totalidade possam ser percebidos e elaborados, pois as linguagens especializadas esgotam de tal maneira a linguagem comum – e os sistemas funcionais o mundo de vida – que essa linguagem e esse mundo de vida não representam mais uma caixa de ressonância suficientemente complexa para a tematização e o tratamento de problemas que envolvem a sociedade como um todo" (Habermas, 1999, p.75).
+
+A ausência desse 'algo em comum', que teria outorgado à modernidade a garantia e possibilidade de formação de uma "vontade geral", colocaria em um impasse – para muitos irreversível – não só as expectativas de uma democracia extensível à sociedade rede, mas também ao próprio conceito de ' política', provocando a perda de sentido da questão da política informacional.
+
+Definidos à luz das formas modernas de soberania, os sujeitos políticos da informação estariam sujeitos às mesmas questões e tribulações dos grandes atores dos cenários modernos.
+
+Os sujeitos informacionais e os contextos institucionais de ação, articulados por ontologias classificatórias comuns, ofereciam um horizonte antropológico constante que permitia traçar linhas de continuidade entre as micropolíticas inscritas nos dispositivos de informação e as macropolíticas que – direta ou indiretamente – exprimiam conflitos e interesses em figuras hegemônicas organizadas pelo Estado.
+
+O tecido das redes social de comunicação e informação acompanharia, ao mesmo tempo, em cada um de seus elos, momentos e configurações, uma teia social singularizada por sua ancoragem no tempo e no espaço. Alain Desrosiéres mostra que a história do trabalho, do comércio e das intervenções governamentais afeta as categorias com que foram coletados e agregados os dados censitários de países como Alemanha, Inglaterra e França, de modo que, apesar de não existirem em princípio diferenças radicais na organização política e social entre certos países, por exemplo, França e Inglaterra, têm constituído-se neles dois "universos de informação" que têm produzido, ao longo da história, a "reificação" de subconjuntos populacionais totalmente incomensuráveis entre si".....(Bowker-Star, 1994: 202).
+
+Se pensarmos em alguns dos novos artefatos informacionais, tal como bibliotecas digitais, portais e vortais e, em geral, sites e serviços de Internet, como "objetos fronteriços" que perpassam redes sociais e comunicacionais complexas e heterogêneas, observaremos que compõem o ambiente informacional de subjetividades coletivas não definíveis por seu enquadramento em organizações formais, nem por pertencer a associações voluntárias, nem pela partilha de hábitos e experiências locais e comunitárias – sob qualquer parâmetro de associação territorial –, ainda que essas novas subjetividades possam incluir e justapor-se a qualquer outro dos coletivos constituídos pelas figuras associativas da sociedade organizada.
+
+A dificuldade de um observador para reconstruir quais os sujeitos em interface com as grandes redes seria equivalente à dificuldade que encontrariam indivíduos e grupos para desenvolver seus processos singulares de subjetivação nessas interfaces. Os ambientes de rede, por sua heterogeneidade, pela desativação das formas prévias de vinculação social e discursiva e também pela desconexão dos contextos já habituais das mensagens, nem sempre respondem aos critérios de valor e aos procedimentos estabelecidos de confiabilidade da informação, que foram constituídos nos diferentes espaços sociais de práticas e interações comunicacionais. Para Star (conforme trabalho já citado), a ausência de regras e padrões sociais e valores explícitos, reconhecidos e aceitos pelos sujeitos envolvidos em um processo de comunicação em redes, geraria uma nova forma de "anomia informacional".
+
+Outra conseqüência dos novos cenários seria a necessidade de revisão das categorias de análises e dos procedimentos metodológicos com que se estudam essas novas figuras das redes e dos processos de informação em grande escala13.
+
+Optamos por utilizar, nessa direção, o conceito de 'regime de informação'14, que designaria um modo de produção informacional dominante em uma formação social, conforme o qual serão definidos sujeitos, instituições, regras e autoridades informacionais, os meios e os recursos preferenciais de informação, os padrões de excelência e os arranjos organizacionais de seu processamento seletivo, seus dispositivos de preservação e distribuição. Um "regime de informação" constituiria, logo, um conjunto mais ou menos estável de redes sociocomunicacionais formais e informais nas quais informações podem ser geradas, organizadas e transferidas de diferentes produtores, através de muitos e diversos meios, canais e organizações, a diferentes destinatários ou receptores, sejam estes usuários específicos ou públicos amplos.
+
+O regime de informação não tem a configuração de um sistema de informação ou de um "sistema de sistemas"; designa uma morfologia de rede. Compõe uma figura mais ou menos discernível por suas zonas de desigual densidade e seus planos agregados de fluxos e estruturas de informação, de desigual estabilidade.
+
+Um regime de informação, assim, está configurado, em cada caso, por plexos de relações plurais e diversas: intermediáticas (TV, jornais, conversas informais, Internet etc.); interorganizacionais (empresa, universidade, domicílios, associações etc.) e intersociais (atores comunitários, coletivos profissionais, agências governamentais, entre outros).
+
+Um regime de informação pode considerar-se, logo, como equivalente aos dispositivos de Foucault, destacando nele seu ser definido só por meio de sua operacionalização; nunca é plenamente constituído por uma intenção a priori e carece, ao mesmo tempo, de uma neutralidade tal que possa ser considerado um mero instrumento a receber, a posteriori, um fim. As regras e o desenho de sua constituição operacional levam as marcas das condições de sua emergência e realização – tecnológicas, organizacionais, econômicas, culturais. Diferentemente do sistema, o dispositivo é opaco, complexo, nada antecipa nem garante a eqüifinalidade de suas partes (Gonzalez de Gómez, 1998; 2000).
+
+O conceito de "regime de informação" demarcaria um domínio amplo e exploratório no qual a relação entre a política e a informação – não preestabelecida – ficaria em observação, permitindo incluir tanto políticas tácitas e indiretas quanto explícitas e públicas, micro e macropolíticas, assim como permitiria articular, em um plexo de relações por vezes indiscerníveis, as políticas de comunicação, cultura e informação.
+
+
+
+GOVERNO ELETRÔNICO E "GOVERNANÇA INFORMACIONAL"
+
+Diante de todo aquele panorama de questões de difícil abordagem e resolução, as perspectivas de implementação de alguma forma de governo eletrônico parecem se incorporar – em escala mundial – ao regime organizacional dos estados e governos em todas as escalas geográficas do poder – nacional, estadual, local –, assim como das grandes organizações internacionais e intergovernamentais.
+
+Os estudos do uso da Internet pelos governos seguiria três direções principais: no quadro das abordagens da "Nova administração pública", das teorias renovadas da "Governança" e associadas ao conceito de "citizens empowerment".
+
+Como regime de informação do Estado, as propostas de governo eletrônico oscilam entre a ênfase na atualização da "constituição comunicacional" e o desenvolvimento da democracia em suas formas participativas e entre a ênfase na eficácia administrativa e a gestão de todo o "ciclo de vida" da informação: sua geração ou coleta; tratamento, armazenagem, proteção e preservação; disseminação e recuperação (Hernon et alii, 1993).
+
+Consideramos que os conceitos de governo eletrônico e de inclusão digital recolocam a relação entre política e informação, mas de uma maneira por vezes redutora e simplificada. Uma das maneiras de analisar essa redução seria por sua contextualização em uma definição de "governança informacional".
+
+Em uma primeira abordagem, as plurais definições do conceito de 'governança' parecem colocar-nos antes diante de um sintoma do sistema capitalista mundial e suas lógicas propositivas, do que diante de um conceito teórico ou metodológico. Em seu início, o conceito de 'governance'15 ter-se-ia constituído como passagem da confiança tecnoburocrática na planificação e na efetividade das "políticas direcionadoras" dos governos como fatores de desenvolvimento a um certo cepticismo acerca dos limites antecipatórios e práticos das proposições de cunho tecnocrático e da eficácia das diretrizes endógenas em modelos administrativos fechados. A emergência do termo indicaria, assim, a revisão dos "formatos político-institucionais dos processos decisórios" (Melo apud Santos, 1997) e a busca de novos mecanismos de gestão.
+
+Na linha de desenvolvimento que interessa neste estudo, o conceito de governança16 deslocou-se aos poucos da descrição de procedimentos e da avaliação do desempenho dos governos, até então considerado sujeito principal da ação política, a uma nova definição da cadeia decisória, horizontalizada pela inclusão de atores públicos e privados, os que passariam de objeto do controle e intervenção do Estado a sujeitos participantes. Tratar-se-ia de incrementar a margem de controle social sobre as agências públicas, assim como a responsabilidade do Estado pela prestação de contas e pela transparência administrativa17.
+
+A operacionalização do conceito de governança informacional permitirá estabelecer alguns critérios de gestão e política de informação que atendam ao alargamento e horizontalização do processo decisório, as demandas de controle social e accountability do Estado. De acordo com Jardim, existiria uma relação biunívoca entre o caráter inclusivo ou excludente dos processos decisórios, a densidade da comunicação pública e política e os dispositivos de gestão dos recursos de informação (Jardim, 1999).
+
+Em primeiro lugar, os estudos de políticas públicas e os da intermediação de interesses, além das teorias da governance, pressupõem, no ponto de partida, alguma premissa acerca do modo de relação esperado entre a ordem política e o corpo social, cujas variações giram em torno da atualização do modelo moderno da "constituição comunicacional". Sumariamente, a comunicação e a informação "públicas" serão a condição de um modo de formação do público, que, por sua vez, é condição ideal e efetiva de existência do político.
+
+Zemor atribui ao conceito de comunicação pública o duplo significado de enunciar uma responsabilidade das instituições públicas (comunicação formal) e designar uma função de legitimação, condição de manutenção do vínculo social.
+
+"A comunicação pública é comunicação formal que se aplica à troca e ao compartilhamento de informações de utilidade pública, assim como à manutenção do vínculo social, e cuja responsabilidade incumbe às instituições públicas" (Zemor, apud Jardim, 1999, p.59)
+
+O direito à cidadania requer como ponto de partida uma relação política entre um sujeito individual e uma comunidade política, requer para seu exercício uma condição comunicacional e informacional.
+
+"A cidadania é, em primeiro lugar, uma relação política entre um indivíduo e uma comunidade política, em virtude da qual é membro de pleno direito dessa comunidade, a qual lhe deve lealdade enquanto a desfruta. Na atualidade, a cidadania supõe um estatuto jurídico que atribui um conjunto de direitos políticos, cívicos e sociais aos sujeitos que a desfrutam, já o sejam por nascimento ou por aquisição posterior dessa cidadania. Assim, a cidadania permite executar, ao menos teoricamente, o conjunto de papéis sociais que permitem aos cidadãos intervir nos assuntos públicos (votar e ser eleito, participar em organizações políticas e sociais, exercer plenamente as liberdades e os direitos reconhecidos por lei)"(Borja, 2000, p.3).
+
+Em segundo lugar, a governança informacional pode ser definida pelas condições de transparência, convergência e articulação das relações de comunicação-informação entre o Estado e a sociedade.
+
+Conforme os estudos de Demchak, Friss & La Porte (2001) sobre o uso da Internet pelos governos de quase 200 países, a governança informacional poderia atribuir-se aos órgãos da administração pública que possuam ' abertura', ' transparência' e ' acessibilidade'. Abertura, entendida como a extensão em que uma organização, livre e universalmente, oferece informações compreensivas sobre todas as suas atribuições e mantém comunicação regular e direta para todos os seus membros; ' transparência', expressa pela densidade da informação oferecida sobre a agência em questão e o valor revelatório do conteúdo, devendo dar visibilidade às operações internas dos órgãos do Estado, de modo que os cidadãos tenham acesso às informações pertinentes; ' acessibilidade', definida pela facilidade e "profundidade" com que os usuários-cidadãos podem interagir com as fonte de informação (pessoas, agências, documentos).
+
+Em nossos estudos, entendemos a transparência não como um atributo dos conteúdos de valor informacional oferecidos pelo Estado, mas como resultante das condições de geração, tratamento, armazenagem, recuperação e disseminação das informações adequadas para permitir a passagem de um ambiente de informação que de início se apresenta como caótico, disperso ou opaco, a um ambiente de informação que "faz sentido" para os cidadãos, conforme uma pergunta, um desejo ou um programa de ação individual ou coletivo.
+
+Concordamos com Jardim (textos citados), que sempre teremos uma certa equação de transparência-opacidade. Toda ação de informação, em qualquer domínio e utilizando qualquer mediação simbólica, sendo seletiva (Gomez, 2000), agrega e desagrega valores de informação.
+
+Algumas práticas poderiam aumentar a transparência desde o ponto de vista dos usuários: a geração de recursos e serviços de informação que permitam mapear os domínios de atividades e os conhecimentos que lhe são associados: reconhecer seus agentes e seus produtores de conhecimentos; as possíveis parcerias e alianças; os critérios de excelência vigentes no domínio (saúde, transporte, educação etc.), além de apreender as terminologias básicas do domínio e relacioná-las com seus próprios usos de linguagem, gerando condições para a participação de diferentes atores sociais em espaços e fóruns de tradução (entre interlocutores e entre conceitos, textos e valores).
+
+A 'transparência', no domínio das relações Estado-sociedade, dependerá de outras condições, tais como a convergência dos sistemas e serviços de comunicação e informação pública, a coordenação administrativa de programas e ações de comunicação e informação, bem como a 'articulação'18 prático-contratual dos sujeitos envolvidos em processos progressivos de democratização.
+
+O conceito de 'convergência', usado para designar a comutabilidade digital de meios e mensagens, refere-se neste contexto à interoperabilidade dos diferentes recursos e serviços das administrações públicas, estejam ou não agregados em uma única plataforma de acesso on-line. Formas impressas, serviços telefônicos, portais e contatos por e-mail devem manter entre si relações permanentes que assegurem a consistência e atualização dos procedimentos e os discursos públicos.
+
+A coordenação administrativa e a articulação política das ações de governos refere-se à superação dos fatores que produzem a segmentação da vontade política, nos grandes quadros decisórios, como condição da governança informacional. A competência de agir de modo convergente, ainda que mantendo as especificidades de jurisdição estabelecidas nos diferentes níveis governamentais (federal, estadual e local), será um fator decisivo na otimização, fragmentação ou ausência de um fluxo de informação. Do mesmo modo, podemos observar como, conforme o mesmo modelo jurisdicional do Estado moderno, o "interesse comum" desdobra-se em "estruturas" funcionais especializadas, nos "ministérios" e "secretarias", onde atividades ou dimensões significativas dos modos de vida das populações são recortadas, "aparadas" e redistribuídas em "jurisdições" funcionalmente diferenciadas, tais como por educação, cultura, telecomunicação, comunicação, ciência e tecnologia, entre outras, com relativa autonomia para desenvolver programas de ação e, correlativamente, fluxos e serviços de informação.
+
+Todos os níveis e jurisdições do Estado e órgãos dos governos justapõem suas intervenções no contexto local municipal e, mais ainda, nos espaços cotidianos dos modos de vida. Para o homem comum, existe assim um só referencial de interpretação, em que oportunidades de educação, trabalho, qualidade ambiental são reunidas e avaliadas, conforme suas condições de vida. As ações de comunicação e informação, desenvolvidas conforme essas estruturas funcionais e abstratas das semióticas do Estado, enquanto possuem e expressam suas próprias "ontologias" classificatórias administrativas, tornam-se incomensuráveis entre si, nesses espaços locais e cotidianos, colocando às vezes uma barreira a mais entre as necessidades da cidadania e a disponibilidade e acesso aos recursos públicos. Com muita freqüência, as fontes informacionais do Estado e as demandas da sociedade não se cruzam nem interpelam entre si.
+
+Da pluralidade de condições políticas e organizacionais dependerá o modo de inscrição, no regime de informação vigente, de uma variável de publicização dos atos de governo.
+
+Infra-estrutura decisiva do governo eletrônico, a Internet só poderia ser ao mesmo tempo um fator e um sintoma dos regimes de informação vigentes no Estado e na sociedade, assim como das condições políticas da governança informacional.
+
+
+
+Artigo aceito para publicação em 22-11-2001.
+
+
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+AFONSO, Carlos. Internet no Brasil: o acesso para todos é possível? Policy Paper, n. 26, Sept. 2000. 
+
+BANGEMANN, Martin. et al. A Europa e a sociedade global da informação: recomendações ao Conselho Europeu. Bruxelas, 1994. Disponível em: <http://www.ispo.cec.be/insofoc/backg/bangemann.html> . 
+
+BORDIEU, P. Espíritos do Estado: gênese e estrutura do campo burocrático. In:____. Razões práticas: sobre a teoria da ação. Campinas, São Paulo: Ed. Papirus, 1996. 
+
+BORGMANN, C. L. The premise and promise of a global information infrastructure. Firstmonday n. 5. Disponível em: <http://www.firstmonday.org/issues/issue5-8/borgman> Acesso em: 5 maio 2001. 
+
+BORZEL, T. A. What's so special about policy networks? – an exploration of the concept and its utsefulness in studying European Governance. European Integration Online Papers, v. 1, n. 16, 1997. Disponível em: <http://eiop.or.at/eiop/texte/1977-016a.htm> . Acesso em: 25 maio 2001. 
+
+BOSCHI, Renato Raul. Governança, participação e eficiência das políticas públicas: exame de experiências municipais no Brasil. In: MELO, Marcus André (Org.). Reforma do estado e mudança institucional no Brasil. Recife : Massangana, 1999. p. 255-284. 
+
+BURCHEL, Graham; GORDON, Colin; MILLER, Peter. The Foucault effect: studies in governmentality. Chicago: University of Chicago, 1991. 
+
+CHANIAL, P. Espaces publics: sciences sociales et democratie. Quaderni, n. 18, p. 63- 73, 1992. 
+
+CASTELLS, Manuel. A sociedade em rede. São Paulo: Paz e Terra, 1999. 
+
+COLLIOT-THÉLÈNE, Catherine. O conceito de política posto à prova pela mundialização. Disponível em: <http://www.revistasociologiaepolitica.org.br/dossies/index.html> . Acesso em: 16 abr. 2001. 
+
+CORRALES, María Elena. Modernización de los servicios públicos por redes: eficiencia económica y solidaridad social. Disponível em: <http://www.iigov.org/iigov/pnud/revista/prevista5.htm> Acesso em: 5 mar. 2001. 
+
+CREATING a new UNESCO programme for a just and free information society with universal benefits. Paris : UNESCO, 2000. v. 1. Disponível em: <http://www.unesco.org/webworld/future/index.shtml> . Acesso em: 8 abr. 2001. 
+
+DEMCHAK, C.; FRIIS, C.; LA PORTE, T. M. Webbing governance. national diferences in constructing the face of public organizations. In: GARSON, G. David. Handbook of public information system. Nova York : Marcel Dekker, 2000. Disponível em: <Cyberspace Policy Research Group> <http://www.cyprg.arizona.edu> . Acesso em: 20 mar. 2001. 
+
+_________. Governance in an information age: early patterns of global diffusion of the web and openness across public agencies. Disponível em: <Cyberspace Policy Research Group> <http://www.cyprg.arizona.edu> Acesso em: 20 mar. 2001. 
+
+_________. Reflections on configuring public agencies in cyberspace: a conceptual investigation. In: SNELLEN, I. T. M.; DONK, W. B. H. J. (Eds.). Public administration in an information age: a handbook. Amsterdam : IOS Press, 1998. p. 225-244. Disponível em: <Cyberspace Policy Research Group> <http://www.cyprg.arizona.edu> Acesso em: 20 mar.2001. 
+
+DERVIN, B.; SHIELDS, P. Some guidelines for a philosophy of communicating with citizens in the new regulatory environment. In: SEVEL, Francine et al. Compendium of Resources on Consumer Education. Columbus, Ohio : The National Regulatory Research Institute [2000?]. cap. 4. Disponível em: <http://communication.sbs.ohio-state.edu/sense-making/art /artdervin&shieldsp98.html> Acesso em: 10 jun. 2000. 
+
+DESIGNING the digital government of the 21 st century. In: SOME ASSEMBLY REQUIRED: BUILDING A DIGITAL GOVERNMENT FOR THE 21 ST CENTURY, 1998, Maryland. Report of a multidisciplinary workshop. Maryland : University of Maryland, Center for Technology in Government, 1999. 
+
+DINIZ, Eli. Governabilidade, governance e reforma do Estado: considerações sobre o novo paradigma. Revista do Serviço Público, Brasília, v. 120, n. 2, maio/ago. 1996. 
+
+EL CONTEÚDO de Internet: algumas cuestiones reglamentarias de carácter internacional. In: ABA. Organismo de radio y television de Australia. Paris: UNESCO, 1997. 
+
+ESTADOS UNIDOS. President's Science and Advisory Commitee. Science, government and information: the responsabilities of the technical community and the government in the transfer of information. Washington : Government Printing Office, 1963. 52 p. (The Weinberg Report). 
+
+FROHMANN, Bernard. Taking policy beyond information science: applying the actor network theory for connectedness: information, systems, people, organizations. In: ANNUAL CONFERENCE CANADIAN ASSOCIATION FOR INFORMATION SCIENCE, 23, 1995, Edmond, Alberta. Disponível em: <http://instruct.uwo.ca/faculty/Frohmann> Acesso em: 2 mar. 1999. 
+
+GARCÍA CANCLINI, Néstor. Ciudad invisible, ciudad vigilada. Jornada Semanal, 18 maio 1997. 
+
+GARCIA, M. L. A. Políticas e programas de informação científica e tecnológica. Ciência da Informação, Brasília, v. 9, n. 1/2, p. 5-39, 1980. 
+
+________. A informação científica e tecnológica no Brasil. Ciência da Informação, Brasília, v. 9, n. 1/2, p .41-81, 1980b. 
+
+GARTON, Laura; HAYTHORNTHWAITE, Caraline; WELLMAN, Barry. Studying online social networks. Disponível em: <http://www.ascusc.org/jcmc/vol.3/issuel1/garton.html> Acesso em: 10 jun. 2000. 
+
+GOMES, Maria Yêda F. S. de F. O estado e o processo de implantação de uma política nacional de informação científica e tecnológica. Ciência da Informação, Brasília, v. 17, n. 2, p. 105-117, 1988. 
+
+GOMEZ GONZÁLEZ de, Maria Nélida. Da política de informação ao papel da informação na política contemporânea. Revista Internacional de Estudos Políticos, Rio de Janeiro, n. 1, p. 67-93, abr. 1999. 
+
+________. Informação, inovação e democratização: a transferência de conhecimento e o movimento associativo. 1992. Tese (Doutorado) - Escola de Comunicação, Universidade Federal do Rio de Janeiro, Rio de Janeiro, 1992. 
+
+GORE, A. Remarks prepared for delibery. In: WORD TELECOMMUNICATION DEVELOPMENT CONFERENCE, 1994, Buenos Aires. Disponível em: <http://www.nlcbnc.ca/ifla/Documents/infopol/us/goregii.txt> Acesso em: 3 mar. 1999. 
+
+GROUP CYBER POLITICS RESERCH. Govermment public policy Internet research. Disponível em: <http://www.cyprg.arizona.edu/methods.htm> Acesso em: 6 abr. 2000. 
+
+HABERMAS, J. Mudança estrutural da esfera pública. Rio de Janeiro : Tempo Universitário, 1984. 
+
+________. The theory of communicative action: reason and the rationalization of society. Boston : Beacon, 1994. v. 1. 
+
+________. Direito e democracia: entre facticidade e validade. Rio de Janeiro : Tempo Brasileiro, 1997. 
+
+HANSETH, Ole; MONTEIRO, Eric. Understanding information infracture. Disponível em: <http://www.ifi.uio.no/~oleha/Publications/book.7.html> Acesso em: 27 ago. 1998. 
+
+HAYTHORNTHWAITE, Caroline. Social network analysis: an approach and techinique for the study of information exchange. LISR, n. 18, p. 323–342, 1996. 
+
+HERNON, P.; McLURE, C.R. Eletronic U.S. government information: policy issues and directories. Annual Review of Information Science and Technology, v. 28, p. 45-110, 1993. 
+
+JARDIM, José Maria. Sistemas e políticas públicas de arquivos no Brasil. Niterói : EDUFF, 1995. 
+
+_________.Transparência e opacidade do Estado no Brasil: usos e desusos da informação governamental. Niterói : EDUFF, 1999. 
+
+_________. Capacidade governativa, informação e governo eletrônico. DataGramaZero, v. 1, n. 5, out. 2000. 
+
+JARQUÍN, Edmundo. Estado democrático y governabilidad en el siglo XXI. Disponível em: <http://www.iigov.org/iigov/pnud/revista/prevista4.htm> Acesso em: 8 jul. 2000. 
+
+JESSOP, Bob, The state and the contradictions of the knowledge-driven economy. Lancaster : Lancaster University. Disponível em: <http://www.comp.lancaster.ac.uk/sociology/soc044rj.html> Acesso em: 5 fev. 2001. 
+
+KLIKSBERG, Bernardo. Cómo reformar el Estado para enfrentar los desafíos sociales del 2000. Disponível em: <http://www.iigov.org/iigov/pnud/revista/prevista6.htm> Acesso em: 8 jul. 2000. 
+
+KNOKE, D.; PAPPI, F. U.; BROADVENT, J.; TSUJINAKA, Y. Comparing policy networks: labor politics in the US, Germany, and Japan. Cambridge : Cambridge University, 1996. 
+
+LATOUR, B. Ciência em ação: como seguir cientistas e engenheiros sociedade fora. São Paulo : UNESP, 2000. 
+
+________. Si l'on parlait um peu politique? [S. l.] : ENSMP, 2000. Disponível em: <http://www.ensmp.fr/~latour/Articles/83- POLITIQUE.html> Acesso em: 10 abr. 2001. 
+
+LA PORTE, T. M. et al. Democracy and bureaucracy in the age of the web: empirical findings and theoretical speculations. Quebec : International Political Science Association, 2000. 
+
+LESSIG, Lawrence. Reading the constitution the cyberspace. Emory, v. 45, n. 3, 1996. 
+
+LYOTARD, J. P. A condição pós-moderna. São Paulo: Olympio, 1989. 
+
+MACHLUP, F.; KRONWINKLER, T. Workers who produce knowledge: a steady increase, 1900 to 1970. Weltwirtschaftliches Archiv, v. 3, n.. 4, p. 752-759. 
+
+MAYNTZ, Renate. New challenges to governance theory. Disponível em: <http://www.iue.it/RSC/Mayntz.htm> Acesso em: 30 abr. 2001. 
+
+MOSCO, V. Cyber-monopoly: a web of techno-myth. [S. l. : s. n.], 1999. 
+
+PONT, Raul. L'experience du budget participatif. Disponível em: <http://www.monde-diplomatique.fr/2000/05/PONT/13718.html> Acesso em: 26 jul.2000. 
+
+PORAT, M. U. Information economy: definition and measurement. Washington : Department of Commerce/Office of Teleccommunication, 1977. (OT Special Publication). 
+
+ROGERS, Everett M. Diffusion of innovations. 4. ed. New York : Free Press, 1995. 
+
+SANTOS, Maria Helena de Castro. Governabilidade, governança e democracia: criação de capacidade governativa e relações executivo-legislativo no Brasil pós-constituinte. Dados, Rio de Janeiro, v. 40, n. 3, 1997. 
+
+SCHEMENT, Jorge Reina. Porat, Bell and the information society reconsidered: the growth of information work in the early twentieth century. Information Processing and Management, v. 26, n. 4, p. 449-465, 1990. 
+
+SCHIENSTOCK, von Gerd; BECHMANN, G.; FREDERICHS, G. Information society, work and the generation of new forms of social exclusion: the theoretical approach. TA-Datebank-nachvichten, n. 1, p. 3-49. Disponível em: <http://www.itas.fzk.de/deu/tadn991/swa9.99.htm> Acesso em: 8 mar. 1999. 
+
+SCHMITTER, Phlippe C. Modes of interest intermediation and models of societal change in Western Europe. Comparative Political Studies, v. 10, n. 1, p. 7-37, 1977. 
+
+SOZZI DE MORAES, Ilara Hammerli. Informações em saúde: para andarilhos e argonautas. 1996. Tese (Doutorado em Ciência na área de Saúde Pública) - Escola Nacional de Saúde Pública. Fundação Oswaldo Cruz, Rio de Janeiro, Rio de Janeiro, 1996. 
+
+STEPHAN, Alfred. Estado, corporativismo e autoritarismo. Rio de Janeiro : Paz e Terra, 1989. 
+
+STAR, S. L.; BOWKER, G. C; NEUMANN, L. J. Transparency at different level of scale: convergence between information artefcts and social worlds. Library and Information Science, Urbana-Champaign, July 1998. 
+
+STOKER, Gerry. El buen gobierno como teoría: cinco propuestas. Revista Internacional de Ciências Sociais,1998. 
+
+TAKAHASHI, T.; BASTOS, M. I. Exploiting digital opportuities for poverty reduction. In: OECD/ UM/ DP/ WORLD BANK GLOBAL FORUM, Paris, 2001. Brasília : Programa Sociedade da Informação no Brasil, 2001. Disponível em: <http://www.socinfo.org.br/documentos/digital-opp-for-poverty.htm > Acesso em: jun. 2001. 
+
+TREMBLAY , Gaëtan. The information society: from Fordism to Gatesism. Canadian Journal of Communication, v. 20, p. 461-482, 1995. 
+
+TRUTE, Hans-Heinrich. The impact of global networks on political institutions and democracy. Disponível em: <http://www.mpp-rdg.mpg.de/woodsh.html> 
+
+WAINWRIGHT, Eric. Convergence, information and records management: observations from an Australian government information management perspective. Disponível em: <http://www.nla.gov.au/> . 
+
+WERLE, Raymond. The impact of information networks on the structure of political systems. Recife : Massangana, 1999. p. 255-284. Disponível em: <www.mpp-rdg.mpg.de/pdf_dat/werle.pdf> . Acesso em: 25 maio 2001. 
+
+WERSIG, Gernot; WINDEL, G. Information science needs a theory of information action. Social Science Information Studies, v. 5, p. 11-23, 1985. 
+
+ZURKOWSKI,P.G. Integrating america's infostructure. Journal of the American Society for Information Science, v. 35, n. 3, p. 170-178, 1984 
+

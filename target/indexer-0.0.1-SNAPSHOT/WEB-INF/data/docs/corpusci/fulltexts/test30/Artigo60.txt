@@ -1,0 +1,689 @@
+Inteligência competitiva na Internet: um processo otimizado por agentes inteligentes
+
+
+RESUMO
+
+Apresenta a proposta de um processo de inteligência competitiva (IC) na Internet, utilizando agentes inteligentes na tarefa de monitoramento de fontes de informação disponíveis na rede. O processo foi aplicado como projeto-piloto no Núcleo de Estudos em Inovação, Gestão e Tecnologia de Informação (IGTI) da Universidade Federal de Santa Catarina. Em seguida, foi verificada a aplicabilidade em mais três estudos de caso. Pode-se afirmar que, pelos casos estudados, foi possível vislumbrar a possibilidade efetiva de utilização do processo proposto em diferentes tipos de organizações. Os resultados ainda confirmam, como proposta, a necessidade de formalização do uso da informação e do processo de gestão da informação nas organizações, bem como a automação do processo por meio de agentes inteligentes.
+
+Palavras-chave: Inteligência competitiva; Internet; Monitoramento de fontes de informação; Agentes inteligentes.
+
+
+
+INTRODUÇÃO
+
+O objetivo deste artigo é apresentar a proposta de um processo de inteligência competitiva (IC) na Internet que aplica agentes inteligentes na tarefa de monitoramento das fontes de informação consideradas estratégicas por organizações de qualquer tipo, que estão disponíveis na rede. A utilização de agentes inteligentes visa à otimização do processo de IC.
+
+O processo foi testado em quatro estudos de caso: um projeto piloto no Núcleo de Estudos em Inovação, Gestão e Tecnologia de Informação (IGTI), vinculado ao Programa de Pós-Graduação em Engenharia de Produção da Universidade Federal de Santa Catarina (UFSC), na Dígitro Tecnologia Ltda., empresa catarinense da área de telecomunicações, na Associação Catarinense de Empresas de Tecnologia (Acate); e no Laboratório de Controle de Processos (LTC), vinculado ao Departamento de Engenharia Química da UFSC.
+
+
+
+JUSTIFICATIVA
+
+A proposta considerou como premissa o ambiente mundial atual, que deve ser observado pelas organizações, cujo panorama pode ser sucintamente retratado nas seguintes afirmações:
+
+– a humanidade atravessa uma fase de transição em que estão ocorrendo profundas transformações em estruturas estabelecidas. Um novo paradigma de atuação vem se impondo às organizações, que têm como fundamentos os fatores inter-relacionados de inovação e competitividade;
+
+– informação é recurso estratégico desse novo paradigma, e as organizações devem se moldar a partir dessa perspectiva;
+
+– a inovação é fator determinante desse paradigma e a organização deve estar atenta às mudanças no seu ambiente externo. O monitorando as informações externas que relatam esse ambiente. Esse monitoramento contínuo vai moldando sua atuação para garantir a competitividade, processo que se entende por inteligência competitiva;
+
+– a Internet vem se apresentando como um ambiente incomensurável de informação e de inimagináveis oportunidades, já que todas as atividades humanas estão sendo representadas nesse novo ambiente. É um fato irreversível e um campo aberto à investigação.
+
+A Internet é considerada aqui como ambiente de informação externa e como ferramenta no processo de inteligência competitiva, já que oferece facilidades e vantagens por possibilitar acesso global e interativo em tempo integral, a custos baixíssimos.
+
+O conceito de IC que vem despontando como um requisito necessário nesse novo paradigma é ainda muito pouco considerado. Segundo Tyson (1998,1999), são poucas as organizações que praticam inteligência competitiva de forma sistematizada. Esse autor afirma que, no final do século XX, estamos saindo da Era da Informação para a Era da Inteligência, e poucos se deram conta disso. A maioria das organizações ainda não está imbuída desse conceito.
+
+Apesar de pouco considerado, o processo de IC não é novo. Vinculado ao conceito de estratégia, tudo indica que existe desde que o homem percebeu a necessidade de criar modos de competição para a sobrevivência, ainda na pré-história. No entanto, é a partir da Guerra Fria que ele se desencadeia, ligado aos programas militares e de contra-espionagem. Nos últimos dez anos, em função da competitividade, fator básico do novo paradigma organizacional, o conceito passa a ser considerado pela sociedade civil no mundo dos negócios, de forma sistematizada e ética, (Fuld, 1995; Tyson, 1998; Michel, 1999; Teixeira, 2000).
+
+A consideração efetiva ao conceito ainda está restrita a países que tradicionalmente valorizam a informação, como Estados Unidos, Suécia, França, Alemanha, Austrália, Reino Unido, Holanda, Suíça, Rússia, China e Japão. Este último é considerado o exemplo do uso de inteligência competitiva para o desenvolvimento econômico (Carvalho, 2000; Teixeira, 2000).
+
+Tendo uma consideração ainda recente, as organizações que praticam inteligência competitiva são, na sua maioria, grandes corporações que se utilizam de sofisticados e fechados sistemas de informação. Esta proposta, considerando somente a Internet como ambiente de fontes de informação, é de um processo simples, perfeitamente operacionalizável por qualquer organização e, espera-se, aplicável de maneira efetiva, principalmente às de pequeno e médio porte, tenham elas fins lucrativos ou sociais.
+
+Esse processo simples, mas acredita-se efetivo, pode facilitar a disseminação do uso desse conceito no Brasil, já que ainda é incipiente, como colocado por Teixeira (2000), e fundamental para a entrada na nova era da inteligência, como afirma Tyson (1998, 1999).
+
+
+
+MÉTODO
+
+O trabalho foi desenvolvido em três etapas:
+
+– o embasamento conceitual teórico que proporcionou a construção de um modelo de processo de inteligência competitiva na Internet (figura 4, a seguir);
+
+
+
+
+
+– aplicação do modelo em um projeto piloto;
+
+– verificação da aplicabilidade do modelo em mais três estudos de caso.
+
+
+
+EMBASAMENTO CONCEITUAL
+
+O que se apresenta aqui é a essência dos conceitos teóricos considerados como embasamento da proposta, que são conceitos relacionados ao novo paradigma organizacional – informação; inovação; competitividade; inteligência competitiva – tendo a Internet como ambiente de fontes de informação.
+
+As organizações vêm saindo de estruturas baseadas na burocracia, para adotar uma conduta de flexibilidade competitiva. Além disso, a velocidade das mudanças, especialmente provocada pelo desenvolvimento da tecnologia de informação, coloca o foco desse novo paradigma na competitividade, que deve ser garantida por inovação constante, cujo recurso estratégico para isso é a informação, que não era considerada, com esse sentido, no paradigma industrial. Essa relação é cada vez mais valorizada pela globalização crescente e pode ser sintetizada na figura 1, a seguir.
+
+O conceito de informação como insumo básico, adotado aqui, prende-se à hierarquização compreendida e representada na figura 2. Esse posicionamento tem base em vários autores, principalmente nos posicionamentos de Fuld (1995), Malhotra (1998), Vieira (1993, 1999), Barreto, (1996), Borges & Carvalho (1998) e Davenport, (1998).
+
+O entendimento: dado é bruto, sem contextualização; informação é contextualizada; conhecimento é a informação processada no interior do indivíduo ou na organização. Esse processamento se dá de acordo com a bagagem de conhecimento já existente, ou conhecimento tácito. Portanto, o valor agregado à informação depende do conhecimento anterior de quem a assimilou. Neste sentido, a informação se transforma em novo conhecimento, que também é tácito. O conhecimento explícito, plasmado em algum suporte, volta a ser informação. Inteligência é o processo de relacionamento analítico de informações que gera conhecimento para tomada de decisão. O conhecimento adquirido pode impactar na estratégia de atuação. Tomada de decisão acontece a partir do conhecimento, que ocorre depois do seguinte processo (figura 3):
+
+– informações externas analisadas que geram um conhecimento externo, aliado a
+
+– informações internas analisadas que geram um conhecimento interno;
+
+– os dois conhecimentos analisados geram a tomada de decisão em nível organizacional, que vai impactar a estratégia de atuação.
+
+Gestão da informação
+
+Informação, portanto, não é conhecimento, é parte dele. Neste ponto, é preciso esclarecer que gestão da informação não é gestão do conhecimento. Gerenciar a informação não significa que ela produzirá conhecimento, mesmo sendo esse o seu objetivo.
+
+A gestão do conhecimento é considerada essencial, atualmente. Ela vem da necessidade de que a organização saiba sobre os seus "saberes", conhecimentos tácitos, de forma registrada, o que implica captação do conhecimento tácito individual dos seus colaboradores. Essa captação, o armazenamento ou registro organizado em máquina, que torna o conhecimento acessível, informação novamente, é o que se entende, aqui, por gestão do conhecimento.
+
+Dessa forma, a vantagem competitiva vai além da gestão da informação, segundo os teóricos que defendem esse conceito de gestão do conhecimento. No entanto, a gestão da informação é a base para a gestão do conhecimento. Essa é a idéia na qual se prende este trabalho, e o foco está no fluxo de informação externa.
+
+Competitividade
+
+Já foi afirmado que o cerne do novo paradigma organizacional é a competitividade, é a habilidade estratégica que todos devem adquirir, do indivíduo às organizações pequenas, médias ou grandes, com fins lucrativos ou sociais, de se manterem "alertas", atualizados, ou dentro do estado-da-arte da sua ocupação, em um processo de monitoramento permanente.
+
+Entende-se o processo de inteligência competitiva, que é o foco nas informações do meio ambiente, como parte do processo de inteligência organizacional, a partir de uma visão de gestão estratégica (figura 3).
+
+Para explicar a figura 3, utiliza-se a visão de Tyson (1998) como ponto de partida, que indica que inteligência competitiva é análise do princípio ao fim, em um processo que envolve coleta de informação sobre competidores, consumidores, fornecedores, possíveis concorrentes, possíveis associações e alianças estratégicas. Enfim, esse autor considera, virtualmente, toda e qualquer entidade e evento no ambiente externo da organização que possam impactar na sua atuação.
+
+Essa consideração está estreitamente vinculada à gestão estratégica e baseada no modelo das forças competitivas de Porter (1991, 1992), que põe foco no meio ambiente externo, onde deve ser observada a interação das ameaças e das oportunidades externas à empresa, que afetam a sua estratégia e a sua habilidade para competir.
+
+No entanto, o processo de análise, do princípio ao fim, é anterior ao processo de coleta da informação, ou seja:
+
+1º – análise organizacional – a organização precisa responder, de maneira formalizada, às seguintes perguntas: quem somos? O que fazemos? Qual é o nosso negócio? A partir deste ponto, formaliza-se a estratégia de atuação de acordo com o modelo de McGee & Prusak (1994, p.54);
+
+2º – análise – qual é o ambiente externo? Isto significa a identificação dos elementos externos que podem impactar a organização. Esse é um processo de análise fundamental para a definição das necessidades de informação externa. Segundo Herring (1999), o processo de identificação das necessidades de informação é essencial, mas pouco referenciado na literatura;
+
+3º – a partir da resposta do 2º passo, identificam-se as fontes de informação externas – e, neste caso, somente as que estão disponíveis na Internet;
+
+4º – monitoramento permanente das fontes, sem o que não há inteligência competitiva (esta pesquisa foi até este ponto);
+
+5º – análise das informações externas – o resultado dessa análise é um conhecimento sobre o ambiente externo;
+
+6º – esse conhecimento externo vai entrar em um novo processo de análise, aliado ao conhecimento interno, que leva a uma tomada de decisão que provavelmente impactará na estratégia de atuação, formando um novo conhecimento.
+
+Portanto, a inteligência organizacional é um ciclo de análises que leva ao conhecimento para a tomada de decisão, o que pode implicar mudança total de estratégia, ou mesmo a redefinição dos negócios da organização.
+
+Internet e recuperação da informação
+
+A "democratização" gerada, já que a princípio qualquer pessoa pode disponibilizar e acessar informação de qualquer lugar do mundo, vem transformando a utilização da Internet em uma necessidade. A sua utilização é particularmente estratégica para as organizações, nas quais a associação globalização-Internet torna o seu uso imprescindível, principalmente em se tratando de negócios, para garantir a competitividade.
+
+No entanto, a recuperação da informação na Internet ainda é um problema em busca de solução, mais complexo do que parece à primeira vista. Ela envolve os aspectos de análise e indexação, processos determinantes da relevância da informação recuperada. Neste ponto reside o principal aspecto de desafio da Internet: recuperar informação de relevância para necessidades específicas.
+
+Nos mecanismos de busca disponíveis na Internet, a análise e a indexação da informação são operações automáticas, realizadas por robôs, que utilizam a técnica de extração de palavras para representar o conteúdo do texto analisado. Ela é diferente da técnica dos indexadores humanos – a da atribuição –, que representa o conteúdo com termos significativos, apesar de esses termos não aparecerem no objeto analisado, assim como outros aspectos que não estão explícitos, como, por exemplo, gráficos, figuras, tipo de contexto, tipo de site e outros (Lynch, 1997).
+
+Outra limitação dos indexadores automáticos é que reconhecem somente o texto. A riqueza de informações contidas em imagens, gráficos e vídeo ficam de fora. Alguns programas podem encontrar cores e padrões de imagem, mas nenhum pode fazer deduções e relações de significado de uma imagem. Isso é ainda domínio somente dos humanos, pois depende de senso crítico, feeling. Essas capacidades ainda não foram incorporadas aos softwares (Lynch, 1997).
+
+Essas ferramentas são sem dúvida valiosas, ou mesmo imprescindíveis, para se buscar informação na Internet. Entretanto, o problema se concentra no excesso de informações irrelevantes recuperadas, em função de uma indexação automática que agrupa páginas, e não sites. Ou seja, os mecanismos de busca, quando percorrem a rede, indexam palavras que estão nas páginas. Muitas vezes as palavras nada têm a ver com o objetivo do texto ou do site. Além disso, apesar de velozes, estimativas apontam que nem os mais poderosos indexam mais de dois terços do universo de websites (Bawens, 1996, Lawrence & Giles, 1999; Teixeira Filho, 1998; The Censorware Project, 2000).
+
+A partir de 1996 começam a ser desenvolvidos softwares hoje denominados tecnologia push, para auxiliar os usuários a recuperar somente informações relevantes a necessidades específicas. Push significa, portanto, a informação enviada de acordo com a solicitação. Esses mecanismos se utilizam da tecnologia de agentes inteligentes (Buchwitz, 1998).
+
+Buchwitz (1998) relaciona alguns modelos de informação push que diferem quanto ao processo de envio, mas o objetivo é monitorar informações de interesse do usuário. No entanto, segundo a autora, o uso de muitos serviços ao mesmo tempo pode provocar uma sobrecarga de informação repetida, pois vários serviços podem utilizar as mesmas fontes de informação. Além disso, normalmente esses serviços são oferecidos por empresas com fins lucrativos, trabalhando de acordo com suas estratégias de atuação. Cobrem, geralmente, o mercado de alta tecnologia e muitas vezes não monitoram fontes de informação valiosas, como as governamentais, universitárias e de mercados menos visíveis.
+
+Os autores que tratam a relação inteligência competitiva – Internet, de maneira geral, observam aspectos conceituais, discutem o potencial da rede no processo, descrevem o ambiente e suas tecnologias, bem como os vários tipos de fontes de interesse para as empresas com fins lucrativos. Alguns, ainda, analisam criticamente o desempenho dos mecanismos de recuperação da informação disponíveis na rede.
+
+Vários trabalhos que tratam essa relação podem ser encontrados nas publicações da Society of Competitive Professionals (SCIP): Competitive Inteligence Review e Competitive Inteligence Magazine, além dos referenciados aqui: Graef (1995), Buchwitz (1998), Bates et alii (1999), Burwell et alii (1999), Klein (1999), McGonagle & Vella (1999), Boureston (2000), Miller (2000), Vine (2000) e Revelli (1998). Este último criou a primeira comunidade de inteligência econômica e estratégica na Internet - Veille.com - http://www.veille.com/ - link para: Annuaire de la Veille: Veille sur la Veille, um portal para sites sobre inteligência competitiva, a maioria, franceses.
+
+O consenso – e um dos pontos considerados neste trabalho – é que a Internet é uma vitrine global e que informações anteriormente difíceis de serem acessadas estão, agora, disponibilizadas permanentemente e são públicas. Isso não significa que a Internet seja a única fonte para o processo de inteligência competitiva. Ela, porém, é imprescindível, cada vez mais.
+
+As pessoas devem ser consideradas valiosas fontes de informação, especialmente nas empresas com fins lucrativos, que têm nos seus vendedores, por exemplo, excelentes fontes internas de informações externas, por estarem na ponta do processo de produção, em contato com consumidores, fornecedores e vendedores concorrentes que, algumas vezes, deixam escapar informações valiosas. No entanto, as pessoas também podem ser localizadas na Internet e contatadas via e-mail, por exemplo, os experts em cada área.
+
+Para finalizar o embasamento conceitual, deve-se frisar o que foi encontrado na literatura sobre os serviços de monitoramento na Internet. Eles podem levar a uma sobrecarga de informação, não cobrem determinados tipos de fontes, como as acadêmicas e governamentais, além do que a utilização desse tipo de serviço também sujeita o usuário ao monitoramento com interesses comerciais. Esses aspectos justificam uma base com agentes customizados, conforme se propõe.
+
+
+
+PROPOSTA
+
+Trata-se de Inteligência Competitiva da etapa que vai da análise organizacional até a coleta e o monitoramento na Internet. Não foi enfocado o processo de análise que converte a informação obtida em conhecimento externo. O modelo proposto (figura 4) surge a partir das considerações anteriores e dos seguintes modelos:
+
+– Modelo de Alinhamento Estratégico (McGee & Prusak, 1994, p. 36)
+
+– Elementos da Definição da Estratégia (McGee & Prusak, 1994, p. 54)
+
+– Competências: As Raízes da Competitividade (Prahalad & Hamel, 1990, p. 81)
+
+– Processo de Vigília Estratégica (Lesca et allii, 1996)
+
+– Como estão vinculados os ambientes internos e externos (Davenport, 1998, p. 248)
+
+– Inteligência Competitiva e Gestão Estratégica (Tyson, 1998, p. 2-2)
+
+Método de aplicação do processo proposto
+
+1º Passo – Levantamento da estratégia de atuação: reuniões de discussão tipo "planejamento estratégico", para a colocação dos elementos que atendem à seguinte questão: Quem somos e qual é o nosso negócio? Para resposta foi escolhido o modelo de McGee & Prusak (1994, p. 54), exatamente por apresentar os três elementos que devem ser considerados na estratégia organizacional em um ambiente competitivo. Esse modelo foi adaptado para um formato de matriz, ou mapa demonstrativo da estratégia de atuação, representado no quadro 1.
+
+
+
+
+
+O elemento das competências essenciais, no modelo McGee & Prusak, 1994, considerado nesta proposta, baseou-se na visão da organização na perspectiva das competências essenciais, de acordo com o modelo de Prahalad & Hamel (1990, p. 81), no qual os pontos fortes da organização devem ser cada vez mais fortalecidos.
+
+2º Passo – Definição do mapa de informações externas – a mesma metodologia de levantamento da estratégia de atuação: reuniões para discussão tipo "planejamento estratégico". Identificam-se as necessidades de informações externas, a partir da estratégia de atuação formalizada (quadro 2, a seguir).
+
+
+
+
+
+3º Passo – Definição de uma base de fontes na internet com aplicação de agentes inteligentes para o monitoramento:
+
+A definição da base de endereços, com a escolha do software e a própria modelagem, fica a critério de cada organização. O importante é que a base permita a aplicação de agentes no monitoramento de fontes de informação na Internet, o que significa criar uma arquitetura onde os agentes são programados para estar "alerta" às mudanças ocorridas nos sites determinados em uma base de endereços, além da função de "ALERTA" via e-mail. O usuário muitas vezes não cria o hábito da consulta regular ao site. O "alerta" por e-mail sobre novas inclusões de informações "lembra" a existência do site. Além disso, outros tipos de avisos podem ser repassados por esse meio, que vem se mostrando efetivo.
+
+A definição de agentes no contexto da Internet é a de um sistema que apresenta propriedades como autonomia, facilidade de comunicação, capacidade de responder a determinadas situações e aprender como alcançar seus objetivos (Bradshaw, 1997; Caglayan & Harrison, 1997; Lesnik & Moore, 1997; Knapik & Johnson, 1998).
+
+A arquitetura de agentes inteligentes apresentada na tese originária deste artigo foi elaborada por Thiry (1999) e é de aplicação universal, guardadas as devidas adaptações de programação dos agentes, de acordo com as necessidades de cada organização. Um exemplo de aplicação foi proposto no trabalho de Silva; Thiry; Abreu (2000), no qual se sugeriu o monitoramento de fontes de informação, particularmente títulos de periódicos, como um serviço de alerta automatizado para ser oferecido aos usuários de bibliotecas universitárias.
+
+A figura 5 apresenta a arquitetura proposta, onde são definidos quatro tipos de agentes: de interface, de busca, de monitoramento e de filtragem, organizados de forma que possam ser acessados por meio de um sistema computacional, por um navegador Internet (diretamente pelo usuário). Em ambos os casos, o agente de interface exerce a tarefa de intermediar a interação.
+
+
+
+
+
+Os agentes apresentados na figura 5 oferecem o suporte necessário para a implementação de serviços de monitoramento inteligente na Internet. A proposta é a integração desses agentes para manutenção de um processo de inteligência competitiva e tem seu detalhamento na referida tese.
+
+A dinâmica de aplicação dos agentes na Base de Fontes significa agregar paulatinamente "inteligência" aos agentes, de forma a trabalhar com um refinamento cada vez maior. Cada fonte será analisada, e os agentes receberão instruções de busca e monitoramento, dependendo do que a fonte puder oferecer e de acordo com o julgamento humano.
+
+Para a disseminação da informação, deve ser prevista uma modelagem para os agentes de interface, que deverão emitir alerta via e-mail. A função de alerta é especialmente importante nesse tipo de serviço, pois o objetivo é manter a organização/usuário atualizados na sua área de atuação.
+
+
+
+APLICAÇÃO DO PROCESSO EM ESTUDOS DE CASO
+
+Instrumentos da coleta de dados:
+
+– matriz gerada conforme quadro 1;
+
+– matriz gerada para a colocação das fontes de informações estratégicas na Internet a serem monitoradas que se transforma no mapa de informações externas (quadro 2).
+
+A partir das discussões com as pessoas definidas para serem os respondentes, esses quadros foram, automaticamente, sendo montados.
+
+O Projeto Piloto no Núcleo de Estudos em Inovação, Gestão e Tecnologia da Informação – IGTI (http://igti.eps.ufsc.br)
+
+O IGTI é um grupo de pesquisa vinculado ao Programa de Pós-Graduação em Engenharia de Produção, do Centro Tecnológico da Universidade Federal de Santa Catarina, dentro da área de Gestão de Negócios e das linhas de pesquisa Sistemas de Informação Gerencial, Sistemas de Apoio à Decisão (SIG-SAD) e Inovação Tecnológica.
+
+A escolha do IGTI como projeto-piloto prendeu-se ao fato de a autora da pesquisa, Silva (2000), ser participante do núcleo, a orientadora ser a coordenadora e a proposta do núcleo ser atuar de maneira competitiva, em função da condição de autonomia financeira imposta às universidades federais brasileiras, o que enfatiza a necessidade da relação da universidade com outras organizações, na expectativa de gerar recursos próprios, além de trabalhar com informação de ponta.
+
+O IGTI começou suas atividades no início de 1996, com foco em uma competência instalada em Gestão da Inovação e Tecnologia de Informação aplicada à gestão de negócios, com vistas à competitividade organizacional. A idéia foi organizar um grupo de estudos que aplicasse os conhecimentos adquiridos em serviços e produtos, como projetos de pesquisa para levantamento de recursos em instituições de fomento, publicações, cursos de capacitação e consultoria.
+
+Essa competência ampliou-se à medida que foram se agregando as diversas competências dos alunos do Programa de Pós-Graduação em Engenharia de Produção – PPGE (mestrado/doutorado), dos alunos de graduação, como bolsistas de iniciação científica, além de professores que atualmente são colaboradores no PPGEP e pesquisadores no IGTI.
+
+Dessa forma, o núcleo se enquadra na nova visão de agregação de competências essenciais e, portanto, em uma organização flexível, tendo como meta capacitar e gerir uma equipe multidisciplinar, com o intuito de criar sinergia no planejamento e execução de projetos em função das necessidades dos seus parceiros/clientes.
+
+A aplicação do processo no IGTI seguiu a metodologia (figura 4), obtendo os seguintes resultados:
+
+Þ Abordagem e população
+
+– Abordagem – como visto, a autora da tese é membro do IGTI desde a criação (1996), e já havia a pretensão de formalizar sua estratégia de atuação. O trabalho de tese abriu espaço para a realização.
+
+– População: reunião de membros do IGTI, que resultou na definição da estratégia de atuação e nas necessidades de informação externas que já vinham sendo identificadas na Internet e indexadas em uma base de dados protótipo.
+
+Þ Estratégia de atuação
+
+Apesar de o modelo adotado (McGee & Prusak, 1994, p.54) ser dirigido à atuação empresarial, sua adoção para um grupo de pesquisa acadêmico justifica-se porque o grupo pretende uma atuação a partir de uma perspectiva competitiva, como preconiza o novo paradigma organizacional, que deve ser observado por indivíduos ou organizações que visam ao lucro financeiro ou social.
+
+Considerando que o processo de inteligência competitiva é dependente da formalização de um mapa informacional externo, definido a partir da estratégia de atuação da organização que deve considerar as suas competências essenciais, e como o grupo ainda não tinha sua atuação formalizada, ficou como incumbência desta pesquisa o levantamento da estratégia de atuação junto ao grupo, que partiu de discussões que possibilitaram uma reflexão quanto à seguinte questão: Quem somos e qual é o nosso "negócio"? A resposta foi, portanto, a colocação da perspectiva das competências essenciais e a conseqüente formalização da estratégia de atuação.
+
+Na seqüência, ficaram definidos ainda a estrutura funcional, na qual ficou prevista a figura do gestor informacional, o planejamento estratégico com a missão, objetivos, diretrizes básicas e a visão de futuro com seus projetos estratégicos.
+
+Þ Mapa de fontes de informações estratégicas
+
+A partir dessa formalização da atuação, definiram-se as necessidades de informações estratégicas, as fontes de informação e sua localização na Internet. O resultado integral está apresentado em Silva (2000).
+
+Þ Dinâmica de aplicação dos agentes inteligentes nas fontes e a disseminação da informação
+
+A título de exemplo, vale relacionar a atuação dos agentes inteligentes para algumas fontes consideradas estratégicas para o IGTI:
+
+– Títulos de periódicos – Neste caso, a aplicação maior será dos agentes de monitoramento, pois os títulos estão previamente definidos. Neste tipo de fonte, pode ser agregada uma instrução aos agentes para que, além do monitoramento quanto a mudanças no site, ou seja, um novo fascículo foi disponibilizado, também nomes de autores sejam monitorados, já que eles publicam em várias fontes, e ainda a instrução para o monitoramento dos assuntos específicos de interesse do IGTI.
+
+– Autores – No caso dos autores, será necessário o trabalho integrado dos agentes de busca, filtragem e monitoramento, porque os autores publicam em diversos meios. O monitoramento dos sites dos periódicos, além das instruções com relação à atualização dos fascículos, poderá conter também instruções referentes aos autores. É importante o monitoramento do que estão publicando os autores/experts, que são citados em diversos lugares da rede. As opiniões desses autores geralmente trazem contribuições expressivas para avanços tecnológicos, tendências e previsões para a área. Os agentes de busca devem percorrer periodicamente a rede à procura de novidades dos autores. Os agentes de filtragem e monitoramento cuidam de fontes que possivelmente têm novidades dos autores.
+
+– Instituições de pesquisa – Os agentes de monitoramento devem acompanhar as mudanças nas páginas, que podem significar lançamentos de novos projetos, trabalhos de pesquisadores etc. As instruções para esse tipo de fonte vão depender de cada instituição monitorada, devendo, portanto, ser observadas as suas peculiaridades.
+
+– Agências de fomento – Nesse caso, agentes de monitoramento devem estar "alertas" para o lançamento de editais para financiamento de projetos, o que é muito importante no caso de grupos de pesquisa, como o IGTI.
+
+– Empresas de consultoria – As grandes empresas de consultoria, especialmente as internacionais, vêm ditando as regras de comportamento das organizações. Os conceitos preconizados por elas estão sendo levados para dentro da academia, no sentido de uma estruturação teórica. Além do que, muitas delas pertencem a autores que deverão estar sendo monitorados. Portanto, é uma importante fonte de informação para grupos como o IGTI. O monitoramento nessas fontes pode cuidar, então, da captação dos conceitos com os quais essas empresas estão trabalhando: as organizações que são suas clientes e eventos promovidos ou anunciados por elas.
+
+– Embaixadas – Nessas fontes, é possível monitorar incentivos à pesquisa, incentivos à capacitação nos países, oportunidades de estágios, oportunidades de negócios, eventos etc.
+
+
+
+RESULTADOS DA ABORDAGEM
+
+a) Situação anterior à abordagem
+
+– Estratégia de atuação não formalizada.
+
+– Mapa informacional não formalizado. Já havia uma base de endereços indexada, com o monitoramento via agentes inteligentes idealizado, sem, no entanto, ter sido aplicado.
+
+b) Situação a partir da abordagem
+
+– A tomada de consciência da necessidade de formalização da atuação, geralmente esquecida no afã do "fazer", e a ação imediata que resultou nessa concretização. Isso provocou a arregimentação de esforços no grupo, praticando-se a sinergia pretendida.
+
+– O grupo viu-se "forçado" a "pensar" o IGTI. Esse "pensar" crítico resulta no surgimento de uma configuração ainda não visualizada, na qual se demonstra a potencialidade do grupo para um desenvolvimento maior, inclusive para novas possibilidades de atuação.
+
+– A identificação das competências essenciais para a configuração formalizada da estratégia de atuação. Essa configuração demonstra a flexibilidade pretendida em uma estrutura que se molda em subconfigurações móveis, reunindo as competências individuais de acordo com a demanda de produtos ou serviços. Isso abre uma perspectiva de trabalhos a serem apresentados em fontes formais sobre essa experiência, de um grupo de pesquisa que aplica o modelo teórico das competências essenciais na sua estrutura de atuação, a curto prazo, o que incrementa a produção do grupo e o seu desenvolvimento.
+
+– As fontes de informação definidas no mapa e identificadas na Internet surgiram a partir do "pensar" o IGTI. Com essa identificação, vieram à luz fontes ainda não cogitadas e exploradas na Internet. A análise minuciosa das fontes e a aplicação dos agentes considerando as particularidades de cada fonte resultará em um produto de informação relevante ao IGTI.
+
+– A gestão da informação – gerenciar a informação implica um gestor previsto na estrutura de atuação apresentada anteriormente. A consideração dessa função foi um dos fatores importantes que surgiram nas discussões do grupo, já que se pretende a "organização IGTI" baseada na informação. A gestão da informação proveniente da Internet prevê uma dinâmica que, neste momento, pode ser vislumbrada da seguinte forma:
+
+• uma adequação permanente das tarefas dos agentes inteligentes relacionadas às fontes determinadas em função das mudanças das necessidades do grupo - trabalho de equipe coordenado pelo gestor informacional;
+
+• produtos e serviços a partir do produto apresentado pelos agentes inteligentes:
+
+• determinadas informações podem ser direcionadas diretamente a todos os membros do grupo, como, por exemplo, atualização em páginas de periódicos;
+
+• as informações provenientes de páginas que oferecem notícias podem ser direcionadas ao gestor informacional para a edição de conteúdo. Isso evita a sobrecarga de informação não relevante aos membros do grupo. O gestor informacional vai funcionar também como filtro humano.
+
+Teoricamente, é possível vislumbrar as facilidades que esse tipo de dinâmica informacional pode oferecer. No entanto, somente sua operacionalização e rotinização poderão ir realmente mostrando caminhos para novos produtos e serviços, de acordo com o que for sendo apresentado nesse processo. Sem dúvida, a exploração da Internet, o conhecimento minucioso dos sites que se pretende monitorar é uma função humana. Somente o feeling humano, formado pelo conhecimento da organização e das fontes na Internet, terá competência para moldar produtos e serviços relevantes.
+
+Para concluir, deve-se frisar que o resultado fundamental da aplicação do modelo no IGTI foi a visualização da organização IGTI de maneira formalizada. O uso efetivo da Internet será decorrência desse autoconhecimento. Com esses resultados é que partiu-se para a abordagem dos outros três casos.
+
+
+
+VERIFICAÇÃO DA APLICABILIDADE DO PROCESSO
+
+Essa última etapa da pesquisa ocorreu nas seguintes organizações: Dígitro Tecnologia Ltda.; Associação Catarinense de Empresas de Tecnologia (Acate); Laboratório de Automação, Controle e Otimização de Processos - Grupo de Automação, Otimização e Controle de Processos Químicos (LCP), que foram escolhidos pelos seguintes motivos: 1º - por terem um ponto em comum, assim como o IGTI, que é o trabalhar com tecnologia e informação de ponta, com a perspectiva de uma atuação competitiva, apesar de terem objetivos e estruturas diferentes; 2º- pela facilidade de acesso.
+
+Na Dígitro Tecnologia Ltda.
+
+A Dígitro, localizada em Florianópolis (SC), é uma empresa de desenvolvimento tecnológico e industrial que produz sistemas de telecomunicações hoje instalados em todo o Brasil. Reúne profissionais qualificados que desenvolvem sistemas nas áreas de comutação pública, comutação privada, instrumentação para testes de centrais, automação e operação de serviços especiais.
+
+A empresa foi constituída em 1977 e começou a atuar em telecomunicações em 1983. Desde então, vem se aperfeiçoando para oferecer as melhores soluções em integração de ambientes computacionais com serviços de voz e dados, possibilitando a seus clientes a utilização das comunicações como uma ferramenta avançada para a criação de serviços de valor agregado.
+
+Ao lado da sua capacidade de desenvolvimento tecnológico, a história da Dígitro é marcada pela inovação. Desde o início de sua atuação, lança produtos que se tornam modelos de referência em suas áreas de aplicação: foi a primeira empresa a oferecer uma plataforma completamente aberta para a prestação baseada no AXS/20 (Advanced Exchange System). Hoje é líder no fornecimento deste sistema para as operadoras que atuam no Brasil.
+
+Confirmando sua vocação, a Dígitro lançou no mercado o primeiro sistema Computer Telephony Integration (CTI), completamente integrado em uma plataforma única. O BXS/20 (Basic Exchange System) introduz um novo conceito e inova o CTI convencional, integrando em uma só plataforma os recursos de comutação digital, servidor de rede e unidade de resposta audível. Outros exemplos importantes são o Sitest, primeiro robô automático para testes, com recursos técnicos para atuar tanto em centrais analógicas como digitais, e produtos como o AXL-102, da empresa coligada Teclan, que revolucionou a fórmula de atendimento dos serviços de Auxílio à Lista, conferindo liquidez à informação. Cerca de 95% das operadoras de telecomunicações no Brasil são clientes Dígitro.
+
+Em uma época em que as vantagens competitivas são igualadas em pouco tempo, a maior arma de uma empresa é o fator humano. A Dígitro mantém o aprimoramento permanente de seus colaboradores para oferecer produtos cada vez mais competitivos.
+
+Þ Aplicação do processo
+
+– Abordagem e população – o primeiro contato com a empresa foi feito com a bibliotecária, que intermediou o contato com o gerente de marketing.
+
+– População – para a colocação da estratégia de atuação: o gerente de marketing. A Dígitro tem o seu planejamento estratégico definido;
+
+– para a colocação das fontes de informação externas: a bibliotecária. O trabalho dessa profissional é o monitoramento diário das fontes já identificadas na Internet.
+
+Þ Estratégia de atuação
+
+A estratégia de atuação da Dígitro, colocada em Silva (2000, Quadro 13 – Elementos da Estratégia de Atuação da Dígitro, p. 117), demonstra que a organização vem se enquadrando no modelo preconizado por Prahalad & Hamel (1990), no qual as competências específicas determinam o modelo de atuação da organização e garantem a competitividade em uma economia globalizada.
+
+A Dígitro também pode ser percebida como uma organização que "aprende". Essa concepção, detectada por Prado (1999), confirma-se com o posicionamento da empresa, que afirma estar sua atenção sempre voltada às mudanças, procurando adequar e reforçar as suas competências e valorizando o seu capital intelectual (competências individuais), para oferecer soluções customizadas aos seus clientes.
+
+Þ Mapa de fontes de informações estratégicas
+
+Na Dígitro, apesar de não estarem formalizados o mapa nem o processo de monitoramento das fontes de informação que compõem esse mapa, eles estavam definidos. A empresa, há tempo, descobriu o potencial da Internet como fonte de informação, de forma gratuita, e, portanto, seu uso como vantagem competitiva. Isso ficou reforçado após a implantação da intranet, em 1997.
+
+A utilização da Internet como fonte de informações externas e ferramenta de inteligência competitiva já faz parte da ''cultura Dígitro''. O setor encarregado da tarefa de coleta e monitoramento é o de Documentação, vinculado à Assessoria de Documentação e Informação da Diretoria Técnico Industrial, na pessoa da bibliotecária.
+
+Os assuntos que atendem à área de atuação da Dígitro, no momento da pesquisa (2000), estão relacionados em Silva (2000, p. 124) e são monitorados a partir de uma relação de fontes já levantadas pela bibliotecária. O mapa informacional (Silva, 2000, Quadro 14 – Mapa de Fontes de Informações Estratégicas para a Dígitro na Internet, p. 125-132) foi elaborado a partir dessa relação de fontes. Toda a rotina de monitoramento está descrita na tese e apresentada também em Silva & Abreu (2001).
+
+Resultados
+
+A aplicação do modelo proposto, na Dígitro, demonstrou o uso efetivo da Internet em um processo de inteligência competitiva, quando encontrou o modelo teórico proposto em uma prática já instalada, embora sem formalização e sem "consciência", por parte da empresa, de que estava utilizando o conceito de inteligência competitiva na Internet, na sua prática.
+
+a) Situação anterior à abordagem
+
+– As fontes monitoradas na Internet constam de uma relação elaborada pela bibliotecária e disponibilizada na Intranet. Não existe uma base de dados de endereços indexados. A recuperação dos endereços não é por um sistema de busca, utilizando-se um vocabulário de palavras-chave, mas percorrendo-se a lista de links.
+
+– O monitoramento das fontes é diário e manual, sem formalização da rotina.
+
+b) Situação a partir da abordagem
+
+– Adequou-se a estratégia ao modelo proposto – não houve aprofundamento na dinâmica da estratégia de atuação. A empresa preserva a informação contida nos seus documentos;
+
+– A conscientização do processo de inteligência competitiva, principalmente com relação à bibliotecária, que já pratica o monitoramento;
+
+– A conscientização da bibliotecária da necessidade de formalizar o mapa com as fontes de informações e sua rotina de monitoramento;
+
+– O conhecimento, por parte da empresa, da possibilidade da aplicação de agentes inteligentes no monitoramento.
+
+Pode-se concluir, pelo que foi narrado sobre a Dígitro, que ela é uma organização que se baseia na informação. Dessa forma, pode-se prever que um monitoramento automatizado agilizaria e otimizaria o serviço de coleta, assim como análise e utilização do conhecimento adquirido a partir daí, nas tomadas de decisão.
+
+Na Associação Catarinense de Empresas de Tecnologia (Acate)
+
+A Acate é uma associação de empresas catarinenses de produtos de alta tecnologia, instalada em Florianópolis (SC). Foi criada em 1986, com o objetivo de apoiar a pesquisa e o desenvolvimento de novos produtos e materiais, visando à consolidação da indústria nacional em tecnologia de ponta. Administra e abriga atualmente o MIDI-Tecnológico, antiga Incubadora Empresarial Tecnológica (IET).
+
+Sem fins lucrativos e declarada de utilidade pública, a Acate tem como principal objetivo apoiar a pesquisa e o desenvolvimento de novos produtos e materiais, visando à consolidação da indústria nacional em tecnologia de ponta. Já abrigou empresas que hoje se destacam no cenário regional, estadual e nacional, como Comandata, Compusoft, Digicart, Dígitro, 4S Informática, Exata, entre outras.
+
+Conta, hoje (2000), a Acate, com 60 empresas associadas nos setores de automação, informática, telecomunicações, comunicação, eletrônica, controle e instrumentação, mecânica de precisão, metrologia, construção civil, saneamento básico e meio ambiente. Administra o MIDI-Tecnológico – uma parceria com o Sebrae-SC – e tem apoio da Fiesc, Senai/SC, IEL, Finep, Siesc e da Fundação Certi/UFSC. O Midi foi inaugurado em 1998. É uma incubadora que procura apoiar o surgimento, implantação e desenvolvimento de projetos empresariais de base tecnológica.
+
+Aplicação do processo
+
+Þ Abordagem e população – o primeiro contato na Acate foi com o seu coordenador, que se encarregou também da colocação da estratégia de atuação da organização e da confirmação das fontes de informação na Internet. A Acate não tem planejamento estratégico formalizado. A definição da estratégia de atuação foi resultado de discussão entre a pesquisadora e o coordenador. A Acate também não tinha as fontes de informação estratégicas identificadas.
+
+Þ Estratégia de atuação
+
+A estratégia de atuação da Acate (Silva, 2000, Quadro 15-Elementos da Estratégia de Atuação da Acate, p.141) foi obtida mediante entrevista com o seu coordenador. A Associação não possui formalizada a sua estratégia, nem o seu planejamento estratégico. O resultado é, portanto, fruto da experiência do coordenador na organização.
+
+A Acate vem pondo ênfase nas suas atividades de fornecedora de condições de infra-estrutura operacional e de elaboradora de políticas para o desenvolvimento de empresas de base tecnológica. O serviço de assessoria para as associadas ainda não é realizado de maneira efetiva.
+
+No entanto, a Associação tem como perspectiva, a médio prazo, incrementar esse serviço de assessoria, em conseqüência de ter detectado que as empresas têm dificuldades no seu gerenciamento, pelo desconheci-mento de assuntos como legislação, mercado, financiamentos, enfim, informações que viabilizem o empreendimento.
+
+Þ Mapa de fontes de informações estratégicas
+
+A definição do mapa informacional para a Acate foi uma amostra das possibilidades informacionais que poderiam ser acessadas na Internet, que a organização ainda não considerou. As fontes arroladas são resultado da pesquisa na Internet para este trabalho.
+
+Essas fontes tratam de alguns assuntos, dos que foram apontados pelo coordenador, relacionados em Silva (2000, Quadro 16 – Mapa de Fontes de Informações Estratégicas para a Acate na Internet p. 143). Deve-se frisar o aspecto de amostra, para o que não foram apresentadas análises das fontes para extração de informação, que podem agregar alto valor aos serviços da Acate. Considera-se que isso seria um trabalho de consultoria a ser oferecido à organização.
+
+Resultados
+
+a) Situação anterior à abordagem:
+
+• não havia conhecimento sobre o conceito de inteligência competitiva como é tratado aqui;
+
+• não eram formalizados a estratégia de atuação e o planejamento estratégico;
+
+• não havia delineamento das necessidades de informação externa;
+
+• o uso da Internet como ambiente de fontes de informações relevantes ainda não havia sido cogitado como rotina.
+
+b) Situação a partir da abordagem:
+
+• conscientização do conceito de inteligência competitiva. Houve excelente receptividade por parte do coordenador da Acate, com relação aos conceitos apresentados, e grande interesse na possibilidade da aplicação de agentes inteligentes realizando o trabalho de monitoramento;
+
+• conscientização, por parte do coordenador, de que o processo só será efetivo a partir do posicionamento claro da organização quanto à sua estratégia e planejamento;
+
+• conscientização, por parte do coordenador, da possibilidade de um mapeamento de fontes de informação na Internet, pela pequena amostra das fontes apresentadas por esta pesquisa. Essa amostra, com comentários sobre algumas fontes, é uma demonstração do quanto podem ser úteis essas fontes, a partir de uma análise cuidadosa que pode agregar grande valor aos serviços da Acate;
+
+• essa demonstração e conscientização renderam a solicitação de um projeto para o levantamento das necessidades de informação externa e seu mapeamento na Internet, para ser apresentado à direção da Acate.
+
+No Laboratório de Controle de Processos
+
+O Laboratório de Controle de Processos – LCP, http://lcp.enq.ufsc.br é um grupo de pesquisa formado por professores, alunos de pós-graduação e alunos de graduação do Departamento de Engenharia Química e de Alimentos da UFSC. Iniciou suas atividades em 1987 e, além de apoio ao ensino e a pesquisa, desenvolve atividades de extensão junto a empresas.
+
+Os objetivos do LCP são gerar competência e uma base de conhecimento no desenvolvimento e controle de processos químicos, com o propósito de desenvolver soluções e inovações tecnológicas (produtos e serviços) que representem vantagem competitiva para a indústria química e de alimentos. Os alunos desenvolvem teses, dissertações e trabalhos de iniciação científica, relacionando a teoria com a prática.
+
+Com o propósito de gerar inovações tecnológicas (produtos e serviços) que representem vantagem competitiva para a indústria química e de alimentos, o LCP mantém parcerias com profissionais de outras instituições, indústrias, empresários, fornecedores de equipamentos, fornecedores de matérias-primas, centros de desenvolvimento de tecnologia, entidades de classe.
+
+Essa rede de relacionamentos permite ao grupo mapear informações relevantes ao desenvolvimento de suas atividades. Portanto, existe uma preocupação em criar uma cultura voltada para o conhecimento, manifestada por meio de atividades como documentação, catalogação e difusão das informações coletadas aos integrantes do grupo. Nos últimos anos, o LCP desenvolve projetos junto a empresas, transferindo tecnologia e know-how.
+
+Aplicação do processo
+
+Þ Abordagem e população – o primeiro contato com o grupo foi por meio de uma de suas pesquisadoras, que intermediou o contato com o seu coordenador. A mesma pesquisadora do LCP levou a proposta ao grupo e apresentou os resultados. Esta pesquisadora não teve ingerência no processo de discussão tanto da estratégia de atuação quanto das necessidades de informação e fontes na Internet. Os resultados apresentados são fruto de discussões do próprio grupo.
+
+Þ Estratégia de atuação – A abordagem no LCP foi por meio do contato com uma pesquisadora do laboratório. Nesse momento, foi apresentado o objetivo da tese, a conceituação definida para esse objetivo, assim como o modelo proposto, com as matrizes de levantamento da estratégia de atuação e também do mapa informacional. A partir daí, a pesquisadora se encarregou de passar as informações ao restante do grupo do laboratório. O resultado apresentado (Silva, 2000, Quadro 17-Elementos da Estratégia de Atuação do LCP, p.152) é fruto do entendimento do grupo, sem participação desta pesquisadora no processo de levantamento.
+
+Þ Mapa de fontes de informação estratégicas – A identificação das fontes de informação na Internet apresentada pelo LCP são fontes já monitoradas pelo grupo. No entanto, o monitoramento não tem uma rotina sistematizada. O mapa informacional está de acordo com o que foi apresentado pelo laboratório e está em Silva (2000, Quadro 18 – Mapa de Fontes de Informações Estratégicas para o LCP na Internet, p.156-159)
+
+Resultados
+
+Os resultados detectados no LCP a partir desta abordagem são semelhantes aos encontrados no IGTI. Mesmo sendo um grupo de pesquisa inserido em uma universidade pública, assim como o IGTI, o LCP trabalha na perspectiva da competitividade, o que se constata na própria atuação, com a procura de parcerias/consultorias com o setor privado, além do setor público, reforçando a relação universidade-empresa. A perspectiva também é criar condições de auto-sustentação, a partir da geração de recursos próprios.
+
+a) Situação anterior à abordagem
+
+• O LCP, também envolvido com o "fazer", não tinha, à época desta abordagem, estratégia de atuação "pensada".
+
+• As fontes de informação, que são estratégicas, já estavam identificadas. O monitoramento não é formalizado ou sistematizado.
+
+b) Situação a partir da abordagem
+
+• Houve, de forma declarada, uma tomada de consciência da necessidade de formalização da estratégia, a partir da "provocação" desta abordagem. Nesse processo, o LCP identifica suas competências essenciais tornando-as visíveis, em uma adaptação do modelo Prahalad, Hamel (1990), e uma estrutura administrativa mínima.
+
+• Quanto ao mapa informacional, o laboratório relacionou as fontes que já são utilizadas e que estão disponíveis no site como links. Não foi apresentado o processo de monitoramento dessas fontes.
+
+
+
+RESULTADOS GERAIS
+
+• Os resultados obtidos são apresentados de acordo com cada conceito, ou elemento do processo aplicado, como considerados pelas organizações estudadas: IGTI, Dígitro, Acate e LCP. São eles a estratégia de atuação e a consideração integrada entre informação; inteligência competitiva e Internet.
+
+a) Consideração sobre a estratégia de atuação
+
+Das quatro organizações abordadas, IGTI, Dígitro, Acate e LCP, somente a Dígitro tinha estratégia de atuação e planejamento estratégico definidos. Isso demonstra o nível de entendimento dessa organização com relação ao fator competitividade. Não poderia ser diferente, já que a Dígitro atua em um mercado altamente competitivo.
+
+A abordagem do processo em dois grupos de pesquisa em uma universidade pública prende-se ao entendimento de competitividade na atualidade: todos devem trabalhar na perspectiva da competitividade. Os grupos de pesquisa não podem fugir a esta regra. As instituições públicas estão sendo forçadas a buscar recursos próprios para a sua manutenção, pois a política governamental força esta situação, em função dos cortes orçamentários.
+
+Se estamos falando em necessidade de mudança de mentalidade e de comportamento, isso é válido para todos: desde o indivíduo, passando pelas organizações com fins lucrativos, até aquelas direcionadas a fins sociais, sem compromisso com o lucro, mas comprome-tidas com o lucro social.
+
+No caso dos grupos de pesquisa em universidades públicas, isso passa pela consideração do estreitamento das relações universidade-empresa, em que se procura aliar o lucro financeiro ao lucro social. Procura-se, ainda, a inserção da universidade na sociedade, de forma a contribuir com soluções de ordem prática e com vistas ao desenvolvimento econômico-social.
+
+No caso dos grupos abordados, a questão da formalização de estratégias não existia. As pessoas se prendem no seu fazer diário e no afã de obter resultados práticos, não formalizam procedimentos e conceitos. Em conseqüên-cia, a organização, quando perde colaboradores, perde parte do seu conhecimento, além de não ter um registro histórico da sua atuação.
+
+Essas considerações com relação aos grupos de pesquisa valem para a Acate que também não tem fins lucrativos. Sua atuação ajuda empresas que vão contribuir especialmente na geração de empregos. Se ela se mantiver competitiva, isso vai repercutir nas empresas a ela vinculadas, em um processo em cadeia. Isso implica clareza e formalização da sua estratégia de atuação.
+
+Neste sentido, o resultado visível em relação à formalização da estratégia de atuação nas organizações abordadas é que as denominadas "sem fins lucrativos" ainda gerem os seus "negócios" de maneira informal.
+
+Outro resultado visível é a reação à abordagem do processo proposto. A Dígitro constitui um caso a parte, pois tem clareza dos seguintes pontos: quem é e para onde quer ir. Portanto, esta abordagem em quase nada influenciou nas considerações relacionadas ao estabelecimento ou formalização da sua estratégia.
+
+O IGTI, desde a sua criação, considerava a necessidade de formalização da sua estratégia, com a perspectiva de concretizá-la. Este trabalho possibilitou esse resultado. Foi uma "provocação" ao "pensar estrategicamente" e, portanto, é um resultado prático desta abordagem, vista como muito positiva pelo núcleo.
+
+No LCP e na Acate, a abordagem também funcionou como uma "provocação". A conseqüente conscientização da necessidade de explicitação das suas estratégias gerou um resultado prático, ainda que este possa ser encarado como um ensaio a um "pensar" mais aprofundado. A reação nessas organizações foi muito positiva no que concerne ao aspecto de conscientização. Isso foi verbalmente declarado, tanto pela pesquisadora do LCP, quanto pelo coordenador da Acate.
+
+Uma conclusão geral pode-se tirar dessa abordagem: o estabelecimento de conceitos claros, repassados às organizações, repercute em uma aceitação positiva, uma conscientização e reação imediata. O LCP, por exemplo, trabalhou, dentro do grupo, a sua estratégia e apresentou o resultado para esta pesquisa. A Acate, representada pelo seu coordenador, dispôs-se a isso com a pesquisadora, o que resultou no processo apresentado. Como resultado prático também, a Acate solicitou um projeto de consultoria que contempla as etapas do processo proposto.
+
+b) Consideração sobre informação inteligência competitiva – Internet
+
+Os resultados apresentados prendem-se ao inter-relacionamento dos três fatores, informação, inteligência competitiva e Internet, que são a base do processo proposto.
+
+Para uma consideração efetiva da informação como recurso estratégico pelas organizações, é necessário que a informação esteja alimentando a estratégia competitiva. Isso implica uma sistematização dos processos relacionados à informação, denominada gestão da informação. Os pontos iniciais desse processo são a definição clara das informações estratégicas, a identificação das fontes e o seu monitoramento.
+
+A proposta deste trabalho tem foco na informação externa, aquela que provém de um processo de inteligência competitiva, usando a Internet como ambiente de informação e ferramenta, em um processo de monitoramento contínuo por meio de agentes inteligentes.
+
+Nas organizações abordadas, a consideração da informação segue a situação colocada na estratégia de atuação. A Dígitro, uma organização competitiva no seu mercado de atuação, pode ser enquadrada como organização que tem sua atuação baseada na informação para manter-se competitiva.
+
+Um primeiro fator que confirma a Dígitro como uma organização que considera a informação como base da sua atuação, é a implantação da Intranet para gestão da sua informação interna. A utilização da Intranet tem também como objetivo o compartilhamento da informação por toda a organização.
+
+As informações externas necessárias a essa organização estão bem definidas, e as fontes identificadas na Internet têm um monitoramento diário. A Dígitro tem o seu processo de inteligência competitiva na Internet já estabelecido. Com isso, pode-se afirmar que a rede já faz parte da sua cultura organizacional.
+
+Os procedimentos com relação à informação externa são todos realizados pela Internet, segundo a bibliotecária. Isso ocorre desde a localização da informação até a sua aquisição, quando ela não pode ser obtida via rede e de forma gratuita. O pagamento das informações é feito por meio de cartão de crédito pela Internet. A organização recorre à informação paga, quando não há nenhuma possibilidade de adquiri-la de forma gratuita.
+
+A possibilidade de acesso gratuito à informação e de forma ágil, na Internet, foi muito enfatizada pela bibliotecária. Neste sentido, pode-se afirmar que ela é "uma profissional da Internet". Além das suas atividades rotineiras, ela pesquisa e analisa outras fontes na rede, para estar sempre agregando valor ao seu serviço.
+
+A aplicação de agentes inteligentes no monitoramento, como proposto aqui, encontrou na Dígitro parte deste processo em andamento. A implantação do processo necessita do conhecimento estreito das fontes. A partir daí, é possível determinar as instruções que serão dadas aos agentes para uma recuperação relevante da informação.
+
+Entretanto, a Dígitro não possui uma base de endereços indexada, como é proposto neste trabalho. O que ela monitora é uma lista de endereços linkados. Não possui, portanto, um sistema de recuperação da informação a partir de uma base de dados que tenha descrito o conteúdo das fontes pesquisadas.
+
+Na Acate, não há sistematização dos processos relacionados à busca de informação. Ainda não houve uma consideração efetiva da informação como base da sua atuação. Dessa forma, não havia o delineamento das necessidades de informação. Também, não estavam identificadas fontes na Internet. A apresentação do mapa (Silva, 2000, quadro 16, p. 143), com algumas fontes indicadas, é um produto deste trabalho à organização. É uma amostra das possibilidades que podem ser encontradas na rede, de forma gratuita.
+
+A partir de fontes como as exemplificadas, a Acate poderia fornecer serviços de alto valor agregado às suas empresas clientes, como, por exemplo, o acompanhamento de indicadores socioeconômicos; informações sobre feiras e eventos; informações sobre licitações; oportunidades de negócios; informações sobre negócios relacionados ao Mercosul; informações sobre oportunidades oferecidas por agências financiadoras; informações sobre normalização, além de outras possibilidades que uma pesquisa minuciosa poderia levantar.
+
+No IGTI e no LCP, como grupos voltados ao ensino e à pesquisa, a relação com a informação permeia sempre as suas atividades, já que o ensino e a pesquisa dependem da informação. No entanto, não há a sistematização desse pressuposto, nem as informações consideradas estão totalmente afinadas com os seus objetivos de atuação, pois isso só se obtém com a visualização clara da atuação.
+
+Além disso, a Internet permeia todas as atividades acadêmicas, até porque a rede teve início no meio acadêmico. No entanto, esse uso também não é sistematizado. Não há rotina estabelecida para a obtenção de informação na rede. O acesso à Internet é feito por meio de links e, portanto, aleatório, e não em bases de dados formalizadas que contenham endereços indexados.
+
+Com relação ao conceito de inteligência competitiva, pode-se afirmar que nenhuma dessas organizações o consideram formalmente. A Dígitro mantém um monitoramento de mercado. No entanto, o monitoramento de fontes técnicas, realizado diretamente pelos técnicos, não foi abordado por este trabalho, e, pelas informações obtidas, esse monitoramento não tem sistematização.
+
+Concluindo, pode-se afirmar que, nos casos estudados, foi possível vislumbrar a possibilidade efetiva de utilização do processo proposto em diferentes tipos de organizações. Estes resultados confirmam a necessidade de formalização do uso da informação nas organizações.
+
+
+
+CONCLUSÕES E SUGESTÕES
+
+Os principais resultados alcançados, a partir do objetivo proposto, podem ser agrupados da seguinte forma: quanto ao quadro conceitual; quanto à proposta; quanto aos resultados que emergem a partir da aplicação do processo nos estudos de caso.
+
+a) Quanto ao quadro conceitual
+
+Houve um esforço no delineamento dos conceitos, que é o primeiro resultado da pesquisa. Essa conceituação dá suporte e embasamento à elaboração da proposta. Ela é o resultado da análise crítica da fundamentação teórica que considerou:
+
+• o novo paradigma organizacional: que contextualiza o problema colocado no cenário atual, o que leva à necessidade de uma atuação competitiva. Isso justifica a adoção da prática da inteligência competitiva. Os conceitos essenciais que devem ser considerados pelas organizações;
+
+• informação – como recurso estratégico. A informação não é conhecimento. A inteligência é o processo de análise que transforma a informação em conhecimento. Este conceito é básico neste trabalho;
+
+• gestão da informação – como o foco é a informação, está se tratando de gestão da informação, e não de gestão do conhecimento;
+
+• inteligência competitiva – é o processo de obtenção de informações estratégicas que provêm do meio ambiente competitivo. Ele é parte do processo de inteligência organizacional (figura 3);
+
+• competitividade – o ser competitivo é manter-se "alerta", sempre atualizado. Esta premissa deve ser considerada tanto em nível pessoal, como organizacional.
+
+b) Quanto à proposta
+
+A proposta apresentada – processo de inteligência competitiva com base na Internet – considerou:
+
+1 – a estratégia de atuação da organização;
+
+2 – a definição das informações estratégicas;
+
+3 – a identificação de fontes na Internet que atendam a estas informações estratégicas;
+
+4 – a aplicação de agentes inteligentes no monitoramento das fontes de informação na Internet.
+
+A proposta resultou em um processo de fácil aplicação e operacionalizável por qualquer organização. Esse processo se baseia nos pontos fundamentais para a atuação das organizações no paradigma atual, como já colocado. Isto significa uma inter-relação de análises que vai desde o autoconhecimento organizacional, até a análise das informações para gerar conhecimento externo. No entanto, a delimitação deste estudo foi até o processo de coleta das informações externas, no caso na Internet (figura 3).
+
+c) Quanto aos resultados
+
+As organizações abordadas no estudo são distintas, tanto em suas estruturas quanto em seus objetivos. Por isso, é importante salientar os resultados gerais, que, no entender desta pesquisadora, emergem desses estudos de caso:
+
+– o processo é genérico e aplicável a qualquer tipo de organização;
+
+– a abordagem alerta para a necessidade da manutenção da competitividade. Existe uma tomada de consciência para a necessidade de formalização dos procedimentos. As organizações, especialmente as pequenas e médias, ou as organizações sem fins lucrativos, gerenciam seus negócios de maneira informal;
+
+– acredita-se que um fator facilitador da abordagem é a clareza dos conceitos que permeiam o processo de inteligência competitiva, repassados pela pesquisadora às organizações. Isto é, o entendimento de como esse processo, quando se torna efetivo operacionalmente, pode levar à vantagem competitiva. Efeitos desse entendimento:
+
+• passa-se a entender a necessidade de uma atuação da organização com base na informação;
+
+• passa-se a considerar o uso sistematizado da Internet para a obtenção de informações estratégicas como vantagem competitiva.
+
+Limitações e sugestões
+
+Quanto ao escopo:
+
+– Limitações: o estudo não abrangeu o processo de inteligência competitiva no seu todo. A análise das informações que vão gerar o conhecimento externo não foi contemplada.
+
+– Sugestões:
+
+– estudos de técnicas de análise das informações provenientes da Internet, para levar ao conhecimento externo;
+
+– processos de como a informação se transforma em conhecimento e leva à tomada de decisão a partir do processo de inteligência competitiva, considerando a Internet dentro de uma organização;
+
+– processos de como introduzir e incorporar o conceito de inteligência competitiva na Internet, na cultura organizacional.
+
+Quanto ao processo proposto:
+
+– levantamento da estratégia de atuação: deve ser realizado por meio de reuniões tipo planejamento estratégico. Neste estudo, esse procedimento foi atendido apenas no IGTI. Ficou, para as outras organizações, como uma amostra dos resultados que podem ser melhorados a partir do levantamento por meio dessas reuniões. A sugestão é para que esse levantamento envolva toda a organização, ou representantes de todas as áreas da organização. Neste sentido, sugerem-se reuniões sobre planejamento estratégico;
+
+– levantamento para o mapa informacional – a situação foi a mesma colocada no item anterior;
+
+– rotina de procedimentos – não foi apresentada uma rotina de procedimentos que incluiria o acompanhamento do monitoramento efetuado pelos agentes inteligentes. A sugestão é estabelecer rotinas que possam acompanhar todo o processo. Isso só será possível, no entender desta pesquisadora, a partir da operacionalização do processo. Esse processo é diferente para cada organização: o acompanhamento das fontes de informação; o acompanhamento dos resultados do monitoramento pelos agentes inteligentes; a disseminação da informação aos interessados e o acompanhamento do uso da informação;
+
+– mapa informacional – não apresentou a relação entre as fontes e as áreas de interesse, isto é, quais informações poderiam ser extraídas de cada fonte, e a quem elas seriam dirigidas. Sugere-se o estabelecimento dessa relação, o que também, entende-se, só se efetivará após a operacionalização do processo. Enfatizamos ainda que é necessário fazer uma análise cuidadosa de cada fonte;
+
+– a definição de produtos ou serviços a partir dos resultados de monitoramento: também não foi apresentada essa definição. Isso só será possível após a operacionalização do processo.
+
+Essas limitações são, portanto, decorrência da apresentação de uma proposta conceitual de um processo que não contempla a implementação. O processo, apesar de genérico, deverá apresentar resultados de acordo com as características e necessidades de informação de cada organização.
+
+
+
+CONSIDERAÇÕES FINAIS
+
+Pelos resultados da abordagem nas organizações arroladas no estudo e pelo conhecimento notório da falta de formalização nas organizações brasileiras, especialmente as pequenas e médias, infere-se que a maioria das organizações ainda não se insere no paradigma de organizações que têm como base a informação e, em conseqüência disso, no conceito de organização de aprendizagem.
+
+O inter-relacionamento dos conceitos informação – inteligência – conhecimento e aprendizagem, acredita-se, ainda está por acontecer nas organizações brasileiras. Sem a consideração da informação como ponto básico, ou seja, a informação na medida exata das necessidades da organização, esse inter-relacionamento não acontece.
+
+Portanto, a afirmação de Tyson (1999) de que estamos saindo da era da informação para uma era de inteligência e que poucas organizações se deram conta disso pode ser sintetizada na idéia de que muitas organizações não entraram ainda na era da informação.
+
+No entanto, se a organização se coloca nesse novo paradigma organizacional, que considera informação como o centro da sua atividade, a gestão da informação aparece como um campo amplo. Para tal, torna-se fundamental a figura do gestor informacional. É importante ressaltar o papel desse gestor, que será mais do que um elo entre a informação e a organização. Ele deverá possuir competências como as colocadas por Davenport (1998):
+
+– compreensão abrangente da área de atuação e conhecimento da estrutura e da função da organização;
+
+– conhecimento sobre as diferentes fontes de informações para a organização;
+
+– facilidade de acesso a tecnologias de informação;
+
+– entendimento político associado à habilidade para exercer liderança;
+
+– fortes qualificações para relações interpessoais;
+
+– expressiva orientação para o conjunto do desempenho do negócio, em vez de submissão a objetivos funcionais da organização.
+
+Neste sentido, o gestor informacional deverá ser o incentivador do comportamento e da cultura informacionais, que deverão se estabelecer nas organizações, considerando o novo paradigma baseado na informação. Deverá dinamizar o uso da informação em toda a organização, não permitindo, dessa forma, que ela perca a perspectiva da informação, tendo em vista a manutenção da sua estratégia competitiva.
+
+Além disso, o gestor informacional deverá moldar os mapas informacionais de acordo com as reais necessidades de informação da organização e baseado na sua atuação. Esse gestor, também, estará exercendo a função de "filtro" para otimizar o uso da informação, sem sobrecarregar os seus outros membros, encarregados do "fazer organizacional".
+
+Finalmente, é função do gestor informacional manter a visibilidade do mapa informacional para toda a organização. Essa visibilidade, presume-se, incentiva o comportamento e a cultura informacionais. Cuidados esses aspectos, a inteligência organizacional estará garantida. Essa não é uma tarefa fácil, tendo em vista o tradicional comportamento de informalidade gerencial das organizações. Está aí, portanto, um campo de trabalho aberto aos profissionais da informação.
+
+O processo de inteligência competitiva, entendido aqui, tem como objetivo último a recuperação da informação relevante (estratégica), para um perfil de necessidades específicas de informação (de acordo com a estratégia de atuação da organização), em fontes disponíveis na Internet, com o monitoramento contínuo feito por agentes inteligentes.
+
+Diante do assoberbamento informacional a que todos estão sujeitos, Meadows (1999), discorrendo sobre recuperação da informação, afirma que, se ela não for altamente personalizada, isto é, em nível e conteúdo certos, e disponível imediatamente, os usuários não terão como se aprofundar nas suas áreas de interesse. O autor aponta essa questão como uma das mais importantes a serem dirimidas no século XXI, usando a indagação de T.S. Eliot (1969): "Onde está o conhecimento que perdemos na informação?" (Meadows, 1999, p.244)
+
+
+
+REFERÊNCIAS
+
+BAWENS, M. Searching the net for business information. Business Information Review, v. 13, n. 2, Jun. 1996. 
+
+BARRETO, A. A eficiência técnica e econômica e a viabilidade de produtos e serviços de informação. Ciência da Informação, Brasília, v. 25, n. 3, 1996. 
+
+BATES. M. E. et al. Super searches do business: the online secrets of top business researchers. Medford : CyberAge Books, 1999. 
+
+BORGES, M. E. N.; CARVALHO, N. G. M. Produtos e serviços de informação para negócios no Brasil. Ciência da Informação, Brasília, v. 27, n. 1, p. 76-81, jan./abr. 1998. 
+
+BOURESTON, J. Using intelligent agents for competitive intelligence. Competitive Intelligence Magazine, v. 3, n. 1, Jan./Mar. 2000. Disponível em: <http://www.scip.org/news/cimagazine.html>. Acesso em: 12 mar. 2000. 
+
+BUCHWITZ, L. Monitoring competitive intelligence using Internet push technology. [S. l. : s. n.], 1998. Disponível em: < http://tor-pwl.attcanada.ca/~lillyb/CI_paper.html>. Acesso em: 12 out. 2000. 
+
+BURWELL, H. et al. Online competitive intelligence: increase your profits using cyber-intelligence. Tempe : Facts on Demand, 1999. 
+
+CARVALHO, H. G. Inteligência competitiva tecnológica para PMEs através da cooperação escola-empresa: proposta de um modelo. 2000. 322 f. Tese (Doutorado em Engenharia de Produção) - Departamento de Engenharia de Produção e Sistemas, Universidade Federal de Santa Catarina, Florianópolis, 2000. 
+
+CENSOWARE Project. Disponível em: <http://censorware.org/web_size>. Acesso em: 23 set. 2000. 
+
+DAVENPORT, T. H. Ecologia da informação: por que só a tecnologia não basta para o sucesso da informação. São Paulo : Futura, 1998. 
+
+FULD, L. M. New competitor intelligence. [S. l.] : John Wiley, 1995. 
+
+_______. What competitive intelligence is and is not! Disponível em: <http://www.fuld.com/whatCI.html>. Acesso em: 5 dez. 1999. 
+
+GRAEF, J. L. Using the Internet for competitive intelligence. CIO Magazine, 1995. Disponível em: <http://www.cio.com/CIO/arch_0695_cicolumn.html>. 
+
+HERRING, J. P. Key intelligence topics: a process to identify and define intelligence needs. Competitive Intelligence Review, v. 10, n. 2, 1999. Disponível em: <http://www.scip.org/news/cireview.html>. Acesso em: 24 set. 2000. 
+
+KLEIN, C. The risks in depending solely on the Internet for CI research. Competitive Intelligence Magazine, v. 2, n. 3, July./Sept. 1999. Disponível em: <http://www.scip.org/news/cimagazine.html>. Acesso em: 24 set. 2000. 
+
+LAWRENCE, S.; GILES, C. L.. Accessibility of information on the web. Nature, v. 400, n. July 1999. 
+
+LESCA, H. et al. Como produzir um senso útil para as ações dos dirigentes. READ, v. 2, n. 2, Nov. 1996. Disponível em: <www.ppga.ufrgs.br/read/read03/artigo/freitas.htm>. 
+
+LYNCH, C. Searching the Internet. Scientific American, Mar., 1997. Disponível em: <http://www.sciam.com/0397issue/0397lynch.html>. Acesso em: 12 ago. 1999. 
+
+McGEE, J.; PRUSAK, L. Gerenciamento estratégico da informação: aumente a competitividade e a eficiência de sua empresa utilizando a informação como uma ferramenta estratégica. Rio de Janeiro : Campus, 1994. 
+
+McGONAGLE, J. J.; VELLA, C. M. The Internet age of competitive intelligence. Westport : Quorum, 1999. 
+
+MALHOTRA, Y... Information knowledge & wisdow: whose concerns? [S. l. : s. n.], 1998. Disponível em: <www.brint.com/wwwboard/messages/1851.html> . 
+
+MEADOWS, A. J. A comunicação científica. Brasília : Briquet de Lemos, 1998. 
+
+MICHEL, J. Veille informative, veille strategique, intelligence economique: un nouveau pouvoir dans les enterprises. Disponível em: <http://wwwparis.enpc.fr/~michel-j/publ/JM306.html>. Acesso em: 05 dez. 1999. 
+
+MILLER, J. P. Millennium intelligence: understanding and conducting competitive intelligence in the digital age. Medford : Information Today, 2000. 
+
+McGONAGLE, J. J.; VELLA, C. M. The Internet age of competitive intelligence. Westport : Quorum, 1999. 
+
+PORTER, M. Estratégia competitiva. 9. ed. Rio de Janeiro : Campus, 1991. 
+
+_______. Vantagem competitiva. 7. ed. Rio de Janeiro : Campus, 1992. 
+
+PRADO, N. S.. Intranet: recurso estratégico para a tomada de decisão - o caso da Dígitro Tecnologia Ltda. 1999. 145 f. Dissertação (Mestrado em Administração) - Centro de Ciências da Administração, Universidade do Estado de Santa Catarina, Florianópolis, 1999. 
+
+PRAHALAD, C. K.; HAMEL, G. The core competence. Harvard Business Review, May/June, 1990. 
+
+REVELLI, C. Intelligence stratégique sur Internet. Paris : Dunod, 1999. 
+
+SILVA, H. P. Inteligência competitiva na Internet; proposta de um processo. 2000. 185 f. Tese (Doutorado em Engenharia de Produção) - Departamento de Engenharia de Produção e Sistemas, Universidade Federal de Santa Catarina, Florianópolis, 2000. 
+
+SILVA, H. P..; ABREU, A. F.. Inteligência Competitiva na Internet. In: WORKSHOP INTELIGÊNCIA COMPETITIVA E GESTÃO DO CONHECIMENTO E DA TECNOLOGIA, 2, 2001. Anais. Florianópolis: IEL, 2001. CD-ROM. 
+
+SILVA, H. P.; THIRY, M.; ABREU, A. F. Monitoramento automatizado na Internet: uma resposta ao desafio de melhores serviços a custos baixos para as bibliotecas universitárias. In: SEMINÁRIO NACIONAL DE BIBLIOTECAS UNIVERSITÁRIAS, 11., 2000. Anais... Florianópolis : UFSC, 2000. CD-ROM. 
+
+TEIXEIRA FILHO, J. A Internet como elemento de competitividade. Insight Informal, n. 8, 1998. Disponível em: <http://www.informal.com.br/insight/insight08.html>. Acesso em: 08 nov. 1999. 
+
+_______. Uso de inteligência competitiva em diferentes países. Insight Informal, n. 33, 2000. Disponível em: <http://www.informal.com.br/insight/insight.htm>. Acesso em: 28 jan. 2000. 
+
+THIRY, M. Uma arquitetura baseada em agentes para suporte ao ensino a distância. 1999. Tese (Doutorado em Engenharia de Produção)- Departamento de Engenharia de Produção e Sistemas, Universidade Federal de Santa Catarina, Florianópolis, 1999. 
+
+TYSON, Kirk. The complete guide to competitive intelligence. Chicago : Kirk Tyson International, 1998. 
+
+_______. Perpetual strategy: a 21st. century essential. [S. l. : s. n.], 1999. Disponível em: <http://strategis.ic.gc.ca?SSG/mi06460e.html>. Acesso em: 23 jan. 2000. 
+
+VIEIRA, A. S.. Conhecimento como recurso estratégico empresarial. Ciência da Informação, Brasília, v. 22, n. 2, p. 99-101, maio/ago. 1993. 
+
+_______. Monitoração da competitividade científica e tecnológica dos estados brasileiros; um instrumento de macropolítica de informação. Ciência da Informação, Brasília, v. 28, n. 2, p. 174-189, maio/ago. 1999. Disponível em: <www.ibict.br/cionline>. 
+
+VINE, D. Internet business intelligence: how to build a big company system on a small budget. Medford : CyberAge, 2000. 
+

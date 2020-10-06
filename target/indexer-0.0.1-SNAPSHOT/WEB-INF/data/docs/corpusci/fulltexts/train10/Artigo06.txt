@@ -1,0 +1,243 @@
+O Tesauro Eletrônico do Mundo do Trabalho: produto de um esforço interdisciplinar
+
+
+
+Resumo: O presente artigo relata a implementação, de uma ferramenta para o gerenciamento do Tesauro Eletrônico do Mundo do Trabalho, criado para a Unitrabalho, uma fundação voltada a pesquisas acadêmicas sobre o trabalho, agregando 84 universidades brasileiras. A ferramenta é constituída de duas interfaces: uma para consulta e navegação e outra para gerenciamento. Esta atividade foi realizada por uma equipe interdisciplinar, do ponto de vista da Interação Humano-Computador, buscando alternativas para o diálogo entre dois universos: o dos profissionais da Ciência da Informação e o dos profissionais da Ciência da Computação.
+
+Palavras-chave: Tesauro Eletrônico; Mundo do Trabalho; Recuperação da Informação; Interface de Consulta; Sistema de Informação; Interdisciplinaridade; Interação Humano-Computador (IHC)
+
+
+
+1. Introdução
+
+O profissional da Ciência da Informação, especialmente nesta última década, está sendo atingido por uma exigência crescente de conhecer, utilizar e administrar habilidades e recursos próprios das Novas Tecnologias da Informação: hardware e softwares diversos, diferentes tipos de redes de informação e seus respectivos protocolos, e produtos como catálogos eletrônicos on e offline, bases de dados hipertextuais, etc..
+
+Estas novas tecnologias, amparadas pela Ciência da Computação, estão demandando a criação de equipes multidisciplinares e a colaboração entre Unidades de Informação (como Bibliotecas) e os Centros de Processamento de Dados, Laboratórios de Informática ou seus equivalentes (VANDER, 1997; MERKLE, 2000). É natural, portanto, que a pesquisa atual em Interação Humano Computador (IHC) aponte claramente para a necessidade de uma perspectiva multidisciplinar no desenvolvimento de sistemas interativos, integrando métodos, teorias e diferentes áreas do conhecimento (Pimenta, 1997).
+
+Antes disso, na maioria dos casos, os profissionais das áreas sociais e humanas necessitavam da intermediação dos informatas (engenheiros e técnicos), que intermediavam a comunicação com a máquina (MACHADO, 1993), na implementação de projetos ligados a estas áreas. Havia a tradicional separação entre ciências humanas e exatas. Até recentemente, a própria expressão "ciências humanas" não existia e nossa cultura dividia o mundo em duas áreas incompatíveis: as "ciências" e as "humanidades".
+
+
+
+
+
+2. Criação do Sistema de Informação da Rede Unitrabalho
+
+Criada em 1995, a Unitrabalho tem como missão oficial contribuir para o resgate da dívida social que as universidades brasileiras têm para com os trabalhadores. Esta missão se concretiza por meio da parceria em projetos de estudos, pesquisas e capacitação. Isso ocorre porque, em primeiro lugar, essas instituições têm um papel social a cumprir: o de buscar soluções para os problemas reais das comunidades nas quais estão inseridas e, num plano mais amplo, para os problemas nacionais. Em segundo lugar, porque as instituições universitárias sólidas e que absorvem as questões do mundo do trabalho no seu 'pensar' e 'fazer' acadêmicos podem contribuir com mais propriedade, consistência e efetividade para a solução dos problemas sociais do nosso país. Além de contribuir para o fortalecimento das organizações sociais relacionadas com o mundo do trabalho, a Unitrabalho também busca o fortalecimento das instituições de ensino superior a ela associadas. Em 1997 a Fundação Unitrabalho, que agrega atualmente 84 universidades e instituições de ensino superior de todo o Brasil, criou uma parceria especial com a UFRGS para implementar seu Sistema de Informação e Banco de Dados.
+
+O Sistema de Informação desenvolvido para esta instituição disponibiliza, entre outras coisas, uma base de dados com interface amigável que permite aos pesquisadores das diversas universidades brasileiras cadastrar diretamente sua produção acadêmica sobre o tema Trabalho. Esta interface foi, em um primeiro momento, um instrumento de coleta de dados, onde cada pesquisador pôde inserir os seus dados pessoais, a informação do tipo de vínculo que mantém com o núcleo de pesquisa dentro da universidade onde atua e, acima de tudo, o registro de cada uma das suas produções científicas relacionadas ao mundo do trabalho. Foi necessário prever, neste sistema, os campos adequados para a coleta de cada tipo de informação: pesquisador, núcleos
+
+e produção científica. Em se tratando desta última, por exemplo, os campos variavam de acordo com o tipo de documento a ser inserido no banco (livro, capítulo de livro, dissertação e tese, artigo de periódico, trabalho em evento, relatório de pesquisa, etc.).
+
+Num segundo momento, depois dos dados coletados e devidamente revisados, esta informação armazenada ficou disponível no banco para ser consultada pelo público interessado. Para tornar possível a recuperação desta informação foi criada a interface de consulta, composta por um conjunto de campos a serem preenchidos pelo usuário que poderiam ser dinamicamente combinados através de conectores lógicos booleanos. Os usuários do banco podiam, com este recurso, recuperar as informações referentes a produção acadêmica por nome de autor, título ou assunto do documento. Todo o sistema foi desenvolvido pela equipe do Centro de Informação em Ciência & Tecnologia do Instituto Latino-Americano de Estudos Avançados da Universidade Federal do Rio Grande do Sul, composta por dois profissionais da Ciência da Computação, dois profissionais da Ciência da Informação e um Designer para a programação visual da interface, coordenados por um profissional da área de Tecnologia e Mídia.
+
+
+
+
+
+3. O Gerenciador de Tesauro do Sistema de Informação da Rede Unitrabalho
+
+3.1 A necessidade de um tesauro
+
+A recuperação por autor e título não teria nenhum problema neste sistema, desde que os dados fossem digitados corretamente. Porém, para a recuperação por assunto, sentiu-se a necessidade da padronização dos descritores, já que cada pesquisador ao inserir as informações de sua produção, no campo "palavras-chave" ingressava com os termos que julgava mais apropriados, sem seguir nenhuma norma. Foi neste momento que se pensou em criar um vocabulário controlado para a escolha, hierarquização e padronização dos termos na área do Trabalho. A necessidade de normalizar o ingresso das palavras-chave para a recuperação correta dos documentos foi o que motivou a equipe a se dedicar ao desenvolvimento de um tesauro[1] eletrônico sobre o tema. Para tanto, foi necessário buscar algum tipo ferramenta semelhante já existente que servisse de modelo para a criação da nossa. Encontramos o Tesauro da OIT ­ Organização Internacional do Trabalho, publicação impressa sobre a área que traz os termos hierarquicamente organizados em francês, inglês e espanhol. Com base neste instrumento, com as adaptações necessárias, e aproveitando as palavras-chaves sugeridas pelos pesquisadores da área, iniciou-se a montagem de um tesauro eletrônico na área do Trabalho disponível para consulta no próprio banco.
+
+
+
+
+
+3.2 A questão da recuperação da informação
+
+A preocupação em construir uma interface de manipulação direta para o tesauro nasceu da necessidade do profissional da área de informação em interagir com o sistema e poder, desta forma, inserir e atualizar, com independência e velocidade, termos indispensáveis para a adequada recuperação da informação coletada, em um primeiro momento, por meio do cadastro de obras alimentado pelos próprios pesquisadores da Rede.
+
+Vários fatores indicavam a necessidade de se ter um instrumento de controle de termos utilizados para indexar os documentos arrolados no Banco. O mais importante deles era o monitoramento constante, por profissionais com domínio da área, do item "palavras-chave", que é preenchido pelo autor de cada produção. As palavras-chave ali colocadas eram analisadas e padronizadas pelas especialistas na área da indexação (bibliotecárias), uma vez que o autor costumava expressar o conteúdo de sua produção através do uso da linguagem natural dos documentos, não tendo nenhum tipo de controle dos termos utilizados (mesmo porque essa tarefa não é fácil e exige conhecimentos técnicos especializados para realizá-la).
+
+No princípio, tinha-se em mente utilizar o próprio Tesauro da Organização Internacional do Trabalho (OIT) como instrumento de controle e recuperação dos dados. Entretanto, mediante estudos avaliativos, verificou-se que o mesmo não contemplava todas as especificidades da área abrangida pelo banco e seria muito mais produtivo confeccionar um instrumento que atendesse as necessidades pontuais e imediatas de padronização e controle dos dados específicos do banco (com suas diferentes bases).
+
+O Tesauro foi, portanto, concebido como uma ferramenta integrada ao sistema de consulta, permitindo a realização de expansões nas buscas de obras e minimizando as chances de buscas sem retorno. Exemplificando, caso o usuário busque obras que tenham como assunto "Condições de Trabalho", então todos os subtermos relacionados com este, cadastrados previamente no Tesauro pela bibliotecária responsável, tais como "Condições Dificeis de Trabalho" e "Local de Trabalho" serão incluídos como termos de pesquisa.
+
+A ferramenta Tesauro foi dividida em uma interface de gerenciamento (de uso interno) e visualização (para auxílio à navegação), além de um módulo com uma interface dirigida à consulta. A interface de gerenciamento permite ao responsável manipular com facilidade o Tesauro, inserindo, removendo ou editando novos termos e criando ou alterando seus relacionamentos. A de consulta permite aos pesquisadores (via web) realizar uma recuperação eficiente da informação.
+
+Normalmente os tesauros impressos utilizam as seguintes hierarquias de termos: o termo genérico - Broader Term (BT) - com a sua descendência de termos específicos - Narrower Term (NT) - com as suas ligações com termos relacionados - Related Term (RT) - e com os termos cujo uso é recomendado - Used (USE) - ou termos que substituem outros - Used for (UF). Cada termo pode ainda ser classificado pela área temática ­ Subject -, à qual ele pertence (SG), pelo eventual delimitador - Delimited by (DG) - e por uma eventual nota explicativa do conceito - Scope Note (SN) -, quando necessário, como pode ser visualizado no exemplo abaixo à esquerda:
+
+mulheres chefes de família
+
+SN
+
+Usado preferencialmente a "mães chefes de família" por qualificar uma situação genérica de responsabilidade integral pela família seja esta constituída por filhos, pais, agregados ou todos juntos.
+
+
+
+SG
+
+Ciências Sociais e Cultura
+
+UF
+
+mães solteiras
+
+BT
+
+chefes de família
+
+RT
+
+articulação trabalho/família
+
+divórcio
+
+domicílios chefiados por mulheres
+
+famílias monoparentais
+
+
+
+
+
+No Tesauro Eletrônico do Mundo do Trabalho, a interface do gerenciador é apresentada como se vê acima à direita, onde os termos ou conceitos são relacionados, utilizando-se a seguinte nomenclatura traduzida do inglês: Termo Geral (TG), com a sua descendência de Termos Específicos (TE), com as suas ligações com Termos Associados (TA), e com os termos cujo uso é recomendado (USAR) ou termos que substituem outros Usar Para (UP). Era importante que o aplicativo fosse criado de modo que o resultado, automaticamente mostrado na tela, preservasse o design desenvolvido pelos planejadores visuais envolvidos no projeto e que tais categorias e relações ficassem bem explicitadas. A equipe decidiu, por exemplo, que os termos gerais e específicos, ao aparecerem na tela do gerenciador, seriam representados pelos números 1 e 2, mostrando o nível de aprofundamento do termo dentro da hierarquia. E ainda o zero que representa a área temática à qual o termo pertence.
+
+
+
+
+
+4. Interface do Tesauro (geral)
+
+4.1 Aspectos inicias do projeto
+
+Como é sabido, a visualização da informação e, no caso deste Tesauro, a visualização dos metadados sobre os diferentes assuntos englobados pela área do Trabalho, provêm um modelo lógico, numa escala manipulável (YEE, 1997), através do qual a navegação e a recuperação de dados mais complexos pode ser executada. A visualização é uma parte importante de uma série de tarefas. Mesmo os sistemas de hipertexto, com conteúdo de natureza inteiramente textual, apoiam-se em representações visuais para navegação e orientação (NIELSEN, 1990). Esta visualização ajuda a entender e administrar grandes volumes de informações, razão pela qual as bases e os bancos de dados são os candidatos naturais para estratégias de visualização de dados (CARD et. al., 1991), permitindo ao pesquisador, por exemplo, entender a natureza global de um problema e explorar seus diferentes componentes (NIELSON, 1989), desenvolvendo estratégias e procedimentos mais adequados. Como a recuperação de dados é um processo extremamente interativo, a correta representação dos assuntos englobados pela base e de suas inter-relações permite administrar a complexidade e a amplitude dos dados, tanto do ponto de vista do usuário final quanto do profissional da ciência da informação encarregado da indexação dos documentos na base.
+
+A reunião dos diferentes membros da equipe (designer, bibliotecários e o pessoal da área de computação) era uma atividade diária, onde a questão da visualização estava em permanente discussão. Desta maneira, em um primeiro momento, a tarefa ficava simplificada. O diálogo entre os diferentes membros, ainda que evidenciasse diferentes prioridades e backgrounds, centralizava-se na necessidade de garantir a usabilidade do sistema. O conceito de usabilidade aqui mencionado era uma ligeira variação do de Nielsen (1993). Certamente seria um sistema orientado ao usuário, que apresentasse facilidade de manipulação, rapidez na realização de tarefas, baixa taxa de erros, satisfação subjetiva, etc., mas somava-se a uma preocupação estética acentuada, além da orientação funcional. Esta preocupação estética estendia-se às duas interfaces previstas para o desenvolvimento do projeto: a de consulta e a de gerenciamento, sendo que na primeira, em maior nível, uma vez que era a única "pública" das duas. Outra preocupação importante era a de manter uma certa "unidade visual" entre ambas, uma homogeneidade na concepção e no desenvolvimento, o que facilitaria a tarefa das bibliotecárias, mantendo a familiaridade com o ambiente do sistema. E, à medida em que as aplicações estavam sendo implementadas, ambas as interfaces eram permanentemente beta-testadas pelo resto da equipe e por grupos de usuários potenciais.
+
+
+
+
+
+4.2 Aspectos Gerais de Implementação da Ferramenta de Gerenciamento
+
+A interface implementada para esta ferramenta intermediava, portanto, a interação de usuários com um banco de dados, no qual são armazenados termos e relacionamentos pertencentes ao Tesauro. O gerenciador de banco de dados utilizado na implementação do Gerenciador do Tesauro, foi o Oracle 8, bastante conhecido, utilizado comercialmente e em aplicações de Internet. Junto com Oracle 8, foi adquirido, também, o módulo Context, o qual adiciona capacidades especiais ao gerenciador de banco de dados, como o armazenamento e indexação de documentos e a construção de tesauros.
+
+Normalmente, as atividades de manutenção associadas aos recursos para tratamento de documentos no Oracle 8 são realizadas por um administrador com conhecimentos específicos em banco de dados. Na execução destas tarefas, o administrador utiliza-se das mesmas ferramentas empregadas na execução de tarefas tradicionais de administração de banco de dados. Uma destas ferramentas é um "modo interativo de SQL", uma janela através da qual podem ser enviados diretamente comandos textuais ao gerenciador de banco de dados. Por exemplo, a criação de um novo tesauro se parece, no modo interativo, com:
+
+SQL*Plus: Release 8.0.4.0.0 - Production on Wed Jun 6 16:37:58 2001
+
+Connected to:
+
+Oracle8 Release 8.0.4.0.0 - Production
+
+SQL> exec ctx_thes.create_thesaurus('unitrabt');
+
+PL/SQL procedure successfully completed.
+
+SQL>
+
+Esta linguagem, tanto a do Oracle aqui descrita quanto a de outras interfaces de comando, naturalmente torna o profissional de outras áreas dependente do da Ciência da Computação. Outra forma, porém, através da qual é possível a interação com o gerenciador de banco de dados é a construção de programas ou procedimentos para a manipulação de dados. Os procedimentos construídos através de uma "linguagem de programação" permitem agregar conjuntos de instruções que, após executados, realizam alguma tarefa específica. A linguagem nativa do Oracle 8 para a construção de procedimentos é a PL/SQL. A procedimentos podem estar associadas interfaces de alto nível, como foi o caso do Gerenciador do Tesauro. O Gerenciador do Tesauro foi implementado sobre uma arquitetura de três camadas (SHAW, 1996; CHAFFEE 200). Esta arquitetura divide uma aplicação em três níveis, os quais são a interface visual e lógica da aplicação e o armazenamento dos dados. O esquema a seguir tenta representar o funcionamento do Gerenciador do Tesauro, em função desta arquitetura.
+
+
+
+
+
+No esquema anterior, os usuários acessam, através de um browser em um cliente, páginas HTML em um servidor. As páginas HTML representam a interface visual da aplicação, através da qual o usuário interagirá com os procedimentos para manipulação do tesauro. Os procedimentos (lógica da aplicação) são selecionados e executados no servidor. Os procedimentos acessam e atualizam a base de dados, na qual são armazenadas as informações estruturais sobre o Tesauro e geram dinamicamente páginas HTML em resposta as solicitações do usuário.
+
+As páginas HTML são a camada de entrada de informações para o banco de dados, através da metáfora utilizada. Na medida em que as páginas são acessadas e os links e botões ativados, procedimentos específicos são disparados para incluir novos termos, alterar ou remover termos existentes ou para navegação através de hierarquias.
+
+Além de armazenar as informações sobre frases e relacionamentos utilizadas pelo módulo Context, os procedimentos também atualizam informações utilizadas especialmente na construção da representação do tesauro na interface. Desta forma, foi possível desenvolver uma interface que garantisse a autonomia da consulta e do gerenciamento do Tesauro, adaptada às necessidades e expectativas de seus potenciais usuários (DIX, 1998).
+
+
+
+
+
+5. Interface do Tesauro: detalhes específicos
+
+5.1 A metáfora
+
+Do ponto de vista do design gráfico, a metáfora do "mundo real" escolhida para a implementação do próprio tesauro é a mesma da ferramenta de gerenciamento: foi a de "mergulhar num oceano de informações". Lembramos que as interfaces de consulta e do gerenciador não eram exatamente iguais mas semelhantes, sendo que esta última era uma versão simplificada e apenas para uso interno.
+
+Por esta razão, o nível mais "alto", o de Termos Gerais (TG), é representado graficamente por um farol (que ilumina a área) na interface de consulta e pela cor azul bem claro (em ambas) e pelo número zero, na de gerenciamento. Para o nível seguinte, o de "Palavras (ou Expressões) Chave", também chamado de "Termos Específicos" (TE), foi escolhida a imagem de uma bóia e um azul um pouco mais escuro para ambas e o número um para a do gerenciador. O próximo nível, de "Termos Associados" (TA), foi representado por um mergulhador com um "snorkel" de um azul um pouco mais escuro ainda para ambos e o número dois para a de gerenciamento.
+
+O nível final, na interface de consulta, por um escafandrista e um tom de azul bem escuro em ambas. Desta maneira, a "sensação" de mergulhar (e de busca e "descobertas") até diferentes níveis de profundidade neste "oceano de informações" ficava graficamente indicada. A escolha de ícones familiares, apropriados e coerentes é constantemente enfatizada por diversos autores, entre eles Valiati (2000), Marcus (1992), Apple (1992) e Cybis (1994). A simplicidade minimalista no design (evitando muitos detalhes ou cores), a consistência, coerência e similaridade visual, também são recomendações persistentes da área de IHC.
+
+
+
+
+
+5.2 A interface de consulta (visualização)
+
+No Tesauro, à medida em que o usuário progride em seu "mergulho", dois menus, expressos por hierarquias visuais diferentes, reforçam-se mutuamente. Tais menus foram construídos pensando nas recomendações existentes em IHC de minimizar a possibilidade de erros e guiar os usuários sem exigir o "treinamento ou memorização de complexas sequências de comandos" (VALIATI, 2000).
+
+o A primeira, mais específica, é textual e espacial também, uma vez que a trilha ou o mergulho percorrido vai sendo mostrado por uma lista hierárquica de palavras selecionadas, cada uma com uma indentação maior, que atende a questão da "familiaridade" da convenção utilizada.
+
+o A segunda, e mais genérica, é a dos níveis, indicados de 3 maneiras na base da tela: pelos ícones percorridos sobre uma faixa de azul progressivo; pelos tons de azul que vão se montando na barra e pelo texto que aparece sobre as barras azuis, indicando a hierarquia dos termos percorridos.
+
+
+
+
+
+Ambos menus possuem total navegabilidade. Os ícones da segundo menu são "ilumináveis", providenciando o feedback ao sinalizar assim seu estado potencialmente ativo. Tanto um menu quanto o outro permitem a navegação entre termos e níveis, atendendo a recomendações de apresentar menus em diferentes formatos, dependendo das necessidades do usuário (MAYHEW, 1992) e do contexto. A tela também oferece, em qualquer um destes momentos, a opção de recuperar a produção científica da base conectada ao Tesauro. O controle do vocabulário da base, desta maneira, funciona harmoniosamente com a recuperação potencial a partir de qualquer uma das telas da interface de consulta. Os estados de ativo e inativo das opções disponibilizadas (Cybis, 1994) estão claramente representados, sendo que os últimos não podem ser alvo de seleção, o que, traduzido para o tesauro, significa conter ou não mais termos subrelacionados.
+
+
+
+
+
+5.3 Interface de gerenciamento
+
+Os conceitos que guiaram a elaboração da interface de consulta refletiram-se na interface do gerenciador do tesauro. Na primeira tela, chamada de nível zero, ou a dos Termos Gerais (TG), as opções são "criar", "alterar" ou "remover os termos do menu, isto é, a lista que se apresenta na tela. Na parte inferior da mesma (ao lado do ícone do Tesauro, uma letra T maiúscula e negritada) existe um campo de texto para a inclusão do novo termo na lista. Esta é a primeira tela do gerenciador uma vez que a inclusão de termos é a ação mais freqüentemente realizada.
+
+
+
+
+
+Na tela de alteração de termos, como pode ser visto na imagem abaixo, além do campo aberto para a edição ou alteração do termo, existe também um campo fechado com a opção de preservação ou não do tipo do termo e de sua relação com o tópico. Ícones com números de zero a três, com ondas em diferentes tons de azul, do mais claro ao mais escuro, apontam o nível que está sendo trabalhado, informação esta reforçada pela faixa de cor azul como background na célula da tabela onde se encontra o último item da lista. Ao lado do campo aberto para edição ou alteração do termo, um T (o símbolo do Tesauro em toda a interface do banco) aparece mudando de um tom laranja para o azul escuro, reforçando também o conceito de "transformação, mudança, alteração".
+
+
+
+
+
+A tela de remoção de termos exige apenas a seleção do termo na lista construída para aquele nível, naquela trilha. Em todas as telas aparecem sempre, no alto, os links para as duas opções restantes, além daquela potencialmente executável naquele momento. A remoção do termo exige, também, uma confirmação em tela extra.
+
+
+
+
+
+6. Conclusão
+
+O Tesauro é uma ferramenta em permanente construção, já que novos termos em qualquer área do conhecimento surgem muito rapidamente, portanto ele deve estar sempre sendo atualizado.
+
+O Tesauro impresso só pode ser atualizado e ampliado na edição seguinte. O tesauro eletrônico, entretanto, tem a vantagem da atualização imediata, onde novos termos podem ser criados, removidos ou alterados pelo profissional da informação responsável pela sua alimentação e, no mesmo instante, os pesquisadores poderão inserir seus trabalhos com os termos adequados ou recuperar uma informação usando o termo certo, tendo a possibilidade de consultá-lo sempre na sua forma mais atual. Além disto ele permite visualizar, na medida em que o pesquisador escolhe um termo, todo o relacionamento deste termo com a área selecionada, garantindo indexação ou recuperação correta. A originalidade do Tesauro eletrônico não reside tanto no mero fato de ser eletrônico quanto no de ser um Tesauro dinâmico, numa área do conhecimento onde a expansão e a transformação são relativamente freqüentes.
+
+Os autores deste artigo reconhecem que os projetos de interfaces construídos por equipes interdisciplinares não são sempre uma panacéia ou à prova de erros, como bem observa MERKLE (2000). Entretanto, tais equipes, observando recomendações básicas da área de IHC, possuem maiores possibilidades de desenvolver produtos com uma usabilidade diferenciada. A satisfação das bibliotecárias envolvidas com a construção e o gerenciamento do Tesauro, bem como a dos usuários que beta-testaram a interface de consulta, foi uma constante.
+
+Certamente muitas questões necessitam ainda ser exploradas nesta área de interação entre computação e ciências humanas ou sociais-aplicadas. Na esmagadora maioria das universidades, a área de tecnologia está bem separada de muitos de seus produtos bem como de sua avaliação crítica. A primeira pertence à engenharia (e ciências afins) e as outras às humanidades. Os estudantes de engenharia não são convidados a estudar filosofia da engenharia. Nem os estudantes das ciências humanas, a conhecer o know-how tecnológico das ferramentas que utilizam ou criticam. Porém, a soma de esforços, como os da jovem área de IHC criando diálogos e parcerias entre profissionais de diferentes áreas e de equipes como a do Centro de Informação em Ciência e Tecnologia (CIC&T) do Instituto Latino-Americano de Estudos Avançados (ILEA) da Universidade Federal do Rio Grande do Sul (UFRGS) em parceria com a Fundação Unitrabalho que, mesmo sem um conhecimento sistemático ou profundo de IHC e levada pelo bom-senso e pelo desejo de desenvolver aplicações com usabilidade, são uma promessa de um futuro onde tais estudos se façam em todas as áreas do conhecimento envolvidas no desenvolvimento de aplicações computacionais, uma ferramenta, afinal, cada vez mais ubícua e proteana.
+
+
+Referências bibliográficas:
+
+BRUSCHINI, Cristina; ARDAILLON, Danielle; UBEHAUM, Sandra G. Tesauro para Estudos de Gênero e sobre Mulheres. São Paulo: Fundação Carlos Chagas, 2001.
+
+CARD, S. K.; MACKINLAY, J. D.; ROBERTSON, G. D. The Information Visualizer: an information workspace. Proceedings of Human Factors in Computing Systems (CHI '91), New York: ACM. 1992.
+
+CHAFFEE, Alex. JavaWorld: one, two, threeor n tiers. JavaWorld. Disponível em: <http://www.javaworld.com/javaworld/jw-01-2000/jw-01-ssj-tiers_p.html> Acesso em: 30 ago. 2001.
+
+CYBIS, Walter A. A Identificação dos Objetos em Interfaces Homem-Computador e de seus Atributos Ergonômicos.1994. Tese (Doutorado). Universidade Federal de Santa Catarina.
+
+DIX, A. Human-Computer Interaction. Prentice-Hall Europe. 1998.
+
+JOHNSON, Steven. Interface Culture - How Technology transform the way we create and communicate. NY: HarperCollins Publishers. 1997.
+
+LESTER, Yee; HSUE, Chag. A Visualization Architecture for Enterprise Information. CODATA Euro-American Workshop. Visualization of Information and Data: Where We Are and Where Do We Go From Here? 24-25 June 1997.
+
+MACHADO, Arlindo. Máquinas e Imaginário: o desafio das poéticas tecnológicas. São Paulo: Edusp. 1993.
+
+MERKLE, Luiz Ernesto. O Interagir Humano-Computacional: mapeando relações heterodisciplinares. DataGramaZero: Revista de Ciência da Informação, v.1, n.2 , abr. 2000. Disponível em:< http://www.dgzero.org/abr00/F_I_art.htm> Acesso em 04 jun. 2002.
+
+NIELSEN, J. Hypertext and Hypermedia. San Diego, CA: Academic Press. 1990.
+
+NIELSON, G. M. Visualization in scientific computing, IEEE Computer 22(8), 1989. p.10-11.
+
+PIMENTA, Marcelo S. Tarefa: une approche pour l'ingénierie des besoins des systèmes interactifs. Université Toulouse I ­ France. 1997.
+
+SHAW, Mary; GARLAND, David. Software Architecture: perspectives on an emerging discipline. Upper Sadle River: Prentice Hall, 1996.
+
+UNITRABALHO. Rede Unitrabalho. Disponível em: <http://www.unitrabalho.org.br > Acesso em 06 jun. 2001.
+
+VALIATI, Eliane R. de A. A elaboração e avaliação de um Guia de Recomendações para o auxílio no desenvolvimento de Interfaces com Usabilidade em Softwares Educacionais do tipo hipertexto/hypermídia Informativo. 2000. Dissertação (Mestrado em Comunicação e Informação) ­ Faculdade de Biblioteconomia e Comunicação, Universidade Federal do Rio Grande do Sul.
+
+VANDER MEER, Patrícia Fravel; POOLE, Howard; VAN VALLEY, Thomas. Are Library Users also Computer Users? A Survey of Faculty and Implications for Services. The Public-Access Services Computer Review, v. 8, no. 1. 1997. p. 6-31. Disponível em: <http://info.lib.uh.edu/pr/v8/n1/vand8n1.html> Acesso em: 05 jun. 2002.
+
